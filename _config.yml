@@ -1,5 +1,5 @@
 # Metadata
-title: "Necrosx' Purchase List"
+title: "Necrosx's Purchase List"
 favicon: assets/img/favicon.png
 description: A custom version of Toolkit's item list to support all the latest features of Utils.
 
@@ -11,7 +11,7 @@ github_username: 'Necrosx'
 # Item list settings
 #
 # A brief overview of the settings in this section include:
-store:
+store: 
 #   category    → Whether or not the item's in-game category willbe visible on the list.
 #   weight      → Whether or not the item's purchase weight will be visible on the list.
 #   karma       → Whether or not the product's karma type override will be visible on the list
@@ -22,7 +22,7 @@ store:
 #   stats       → Whether or not the list will display any stats the trait has.
 #   limit       → Whether or not the list will display when a trait can bypass the trait limit.
 #   description → Whether or not the list will display the trait's description.
-  traits:
+  traits: 
     conflicts: true
     stats: true
     karma: true
@@ -30,28 +30,28 @@ store:
     description: true
     usage: false
     mod: true
-  kinds:
+  kinds: 
     mod: true
     karma: true
     usage: true
-  items:
+  items: 
     category: true
     weight: true
     karma: true
     quantity: true
     mod: true
     usage: true
-  events:
+  events: 
     usage: true
     mod: true
-  animals:
+  animals: 
     usage: true
     mod: true
     weight: true
     quantity: true
     karma: true
 
-commands:
+commands: 
   # Whether or not the command list will display the command's shortcut disclaimer.
   shortcut: true
   # Whether or not the command list will display the command's required user level.
@@ -61,7 +61,7 @@ commands:
   # Whether or not the command list will display the mod that added it.
   mod: true
 
-mods:
+mods: 
   # Whether or not the mod list will display the mod's version.
   version: true
   # Whether or not the mod list will display the mod's author(s).
@@ -69,5 +69,5 @@ mods:
 
 # Build settings
 remote_theme: SirRandoo/Type-on-Strap
-plugins:
+plugins: 
   -
