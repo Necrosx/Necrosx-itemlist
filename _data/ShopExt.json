@@ -12847,7 +12847,7 @@
       "bypassLimit": true,
       "data": {
         "canBypassLimit": true,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Rimsec Security",
         "karmaTypeForAdding": null,
@@ -12859,7 +12859,7 @@
         ]
       },
       "defName": "RSTraitRobot",
-      "name": "robot",
+      "name": "robot2",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -14393,7 +14393,7 @@
       "bypassLimit": true,
       "data": {
         "canBypassLimit": true,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Fallout Traits",
         "karmaTypeForAdding": null,
@@ -14409,7 +14409,7 @@
         ]
       },
       "defName": "FT_IronStomach",
-      "name": "ironstomach",
+      "name": "ironstomach2",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -14986,7 +14986,7 @@
       "bypassLimit": true,
       "data": {
         "canBypassLimit": true,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Fallout Traits",
         "karmaTypeForAdding": null,
@@ -15003,7 +15003,7 @@
         ]
       },
       "defName": "FT_Adventuring",
-      "name": "adventurer",
+      "name": "adventurer2",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -17192,7 +17192,7 @@
       "bypassLimit": true,
       "data": {
         "canBypassLimit": true,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Fallout Traits",
         "karmaTypeForAdding": null,
@@ -17213,7 +17213,7 @@
         ]
       },
       "defName": "FT_Perfectionist",
-      "name": "perfectionist",
+      "name": "perfectionist2",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -17337,7 +17337,7 @@
       "bypassLimit": true,
       "data": {
         "canBypassLimit": true,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
         "karmaTypeForAdding": null,
@@ -17353,7 +17353,7 @@
         ]
       },
       "defName": "SN_Priest",
-      "name": "priest",
+      "name": "priest2",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -17797,7 +17797,7 @@
       "bypassLimit": true,
       "data": {
         "canBypassLimit": true,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
         "karmaTypeForAdding": null,
@@ -17811,7 +17811,7 @@
         ]
       },
       "defName": "Artisan",
-      "name": "artisan",
+      "name": "artisan2",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
