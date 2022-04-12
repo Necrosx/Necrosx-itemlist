@@ -20540,7 +20540,7 @@
     "KarmaType": null
   },
   "ArchotechHeart": {
-    "CustomName": null,
+    "CustomName": "archotechheart2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -20560,7 +20560,7 @@
     "KarmaType": null
   },
   "ArchotechKidney": {
-    "CustomName": null,
+    "CustomName": "archotechkidney2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -20580,7 +20580,7 @@
     "KarmaType": null
   },
   "ArchotechLiver": {
-    "CustomName": null,
+    "CustomName": "archotechliver2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -20620,7 +20620,7 @@
     "KarmaType": null
   },
   "ArchotechSpine": {
-    "CustomName": null,
+    "CustomName": "archotechspine2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -20640,7 +20640,7 @@
     "KarmaType": null
   },
   "ArchotechLung": {
-    "CustomName": null,
+    "CustomName": "archotechlung2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -20660,7 +20660,7 @@
     "KarmaType": null
   },
   "ArchotechStomach": {
-    "CustomName": null,
+    "CustomName": "archotechstomach2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -20700,7 +20700,7 @@
     "KarmaType": null
   },
   "ArchotechEar": {
-    "CustomName": null,
+    "CustomName": "archotechear2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -30580,7 +30580,7 @@
     "KarmaType": null
   },
   "VeryAdvancedBattery": {
-    "CustomName": null,
+    "CustomName": "archotechbattery2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -36900,7 +36900,7 @@
     "KarmaType": null
   },
   "VFES_ShieldGenerator_Archotech": {
-    "CustomName": null,
+    "CustomName": "archotechshieldgenerator2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -75340,7 +75340,7 @@
     "KarmaType": null
   },
   "MAG_ArchotechWall": {
-    "CustomName": null,
+    "CustomName": "archotechwall2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -92619,7 +92619,7 @@
     "Mod": "More Archotech Garbage Reupload",
     "KarmaType": null
   },
-  "ambTable": {
+  "TelescopeSpace": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -92636,7 +92636,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Glitter Tech",
+    "Mod": "Save Our Ship 2",
     "KarmaType": null
   },
   "PsyrestoreArtifact": {
@@ -93217,6 +93217,26 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": null,
+    "KarmaType": null
+  },
+  "ambTable": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Glitter Tech",
     "KarmaType": null
   }
 }
