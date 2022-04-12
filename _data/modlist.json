@@ -54,6 +54,12 @@
     "version": null
   },
   {
+    "author": "Kippetje2000",
+    "name": "Adjustable Ability Cooldowns",
+    "steamId": "2566715739",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
     "steamId": null,
@@ -948,6 +954,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Squidd",
+    "name": "No Ranged Cooldown (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "KasumiTakeshi",
     "name": "No Slave Rebellions",
     "steamId": null,
@@ -988,6 +1000,12 @@
     "name": "PrisonerRansom",
     "steamId": "794038005",
     "version": "1.0.7871.19234"
+  },
+  {
+    "author": "iamrespawn",
+    "name": "Prosthetic No Missing Body Parts (Continued)",
+    "steamId": "2739055353",
+    "version": "1.3.1"
   },
   {
     "author": "dninemfive",
@@ -1185,7 +1203,7 @@
     "author": "Loconeko",
     "name": "Roads of the Rim (Continued)",
     "steamId": "2280318231",
-    "version": "1.0.9.0"
+    "version": "1.3.1"
   },
   {
     "author": "Rooboid",
@@ -1204,6 +1222,12 @@
     "name": "RunAndGun",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Trinity",
+    "name": "RuntimeGC [1.3]",
+    "steamId": "2559582557",
+    "version": "0.1.0.0"
   },
   {
     "author": "Kupie",
