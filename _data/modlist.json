@@ -396,6 +396,12 @@
     "version": null
   },
   {
+    "author": "Inglix",
+    "name": "Faster Biosculpter Pod",
+    "steamId": "2576257954",
+    "version": "2.7.0.0"
+  },
+  {
     "author": "Neceros",
     "name": "Faster Smoothing",
     "steamId": "1807439023",
@@ -568,6 +574,24 @@
     "name": "Infused",
     "steamId": "731287727",
     "version": "1.1.1.0"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] RimFridge",
+    "steamId": "1180721235",
+    "version": "1.2.1.0"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.3.0.1"
+  },
+  {
+    "author": "Scorpio and  Taranchuk",
+    "name": "Item Teleporter",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "NestOfMoon",
@@ -1224,12 +1248,6 @@
     "version": null
   },
   {
-    "author": "Trinity",
-    "name": "RuntimeGC [1.3]",
-    "steamId": "2559582557",
-    "version": "0.1.0.0"
-  },
-  {
     "author": "Kupie",
     "name": "SRTS Expanded - Smaller Sprites",
     "steamId": null,
@@ -1540,18 +1558,6 @@
     "name": "Vanilla Factions Expanded - Insectoids",
     "steamId": "2149755445",
     "version": "1.2.3.1"
-  },
-  {
-    "author": "Kiame Vivacity",
-    "name": "[KV] RimFridge",
-    "steamId": "1180721235",
-    "version": "1.2.1.0"
-  },
-  {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.3.0.1"
   },
   {
     "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
@@ -1924,5 +1930,11 @@
     "name": "[sd] Advanced Powergeneration (Continued)",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2196"
   }
 ]
