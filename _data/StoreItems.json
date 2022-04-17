@@ -27996,6 +27996,18 @@
 		"category": "Furniture",
 		"defname": "IT_ItemTeleporter"
 	},
+	{
+		"abr": "abasicshirt",
+		"price": 211,
+		"category": "Arachne apparel",
+		"defname": "Arachne_Shirt"
+	},
+	{
+		"abr": "arachne",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "Arachne"
+	}
 	],
-	"total": 4705
+	"total": 4684
 }
