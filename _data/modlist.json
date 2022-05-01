@@ -522,6 +522,12 @@
     "version": "1.3.7862.41411"
   },
   {
+    "author": "leafzxg",
+    "name": "Thrumbo Extension",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Roolo",
     "name": "Giddy-up! Core",
     "steamId": null,
@@ -572,8 +578,8 @@
   {
     "author": "Mlie",
     "name": "Haul Mined Chunks",
-    "steamId": null,
-    "version": null
+    "steamId": "2799728059",
+    "version": "1.3.2"
   },
   {
     "author": "Yume",
@@ -1071,7 +1077,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8141.28602"
+    "version": "1.0.8155.6828"
   },
   {
     "author": "Sandy",
@@ -1288,6 +1294,30 @@
     "name": "Stackable Chunks [1.3+]",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Telkir",
+    "name": "[T] MoreFloors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Wemd",
+    "name": "[WD] Expanded Floors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Stuffed Floors",
+    "steamId": "853043503",
+    "version": "2.13.92"
+  },
+  {
+    "author": "Kuratheris",
+    "name": "[K]Extra Stone",
+    "steamId": "852103845",
+    "version": "1.0.0.0"
   },
   {
     "author": "Scherub",
@@ -1839,30 +1869,6 @@
     "author": "Kiame Vivacity",
     "name": "[KV] Show Hair With Hats or Hide All Hats",
     "steamId": "1180826364",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Telkir",
-    "name": "[T] MoreFloors",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Wemd",
-    "name": "[WD] Expanded Floors",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Fluffy",
-    "name": "Stuffed Floors",
-    "steamId": "853043503",
-    "version": "2.13.92"
-  },
-  {
-    "author": "Kuratheris",
-    "name": "[K]Extra Stone",
-    "steamId": "852103845",
     "version": "1.0.0.0"
   },
   {
