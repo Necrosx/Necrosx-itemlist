@@ -132,12 +132,6 @@
     "version": "2.17.133"
   },
   {
-    "author": "sisco",
-    "name": "Buildable Terrain v1",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Zetrith",
     "name": "Carousel",
     "steamId": "2324476979",
@@ -906,6 +900,12 @@
     "version": "0.0.0.0"
   },
   {
+    "author": "AhnDemi",
+    "name": "Moyo Armor for SOS2",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oldking",
     "name": "Multi-Bed Royalty Patch (Continued)",
     "steamId": null,
@@ -974,6 +974,12 @@
   {
     "author": "Mlie",
     "name": "No Version Warning",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Copper boltwire",
+    "name": "OP-G Stuffed Arms'n'Armor",
     "steamId": null,
     "version": null
   },
@@ -1942,5 +1948,11 @@
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "0.6.3.2196"
+  },
+  {
+    "author": "sisco",
+    "name": "Buildable Terrain v1",
+    "steamId": null,
+    "version": null
   }
 ]
