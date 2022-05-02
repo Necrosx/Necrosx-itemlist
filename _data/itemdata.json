@@ -2829,7 +2829,7 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -2849,7 +2849,7 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -51479,7 +51479,7 @@
     "Mod": "[KV] Infinite Storage",
     "KarmaType": null
   },
-  "archotechmatteraddingsomecraptoavoidproblems": {
+  "sd_adv_powergen_WatermillGenerator": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -51489,14 +51489,14 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "More Archotech Garbage Reupload",
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
     "KarmaType": null
   },
   "Mutanite": {
@@ -55020,7 +55020,7 @@
     "KarmaType": null
   },
   "VME_AncientSecurityTurret": {
-    "CustomName": null,
+    "CustomName": "ancientsecurityturret2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -91809,7 +91809,7 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -93199,7 +93199,7 @@
     "Mod": "Dragonian Prime Race2.0",
     "KarmaType": null
   },
-  "ambTable": {
+  "sd_adv_powergen_nuclear_power_plant": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -93216,7 +93216,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Glitter Tech",
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
     "KarmaType": null
   },
   "Meat_MG_Wolfgirl": {
@@ -95859,7 +95859,7 @@
     "Mod": "Pawnmorpher",
     "KarmaType": null
   },
-  "sd_adv_powergen_adv_wind_turbine": {
+  "sd_adv_powergen_adv_geothermal_generator": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -95899,7 +95899,47 @@
     "Mod": "[sd] Advanced Powergeneration (Continued)",
     "KarmaType": null
   },
-  "sd_adv_powergen_adv_geothermal_generator": {
+  "ThrumboWool": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Thrumbo Extension",
+    "KarmaType": null
+  },
+  "ThrumboMilk": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Thrumbo Extension",
+    "KarmaType": null
+  },
+  "sd_adv_powergen_adv_wind_turbine": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -95919,7 +95959,7 @@
     "Mod": "[sd] Advanced Powergeneration (Continued)",
     "KarmaType": null
   },
-  "sd_adv_powergen_nuclear_power_plant": {
+  "archotechmatteraddingsomecraptoavoidproblems": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -95929,17 +95969,17 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "Mod": "More Archotech Garbage Reupload",
     "KarmaType": null
   },
-  "sd_adv_powergen_WatermillGenerator": {
+  "ambTable": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -95956,7 +95996,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   }
 }
