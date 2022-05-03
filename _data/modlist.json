@@ -132,6 +132,12 @@
     "version": "2.17.133"
   },
   {
+    "author": "sisco",
+    "name": "Buildable Terrain v1",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Zetrith",
     "name": "Carousel",
     "steamId": "2324476979",
@@ -902,6 +908,12 @@
   {
     "author": "AhnDemi",
     "name": "Moyo Armor for SOS2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AOBA",
+    "name": "Moyo-Light in the Abyss",
     "steamId": null,
     "version": null
   },
@@ -1948,11 +1960,5 @@
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "0.6.3.2196"
-  },
-  {
-    "author": "sisco",
-    "name": "Buildable Terrain v1",
-    "steamId": null,
-    "version": null
   }
 ]
