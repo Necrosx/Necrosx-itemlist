@@ -10112,6 +10112,40 @@
       "enabled": false,
       "name": "Zombie",
       "price": 1
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+35% Flammability",
+          "+$3200 Market value",
+          "+4.50 Move speed",
+          "+30.0C Maximum comfortable temperature",
+          "+10.0C Minimum comfortable temperature",
+          "+135% Immunity gain speed",
+          "+150 Carrying capacity",
+          "+100 Meat amount",
+          "+60 Leather amount",
+          "+5% Psychic sensitivity",
+          "+0.9 Melee dodge chance",
+          "+55.00% Social impact",
+          "+115% General labor speed",
+          "+100% Drug synthesis speed",
+          "+120% Medical tend speed",
+          "+120% Medical tend quality",
+          "+100% Medical surgery success chance",
+          "+2 Honor value",
+          "+75% Aiming time"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A subspecies of the Moyo race, usually babies born after a Moyo is fertilized by a creature infected with the deep-sea virus. And because the symbiotic virus affects, most of them have strange personalities, but not intrinsically bad.",
+      "defName": "Alien_RedMoyo",
+      "enabled": true,
+      "name": "Red Moyo",
+      "price": 5333
     }
   ]
 }
