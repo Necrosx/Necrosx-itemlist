@@ -28988,7 +28988,7 @@
 	},
 	{
 		"abr": "redmoyo",
-		"price": 5333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_RedMoyo"
 	},
@@ -29015,7 +29015,19 @@
 		"price": 7500,
 		"category": "Manufactured",
 		"defname": "MechReinforcer"
-	}
+	},
+	{
+		"abr": "darkmatter",
+		"price": 1,
+		"category": "Meals",
+		"defname": "KijinDarkMatter"
+	},
+	{
+		"abr": "hologrammeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_SoSHologramRace"
+	},
 	],
-	"total": 4836
+	"total": 4872
 }
