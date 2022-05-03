@@ -28806,6 +28806,198 @@
 		"category": "Special melee weapons",
 		"defname": "Nr_Lightbringer"
 	},
+	{
+		"abr": "abysstechgeothermalgenerator",
+		"price": 6442,
+		"category": "Misc",
+		"defname": "RedMoyo_GeothermalGenerator"
+	},
+	{
+		"abr": "moyoabyssarmour",
+		"price": 4792,
+		"category": "Moyo Apparel",
+		"defname": "RedMoyo_AbyssArmour"
+	},
+	{
+		"abr": "moyoabysshelmet",
+		"price": 2617,
+		"category": "Moyo Headgear",
+		"defname": "RedMoyo_AbyssHelmet"
+	},
+	{
+		"abr": "moyoassaultrifle",
+		"price": 1908,
+		"category": "Moyo ranged weapons",
+		"defname": "RedMoyo_MilitaryAR"
+	},
+	{
+		"abr": "moyobodystrap",
+		"price": 275,
+		"category": "Apparel",
+		"defname": "RedMoyo_BodyStrap"
+	},
+	{
+		"abr": "moyobodysuit",
+		"price": 717,
+		"category": "Moyo Apparel",
+		"defname": "RedMoyo_BobySuit"
+	},
+	{
+		"abr": "moyochargeaccelerator",
+		"price": 3200,
+		"category": "Moyo ranged weapons",
+		"defname": "RedMoyo_MilitaryHeavyRifle"
+	},
+	{
+		"abr": "moyocivilrifle",
+		"price": 925,
+		"category": "Moyo ranged weapons",
+		"defname": "RedMoyo_CivilAR"
+	},
+	{
+		"abr": "moyodefensepistol",
+		"price": 367,
+		"category": "Moyo ranged weapons",
+		"defname": "RedMoyo_Pistol"
+	},
+	{
+		"abr": "moyoexoskeleton",
+		"price": 1308,
+		"category": "Moyo Apparel",
+		"defname": "RedMoyo_ExoSkeleton"
+	},
+	{
+		"abr": "moyogasmask",
+		"price": 246,
+		"category": "Headgear",
+		"defname": "RedMoyo_GasMask"
+	},
+	{
+		"abr": "moyoharpoon",
+		"price": 858,
+		"category": "Moyo melee weapons",
+		"defname": "RedMoyo_AlloyHarpoon"
+	},
+	{
+		"abr": "moyohelmet",
+		"price": 992,
+		"category": "Moyo Headgear",
+		"defname": "RedMoyo_Helmet"
+	},
+	{
+		"abr": "moyoholocamisole",
+		"price": 442,
+		"category": "Moyo Apparel",
+		"defname": "RedMoyo_HoloCamisole"
+	},
+	{
+		"abr": "moyokineticclamp",
+		"price": 717,
+		"category": "Moyo melee weapons",
+		"defname": "RedMoyo_KineticClamp"
+	},
+	{
+		"abr": "moyomilitaryprecisionrifle",
+		"price": 1967,
+		"category": "Moyo ranged weapons",
+		"defname": "RedMoyo_MilitarySR"
+	},
+	{
+		"abr": "moyoofficercape",
+		"price": 875,
+		"category": "Moyo Apparel",
+		"defname": "RedMoyo_OfficerCape"
+	},
+	{
+		"abr": "moyoplasmaharpoon",
+		"price": 1967,
+		"category": "Moyo melee weapons",
+		"defname": "RedMoyo_PlasmaHarpoon"
+	},
+	{
+		"abr": "moyoplasmatachi",
+		"price": 2608,
+		"category": "Moyo melee weapons",
+		"defname": "MeleeWeapon_PlasmaTachi"
+	},
+	{
+		"abr": "moyopolicecap",
+		"price": 231,
+		"category": "Moyo Headgear",
+		"defname": "RedMoyo_PanHat"
+	},
+	{
+		"abr": "moyopolicepistol",
+		"price": 783,
+		"category": "Moyo ranged weapons",
+		"defname": "RedMoyo_PistolPolice"
+	},
+	{
+		"abr": "moyopolicesmg",
+		"price": 1158,
+		"category": "Moyo ranged weapons",
+		"defname": "RedMoyo_SMG"
+	},
+	{
+		"abr": "moyopoliceuniform",
+		"price": 558,
+		"category": "Moyo Apparel",
+		"defname": "RedMoyo_PoliceUniform"
+	},
+	{
+		"abr": "moyoriotmask",
+		"price": 375,
+		"category": "Moyo Headgear",
+		"defname": "RedMoyo_MeleeMask"
+	},
+	{
+		"abr": "moyosniperassistantsystem",
+		"price": 958,
+		"category": "Moyo Headgear",
+		"defname": "RedMoyo_SniperMask"
+	},
+	{
+		"abr": "moyotacticalgears",
+		"price": 1483,
+		"category": "Apparel",
+		"defname": "RedMoyo_TacticalGears"
+	},
+	{
+		"abr": "moyotacticalstrap",
+		"price": 717,
+		"category": "Moyo Apparel",
+		"defname": "RedMoyo_TacticalStrap"
+	},
+	{
+		"abr": "moyotaticalheadset",
+		"price": 567,
+		"category": "Headgear",
+		"defname": "RedMoyo_TacticalHeadSet"
+	},
+	{
+		"abr": "moyotaticalknife",
+		"price": 475,
+		"category": "Moyo melee weapons",
+		"defname": "RedMoyo_Knife"
+	},
+	{
+		"abr": "moyoworkersuit",
+		"price": 265,
+		"category": "Moyo Apparel",
+		"defname": "RedMoyo_WorkSuit"
+	},
+	{
+		"abr": "redmoyo",
+		"price": 5333,
+		"category": "Animal",
+		"defname": "Alien_RedMoyo"
+	},
+	{
+		"abr": "redmoyomeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_Alien_RedMoyo"
+	}
 	],
-	"total": 4801
+	"total": 4833
 }
