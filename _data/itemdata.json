@@ -54840,7 +54840,7 @@
     "KarmaType": null
   },
   "VME_AncientFence": {
-    "CustomName": null,
+    "CustomName": "ancientfence2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -96519,7 +96519,7 @@
     "Mod": "Moyo-Light in the Abyss",
     "KarmaType": null
   },
-  "archotechmatteraddingsomecraptoavoidproblems": {
+  "PropagandaSculptureGrand": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -96529,14 +96529,14 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "More Archotech Garbage Reupload",
+    "Mod": "RimPropoganda",
     "KarmaType": null
   },
   "MechReinforcer": {
@@ -96599,7 +96599,7 @@
     "Mod": "Infinite Reinforce",
     "KarmaType": null
   },
-  "ambTable": {
+  "PropagandaSculptureLarge": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -96616,7 +96616,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Glitter Tech",
+    "Mod": "RimPropoganda",
     "KarmaType": null
   },
   "Meat_Alien_RedMoyo": {
@@ -96637,6 +96637,66 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Moyo-Light in the Abyss",
+    "KarmaType": null
+  },
+  "PropagandaSculptureSmall": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "RimPropoganda",
+    "KarmaType": null
+  },
+  "archotechmatteraddingsomecraptoavoidproblems": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "More Archotech Garbage Reupload",
+    "KarmaType": null
+  },
+  "ambTable": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
   "sd_adv_powergen_adv_geothermal_generator": {
