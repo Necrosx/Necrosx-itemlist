@@ -28997,7 +28997,25 @@
 		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Alien_RedMoyo"
+	},
+	{
+		"abr": "ancientequipmentreinforcer",
+		"price": 2400,
+		"category": "Special",
+		"defname": "AncientReinforcer"
+	},
+	{
+		"abr": "equipmentreinforcer",
+		"price": 2400,
+		"category": "Misc",
+		"defname": "EquipmentReinforcer"
+	},
+	{
+		"abr": "reinforcermechanite",
+		"price": 7500,
+		"category": "Manufactured",
+		"defname": "MechReinforcer"
 	}
 	],
-	"total": 4833
+	"total": 4836
 }
