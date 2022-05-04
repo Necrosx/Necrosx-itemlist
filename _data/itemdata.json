@@ -95959,7 +95959,7 @@
     "Mod": "Moyo-Light in the Abyss",
     "KarmaType": null
   },
-  "sd_adv_powergen_adv_solar_generator": {
+  "sd_adv_powergen_WatermillGenerator": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -95979,7 +95979,7 @@
     "Mod": "[sd] Advanced Powergeneration (Continued)",
     "KarmaType": null
   },
-  "sd_adv_powergen_adv_wind_turbine": {
+  "sd_adv_powergen_nuclear_power_plant": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -96659,6 +96659,66 @@
     "Mod": "RimPropoganda",
     "KarmaType": null
   },
+  "sd_adv_powergen_adv_geothermal_generator": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "KarmaType": null
+  },
+  "sd_adv_powergen_adv_solar_generator": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "KarmaType": null
+  },
+  "sd_adv_powergen_adv_wind_turbine": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "KarmaType": null
+  },
   "archotechmatteraddingsomecraptoavoidproblems": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -96699,7 +96759,7 @@
     "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "sd_adv_powergen_adv_geothermal_generator": {
+  "EVOR_Item_Leg_Swim": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -96716,47 +96776,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
-    "KarmaType": null
-  },
-  "sd_adv_powergen_nuclear_power_plant": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
-    "KarmaType": null
-  },
-  "sd_adv_powergen_WatermillGenerator": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "[sd] Advanced Powergeneration (Continued)",
+    "Mod": null,
     "KarmaType": null
   }
 }
