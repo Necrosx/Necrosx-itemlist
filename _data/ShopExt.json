@@ -9504,7 +9504,8 @@
           "+3.0 Melee hit chance",
           "+3.0 Melee dodge chance",
           "+1.2 Shooting accuracy",
-          "+80% Pain shock threshold"
+          "+80% Pain shock threshold",
+          "+16.00 Swim speed"
         ],
         "mod": "Unknown",
         "karmaType": null,
