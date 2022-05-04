@@ -29028,6 +29028,30 @@
 		"category": "Meat",
 		"defname": "Meat_SoSHologramRace"
 	},
+	{
+		"abr": "grandpropagandasculpture",
+		"price": 1967,
+		"category": "Art",
+		"defname": "PropagandaSculptureGrand"
+	},
+	{
+		"abr": "largepropagandasculpture",
+		"price": 517,
+		"category": "Art",
+		"defname": "PropagandaSculptureLarge"
+	},
+	{
+		"abr": "smallpropagandasculpture",
+		"price": 275,
+		"category": "Art",
+		"defname": "PropagandaSculptureSmall"
+	},
+	{
+		"abr": "hydrophobicwebbedleg",
+		"price": 4667,
+		"category": "Evolved body parts",
+		"defname": "EVOR_Item_Leg_Swim"
+	}
 	],
-	"total": 4872
+	"total": 4842
 }
