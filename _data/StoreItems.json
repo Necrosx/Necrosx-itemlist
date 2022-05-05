@@ -29051,7 +29051,121 @@
 		"price": 4667,
 		"category": "Evolved body parts",
 		"defname": "EVOR_Item_Leg_Swim"
+	},
+	{
+		"abr": "fusionfuelprocessor",
+		"price": 3925,
+		"category": "Misc",
+		"defname": "Spaceports_FuelProcessor"
+	},
+	{
+		"abr": "fusionfueltank",
+		"price": 1792,
+		"category": "Misc",
+		"defname": "Spaceports_FuelTank"
+	},
+	{
+		"abr": "fusionfuelterminal",
+		"price": 533,
+		"category": "Misc",
+		"defname": "Spaceports_FuelDispenser"
+	},
+	{
+		"abr": "shuttlelandingpad",
+		"price": 592,
+		"category": "Misc",
+		"defname": "Spaceports_ShuttleLandingPad"
+	},
+	{
+		"abr": "spaceportbeacon",
+		"price": 908,
+		"category": "Misc",
+		"defname": "Spaceports_Beacon"
+	},
+	{
+		"abr": "ammobox",
+		"price": 600,
+		"category": "Furniture",
+		"defname": "JDSAmmo_BoxA"
+	},
+	{
+		"abr": "ammobox",
+		"price": 1983,
+		"category": "Furniture",
+		"defname": "JDSAmmo_BoxB"
+	},
+	{
+		"abr": "ammobox",
+		"price": 3142,
+		"category": "Furniture",
+		"defname": "JDSAmmo_BoxC"
+	},
+	{
+		"abr": "ammocrate",
+		"price": 169,
+		"category": "Furniture",
+		"defname": "JDSAmmo_Crate"
+	},
+	{
+		"abr": "ammocratepiles",
+		"price": 1533,
+		"category": "Furniture",
+		"defname": "JDSAmmo_Crate_Piles"
+	},
+	{
+		"abr": "bankvault",
+		"price": 21983,
+		"category": "Furniture",
+		"defname": "JDSBank_Vault"
+	},
+	{
+		"abr": "barrel",
+		"price": 204,
+		"category": "Furniture",
+		"defname": "JDS_Wooden_Barrel"
+	},
+	{
+		"abr": "barrelpile",
+		"price": 675,
+		"category": "Furniture",
+		"defname": "JDS_Wooden_Barrel_Pile"
+	},
+	{
+		"abr": "basket",
+		"price": 104,
+		"category": "Furniture",
+		"defname": "JDS_Basket"
+	},
+	{
+		"abr": "beercrate",
+		"price": 161,
+		"category": "Furniture",
+		"defname": "JDSBeer_Crate"
+	},
+	{
+		"abr": "bulkwater",
+		"price": 264,
+		"category": "Furniture",
+		"defname": "JDS_Bulk_Water"
+	},
+	{
+		"abr": "bundleswrap",
+		"price": 116,
+		"category": "Furniture",
+		"defname": "JDS_Bundles_Wrap"
+	},
+	{
+		"abr": "bundleswrapbig",
+		"price": 725,
+		"category": "Furniture",
+		"defname": "JDS_Bundles_Wrap_Big"
+	},
+	{
+		"abr": "bundleswrappile",
+		"price": 154,
+		"category": "Furniture",
+		"defname": "JDS_Bundles_Wrap_Pile"
 	}
 	],
-	"total": 4842
+	"total": 4926
 }
