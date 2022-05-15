@@ -42,24 +42,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki,  Kikohi and  Helixien",
-    "name": "Vanilla Events Expanded",
-    "steamId": "1938420742",
-    "version": "1.1.0"
-  },
-  {
-    "author": "Kentington and Thain",
-    "name": "Save Our Ship 2",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson",
-    "name": "Alpha Ships",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Telefonmast",
     "name": "Graphics Settings+",
     "steamId": "1678847247",
@@ -300,12 +282,6 @@
     "version": null
   },
   {
-    "author": "Jecrell and lbmaian",
-    "name": "Doors Expanded",
-    "steamId": "1316188771",
-    "version": "1.4.0.2"
-  },
-  {
     "author": "Gouda quiche",
     "name": "MoHAR framework",
     "steamId": "2057001924",
@@ -364,12 +340,6 @@
     "name": "Ducks' No Limits - Ideology",
     "steamId": "2554423180",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Anomalous",
-    "name": "Dynamic Population",
-    "steamId": "1658712035",
-    "version": "1.1"
   },
   {
     "author": "Jaxxa",
@@ -624,12 +594,6 @@
     "version": "1.3.3"
   },
   {
-    "author": "rulezberg",
-    "name": "HaulTeleporter",
-    "steamId": "2306708458",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Yume",
     "name": "High Density Hydroponics",
     "steamId": null,
@@ -728,6 +692,12 @@
   {
     "author": "BJInternetSupervision",
     "name": "Maid Project - Tweak",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gouda quiche",
+    "name": "Mantis race",
     "steamId": null,
     "version": null
   },
@@ -918,12 +888,6 @@
     "version": "0.0.0.0"
   },
   {
-    "author": "AhnDemi",
-    "name": "Moyo Armor for SOS2",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "AOBA",
     "name": "Moyo-Light in the Abyss",
     "steamId": null,
@@ -1056,6 +1020,24 @@
     "version": null
   },
   {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.3.0.1"
+  },
+  {
+    "author": "JangoD'soul",
+    "name": "[JDS] Simple Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0"
+  },
+  {
     "author": "Captain Muscles (Nathan Harbour)",
     "name": "Pocket Dimensions",
     "steamId": "2307817213",
@@ -1119,12 +1101,6 @@
     "author": "Sandy",
     "name": "RPG Style Inventory Revamped",
     "steamId": "2478833213",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "FLASHPOINT55",
-    "name": "RPG Style Level Up Mod",
-    "steamId": "1995668415",
     "version": "1.0.0.0"
   },
   {
@@ -1330,6 +1306,12 @@
     "name": "Simple sidearms",
     "steamId": "927155256",
     "version": "1.4.6.0"
+  },
+  {
+    "author": "Razar1",
+    "name": "Skrix - An Insect-like Race",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Uuugggg",
@@ -1632,12 +1614,6 @@
     "version": null
   },
   {
-    "author": "Morylska",
-    "name": "Vanilla Armor Patch for SoS",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
     "name": "Vanilla Brewing Expanded",
     "steamId": null,
@@ -1674,16 +1650,10 @@
     "version": null
   },
   {
-    "author": "Kiame Vivacity",
-    "name": "[KV] RimFridge",
-    "steamId": "1180721235",
-    "version": "1.2.1.0"
-  },
-  {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.3.0.1"
+    "author": "Oskar Potocki,  Kikohi and  Helixien",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
   },
   {
     "author": "Oskar Potocki,  Kentington,  Sarg Bjornson,  erdelf,  Kikohi,  Chowder,  Taranchuk and  ISOREX",
@@ -1866,12 +1836,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Prolle",
-    "name": "Weapon A1000",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Sk",
     "name": "Weapon Mastery",
     "steamId": "2766683678",
@@ -1884,34 +1848,10 @@
     "version": "0.0.0.0"
   },
   {
-    "author": "JangoD'soul",
-    "name": "[JDS] Simple Storage",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mehni",
-    "name": "Pick Up And Haul",
-    "steamId": "1279012058",
-    "version": "1.0.0"
-  },
-  {
-    "author": "CodeOptimist",
-    "name": "While You're Up / PUAH+",
-    "steamId": "2034960453",
-    "version": "3.1.4.2343"
-  },
-  {
     "author": "Orion",
     "name": "Xeva's Rimhair",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Zombieland",
-    "steamId": "928376710",
-    "version": "3.1.0.0"
   },
   {
     "author": "Ayameduki",
@@ -1974,12 +1914,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Infinite Storage",
-    "steamId": "1233893175",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
     "name": "[KV] More Trait Slots",
     "steamId": "1508292711",
@@ -2002,12 +1936,6 @@
     "name": "[O21] Seamless Embrasures",
     "steamId": "2290689449",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Rainbeau Flambe - troopersmith1",
-    "name": "[RF] Advanced Bridges Continued [1.0+]",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Mlie",
@@ -2080,11 +2008,5 @@
     "name": "Less Arbitrary Surgery (Continued)",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Krkr",
-    "name": "RocketMan - Performance Mod",
-    "steamId": "2479389928",
-    "version": "0.6.3.2196"
   }
 ]
