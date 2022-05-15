@@ -18,6 +18,12 @@
     "version": "9.0.1"
   },
   {
+    "author": "AgentBlac",
+    "name": "1.3 - Imprisonment On The Go! (Make Pawns Prisoners Without Beds)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Dave-EEs",
     "name": "99 Percent [1.3]",
     "steamId": null,
@@ -52,6 +58,12 @@
     "name": "Alpha Ships",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
   },
   {
     "author": "jecrell and contributors",
@@ -152,6 +164,12 @@
   {
     "author": "sisco",
     "name": "Buildable Terrain v1",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spanky_H",
+    "name": "Bun Race",
     "steamId": null,
     "version": null
   },
@@ -268,6 +286,12 @@
     "name": "Defensive Positions",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Do Your F****** Research",
+    "steamId": "2375193973",
+    "version": "1.0.1"
   },
   {
     "author": "tikubonn",
@@ -504,6 +528,12 @@
     "version": null
   },
   {
+    "author": "Kikohi,  Trunken,  Immortalus and Sarg Bjornson",
+    "name": "Forsakens: Fauna",
+    "steamId": "1929101125",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "notfood",
     "name": "FrameRateControl",
     "steamId": "1591142767",
@@ -591,7 +621,7 @@
     "author": "Mlie",
     "name": "Haul Mined Chunks",
     "steamId": "2799728059",
-    "version": "1.3.2"
+    "version": "1.3.3"
   },
   {
     "author": "rulezberg",
@@ -642,6 +672,18 @@
     "version": null
   },
   {
+    "author": "ssulunge",
+    "name": "Kijin Race 2.0",
+    "steamId": "1918120749",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Naharri and EvilChaosKnight",
+    "name": "Kilhn Race",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Kikohi",
     "name": "Jewelry",
     "steamId": "2020964421",
@@ -662,60 +704,6 @@
   {
     "author": "LachlanEaston",
     "name": "LBE's A Dog Said Easy Patcher",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Spanky_H",
-    "name": "Bun Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ssulunge",
-    "name": "Kijin Race 2.0",
-    "steamId": "1918120749",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Naharri and EvilChaosKnight",
-    "name": "Kilhn Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Razar1",
-    "name": "Monstergirl Races",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Farmradish",
-    "name": "Nyaron race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ayameduki",
-    "name": "[1.3]Nearmare Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ayameduki",
-    "name": "[1.3]Xenoorca Race",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Tarojun",
-    "name": "EPOE-Forked: Alien expansion + patcher",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mlie",
-    "name": "Less Arbitrary Surgery (Continued)",
     "steamId": null,
     "version": null
   },
@@ -832,6 +820,12 @@
     "name": "Mod Manager",
     "steamId": "1507748539",
     "version": "3.8.1038"
+  },
+  {
+    "author": "Razar1",
+    "name": "Monstergirl Races",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "pelador",
@@ -960,8 +954,14 @@
     "version": null
   },
   {
-    "author": "Nif",
-    "name": "Nearmare [ENG Translation]",
+    "author": "Ayameduki",
+    "name": "[1.3]Nearmare Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Belvaleth",
+    "name": "Nearmare Race[English Translation]",
     "steamId": null,
     "version": null
   },
@@ -990,12 +990,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Squidd",
-    "name": "No Ranged Cooldown (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "KasumiTakeshi",
     "name": "No Slave Rebellions",
     "steamId": null,
@@ -1004,6 +998,12 @@
   {
     "author": "Mlie",
     "name": "No Version Warning",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Farmradish",
+    "name": "Nyaron race",
     "steamId": null,
     "version": null
   },
@@ -1113,7 +1113,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8155.6828"
+    "version": "1.0.8162.26987"
   },
   {
     "author": "Sandy",
@@ -1173,7 +1173,7 @@
     "author": "Mlie",
     "name": "Relevant Stats In Description",
     "steamId": "2692669482",
-    "version": "1.3.5"
+    "version": "1.3.7"
   },
   {
     "author": "MRGames",
@@ -1368,6 +1368,12 @@
     "version": null
   },
   {
+    "author": "Sarg Bjornson and  AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Telkir",
     "name": "[T] MoreFloors",
     "steamId": null,
@@ -1474,6 +1480,12 @@
     "name": "Twitch Toolkit",
     "steamId": "1718525787",
     "version": "2.0.10.0"
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.3.1"
   },
   {
     "author": "SirRandoo",
@@ -1863,7 +1875,7 @@
     "author": "Sk",
     "name": "Weapon Mastery",
     "steamId": "2766683678",
-    "version": "2.0.9"
+    "version": "2.0.12"
   },
   {
     "author": "Epicguru (James B)",
@@ -1900,6 +1912,12 @@
     "name": "Zombieland",
     "steamId": "928376710",
     "version": "3.1.0.0"
+  },
+  {
+    "author": "Ayameduki",
+    "name": "[1.3]Xenoorca Race",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Toyama",
@@ -2042,6 +2060,24 @@
   {
     "author": "sulusdacor",
     "name": "[sd] Advanced Powergeneration (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SineSwiper",
+    "name": "Xenobionic Patcher",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tarojun",
+    "name": "EPOE-Forked: Alien expansion + patcher",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Less Arbitrary Surgery (Continued)",
     "steamId": null,
     "version": null
   },
