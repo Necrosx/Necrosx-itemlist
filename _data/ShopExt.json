@@ -9582,12 +9582,12 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
-      "description": "ニアメーア・ディバウトは創造主への信仰心が深いニアメーア達が信仰を行うものとして自らを変革・剪定を繰り返したことで新たな性質を獲得した変異種です。\n通常種とは異なり感受性が強くまた厳しい修行を経ていることで耐久性が改善しています。\n召喚する眷属も信仰心によって呼び出した信者たちの霊となっており持久性が優れています。",
+      "description": "A subspecies of Nearmare who, through faith, have altered their very nature. They are more susceptable to mental attacks, but their physical resilience has been honed by their long training.\n Their summoned creatures are empowered by their faith, granting them increased endurance.",
       "defName": "HAR_Nearmaere_b",
-      "enabled": false,
-      "name": "ニアメーア・ディバウト",
+      "enabled": true,
+      "name": "nearmaredevotee",
       "price": 4167
     },
     {
