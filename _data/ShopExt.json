@@ -3901,194 +3901,6 @@
       "degree": 1
     },
     {
-      "description": "Timmy is a security variant, it features higher armour compared to other variants.",
-      "stats": [
-        "+30.0% Armor - Sharp",
-        "+20.0% Armor - Blunt"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": true,
-      "data": {
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rimsec Security",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+30.0% Armor - Sharp",
-          "+20.0% Armor - Blunt"
-        ]
-      },
-      "defName": "RSTraitSecurity",
-      "name": "securitymodel",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is a forest variant, it features higher melee skills and higher movement in forests compared to other variants.",
-      "stats": [
-        "+15.0 melee dodge chance",
-        "+5.0 melee hit chance",
-        "+1.00 move speed",
-        "x80% melee cooldown"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": true,
-      "data": {
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rimsec Security",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+15.0 melee dodge chance",
-          "+5.0 melee hit chance",
-          "+1.00 move speed",
-          "x80% melee cooldown"
-        ]
-      },
-      "defName": "RSTraitForest",
-      "name": "forestmodel",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is a winter variant, it features higher accuracy and higher movement in snowy terrain compared to other variants.",
-      "stats": [
-        "+5.0 shooting accuracy"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": true,
-      "data": {
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rimsec Security",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+5.0 shooting accuracy"
-        ]
-      },
-      "defName": "RSTraitWinter",
-      "name": "wintermodel",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy is a desert variant, it features faster aiming time and higher movement in sandy terrain compared to other variants.",
-      "stats": [
-        "-50% aiming time"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": true,
-      "data": {
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rimsec Security",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "-50% aiming time"
-        ]
-      },
-      "defName": "RSTraitDesert",
-      "name": "desertmodel",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy Todo. he Todo",
-      "stats": [
-        "-35% mental break threshold"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": true,
-      "data": {
-        "canBypassLimit": true,
-        "customName": true,
-        "karmaTypeForRemoving": null,
-        "mod": "Rimsec Security",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "-35% mental break threshold"
-        ]
-      },
-      "defName": "RSTraitRobot",
-      "name": "robot2",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Timmy Todo. he Todo",
-      "stats": [
-        "x130% market value"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": true,
-      "data": {
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rimsec Security",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "x130% market value"
-        ]
-      },
-      "defName": "RSTraitValuable",
-      "name": "valuable",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
       "description": "Timmy is not affected by the effects of aging.",
       "stats": [
 
@@ -8817,6 +8629,194 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Timmy is a security variant, it features higher armour compared to other variants.",
+      "stats": [
+        "+30.0% Armor - Sharp",
+        "+20.0% Armor - Blunt"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rimsec Security",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+30.0% Armor - Sharp",
+          "+20.0% Armor - Blunt"
+        ]
+      },
+      "defName": "RSTraitSecurity",
+      "name": "securitymodel",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a forest variant, it features higher melee skills and higher movement in forests compared to other variants.",
+      "stats": [
+        "+15.0 melee dodge chance",
+        "+5.0 melee hit chance",
+        "+1.00 move speed",
+        "x80% melee cooldown"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rimsec Security",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+15.0 melee dodge chance",
+          "+5.0 melee hit chance",
+          "+1.00 move speed",
+          "x80% melee cooldown"
+        ]
+      },
+      "defName": "RSTraitForest",
+      "name": "forestmodel",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a winter variant, it features higher accuracy and higher movement in snowy terrain compared to other variants.",
+      "stats": [
+        "+5.0 shooting accuracy"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rimsec Security",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+5.0 shooting accuracy"
+        ]
+      },
+      "defName": "RSTraitWinter",
+      "name": "wintermodel",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a desert variant, it features faster aiming time and higher movement in sandy terrain compared to other variants.",
+      "stats": [
+        "-50% aiming time"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rimsec Security",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-50% aiming time"
+        ]
+      },
+      "defName": "RSTraitDesert",
+      "name": "desertmodel",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy Todo. he Todo",
+      "stats": [
+        "-35% mental break threshold"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rimsec Security",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-35% mental break threshold"
+        ]
+      },
+      "defName": "RSTraitRobot",
+      "name": "robot",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy Todo. he Todo",
+      "stats": [
+        "x130% market value"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Rimsec Security",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "x130% market value"
+        ]
+      },
+      "defName": "RSTraitValuable",
+      "name": "valuable",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -8841,366 +8841,6 @@
       "enabled": true,
       "name": "human",
       "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+4.50 Move speed",
-          "-100.0C Minimum comfortable temperature",
-          "+250.0C Maximum comfortable temperature",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+0.00 Nutrition",
-          "+50% Psychic sensitivity",
-          "+0% Toxic sensitivity",
-          "+200.0% Armor - Heat",
-          "+50.0% Armor - Blunt",
-          "+50.0% Armor - Sharp",
-          "+200% Rest rate multiplier",
-          "+1000% Immunity gain speed",
-          "+$2800 Market value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Standard Security variant of the Defender, mostly commonly found on starships to urban military installations. It features higher armour.",
-      "defName": "RSPeacekeeperDefender",
-      "enabled": false,
-      "name": "Peacekeeper Defender",
-      "price": 4667
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+4.50 Move speed",
-          "-100.0C Minimum comfortable temperature",
-          "+250.0C Maximum comfortable temperature",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+0.00 Nutrition",
-          "+50% Psychic sensitivity",
-          "+0% Toxic sensitivity",
-          "+200.0% Armor - Heat",
-          "+50.0% Armor - Blunt",
-          "+50.0% Armor - Sharp",
-          "+200% Rest rate multiplier",
-          "+1000% Immunity gain speed",
-          "+$2800 Market value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Forest variant of the Defender. It features higher melee skills and agility and has a movement bonus on forest terrain.",
-      "defName": "RSPeacekeeperDefenderForest",
-      "enabled": false,
-      "name": "Peacekeeper Defender Forest",
-      "price": 4667
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+4.50 Move speed",
-          "-100.0C Minimum comfortable temperature",
-          "+250.0C Maximum comfortable temperature",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+0.00 Nutrition",
-          "+50% Psychic sensitivity",
-          "+0% Toxic sensitivity",
-          "+200.0% Armor - Heat",
-          "+50.0% Armor - Blunt",
-          "+50.0% Armor - Sharp",
-          "+200% Rest rate multiplier",
-          "+1000% Immunity gain speed",
-          "+$2800 Market value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Desert variant of the Defender. It features higher rate of fire and has a movement bonus on desert terrain.",
-      "defName": "RSPeacekeeperDefenderDesert",
-      "enabled": false,
-      "name": "Peacekeeper Defender Desert",
-      "price": 4667
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+4.50 Move speed",
-          "-100.0C Minimum comfortable temperature",
-          "+250.0C Maximum comfortable temperature",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+0.00 Nutrition",
-          "+50% Psychic sensitivity",
-          "+0% Toxic sensitivity",
-          "+200.0% Armor - Heat",
-          "+50.0% Armor - Blunt",
-          "+50.0% Armor - Sharp",
-          "+200% Rest rate multiplier",
-          "+1000% Immunity gain speed",
-          "+$2800 Market value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Winter variant of the Defender. It features higher accuracy and has a movement bonus on snowy terrain.",
-      "defName": "RSPeacekeeperDefenderWinter",
-      "enabled": false,
-      "name": "Peacekeeper Defender Winter",
-      "price": 4667
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+5.50 Move speed",
-          "-100.0C Minimum comfortable temperature",
-          "+250.0C Maximum comfortable temperature",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+0.00 Nutrition",
-          "+50% Psychic sensitivity",
-          "+0% Toxic sensitivity",
-          "+200.0% Armor - Heat",
-          "+80.0% Armor - Blunt",
-          "+100.0% Armor - Sharp",
-          "+200% Rest rate multiplier",
-          "+1000% Immunity gain speed",
-          "+$4750 Market value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Standard Security variant of the Enforcer, a common sight on war torn planets and are fielded by massive private and planetary armies. It features higher armour.",
-      "defName": "RSPeacekeeperEnforcer",
-      "enabled": false,
-      "name": "Peacekeeper Enforcer",
-      "price": 7917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+5.50 Move speed",
-          "-100.0C Minimum comfortable temperature",
-          "+250.0C Maximum comfortable temperature",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+0.00 Nutrition",
-          "+50% Psychic sensitivity",
-          "+0% Toxic sensitivity",
-          "+200.0% Armor - Heat",
-          "+80.0% Armor - Blunt",
-          "+100.0% Armor - Sharp",
-          "+200% Rest rate multiplier",
-          "+1000% Immunity gain speed",
-          "+$4750 Market value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Forest variant of the Enforcer. It features higher melee skills and agility and has a movement bonus on forest terrain.",
-      "defName": "RSPeacekeeperEnforcerForest",
-      "enabled": false,
-      "name": "Peacekeeper Enforcer Forest",
-      "price": 7917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+5.50 Move speed",
-          "-100.0C Minimum comfortable temperature",
-          "+250.0C Maximum comfortable temperature",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+0.00 Nutrition",
-          "+50% Psychic sensitivity",
-          "+0% Toxic sensitivity",
-          "+200.0% Armor - Heat",
-          "+80.0% Armor - Blunt",
-          "+100.0% Armor - Sharp",
-          "+200% Rest rate multiplier",
-          "+1000% Immunity gain speed",
-          "+$4750 Market value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Desert variant of the Enforcer. It features higher rate of fire and has a movement bonus on desert terrain.",
-      "defName": "RSPeacekeeperEnforcerDesert",
-      "enabled": false,
-      "name": "Peacekeeper Enforcer Desert",
-      "price": 7917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+5.50 Move speed",
-          "-100.0C Minimum comfortable temperature",
-          "+250.0C Maximum comfortable temperature",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+0.00 Nutrition",
-          "+50% Psychic sensitivity",
-          "+0% Toxic sensitivity",
-          "+200.0% Armor - Heat",
-          "+80.0% Armor - Blunt",
-          "+100.0% Armor - Sharp",
-          "+200% Rest rate multiplier",
-          "+1000% Immunity gain speed",
-          "+$4750 Market value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Winter variant of the Enforcer. It features higher accuracy and has a movement bonus on snowy terrain.",
-      "defName": "RSPeacekeeperEnforcerWinter",
-      "enabled": false,
-      "name": "Peacekeeper Enforcer Winter",
-      "price": 7917
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+3.00 Move speed",
-          "-100.0C Minimum comfortable temperature",
-          "+250.0C Maximum comfortable temperature",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+0.00 Nutrition",
-          "+50% Psychic sensitivity",
-          "+0% Toxic sensitivity",
-          "+200.0% Armor - Heat",
-          "+135.0% Armor - Blunt",
-          "+155.0% Armor - Sharp",
-          "+200% Rest rate multiplier",
-          "+1000% Immunity gain speed",
-          "+$14000 Market value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Standard Security variant of the Sentinel, they are often found in few numbers supporting the vast armies of Defenders and Enforcers in an ongoing conflict. It features higher armour.",
-      "defName": "RSPeacekeeperSentinel",
-      "enabled": false,
-      "name": "Peacekeeper Sentinel",
-      "price": 23333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+3.00 Move speed",
-          "-100.0C Minimum comfortable temperature",
-          "+250.0C Maximum comfortable temperature",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+0.00 Nutrition",
-          "+50% Psychic sensitivity",
-          "+0% Toxic sensitivity",
-          "+200.0% Armor - Heat",
-          "+135.0% Armor - Blunt",
-          "+155.0% Armor - Sharp",
-          "+200% Rest rate multiplier",
-          "+1000% Immunity gain speed",
-          "+$14000 Market value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Forest variant of the Sentinel. It features higher melee skills and agility and has a movement bonus on forest terrain.",
-      "defName": "RSPeacekeeperSentinelForest",
-      "enabled": false,
-      "name": "Peacekeeper Sentinel Forest",
-      "price": 23333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+3.00 Move speed",
-          "-100.0C Minimum comfortable temperature",
-          "+250.0C Maximum comfortable temperature",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+0.00 Nutrition",
-          "+50% Psychic sensitivity",
-          "+0% Toxic sensitivity",
-          "+200.0% Armor - Heat",
-          "+135.0% Armor - Blunt",
-          "+155.0% Armor - Sharp",
-          "+200% Rest rate multiplier",
-          "+1000% Immunity gain speed",
-          "+$14000 Market value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Desert variant of the Sentinel. It features higher rate of fire and has a movement bonus on desert terrain.",
-      "defName": "RSPeacekeeperSentinelDesert",
-      "enabled": false,
-      "name": "Peacekeeper Sentinel Desert",
-      "price": 23333
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+3.00 Move speed",
-          "-100.0C Minimum comfortable temperature",
-          "+250.0C Maximum comfortable temperature",
-          "+0 Leather amount",
-          "+0 Meat amount",
-          "+0.00 Nutrition",
-          "+50% Psychic sensitivity",
-          "+0% Toxic sensitivity",
-          "+200.0% Armor - Heat",
-          "+135.0% Armor - Blunt",
-          "+155.0% Armor - Sharp",
-          "+200% Rest rate multiplier",
-          "+1000% Immunity gain speed",
-          "+$14000 Market value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Winter variant of the Sentinel. It features higher accuracy and has a movement bonus on snowy terrain.",
-      "defName": "RSPeacekeeperSentinelWinter",
-      "enabled": false,
-      "name": "Peacekeeper Sentinel Winter",
-      "price": 23333
     },
     {
       "data": {
@@ -10163,12 +9803,12 @@
         ],
         "mod": "Unknown",
         "karmaType": null,
-        "customName": false
+        "customName": true
       },
       "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
       "defName": "Skrix",
       "enabled": true,
-      "name": "Skrix",
+      "name": "skrixworker",
       "price": 3333
     },
     {
@@ -10209,7 +9849,7 @@
       "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
       "defName": "Skrix_Noble",
       "enabled": true,
-      "name": "skrix2",
+      "name": "skrixnoble",
       "price": 3000
     },
     {
@@ -10250,7 +9890,7 @@
       "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
       "defName": "Skrix_Soldier",
       "enabled": true,
-      "name": "skrix3",
+      "name": "skrixsoldier",
       "price": 4167
     },
     {
@@ -10291,8 +9931,368 @@
       "description": "A race of sentient humanoid insects. Although primitive, a surprising number of colonies have been found on planets across the Rim. This has lead researchers to believe the species was intentionally seeded by an unknown power, though some fringe groups claim to have found evidence that the Skrix were once a spacefaring race themselves.",
       "defName": "Skrix_Royal",
       "enabled": true,
-      "name": "skrix4",
+      "name": "skrixroyal",
       "price": 4167
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+4.50 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+50.0% Armor - Blunt",
+          "+50.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$2800 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Standard Security variant of the Defender, mostly commonly found on starships to urban military installations. It features higher armour.",
+      "defName": "RSPeacekeeperDefender",
+      "enabled": true,
+      "name": "Peacekeeper Defender",
+      "price": 4667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+4.50 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+50.0% Armor - Blunt",
+          "+50.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$2800 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Forest variant of the Defender. It features higher melee skills and agility and has a movement bonus on forest terrain.",
+      "defName": "RSPeacekeeperDefenderForest",
+      "enabled": true,
+      "name": "Peacekeeper Defender Forest",
+      "price": 4667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+4.50 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+50.0% Armor - Blunt",
+          "+50.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$2800 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Desert variant of the Defender. It features higher rate of fire and has a movement bonus on desert terrain.",
+      "defName": "RSPeacekeeperDefenderDesert",
+      "enabled": true,
+      "name": "Peacekeeper Defender Desert",
+      "price": 4667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+4.50 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+50.0% Armor - Blunt",
+          "+50.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$2800 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Winter variant of the Defender. It features higher accuracy and has a movement bonus on snowy terrain.",
+      "defName": "RSPeacekeeperDefenderWinter",
+      "enabled": true,
+      "name": "Peacekeeper Defender Winter",
+      "price": 4667
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+5.50 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+80.0% Armor - Blunt",
+          "+100.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$4750 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Standard Security variant of the Enforcer, a common sight on war torn planets and are fielded by massive private and planetary armies. It features higher armour.",
+      "defName": "RSPeacekeeperEnforcer",
+      "enabled": true,
+      "name": "Peacekeeper Enforcer",
+      "price": 7917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+5.50 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+80.0% Armor - Blunt",
+          "+100.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$4750 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Forest variant of the Enforcer. It features higher melee skills and agility and has a movement bonus on forest terrain.",
+      "defName": "RSPeacekeeperEnforcerForest",
+      "enabled": true,
+      "name": "Peacekeeper Enforcer Forest",
+      "price": 7917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+5.50 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+80.0% Armor - Blunt",
+          "+100.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$4750 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Desert variant of the Enforcer. It features higher rate of fire and has a movement bonus on desert terrain.",
+      "defName": "RSPeacekeeperEnforcerDesert",
+      "enabled": true,
+      "name": "Peacekeeper Enforcer Desert",
+      "price": 7917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+5.50 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+80.0% Armor - Blunt",
+          "+100.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$4750 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Winter variant of the Enforcer. It features higher accuracy and has a movement bonus on snowy terrain.",
+      "defName": "RSPeacekeeperEnforcerWinter",
+      "enabled": true,
+      "name": "Peacekeeper Enforcer Winter",
+      "price": 7917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+3.00 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+135.0% Armor - Blunt",
+          "+155.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$14000 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Standard Security variant of the Sentinel, they are often found in few numbers supporting the vast armies of Defenders and Enforcers in an ongoing conflict. It features higher armour.",
+      "defName": "RSPeacekeeperSentinel",
+      "enabled": true,
+      "name": "Peacekeeper Sentinel",
+      "price": 23333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+3.00 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+135.0% Armor - Blunt",
+          "+155.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$14000 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Forest variant of the Sentinel. It features higher melee skills and agility and has a movement bonus on forest terrain.",
+      "defName": "RSPeacekeeperSentinelForest",
+      "enabled": true,
+      "name": "Peacekeeper Sentinel Forest",
+      "price": 23333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+3.00 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+135.0% Armor - Blunt",
+          "+155.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$14000 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Desert variant of the Sentinel. It features higher rate of fire and has a movement bonus on desert terrain.",
+      "defName": "RSPeacekeeperSentinelDesert",
+      "enabled": true,
+      "name": "Peacekeeper Sentinel Desert",
+      "price": 23333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+3.00 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+250.0C Maximum comfortable temperature",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0.00 Nutrition",
+          "+50% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+200.0% Armor - Heat",
+          "+135.0% Armor - Blunt",
+          "+155.0% Armor - Sharp",
+          "+200% Rest rate multiplier",
+          "+1000% Immunity gain speed",
+          "+$14000 Market value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Winter variant of the Sentinel. It features higher accuracy and has a movement bonus on snowy terrain.",
+      "defName": "RSPeacekeeperSentinelWinter",
+      "enabled": true,
+      "name": "Peacekeeper Sentinel Winter",
+      "price": 23333
     }
   ]
 }
