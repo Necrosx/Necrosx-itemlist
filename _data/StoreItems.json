@@ -29873,7 +29873,151 @@
       "category": "Misc",
       "defname": "Turret_Yulia",
       "price": 1442
+    },
+    {
+      "abr": "chargeaxe",
+      "category": "Charged arsenal",
+      "defname": "V_ChargeAxe",
+      "price": 1158
+    },
+    {
+      "abr": "chargebaton",
+      "category": "Charged arsenal",
+      "defname": "V_ChargeBaton",
+      "price": 1200
+    },
+    {
+      "abr": "chargeblade",
+      "category": "Charged arsenal",
+      "defname": "V_ChargeBlade",
+      "price": 2333
+    },
+    {
+      "abr": "chargecutter",
+      "category": "Charged arsenal",
+      "defname": "V_ChargeCutter",
+      "price": 1050
+    },
+    {
+      "abr": "chargeeltexdagger",
+      "category": "Melee weapons",
+      "defname": "V_AnimaDagger",
+      "price": 1667
+    },
+    {
+      "abr": "chargeeltexgunblade",
+      "category": "Eltex series",
+      "defname": "V_AnimaGunBlade",
+      "price": 2833
+    },
+    {
+      "abr": "chargeeltexkatana",
+      "category": "Melee weapons",
+      "defname": "V_AnimaKatana",
+      "price": 2000
+    },
+    {
+      "abr": "chargeeltexlongsword",
+      "category": "Melee weapons",
+      "defname": "V_AnimaLongSword",
+      "price": 2083
+    },
+    {
+      "abr": "chargeeltexmace",
+      "category": "Melee weapons",
+      "defname": "V_AnimaMace",
+      "price": 2333
+    },
+    {
+      "abr": "chargeeltexspearlance",
+      "category": "Melee weapons",
+      "defname": "V_AnimaSpearLance",
+      "price": 3167
+    },
+    {
+      "abr": "chargeeltexstaff",
+      "category": "Melee weapons",
+      "defname": "V_AnimaStaff",
+      "price": 1667
+    },
+    {
+      "abr": "chargeeltexwarhammer",
+      "category": "Melee weapons",
+      "defname": "V_AnimaHammer",
+      "price": 3000
+    },
+    {
+      "abr": "chargeglaive",
+      "category": "Charged arsenal",
+      "defname": "V_ChargeGlaive",
+      "price": 2775
+    },
+    {
+      "abr": "chargegunblade",
+      "category": "Charged arsenal",
+      "defname": "V_ChargeGunBlade",
+      "price": 3200
+    },
+    {
+      "abr": "chargehalberd",
+      "category": "Charged arsenal",
+      "defname": "V_ChargeHalberd",
+      "price": 2775
+    },
+    {
+      "abr": "chargekatana",
+      "category": "Charged arsenal",
+      "defname": "V_ChargeKatana",
+      "price": 1608
+    },
+    {
+      "abr": "chargekhopesh",
+      "category": "Charged arsenal",
+      "defname": "V_ChargeKhopesh",
+      "price": 1617
+    },
+    {
+      "abr": "chargelongsword",
+      "category": "Charged arsenal",
+      "defname": "V_ChargeLongSword",
+      "price": 1617
+    },
+    {
+      "abr": "chargemace",
+      "category": "Charged arsenal",
+      "defname": "V_ChargeMace",
+      "price": 1533
+    },
+    {
+      "abr": "chargemagariyari",
+      "category": "Charged arsenal",
+      "defname": "V_ChargeMagariYari",
+      "price": 2775
+    },
+    {
+      "abr": "chargescythe",
+      "category": "Charged arsenal",
+      "defname": "V_ChargeScythe",
+      "price": 3358
+    },
+    {
+      "abr": "chargeshorteltexgunblade",
+      "category": "Eltex series",
+      "defname": "V_AnimaShortGunBlade",
+      "price": 2667
+    },
+    {
+      "abr": "chargeshortgunblade",
+      "category": "Charged arsenal",
+      "defname": "V_ChargeShortGunBlade",
+      "price": 2392
+    },
+    {
+      "abr": "chargesledgehammer",
+      "category": "Charged arsenal",
+      "defname": "V_ChargeHammer",
+      "price": 2325
     }
   ],
-  "total": 4979
+  "total": 5003
 }
