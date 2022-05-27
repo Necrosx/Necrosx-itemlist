@@ -472,13 +472,13 @@
       "abr": "wood-firedgenerator",
       "category": "Misc",
       "defname": "WoodFiredGenerator",
-      "price": 214
+      "price": -10
     },
     {
       "abr": "chemfuelpoweredgenerator",
       "category": "Misc",
       "defname": "ChemfuelPoweredGenerator",
-      "price": 282
+      "price": -10
     },
     {
       "abr": "windturbine",
@@ -496,13 +496,13 @@
       "abr": "solargenerator",
       "category": "Misc",
       "defname": "SolarGenerator",
-      "price": 282
+      "price": -10
     },
     {
       "abr": "geothermalgenerator",
       "category": "Misc",
       "defname": "GeothermalGenerator",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "watermillgenerator",
@@ -9880,13 +9880,13 @@
       "abr": "generator",
       "category": "Misc",
       "defname": "VFEPD_Generator",
-      "price": 7
+      "price": -10
     },
     {
       "abr": "generatorunit",
       "category": "Misc",
       "defname": "VFEPD_GeneratorUnitLarge",
-      "price": 13
+      "price": -10
     },
     {
       "abr": "germanshepherd",
@@ -10516,7 +10516,7 @@
       "abr": "industrialgenerator",
       "category": "Misc",
       "defname": "VFEPD_IndustrialGenerator",
-      "price": 13
+      "price": -10
     },
     {
       "abr": "industrialsoupvat",
@@ -13624,7 +13624,7 @@
       "abr": "smallgeneratorunit",
       "category": "Misc",
       "defname": "VFEPD_GeneratorUnitSmall",
-      "price": 7
+      "price": -10
     },
     {
       "abr": "smallhaybale",
@@ -27955,240 +27955,6 @@
       "price": 350
     },
     {
-      "abr": "guestbed",
-      "category": "Furniture",
-      "defname": "BedGuest",
-      "price": 155
-    },
-    {
-      "abr": "guestdoublebed",
-      "category": "Furniture",
-      "defname": "DoubleBedGuest",
-      "price": 292
-    },
-    {
-      "abr": "guestroyalbed",
-      "category": "Furniture",
-      "defname": "RoyalBedGuest",
-      "price": 1467
-    },
-    {
-      "abr": "guesthospitalbed",
-      "category": "Furniture",
-      "defname": "HospitalBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestbedroll",
-      "category": "Furniture",
-      "defname": "BedrollGuest",
-      "price": 137
-    },
-    {
-      "abr": "guestdoublebedroll",
-      "category": "Furniture",
-      "defname": "BedrollDoubleGuest",
-      "price": 290
-    },
-    {
-      "abr": "guestancientbed",
-      "category": "Misc",
-      "defname": "AncientBedGuest",
-      "price": 5
-    },
-    {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "SlabBedGuest",
-      "price": 102
-    },
-    {
-      "abr": "guestslabdoublebed",
-      "category": "Furniture",
-      "defname": "SlabDoubleBedGuest",
-      "price": 288
-    },
-    {
-      "abr": "guestherbalbed",
-      "category": "Furniture",
-      "defname": "HerbBedeGuest",
-      "price": 475
-    },
-    {
-      "abr": "guestroboticbed",
-      "category": "Furniture",
-      "defname": "MedBedGuest",
-      "price": 1717
-    },
-    {
-      "abr": "guestcyberneticbed",
-      "category": "Furniture",
-      "defname": "IIMedGuest",
-      "price": 6683
-    },
-    {
-      "abr": "guestergonomicbed",
-      "category": "Furniture",
-      "defname": "Bed_ErgonomicGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestergonomicdoublebed",
-      "category": "Furniture",
-      "defname": "Bed_DoubleErgonomicGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestroyalposterbed",
-      "category": "Furniture",
-      "defname": "Bed_KingsizeGuest",
-      "price": 2008
-    },
-    {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "Bed_StoneSlabGuest",
-      "price": 111
-    },
-    {
-      "abr": "guestsimplebed",
-      "category": "Furniture",
-      "defname": "Bed_SimpleGuest",
-      "price": 137
-    },
-    {
-      "abr": "guesttriplebedroll",
-      "category": "Furniture",
-      "defname": "BedrollTripleGuest",
-      "price": 442
-    },
-    {
-      "abr": "guestquadrabedroll",
-      "category": "Furniture",
-      "defname": "BedrollQuadGuest",
-      "price": 600
-    },
-    {
-      "abr": "guesttriplebed",
-      "category": "Furniture",
-      "defname": "TripleBedGuest",
-      "price": 433
-    },
-    {
-      "abr": "guestquadrabed",
-      "category": "Furniture",
-      "defname": "QuadBedGuest",
-      "price": 567
-    },
-    {
-      "abr": "guesttripleroyalbed",
-      "category": "Furniture",
-      "defname": "TripleRoyalBedGuest",
-      "price": 2183
-    },
-    {
-      "abr": "guestquadraroyalbed",
-      "category": "Furniture",
-      "defname": "QuadRoyalBedGuest",
-      "price": 2900
-    },
-    {
-      "abr": "guestpentaroyalbed",
-      "category": "Furniture",
-      "defname": "PentaRoyalBedGuest",
-      "price": 3617
-    },
-    {
-      "abr": "guestwickerbed",
-      "category": "Furniture",
-      "defname": "DankPyon_BedWickerGuest",
-      "price": 153
-    },
-    {
-      "abr": "guestdoublewickerbed",
-      "category": "Furniture",
-      "defname": "DankPyon_BedWickerDoubleGuest",
-      "price": 289
-    },
-    {
-      "abr": "gueststrawbed",
-      "category": "Furniture",
-      "defname": "DankPyon_StrawBedGuest",
-      "price": 171
-    },
-    {
-      "abr": "guestdoublestrawbed",
-      "category": "Furniture",
-      "defname": "DankPyon_StrawBedDoubleGuest",
-      "price": 326
-    },
-    {
-      "abr": "guestfurbed",
-      "category": "Furniture",
-      "defname": "DankPyon_BedFurGuest",
-      "price": 145
-    },
-    {
-      "abr": "guestdoublefurbed",
-      "category": "Furniture",
-      "defname": "DankPyon_BedFurDoubleGuest",
-      "price": 279
-    },
-    {
-      "abr": "guestroyaltudorbed",
-      "category": "Furniture",
-      "defname": "DankPyon_RoyalTudorBedGuest",
-      "price": 1925
-    },
-    {
-      "abr": "guestfurbed",
-      "category": "Furniture",
-      "defname": "VFEV_FurBedGuest",
-      "price": 171
-    },
-    {
-      "abr": "guestdoublefurbed",
-      "category": "Furniture",
-      "defname": "VFEV_DoubleFurBedGuest",
-      "price": 350
-    },
-    {
-      "abr": "guestoperatingtable",
-      "category": "Furniture",
-      "defname": "Bed_OperatingTableGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestcryptosleepsuspender",
-      "category": "Furniture",
-      "defname": "Bed_CryptoBedGuest",
-      "price": -10
-    },
-    {
-      "abr": "guestancientbed",
-      "category": "Misc",
-      "defname": "VME_AncientBedGuest",
-      "price": 5
-    },
-    {
-      "abr": "guestmutanitebed",
-      "category": "Furniture",
-      "defname": "MutaniteBedGuest",
-      "price": 408
-    },
-    {
-      "abr": "guestslabtriplebed",
-      "category": "Furniture",
-      "defname": "SlabTripleBedGuest",
-      "price": 475
-    },
-    {
-      "abr": "guestslabquadbed",
-      "category": "Furniture",
-      "defname": "SlabQuadBedGuest",
-      "price": 658
-    },
-    {
       "abr": "amber",
       "category": "Raw resources",
       "defname": "DankPyon_Amber",
@@ -29147,6 +28913,240 @@
       "category": "Headgear",
       "defname": "DankPyon_Headgear_ZweihanderHelmSoren",
       "price": 508
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "BedGuest",
+      "price": 155
+    },
+    {
+      "abr": "guestdoublebed",
+      "category": "Furniture",
+      "defname": "DoubleBedGuest",
+      "price": 292
+    },
+    {
+      "abr": "guestroyalbed",
+      "category": "Furniture",
+      "defname": "RoyalBedGuest",
+      "price": 1508
+    },
+    {
+      "abr": "guesthospitalbed",
+      "category": "Furniture",
+      "defname": "HospitalBedGuest",
+      "price": 675
+    },
+    {
+      "abr": "guestbedroll",
+      "category": "Furniture",
+      "defname": "BedrollGuest",
+      "price": 137
+    },
+    {
+      "abr": "guestdoublebedroll",
+      "category": "Furniture",
+      "defname": "BedrollDoubleGuest",
+      "price": 290
+    },
+    {
+      "abr": "guestancientbed",
+      "category": "Misc",
+      "defname": "AncientBedGuest",
+      "price": 5
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "SlabBedGuest",
+      "price": 102
+    },
+    {
+      "abr": "guestslabdoublebed",
+      "category": "Furniture",
+      "defname": "SlabDoubleBedGuest",
+      "price": 288
+    },
+    {
+      "abr": "guestherbalbed",
+      "category": "Furniture",
+      "defname": "HerbBedeGuest",
+      "price": 475
+    },
+    {
+      "abr": "guestroboticbed",
+      "category": "Furniture",
+      "defname": "MedBedGuest",
+      "price": 1725
+    },
+    {
+      "abr": "guestcyberneticbed",
+      "category": "Furniture",
+      "defname": "IIMedGuest",
+      "price": 6642
+    },
+    {
+      "abr": "guestergonomicbed",
+      "category": "Furniture",
+      "defname": "Bed_ErgonomicGuest",
+      "price": 458
+    },
+    {
+      "abr": "guestergonomicdoublebed",
+      "category": "Furniture",
+      "defname": "Bed_DoubleErgonomicGuest",
+      "price": 875
+    },
+    {
+      "abr": "guestroyalposterbed",
+      "category": "Furniture",
+      "defname": "Bed_KingsizeGuest",
+      "price": 2067
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "Bed_StoneSlabGuest",
+      "price": 111
+    },
+    {
+      "abr": "guestsimplebed",
+      "category": "Furniture",
+      "defname": "Bed_SimpleGuest",
+      "price": 137
+    },
+    {
+      "abr": "guesttriplebedroll",
+      "category": "Furniture",
+      "defname": "BedrollTripleGuest",
+      "price": 442
+    },
+    {
+      "abr": "guestquadrabedroll",
+      "category": "Furniture",
+      "defname": "BedrollQuadGuest",
+      "price": 600
+    },
+    {
+      "abr": "guesttriplebed",
+      "category": "Furniture",
+      "defname": "TripleBedGuest",
+      "price": 433
+    },
+    {
+      "abr": "guestquadrabed",
+      "category": "Furniture",
+      "defname": "QuadBedGuest",
+      "price": 567
+    },
+    {
+      "abr": "guesttripleroyalbed",
+      "category": "Furniture",
+      "defname": "TripleRoyalBedGuest",
+      "price": 2242
+    },
+    {
+      "abr": "guestquadraroyalbed",
+      "category": "Furniture",
+      "defname": "QuadRoyalBedGuest",
+      "price": 2975
+    },
+    {
+      "abr": "guestpentaroyalbed",
+      "category": "Furniture",
+      "defname": "PentaRoyalBedGuest",
+      "price": 3717
+    },
+    {
+      "abr": "guestwickerbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedWickerGuest",
+      "price": 153
+    },
+    {
+      "abr": "guestdoublewickerbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedWickerDoubleGuest",
+      "price": 289
+    },
+    {
+      "abr": "gueststrawbed",
+      "category": "Furniture",
+      "defname": "DankPyon_StrawBedGuest",
+      "price": 171
+    },
+    {
+      "abr": "guestdoublestrawbed",
+      "category": "Furniture",
+      "defname": "DankPyon_StrawBedDoubleGuest",
+      "price": 326
+    },
+    {
+      "abr": "guestfurbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedFurGuest",
+      "price": 146
+    },
+    {
+      "abr": "guestdoublefurbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedFurDoubleGuest",
+      "price": 281
+    },
+    {
+      "abr": "guestroyaltudorbed",
+      "category": "Furniture",
+      "defname": "DankPyon_RoyalTudorBedGuest",
+      "price": 1983
+    },
+    {
+      "abr": "guestfurbed",
+      "category": "Furniture",
+      "defname": "VFEV_FurBedGuest",
+      "price": 172
+    },
+    {
+      "abr": "guestdoublefurbed",
+      "category": "Furniture",
+      "defname": "VFEV_DoubleFurBedGuest",
+      "price": 350
+    },
+    {
+      "abr": "guestoperatingtable",
+      "category": "Furniture",
+      "defname": "Bed_OperatingTableGuest",
+      "price": 508
+    },
+    {
+      "abr": "guestcryptosleepsuspender",
+      "category": "Furniture",
+      "defname": "Bed_CryptoBedGuest",
+      "price": 733
+    },
+    {
+      "abr": "guestancientbed",
+      "category": "Misc",
+      "defname": "VME_AncientBedGuest",
+      "price": 5
+    },
+    {
+      "abr": "guestmutanitebed",
+      "category": "Furniture",
+      "defname": "MutaniteBedGuest",
+      "price": 408
+    },
+    {
+      "abr": "guestslabtriplebed",
+      "category": "Furniture",
+      "defname": "SlabTripleBedGuest",
+      "price": 475
+    },
+    {
+      "abr": "guestslabquadbed",
+      "category": "Furniture",
+      "defname": "SlabQuadBedGuest",
+      "price": 658
     }
   ],
   "total": 4858

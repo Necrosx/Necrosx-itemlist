@@ -9189,7 +9189,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -9329,7 +9329,7 @@
         ]
       },
       "defName": "TM_Empath",
-      "name": "empath",
+      "name": "empathclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -9411,7 +9411,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -9487,7 +9487,7 @@
         ]
       },
       "defName": "TM_Wanderer",
-      "name": "wanderer",
+      "name": "wandererclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -9570,7 +9570,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -9647,7 +9647,7 @@
         ]
       },
       "defName": "InnerFire",
-      "name": "firemage",
+      "name": "firemageclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -9729,7 +9729,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -9805,7 +9805,7 @@
         ]
       },
       "defName": "HeartOfFrost",
-      "name": "icemage",
+      "name": "icemageclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -9885,7 +9885,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -9959,7 +9959,7 @@
         ]
       },
       "defName": "StormBorn",
-      "name": "lightningmage",
+      "name": "lightningmageclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -10043,7 +10043,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -10121,7 +10121,7 @@
         ]
       },
       "defName": "Arcanist",
-      "name": "arcanemage",
+      "name": "arcanemageclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -10204,7 +10204,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -10281,7 +10281,7 @@
         ]
       },
       "defName": "Druid",
-      "name": "druid",
+      "name": "druidclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -10362,7 +10362,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -10437,7 +10437,7 @@
         ]
       },
       "defName": "Paladin",
-      "name": "paladin",
+      "name": "paladinclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -10517,7 +10517,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -10591,7 +10591,7 @@
         ]
       },
       "defName": "Summoner",
-      "name": "summoner",
+      "name": "summonerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -10674,7 +10674,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -10751,7 +10751,7 @@
         ]
       },
       "defName": "Necromancer",
-      "name": "necromancer",
+      "name": "necromancerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -10836,7 +10836,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -10915,7 +10915,7 @@
         ]
       },
       "defName": "Priest",
-      "name": "priest",
+      "name": "priestclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -10993,7 +10993,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -11065,7 +11065,7 @@
         ]
       },
       "defName": "TM_Bard",
-      "name": "entertainer",
+      "name": "entertainerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -11143,7 +11143,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -11215,7 +11215,7 @@
         ]
       },
       "defName": "TM_Bard",
-      "name": "performer",
+      "name": "performerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -11293,7 +11293,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -11365,7 +11365,7 @@
         ]
       },
       "defName": "TM_Bard",
-      "name": "minstrel",
+      "name": "minstrelclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -11443,7 +11443,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -11515,7 +11515,7 @@
         ]
       },
       "defName": "TM_Bard",
-      "name": "bard",
+      "name": "bardclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -11603,7 +11603,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -11685,7 +11685,7 @@
         ]
       },
       "defName": "Succubus",
-      "name": "succubus",
+      "name": "succubusclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -11773,7 +11773,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -11855,7 +11855,7 @@
         ]
       },
       "defName": "Warlock",
-      "name": "warlock",
+      "name": "warlockclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -11941,7 +11941,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -12021,7 +12021,7 @@
         ]
       },
       "defName": "Geomancer",
-      "name": "geomancer",
+      "name": "geomancerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -12109,7 +12109,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -12191,7 +12191,7 @@
         ]
       },
       "defName": "Technomancer",
-      "name": "technomancer",
+      "name": "technomancerclass",
       "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
@@ -12274,7 +12274,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -12351,7 +12351,7 @@
         ]
       },
       "defName": "BloodMage",
-      "name": "bloodmage",
+      "name": "bloodmageclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -12435,7 +12435,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -12513,7 +12513,7 @@
         ]
       },
       "defName": "Enchanter",
-      "name": "enchanter",
+      "name": "enchanterclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -12593,7 +12593,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -12667,7 +12667,7 @@
         ]
       },
       "defName": "Chronomancer",
-      "name": "chronomancer",
+      "name": "chronomancerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -12747,7 +12747,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -12821,7 +12821,7 @@
         ]
       },
       "defName": "ChaosMage",
-      "name": "chaosmage",
+      "name": "chaosmageclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -12970,7 +12970,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -13113,7 +13113,7 @@
         ]
       },
       "defName": "TM_TheShadow",
-      "name": "shadow",
+      "name": "shadowclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -13261,7 +13261,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -13403,7 +13403,7 @@
         ]
       },
       "defName": "TM_Brightmage",
-      "name": "brightmage",
+      "name": "brightmageclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -13550,7 +13550,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -13691,7 +13691,7 @@
         ]
       },
       "defName": "TM_Shaman",
-      "name": "shaman",
+      "name": "shamanclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -13836,7 +13836,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -13975,7 +13975,7 @@
         ]
       },
       "defName": "TM_Golemancer",
-      "name": "golemancer",
+      "name": "golemancerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -14193,7 +14193,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -14269,7 +14269,7 @@
         ]
       },
       "defName": "TM_Wayfarer",
-      "name": "wayfarer",
+      "name": "wayfarerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -14418,7 +14418,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -14561,7 +14561,7 @@
         ]
       },
       "defName": "TM_Apothecary",
-      "name": "apothecary",
+      "name": "apothecaryclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -14649,7 +14649,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -14731,7 +14731,7 @@
         ]
       },
       "defName": "Gladiator",
-      "name": "gladiator",
+      "name": "gladiatorclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -14814,7 +14814,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -14891,7 +14891,7 @@
         ]
       },
       "defName": "Ranger",
-      "name": "woodsman",
+      "name": "woodsmanclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -14974,7 +14974,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -15051,7 +15051,7 @@
         ]
       },
       "defName": "Ranger",
-      "name": "hunter",
+      "name": "hunterclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -15134,7 +15134,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -15211,7 +15211,7 @@
         ]
       },
       "defName": "Ranger",
-      "name": "scout",
+      "name": "scoutclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -15294,7 +15294,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -15371,7 +15371,7 @@
         ]
       },
       "defName": "Ranger",
-      "name": "ranger",
+      "name": "rangerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -15450,7 +15450,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -15523,8 +15523,8 @@
         ]
       },
       "defName": "TM_Sniper",
-      "name": "sharpshooter",
-      "canAdd": true,
+      "name": "sharpshooterclass",
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -15602,7 +15602,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -15675,7 +15675,7 @@
         ]
       },
       "defName": "TM_Sniper",
-      "name": "sniper",
+      "name": "sniperclass",
       "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
@@ -15754,7 +15754,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -15827,7 +15827,7 @@
         ]
       },
       "defName": "TM_Sniper",
-      "name": "mastersniper",
+      "name": "mastersniperclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -15906,7 +15906,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -15979,7 +15979,7 @@
         ]
       },
       "defName": "TM_Sniper",
-      "name": "legendarysniper",
+      "name": "legendarysniperclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -16057,7 +16057,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -16129,7 +16129,7 @@
         ]
       },
       "defName": "Bladedancer",
-      "name": "bladesman",
+      "name": "bladesmanclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -16207,7 +16207,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -16279,7 +16279,7 @@
         ]
       },
       "defName": "Bladedancer",
-      "name": "blademaster",
+      "name": "blademasterclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -16358,7 +16358,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -16431,7 +16431,7 @@
         ]
       },
       "defName": "Bladedancer",
-      "name": "bladedancer",
+      "name": "bladedancerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -16510,7 +16510,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -16583,7 +16583,7 @@
         ]
       },
       "defName": "Bladedancer",
-      "name": "legendarybladedancer",
+      "name": "legendarybladedancerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -16668,7 +16668,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -16747,7 +16747,7 @@
         ]
       },
       "defName": "Faceless",
-      "name": "faceless",
+      "name": "facelessclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -16830,7 +16830,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -16907,7 +16907,7 @@
         ]
       },
       "defName": "TM_Psionic",
-      "name": "psionic",
+      "name": "psionicclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -16987,7 +16987,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -17061,7 +17061,7 @@
         ]
       },
       "defName": "DeathKnight",
-      "name": "deathknight",
+      "name": "deathknightclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -17144,7 +17144,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -17221,7 +17221,7 @@
         ]
       },
       "defName": "TM_Monk",
-      "name": "monk",
+      "name": "monkclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -17301,7 +17301,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -17375,7 +17375,7 @@
         ]
       },
       "defName": "TM_Commander",
-      "name": "commander",
+      "name": "commanderclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -17459,7 +17459,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic",
         "karmaTypeForAdding": null,
@@ -17537,7 +17537,7 @@
         ]
       },
       "defName": "TM_SuperSoldier",
-      "name": "supersoldier",
+      "name": "supersoldierclass",
       "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
@@ -17637,7 +17637,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A RimWorld of Magic - Dread Necromancer Class",
         "karmaTypeForAdding": null,
@@ -17731,7 +17731,7 @@
         ]
       },
       "defName": "TM_DreadNecromancer",
-      "name": "dreadnecromancer",
+      "name": "dreadnecromancerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -17825,7 +17825,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "A Rimworld of Magic - Adventurer Class",
         "karmaTypeForAdding": null,
@@ -17913,7 +17913,7 @@
         ]
       },
       "defName": "TM_Adventurer",
-      "name": "adventurer",
+      "name": "adventurerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -17985,7 +17985,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Half dragons",
         "karmaTypeForAdding": null,
@@ -17997,7 +17997,7 @@
         ]
       },
       "defName": "HD_Bloodlust",
-      "name": "bloodlust",
+      "name": "bloodlust2",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -18867,7 +18867,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -19143,7 +19143,7 @@
         ]
       },
       "defName": "TM_RedMage",
-      "name": "redmage",
+      "name": "redmageclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -19421,7 +19421,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -19693,7 +19693,7 @@
         ]
       },
       "defName": "TM_Ninja",
-      "name": "ninja",
+      "name": "ninjaclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -19968,7 +19968,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -20237,7 +20237,7 @@
         ]
       },
       "defName": "TM_ElementalGunner",
-      "name": "elementalgunner",
+      "name": "elementalgunnerclass",
       "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
@@ -20511,7 +20511,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -20779,7 +20779,7 @@
         ]
       },
       "defName": "TM_Bombardier",
-      "name": "bombardier",
+      "name": "bombardierclass",
       "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
@@ -21057,7 +21057,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -21329,7 +21329,7 @@
         ]
       },
       "defName": "TM_Railbreaker",
-      "name": "railbreaker",
+      "name": "railbreakerclass",
       "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
@@ -21608,7 +21608,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -21881,7 +21881,7 @@
         ]
       },
       "defName": "TM_Samurai",
-      "name": "samurai",
+      "name": "samuraiclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -22161,7 +22161,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -22435,7 +22435,7 @@
         ]
       },
       "defName": "TM_Gadgeteer",
-      "name": "gadgeteer",
+      "name": "gadgeteerclass",
       "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
@@ -22714,7 +22714,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -22987,7 +22987,7 @@
         ]
       },
       "defName": "TM_WindMage",
-      "name": "windmage",
+      "name": "windmageclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -23269,7 +23269,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -23545,7 +23545,7 @@
         ]
       },
       "defName": "TM_Medic",
-      "name": "medic",
+      "name": "medicclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -23821,7 +23821,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -24091,7 +24091,7 @@
         ]
       },
       "defName": "TM_ChromaMage",
-      "name": "chromamage",
+      "name": "chromamageclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -24369,7 +24369,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -24641,7 +24641,7 @@
         ]
       },
       "defName": "TM_Harbinger",
-      "name": "harbinger",
+      "name": "harbingerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -24919,7 +24919,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -25191,7 +25191,7 @@
         ]
       },
       "defName": "TM_Reaper",
-      "name": "reaper",
+      "name": "reaperclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -25477,7 +25477,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -25757,7 +25757,7 @@
         ]
       },
       "defName": "TM_Berserker",
-      "name": "berserker",
+      "name": "berserkerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -26035,7 +26035,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -26307,7 +26307,7 @@
         ]
       },
       "defName": "TM_Scion",
-      "name": "scion",
+      "name": "scionclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -26584,7 +26584,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -26855,7 +26855,7 @@
         ]
       },
       "defName": "TM_Plaguedoctor",
-      "name": "plaguedoctor",
+      "name": "plaguedoctorclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -27131,7 +27131,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -27401,7 +27401,7 @@
         ]
       },
       "defName": "TM_Cleric",
-      "name": "cleric",
+      "name": "clericclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -27679,7 +27679,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -27951,7 +27951,7 @@
         ]
       },
       "defName": "TM_Arbormancer",
-      "name": "arbormancer",
+      "name": "arbormancerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -28227,7 +28227,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -28497,7 +28497,7 @@
         ]
       },
       "defName": "TM_Chainwarden",
-      "name": "chainwarden",
+      "name": "chainwardenclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -28775,7 +28775,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -29047,7 +29047,7 @@
         ]
       },
       "defName": "TM_Ambusher",
-      "name": "ambusher",
+      "name": "ambusherclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -29325,7 +29325,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -29597,7 +29597,7 @@
         ]
       },
       "defName": "TM_Saboteur",
-      "name": "saboteur",
+      "name": "saboteurclass",
       "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
@@ -29877,7 +29877,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -30151,7 +30151,7 @@
         ]
       },
       "defName": "TM_Keeper",
-      "name": "keeper",
+      "name": "keeperclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -30432,7 +30432,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -30707,7 +30707,7 @@
         ]
       },
       "defName": "TM_Pridestalker",
-      "name": "pridestalker",
+      "name": "pridestalkerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -30996,7 +30996,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -31279,7 +31279,7 @@
         ]
       },
       "defName": "TM_Starseeker",
-      "name": "starseeker",
+      "name": "starseekerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -31568,7 +31568,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -31851,7 +31851,7 @@
         ]
       },
       "defName": "TM_Aspirant",
-      "name": "aspirant",
+      "name": "aspirantclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -32126,7 +32126,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -32395,7 +32395,7 @@
         ]
       },
       "defName": "TM_Hawkeye",
-      "name": "hawkeye",
+      "name": "hawkeyeclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -32672,7 +32672,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -32943,7 +32943,7 @@
         ]
       },
       "defName": "TM_Atronach",
-      "name": "atronach",
+      "name": "atronachclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -33224,7 +33224,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -33499,7 +33499,7 @@
         ]
       },
       "defName": "TM_SupportSpecialist",
-      "name": "supportspecialist",
+      "name": "supportspecialistclass",
       "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
@@ -34055,7 +34055,7 @@
         ]
       },
       "defName": "TM_Scrapper",
-      "name": "scrapperclass",
+      "name": "scrapperclassclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -34334,7 +34334,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -34607,7 +34607,7 @@
         ]
       },
       "defName": "TM_Oracle",
-      "name": "oracle",
+      "name": "oracleclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -34886,7 +34886,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -35159,7 +35159,7 @@
         ]
       },
       "defName": "TM_Mystic",
-      "name": "mystic",
+      "name": "mysticclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -35437,7 +35437,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -35709,7 +35709,7 @@
         ]
       },
       "defName": "TM_Spellbreaker",
-      "name": "spellbreaker",
+      "name": "spellbreakerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -35985,7 +35985,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -36255,7 +36255,7 @@
         ]
       },
       "defName": "TM_Duskbringer",
-      "name": "duskbringer",
+      "name": "duskbringerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -36534,7 +36534,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -36807,7 +36807,7 @@
         ]
       },
       "defName": "TM_Thunderblessed",
-      "name": "thunderblessed",
+      "name": "thunderblessedclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -37085,7 +37085,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -37357,7 +37357,7 @@
         ]
       },
       "defName": "TM_Deadeye",
-      "name": "deadeye",
+      "name": "deadeyeclass",
       "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
@@ -37635,7 +37635,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -37907,7 +37907,7 @@
         ]
       },
       "defName": "TM_Spellthief",
-      "name": "spellthief",
+      "name": "spellthiefclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -38185,7 +38185,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -38457,7 +38457,7 @@
         ]
       },
       "defName": "TM_Dragoon",
-      "name": "dragoon",
+      "name": "dragoonclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -38740,7 +38740,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -39017,7 +39017,7 @@
         ]
       },
       "defName": "TM_BlackMage",
-      "name": "blackmage",
+      "name": "blackmageclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -39297,7 +39297,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -39571,7 +39571,7 @@
         ]
       },
       "defName": "TM_Scholar",
-      "name": "scholar",
+      "name": "scholarclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -39849,7 +39849,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -40121,7 +40121,7 @@
         ]
       },
       "defName": "TM_Gunbreaker",
-      "name": "gunbreaker",
+      "name": "gunbreakerclass",
       "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
@@ -40396,7 +40396,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -40665,7 +40665,7 @@
         ]
       },
       "defName": "TM_Gunner",
-      "name": "gunner",
+      "name": "gunnerclass",
       "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
@@ -40948,7 +40948,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -41225,7 +41225,7 @@
         ]
       },
       "defName": "TM_Warrior",
-      "name": "warrior",
+      "name": "warriorclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -41503,7 +41503,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -41775,7 +41775,7 @@
         ]
       },
       "defName": "TM_Nomad",
-      "name": "nomad",
+      "name": "nomadclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -42052,7 +42052,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -42323,7 +42323,7 @@
         ]
       },
       "defName": "TM_Guardian",
-      "name": "guardian",
+      "name": "guardianclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -42599,7 +42599,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -42869,7 +42869,7 @@
         ]
       },
       "defName": "TM_Holosmith",
-      "name": "holosmith",
+      "name": "holosmithclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -43148,7 +43148,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -43421,7 +43421,7 @@
         ]
       },
       "defName": "TM_Troubadour",
-      "name": "troubadour",
+      "name": "troubadourclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -43699,7 +43699,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -43971,7 +43971,7 @@
         ]
       },
       "defName": "TM_Gambler",
-      "name": "gambler",
+      "name": "gamblerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -44248,7 +44248,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -44519,7 +44519,7 @@
         ]
       },
       "defName": "TM_Chef",
-      "name": "chef",
+      "name": "chefclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -44798,7 +44798,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -45071,7 +45071,7 @@
         ]
       },
       "defName": "TM_Miner",
-      "name": "miner",
+      "name": "minerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -45349,7 +45349,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -45621,7 +45621,7 @@
         ]
       },
       "defName": "TM_Striker",
-      "name": "striker",
+      "name": "strikerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -45897,7 +45897,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -46167,7 +46167,7 @@
         ]
       },
       "defName": "TM_RuneKnight",
-      "name": "runeknight",
+      "name": "runeknightclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -46447,7 +46447,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -46721,7 +46721,7 @@
         ]
       },
       "defName": "TM_BlossomBlader",
-      "name": "blossomblader",
+      "name": "blossombladerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -46995,7 +46995,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -47263,7 +47263,7 @@
         ]
       },
       "defName": "TM_Ravenous",
-      "name": "ravenous",
+      "name": "ravenousclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -47538,7 +47538,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -47807,7 +47807,7 @@
         ]
       },
       "defName": "TM_MechHunter",
-      "name": "mechhunter",
+      "name": "mechhunterclass",
       "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
@@ -48083,7 +48083,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -48353,7 +48353,7 @@
         ]
       },
       "defName": "TM_Gunslinger",
-      "name": "gunslinger",
+      "name": "gunslingerclass",
       "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
@@ -48631,7 +48631,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -48903,7 +48903,7 @@
         ]
       },
       "defName": "TM_Shadowbringer",
-      "name": "shadowbringer",
+      "name": "shadowbringerclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -49180,7 +49180,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -49451,7 +49451,7 @@
         ]
       },
       "defName": "TM_Warden",
-      "name": "warden",
+      "name": "wardenclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -49729,7 +49729,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Kure's Rimworld of Magic Class Expansion Pack",
         "karmaTypeForAdding": null,
@@ -50001,7 +50001,7 @@
         ]
       },
       "defName": "TM_Chempunk",
-      "name": "chempunk",
+      "name": "chempunkclass",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
