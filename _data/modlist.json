@@ -45,7 +45,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.7.2"
+    "version": "2.5.7.3"
   },
   {
     "author": "NetzachSloth",
@@ -675,7 +675,7 @@
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
-    "version": "1.6.5"
+    "version": "1.6.6"
   },
   {
     "author": "Oken",
@@ -957,7 +957,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8162.26987"
+    "version": "1.0.8182.38322"
   },
   {
     "author": "Sandy",
@@ -1580,8 +1580,8 @@
   {
     "author": "Vanilla Expanded team",
     "name": "Vanilla Factions Expanded - Vikings",
-    "steamId": null,
-    "version": null
+    "steamId": "2231295285",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki and  Sarg Bjornson",
@@ -1732,6 +1732,12 @@
     "name": "Dragons Descent",
     "steamId": "2026992161",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Ravvy",
+    "name": "[RWY]Dragon's Descent: Void Dwellers",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Epicguru (James B)",
