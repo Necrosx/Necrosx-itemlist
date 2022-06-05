@@ -1873,12 +1873,6 @@
       "price": 442
     },
     {
-      "abr": "boomalope",
-      "category": "Animals",
-      "defname": "Boomalope",
-      "price": 575
-    },
-    {
       "abr": "muffalo",
       "category": "Animals",
       "defname": "Muffalo",
@@ -1933,12 +1927,6 @@
       "price": 517
     },
     {
-      "abr": "hare",
-      "category": "Animals",
-      "defname": "Hare",
-      "price": 77
-    },
-    {
       "abr": "snowhare",
       "category": "Animals",
       "defname": "Snowhare",
@@ -1963,12 +1951,6 @@
       "price": 783
     },
     {
-      "abr": "tortoise",
-      "category": "Animals",
-      "defname": "Tortoise",
-      "price": 333
-    },
-    {
       "abr": "alphabeaver",
       "category": "Animals",
       "defname": "Alphabeaver",
@@ -1985,12 +1967,6 @@
       "category": "Animals",
       "defname": "WildBoar",
       "price": 367
-    },
-    {
-      "abr": "ibex",
-      "category": "Animals",
-      "defname": "Ibex",
-      "price": 383
     },
     {
       "abr": "deer",
@@ -2035,22 +2011,10 @@
       "price": 51
     },
     {
-      "abr": "rat",
-      "category": "Animals",
-      "defname": "Rat",
-      "price": 66
-    },
-    {
       "abr": "boomrat",
       "category": "Animals",
       "defname": "Boomrat",
       "price": 177
-    },
-    {
-      "abr": "raccoon",
-      "category": "Animals",
-      "defname": "Raccoon",
-      "price": 174
     },
     {
       "abr": "iguana",
@@ -2063,12 +2027,6 @@
       "category": "Animals",
       "defname": "Fox_Fennec",
       "price": 375
-    },
-    {
-      "abr": "redfox",
-      "category": "Animals",
-      "defname": "Fox_Red",
-      "price": 321
     },
     {
       "abr": "arcticfox",
@@ -7828,7 +7786,7 @@
       "abr": "armorydecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordArmory",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "arrowcage",
@@ -8026,13 +7984,13 @@
       "abr": "barracksdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordBarracks",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "basedecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordSmallBase",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "baseballcap",
@@ -8074,7 +8032,7 @@
       "abr": "baydecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordSmallBay",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "beads",
@@ -8248,7 +8206,7 @@
       "abr": "blockdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordBlock",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "blood",
@@ -8374,7 +8332,7 @@
       "abr": "boxdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordSmallBox",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "bracelet",
@@ -8518,7 +8476,7 @@
       "abr": "cafeteriadecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordCafeteria",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "cagebrazier",
@@ -8620,7 +8578,7 @@
       "abr": "cargodecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordCargo",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "cargohold",
@@ -8692,7 +8650,7 @@
       "abr": "celldecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordSmallCell",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "celldoor",
@@ -8734,7 +8692,7 @@
       "abr": "chamberdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordChamber",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "chargeblasterturret",
@@ -8908,7 +8866,7 @@
       "abr": "cleardecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordSmallClear",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "cleaver",
@@ -8926,7 +8884,7 @@
       "abr": "climatedecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordClimate",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "clivia",
@@ -9004,7 +8962,7 @@
       "abr": "commanddecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordCommand",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "commissarhat",
@@ -9064,7 +9022,7 @@
       "abr": "controldecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordControl",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "conveyoroven",
@@ -9316,37 +9274,37 @@
       "abr": "decallinedouble",
       "category": "Misc",
       "defname": "VFEPD_DecalLineDouble",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "decallinedoubleinnercorner",
       "category": "Misc",
       "defname": "VFEPD_DecalLineDoubleCornerInner",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "decallinedoubleoutercorner",
       "category": "Misc",
       "defname": "VFEPD_DecalLineDoubleCornerOuter",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "decallinethin",
       "category": "Misc",
       "defname": "VFEPD_DecalLineThin",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "decallinethininnercorner",
       "category": "Misc",
       "defname": "VFEPD_DecalLineThinCornerInner",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "decallinethinoutercorner",
       "category": "Misc",
       "defname": "VFEPD_DecalLineThinCornerOuter",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "decorativeplantpot",
@@ -9454,7 +9412,7 @@
       "abr": "dockdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordSmallDock",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "doctorscrubs",
@@ -9574,7 +9532,7 @@
       "abr": "engineerdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordEngineer",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "engram",
@@ -9628,7 +9586,7 @@
       "abr": "farmingdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordFarming",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "fedora",
@@ -9784,7 +9742,7 @@
       "abr": "freezerdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordFreezer",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "frenchbulldog",
@@ -9802,7 +9760,7 @@
       "abr": "fridgedecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordFridge",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "fullarmorstand",
@@ -9850,7 +9808,7 @@
       "abr": "gasdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordSmallGas",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "gasmask",
@@ -10192,7 +10150,7 @@
       "abr": "halldecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordSmallHall",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "hammer",
@@ -10210,7 +10168,7 @@
       "abr": "hangardecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordHangar",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "hardhat",
@@ -10426,7 +10384,7 @@
       "abr": "hospitaldecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordHospital",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "hotsauce",
@@ -10708,7 +10666,7 @@
       "abr": "keepdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordSmallKeep",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ketchup",
@@ -10720,7 +10678,7 @@
       "abr": "killdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordKill",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "king’srobes",
@@ -10738,7 +10696,7 @@
       "abr": "kitchendecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordKitchen",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "kitchensink",
@@ -10804,13 +10762,13 @@
       "abr": "labdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordSmallLab",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "landingdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordLanding",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "large0symbol",
@@ -10882,7 +10840,7 @@
       "abr": "largearmorydecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordArmory",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largearrowlongsymbol",
@@ -10912,31 +10870,31 @@
       "abr": "largebarracksdecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordBarracks",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largebasedecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordSmallBase",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largebaydecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordSmallBay",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largeblockdecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordBlock",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largeboxdecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordSmallBox",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largecsymbol",
@@ -10948,7 +10906,7 @@
       "abr": "largecafeteriadecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordCafeteria",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largecardboardbox",
@@ -10960,19 +10918,19 @@
       "abr": "largecargodecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordCargo",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largecelldecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordSmallCell",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largechamberdecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordChamber",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largechemfueltank",
@@ -10984,25 +10942,25 @@
       "abr": "largecleardecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordSmallClear",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largeclimatedecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordClimate",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largecommanddecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordCommand",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largecontroldecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordControl",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largedsymbol",
@@ -11014,43 +10972,43 @@
       "abr": "largedecallinedouble",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalLineDouble",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largedecallinedoubleinnercorner",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalLineDoubleCornerInner",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largedecallinedoubleoutercorner",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalLineDoubleCornerOuter",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largedecallinethin",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalLineThin",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largedecallinethininnercorner",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalLineThinCornerInner",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largedecallinethinoutercorner",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalLineThinCornerOuter",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largedockdecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordSmallDock",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largeesymbol",
@@ -11062,7 +11020,7 @@
       "abr": "largeengineerdecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordEngineer",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largefsymbol",
@@ -11074,19 +11032,19 @@
       "abr": "largefarmingdecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordFarming",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largefreezerdecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordFreezer",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largefridgedecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordFridge",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largegsymbol",
@@ -11098,7 +11056,7 @@
       "abr": "largegasdecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordSmallGas",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largehsymbol",
@@ -11110,13 +11068,13 @@
       "abr": "largehalldecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordSmallHall",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largehangardecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordHangar",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largehaybale",
@@ -11128,7 +11086,7 @@
       "abr": "largehospitaldecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordHospital",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largeisymbol",
@@ -11152,19 +11110,19 @@
       "abr": "largekeepdecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordSmallKeep",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largekilldecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordKill",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largekitchendecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordKitchen",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largelsymbol",
@@ -11176,13 +11134,13 @@
       "abr": "largelabdecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordSmallLab",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largelandingdecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordLanding",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largeliquidtank",
@@ -11200,25 +11158,25 @@
       "abr": "largemedicaldecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordMedical",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largemessdecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordMess",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largemorguedecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordMorgue",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largemortardecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordMortar",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largensymbol",
@@ -11242,19 +11200,19 @@
       "abr": "largepaddecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordSmallPad",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largeplaydecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordPlay",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largeprisondecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordPrison",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largeqsymbol",
@@ -11272,37 +11230,37 @@
       "abr": "largereactordecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordReactor",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largerecreationdecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordRecreation",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largerefinerydecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordRefinery",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largerelaxdecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordRelax",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largeresearchdecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordResearch",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largeroomdecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordSmallRoom",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largerug",
@@ -11320,7 +11278,7 @@
       "abr": "largesecuritydecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordSecurity",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largeshippingdecal",
@@ -11332,13 +11290,13 @@
       "abr": "largesleepingdecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordSleeping",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largesmeltingdecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordSmelting",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largestatue",
@@ -11356,7 +11314,7 @@
       "abr": "largestoragedecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordStorage",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largetsymbol",
@@ -11386,13 +11344,13 @@
       "abr": "largewarningdecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordWarning",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largewingdecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordSmallWing",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largewoodenbox",
@@ -11416,7 +11374,7 @@
       "abr": "largeworkshopdecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordWorkshop",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "largexsymbol",
@@ -11440,7 +11398,7 @@
       "abr": "largezonedecal",
       "category": "Misc",
       "defname": "VFEPD_LargeDecalWordSmallZone",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "larvae",
@@ -11519,12 +11477,6 @@
       "category": "Raw fruits",
       "defname": "VCE_RawLemon",
       "price": 1
-    },
-    {
-      "abr": "lemur",
-      "category": "Animals",
-      "defname": "AEXP_Lemur",
-      "price": 289
     },
     {
       "abr": "lettuce",
@@ -11884,7 +11836,7 @@
       "abr": "medicaldecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordMedical",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "medicinegranulator",
@@ -11938,7 +11890,7 @@
       "abr": "messdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordMess",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "microwave",
@@ -12070,13 +12022,13 @@
       "abr": "morguedecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordMorgue",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "mortardecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordMortar",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "mug",
@@ -12292,7 +12244,7 @@
       "abr": "paddecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordSmallPad",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "pallet",
@@ -12646,7 +12598,7 @@
       "abr": "playdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordPlay",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "plinth",
@@ -12766,7 +12718,7 @@
       "abr": "prisondecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordPrison",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "processedmeat",
@@ -12952,13 +12904,13 @@
       "abr": "reactordecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordReactor",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "recreationdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordRecreation",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "redbarrel",
@@ -13036,13 +12988,13 @@
       "abr": "refinerydecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordRefinery",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "relaxdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordRelax",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "relief",
@@ -13060,7 +13012,7 @@
       "abr": "researchdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordResearch",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ressurectorbelt",
@@ -13132,7 +13084,7 @@
       "abr": "roomdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordSmallRoom",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "rose",
@@ -13288,7 +13240,7 @@
       "abr": "securitydecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordSecurity",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "semi-automaticrifle",
@@ -13594,7 +13546,7 @@
       "abr": "sleepingdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordSleeping",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "slime",
@@ -13666,7 +13618,7 @@
       "abr": "smeltingdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordSmelting",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "smg",
@@ -13948,7 +13900,7 @@
       "abr": "storagedecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordStorage",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "strawberryplant",
@@ -14644,7 +14596,7 @@
       "abr": "warningdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordWarning",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "warriorgeneticmaterial",
@@ -14830,7 +14782,7 @@
       "abr": "wingdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordSmallWing",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "wolfhound",
@@ -14968,7 +14920,7 @@
       "abr": "workshopdecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordWorkshop",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "wrench",
@@ -15046,7 +14998,7 @@
       "abr": "zonedecal",
       "category": "Misc",
       "defname": "VFEPD_DecalWordSmallZone",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "andesiteblocks",
@@ -21445,12 +21397,6 @@
       "price": 21
     },
     {
-      "abr": "eyeling",
-      "category": "Animals",
-      "defname": "AA_Eyeling",
-      "price": 167
-    },
-    {
       "abr": "fabricationbench",
       "category": "Minified",
       "defname": "FabricationBench",
@@ -26732,7 +26678,7 @@
     },
     {
       "abr": "stewpot",
-      "category": "Production",
+      "category": "Misc",
       "defname": "DankPyon_StewPot",
       "price": 342
     },
@@ -28915,240 +28861,6 @@
       "price": 508
     },
     {
-      "abr": "guestbed",
-      "category": "Furniture",
-      "defname": "BedGuest",
-      "price": 155
-    },
-    {
-      "abr": "guestdoublebed",
-      "category": "Furniture",
-      "defname": "DoubleBedGuest",
-      "price": 292
-    },
-    {
-      "abr": "guestroyalbed",
-      "category": "Furniture",
-      "defname": "RoyalBedGuest",
-      "price": 1508
-    },
-    {
-      "abr": "guesthospitalbed",
-      "category": "Furniture",
-      "defname": "HospitalBedGuest",
-      "price": 675
-    },
-    {
-      "abr": "guestbedroll",
-      "category": "Furniture",
-      "defname": "BedrollGuest",
-      "price": 137
-    },
-    {
-      "abr": "guestdoublebedroll",
-      "category": "Furniture",
-      "defname": "BedrollDoubleGuest",
-      "price": 290
-    },
-    {
-      "abr": "guestancientbed",
-      "category": "Misc",
-      "defname": "AncientBedGuest",
-      "price": 5
-    },
-    {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "SlabBedGuest",
-      "price": 102
-    },
-    {
-      "abr": "guestslabdoublebed",
-      "category": "Furniture",
-      "defname": "SlabDoubleBedGuest",
-      "price": 288
-    },
-    {
-      "abr": "guestherbalbed",
-      "category": "Furniture",
-      "defname": "HerbBedeGuest",
-      "price": 475
-    },
-    {
-      "abr": "guestroboticbed",
-      "category": "Furniture",
-      "defname": "MedBedGuest",
-      "price": 1725
-    },
-    {
-      "abr": "guestcyberneticbed",
-      "category": "Furniture",
-      "defname": "IIMedGuest",
-      "price": 6642
-    },
-    {
-      "abr": "guestergonomicbed",
-      "category": "Furniture",
-      "defname": "Bed_ErgonomicGuest",
-      "price": 458
-    },
-    {
-      "abr": "guestergonomicdoublebed",
-      "category": "Furniture",
-      "defname": "Bed_DoubleErgonomicGuest",
-      "price": 875
-    },
-    {
-      "abr": "guestroyalposterbed",
-      "category": "Furniture",
-      "defname": "Bed_KingsizeGuest",
-      "price": 2067
-    },
-    {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "Bed_StoneSlabGuest",
-      "price": 111
-    },
-    {
-      "abr": "guestsimplebed",
-      "category": "Furniture",
-      "defname": "Bed_SimpleGuest",
-      "price": 137
-    },
-    {
-      "abr": "guesttriplebedroll",
-      "category": "Furniture",
-      "defname": "BedrollTripleGuest",
-      "price": 442
-    },
-    {
-      "abr": "guestquadrabedroll",
-      "category": "Furniture",
-      "defname": "BedrollQuadGuest",
-      "price": 600
-    },
-    {
-      "abr": "guesttriplebed",
-      "category": "Furniture",
-      "defname": "TripleBedGuest",
-      "price": 433
-    },
-    {
-      "abr": "guestquadrabed",
-      "category": "Furniture",
-      "defname": "QuadBedGuest",
-      "price": 567
-    },
-    {
-      "abr": "guesttripleroyalbed",
-      "category": "Furniture",
-      "defname": "TripleRoyalBedGuest",
-      "price": 2242
-    },
-    {
-      "abr": "guestquadraroyalbed",
-      "category": "Furniture",
-      "defname": "QuadRoyalBedGuest",
-      "price": 2975
-    },
-    {
-      "abr": "guestpentaroyalbed",
-      "category": "Furniture",
-      "defname": "PentaRoyalBedGuest",
-      "price": 3717
-    },
-    {
-      "abr": "guestwickerbed",
-      "category": "Furniture",
-      "defname": "DankPyon_BedWickerGuest",
-      "price": 153
-    },
-    {
-      "abr": "guestdoublewickerbed",
-      "category": "Furniture",
-      "defname": "DankPyon_BedWickerDoubleGuest",
-      "price": 289
-    },
-    {
-      "abr": "gueststrawbed",
-      "category": "Furniture",
-      "defname": "DankPyon_StrawBedGuest",
-      "price": 171
-    },
-    {
-      "abr": "guestdoublestrawbed",
-      "category": "Furniture",
-      "defname": "DankPyon_StrawBedDoubleGuest",
-      "price": 326
-    },
-    {
-      "abr": "guestfurbed",
-      "category": "Furniture",
-      "defname": "DankPyon_BedFurGuest",
-      "price": 146
-    },
-    {
-      "abr": "guestdoublefurbed",
-      "category": "Furniture",
-      "defname": "DankPyon_BedFurDoubleGuest",
-      "price": 281
-    },
-    {
-      "abr": "guestroyaltudorbed",
-      "category": "Furniture",
-      "defname": "DankPyon_RoyalTudorBedGuest",
-      "price": 1983
-    },
-    {
-      "abr": "guestfurbed",
-      "category": "Furniture",
-      "defname": "VFEV_FurBedGuest",
-      "price": 172
-    },
-    {
-      "abr": "guestdoublefurbed",
-      "category": "Furniture",
-      "defname": "VFEV_DoubleFurBedGuest",
-      "price": 350
-    },
-    {
-      "abr": "guestoperatingtable",
-      "category": "Furniture",
-      "defname": "Bed_OperatingTableGuest",
-      "price": 508
-    },
-    {
-      "abr": "guestcryptosleepsuspender",
-      "category": "Furniture",
-      "defname": "Bed_CryptoBedGuest",
-      "price": 733
-    },
-    {
-      "abr": "guestancientbed",
-      "category": "Misc",
-      "defname": "VME_AncientBedGuest",
-      "price": 5
-    },
-    {
-      "abr": "guestmutanitebed",
-      "category": "Furniture",
-      "defname": "MutaniteBedGuest",
-      "price": 408
-    },
-    {
-      "abr": "guestslabtriplebed",
-      "category": "Furniture",
-      "defname": "SlabTripleBedGuest",
-      "price": 475
-    },
-    {
-      "abr": "guestslabquadbed",
-      "category": "Furniture",
-      "defname": "SlabQuadBedGuest",
-      "price": 658
-    },
-    {
       "abr": "abyssalpearl",
       "category": "Raw resources",
       "defname": "DD_AbyssalPearl",
@@ -29197,6 +28909,12 @@
       "price": 30000
     },
     {
+      "abr": "boomalope",
+      "category": "Animals",
+      "defname": "Boomalope",
+      "price": 583
+    },
+    {
       "abr": "destroyervoiddragonegg(fert.)",
       "category": "Dragon eggs (fert.)",
       "defname": "EggDestroyerVoidDragonFertilized",
@@ -29239,10 +28957,22 @@
       "price": 16667
     },
     {
+      "abr": "eyeling",
+      "category": "Animals",
+      "defname": "AA_Eyeling",
+      "price": 167
+    },
+    {
       "abr": "flyingserpentstatue",
       "category": "Art",
       "defname": "Dragon_Statue_E",
       "price": 1783
+    },
+    {
+      "abr": "freshhumanhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Humanskin",
+      "price": 475
     },
     {
       "abr": "harbingerdragon",
@@ -29257,10 +28987,718 @@
       "price": 16667
     },
     {
+      "abr": "hare",
+      "category": "Animals",
+      "defname": "Hare",
+      "price": 83
+    },
+    {
+      "abr": "hugealligatorhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_AlligatorAEXP",
+      "price": 278
+    },
+    {
+      "abr": "hugeanacondahide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_AnacondaAEXP",
+      "price": 450
+    },
+    {
+      "abr": "hugeanimacolossushide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_AnimaColossus",
+      "price": 122
+    },
+    {
+      "abr": "hugearcticlionhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_ArcticLion",
+      "price": 342
+    },
+    {
+      "abr": "hugeatispechide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Atispec",
+      "price": 942
+    },
+    {
+      "abr": "hugebarbslingerhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Barbslinger",
+      "price": 333
+    },
+    {
+      "abr": "hugebehemothhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_RBehemothFO",
+      "price": 3717
+    },
+    {
+      "abr": "hugeblizzariskclutchmotherhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_BlizzariskClutch",
+      "price": 270
+    },
+    {
+      "abr": "hugeblizzariskhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Blizzarisk",
+      "price": 270
+    },
+    {
+      "abr": "hugecatoblepashide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MM_Catoblepas",
+      "price": 408
+    },
+    {
+      "abr": "hugecavebearhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_CaveBear",
+      "price": 508
+    },
+    {
+      "abr": "hugeceryneianhindhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MM_CeryneianHind",
+      "price": 608
+    },
+    {
+      "abr": "hugechimerahide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MM_Chimera",
+      "price": 408
+    },
+    {
+      "abr": "hugecinderliskhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Cinderlisk",
+      "price": 333
+    },
+    {
+      "abr": "hugecrepuscularbeetlehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_CrepuscularBeetle",
+      "price": 408
+    },
+    {
+      "abr": "hugedunealiskclutchmotherhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_DunealiskClutch",
+      "price": 270
+    },
+    {
+      "abr": "hugedunealiskhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Dunealisk",
+      "price": 270
+    },
+    {
+      "abr": "hugeduskprowlerhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_DuskProwlerFO",
+      "price": 51
+    },
+    {
+      "abr": "hugeerymanthianboarhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MM_ErymanthianBoar",
+      "price": 817
+    },
+    {
+      "abr": "hugefenrirhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Fenrir",
+      "price": 1775
+    },
+    {
+      "abr": "hugefrostboundbehemothhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_FrostboundBehemoth",
+      "price": 408
+    },
+    {
+      "abr": "hugegallatrosshide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Gallatross",
+      "price": 4317
+    },
+    {
+      "abr": "hugegigantelopehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Gigantelope",
+      "price": 297
+    },
+    {
+      "abr": "hugegreatdevourerhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_GreatDevourer",
+      "price": 333
+    },
+    {
+      "abr": "hugegriffinhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MM_Griffin",
+      "price": 608
+    },
+    {
+      "abr": "hugegroundrunnerhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Groundrunner",
+      "price": 189
+    },
+    {
+      "abr": "hugeindianelephanthide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_IndianElephantAEXP",
+      "price": 508
+    },
+    {
+      "abr": "hugeironhuskbeetlehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_IronhuskBeetle",
+      "price": 333
+    },
+    {
+      "abr": "hugelernaeanhydrahide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MM_LernaeanHydra",
+      "price": 1683
+    },
+    {
+      "abr": "hugelesserwyvernhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MM_LesserWyvern",
+      "price": 633
+    },
+    {
+      "abr": "hugelockjawhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Lockjaw",
+      "price": 220
+    },
+    {
+      "abr": "hugelothurrhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Lothurr",
+      "price": 3117
+    },
+    {
+      "abr": "hugemammothwormhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MammothWorm",
+      "price": 408
+    },
+    {
+      "abr": "hugemanticorehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MM_Manticore",
+      "price": 525
+    },
+    {
+      "abr": "hugemantraphide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Mantrap",
+      "price": 342
+    },
+    {
+      "abr": "hugematurefleshbeasthide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MatureFleshbeast",
+      "price": 122
+    },
+    {
+      "abr": "hugemegawolverinehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MegawolverineAEXP",
+      "price": 525
+    },
+    {
+      "abr": "hugemetallovorehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Metallovore",
+      "price": 270
+    },
+    {
+      "abr": "hugeminotaurhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MM_WildMinotaur",
+      "price": 633
+    },
+    {
+      "abr": "hugemoosehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MooseAEXP",
+      "price": 252
+    },
+    {
+      "abr": "hugemoribundgallatrosshide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_GallatrossMoribund",
+      "price": 4317
+    },
+    {
+      "abr": "hugemuskoxhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MuskOxAEXP",
+      "price": 317
+    },
+    {
+      "abr": "hugenightmulehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Nightmule",
+      "price": 442
+    },
+    {
+      "abr": "hugenightramhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Nightram",
+      "price": 392
+    },
+    {
+      "abr": "hugenjorunhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Njorun",
+      "price": 3000
+    },
+    {
+      "abr": "hugeovergrowncolossushide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_OvergrownColossus",
+      "price": 122
+    },
+    {
+      "abr": "hugepegasushide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MM_Pegasus",
+      "price": 408
+    },
+    {
+      "abr": "hugeradyakhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Radyak",
+      "price": 375
+    },
+    {
+      "abr": "hugeravagerhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Ravager",
+      "price": 284
+    },
+    {
+      "abr": "hugeredsporehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_RedSpore",
+      "price": 189
+    },
+    {
+      "abr": "hugeroughplatedmonitorhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_RoughPlatedMonitor",
+      "price": 220
+    },
+    {
+      "abr": "hugesandlionhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_SandLion",
+      "price": 342
+    },
+    {
+      "abr": "hugesandprowlerhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_SandProwler",
+      "price": 375
+    },
+    {
+      "abr": "hugeshadowchargerhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_ShadowChargerFO",
+      "price": 51
+    },
+    {
+      "abr": "hugespinedgowhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_SpinedGow",
+      "price": 408
+    },
+    {
+      "abr": "hugetarguzzlerhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_TarGuzzler",
+      "price": 189
+    },
+    {
+      "abr": "hugethunderoxhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_ThunderoxFO",
+      "price": 51
+    },
+    {
+      "abr": "hugeunicornhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MM_Unicorn",
+      "price": 367
+    },
+    {
+      "abr": "hugewolfoundhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Wolfhound",
+      "price": 240
+    },
+    {
+      "abr": "hugewoolycowhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_WoolyCow",
+      "price": 240
+    },
+    {
+      "abr": "hugewyrmhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Wyrm",
+      "price": 302
+    },
+    {
+      "abr": "hugexiezhihide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MM_Xiezhi",
+      "price": 633
+    },
+    {
+      "abr": "ibex",
+      "category": "Animals",
+      "defname": "Ibex",
+      "price": 417
+    },
+    {
+      "abr": "largeaerofleethide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_CollosalAerofleet",
+      "price": 180
+    },
+    {
+      "abr": "largeahuizotlhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MM_Ahuizotl",
+      "price": 203
+    },
+    {
+      "abr": "largeanimaliskhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Animalisk",
+      "price": 148
+    },
+    {
+      "abr": "largeanimusvoxhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_AnimusVox",
+      "price": 131
+    },
+    {
+      "abr": "largeblackscarabhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_BlackSpider",
+      "price": 284
+    },
+    {
+      "abr": "largeblackspelopedehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_BlackSpelopede",
+      "price": 208
+    },
+    {
+      "abr": "largebloodshrimphide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_BloodShrimp",
+      "price": 189
+    },
+    {
+      "abr": "largecerberushide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MM_Cerberus",
+      "price": 163
+    },
+    {
+      "abr": "largechemfuelmyrmidonhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_ChemfuelMyrmidon",
+      "price": 202
+    },
+    {
+      "abr": "largedarkvandalhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_DarkVandalFO",
+      "price": 51
+    },
+    {
+      "abr": "largedarkbeasthide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Darkbeast",
+      "price": 284
+    },
+    {
+      "abr": "largedecaydrakehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_DecayDrake",
+      "price": 104
+    },
+    {
+      "abr": "largedesertavehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_DesertAve",
+      "price": 104
+    },
+    {
+      "abr": "largedesertavehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_FrostAve",
+      "price": 105
+    },
+    {
+      "abr": "largeerinhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Erin",
+      "price": 104
+    },
+    {
+      "abr": "largefenghuanghide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MM_Fenghuang",
+      "price": 255
+    },
+    {
+      "abr": "largeferaliskclutchmotherhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_FeraliskClutch",
+      "price": 148
+    },
+    {
+      "abr": "largeferaliskhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Feralisk",
+      "price": 148
+    },
+    {
+      "abr": "largeflamingophoenixhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_FlamingoPhoenix",
+      "price": 65
+    },
+    {
+      "abr": "largefrostlinghide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Frostling",
+      "price": 223
+    },
+    {
+      "abr": "largefungalhuskhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_FungalHusk",
+      "price": 315
+    },
+    {
+      "abr": "largejungleliskhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Junglelisk",
+      "price": 148
+    },
+    {
+      "abr": "largekappahide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MM_Kappa",
+      "price": 163
+    },
+    {
+      "abr": "largemeadowavehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MeadowAve",
+      "price": 100
+    },
+    {
+      "abr": "largemimehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Mime",
+      "price": 315
+    },
+    {
+      "abr": "largeneedleposthide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Needlepost",
+      "price": 188
+    },
+    {
+      "abr": "largenightavehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_NightAve",
+      "price": 110
+    },
+    {
+      "abr": "largenightlinghide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Nightling",
+      "price": 148
+    },
+    {
+      "abr": "largeocularnightlinghide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_OcularNightling",
+      "price": 148
+    },
+    {
+      "abr": "largephoenixhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MM_Phoenix",
+      "price": 203
+    },
+    {
+      "abr": "largeqilinhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MM_Qilin",
+      "price": 183
+    },
+    {
+      "abr": "largeraptorshrimphide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_RaptorShrimp",
+      "price": 265
+    },
+    {
+      "abr": "largerayhoundhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_RayHound",
+      "price": 142
+    },
+    {
+      "abr": "largerazorjackhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Razorjack",
+      "price": 131
+    },
+    {
+      "abr": "largeripperhoundhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_RipperHound",
+      "price": 223
+    },
+    {
+      "abr": "largeroyalavehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_RoyalAve",
+      "price": 110
+    },
+    {
+      "abr": "largethermadonhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Thermadon",
+      "price": 284
+    },
+    {
+      "abr": "largethunderbeasthide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Thunderbeast",
+      "price": 252
+    },
+    {
+      "abr": "largeunblinkingeyehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_UnblinkingEye",
+      "price": 180
+    },
+    {
+      "abr": "lemur",
+      "category": "Animals",
+      "defname": "AEXP_Lemur",
+      "price": 250
+    },
+    {
       "abr": "massiverunedcolumn",
       "category": "Misc",
       "defname": "RWY_DD_RuneColumn",
       "price": 525
+    },
+    {
+      "abr": "mediumangelmothhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_AngelMoth",
+      "price": 122
+    },
+    {
+      "abr": "mediumbumbledronehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Bumbledrone",
+      "price": 126
+    },
+    {
+      "abr": "mediumbumbledronehierophanthide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_BumbledroneHierophant",
+      "price": 189
+    },
+    {
+      "abr": "mediumbumbledronequeenhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_BumbledroneQueen",
+      "price": 189
+    },
+    {
+      "abr": "mediumcactipinehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Cactipine",
+      "price": 189
+    },
+    {
+      "abr": "mediumchameleonyakhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_ChameleonYak",
+      "price": 592
+    },
+    {
+      "abr": "mediumcystallinecaracalhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_CrystallineCaracal",
+      "price": 408
+    },
+    {
+      "abr": "mediumfirewasphide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Firewasp",
+      "price": 126
+    },
+    {
+      "abr": "mediumgrey-coatedmouflonhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_GreyCoatedMouflon",
+      "price": 88
+    },
+    {
+      "abr": "mediumieltxuhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MM_Ieltxu",
+      "price": 122
+    },
+    {
+      "abr": "mediumkitsunehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MM_Kitsune",
+      "price": 122
+    },
+    {
+      "abr": "mediumpedigreedraptorhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_PedigreedRaptor",
+      "price": 104
+    },
+    {
+      "abr": "mediumshockgoathide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_ShockGoat",
+      "price": 88
+    },
+    {
+      "abr": "mediumskiphoundhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Skiphound",
+      "price": 88
     },
     {
       "abr": "nebuladust",
@@ -29293,6 +29731,24 @@
       "price": 16667
     },
     {
+      "abr": "raccoon",
+      "category": "Animals",
+      "defname": "Raccoon",
+      "price": 167
+    },
+    {
+      "abr": "rat",
+      "category": "Animals",
+      "defname": "Rat",
+      "price": 58
+    },
+    {
+      "abr": "redfox",
+      "category": "Animals",
+      "defname": "Fox_Red",
+      "price": 333
+    },
+    {
       "abr": "rednebuladragon",
       "category": "Animals",
       "defname": "Red_Nebula_Dragon",
@@ -29323,6 +29779,66 @@
       "price": 1783
     },
     {
+      "abr": "smallbedbughide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Bedbug",
+      "price": 94
+    },
+    {
+      "abr": "smalldevilsheephide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Devilsheep",
+      "price": 66
+    },
+    {
+      "abr": "smalldrainerhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Drainer",
+      "price": 94
+    },
+    {
+      "abr": "smallfissionmousehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_FissionMouse",
+      "price": 66
+    },
+    {
+      "abr": "smallfrostmitehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Frostmite",
+      "price": 94
+    },
+    {
+      "abr": "smallmegalousehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Megalouse",
+      "price": 132
+    },
+    {
+      "abr": "smallmurklinghide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_RMurklingFO",
+      "price": 51
+    },
+    {
+      "abr": "smallocularjellyhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_OcularJelly",
+      "price": 180
+    },
+    {
+      "abr": "smallsalamanderhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MM_Salamander",
+      "price": 183
+    },
+    {
+      "abr": "smalltlicoatlhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MM_Tlilcoatl",
+      "price": 183
+    },
+    {
       "abr": "standingdragonstatue",
       "category": "Art",
       "defname": "Dragon_Statue_A",
@@ -29333,6 +29849,108 @@
       "category": "Furniture",
       "defname": "RWY_StarLamp",
       "price": 1275
+    },
+    {
+      "abr": "tinyaerofleethide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Aerofleet",
+      "price": 63
+    },
+    {
+      "abr": "tinyangelmothlarvahide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_AngelMothLarva",
+      "price": 36
+    },
+    {
+      "abr": "tinyatispeclarvahide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_LarvalAtispec",
+      "price": 36
+    },
+    {
+      "abr": "tinybasiliskhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_MM_Basilisk",
+      "price": 62
+    },
+    {
+      "abr": "tinyblackscarabhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_BlackScarab",
+      "price": 107
+    },
+    {
+      "abr": "tinycrescendoanolehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_CrescendoAnole",
+      "price": 54
+    },
+    {
+      "abr": "tinydrainerlarvahide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_DrainerLarva",
+      "price": 36
+    },
+    {
+      "abr": "tinyduskrathide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Duskrat",
+      "price": 41
+    },
+    {
+      "abr": "tinyeyelinghide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Eyeling",
+      "price": 180
+    },
+    {
+      "abr": "tinyinfectedaerofleethide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_AerofleetInfected",
+      "price": 63
+    },
+    {
+      "abr": "tinyluciferbughide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Luciferbug",
+      "price": 58
+    },
+    {
+      "abr": "tinyneedlerollhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Needleroll",
+      "price": 91
+    },
+    {
+      "abr": "tinyphoenixowlcathide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_PhoneixOwlcat",
+      "price": 66
+    },
+    {
+      "abr": "tinyporcupinehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_PorcupineAEXP",
+      "price": 54
+    },
+    {
+      "abr": "tinysalamanderhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_BlindSalamander",
+      "price": 50
+    },
+    {
+      "abr": "tinyswarmlinghide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Swarmling",
+      "price": 76
+    },
+    {
+      "abr": "tortoise",
+      "category": "Animals",
+      "defname": "Tortoise",
+      "price": 333
     },
     {
       "abr": "voiddragon",
@@ -29359,6 +29977,12 @@
       "price": 1783
     },
     {
+      "abr": "winter'sreign",
+      "category": "Magic foci",
+      "defname": "TM_WinterStaff",
+      "price": 7500
+    },
+    {
       "abr": "worldeaterdragon",
       "category": "Animals",
       "defname": "Eater_Void_Dragon",
@@ -29369,7 +29993,241 @@
       "category": "Art",
       "defname": "Dragon_Statue_D",
       "price": 1783
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "BedGuest",
+      "price": 155
+    },
+    {
+      "abr": "guestdoublebed",
+      "category": "Furniture",
+      "defname": "DoubleBedGuest",
+      "price": 292
+    },
+    {
+      "abr": "guestroyalbed",
+      "category": "Furniture",
+      "defname": "RoyalBedGuest",
+      "price": 1450
+    },
+    {
+      "abr": "guesthospitalbed",
+      "category": "Furniture",
+      "defname": "HospitalBedGuest",
+      "price": 675
+    },
+    {
+      "abr": "guestbedroll",
+      "category": "Furniture",
+      "defname": "BedrollGuest",
+      "price": 137
+    },
+    {
+      "abr": "guestdoublebedroll",
+      "category": "Furniture",
+      "defname": "BedrollDoubleGuest",
+      "price": 290
+    },
+    {
+      "abr": "guestancientbed",
+      "category": "Misc",
+      "defname": "AncientBedGuest",
+      "price": 5
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "SlabBedGuest",
+      "price": 102
+    },
+    {
+      "abr": "guestslabdoublebed",
+      "category": "Furniture",
+      "defname": "SlabDoubleBedGuest",
+      "price": 288
+    },
+    {
+      "abr": "guestherbalbed",
+      "category": "Furniture",
+      "defname": "HerbBedeGuest",
+      "price": 475
+    },
+    {
+      "abr": "guestroboticbed",
+      "category": "Furniture",
+      "defname": "MedBedGuest",
+      "price": 1733
+    },
+    {
+      "abr": "guestcyberneticbed",
+      "category": "Furniture",
+      "defname": "IIMedGuest",
+      "price": 6808
+    },
+    {
+      "abr": "guestwickerbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedWickerGuest",
+      "price": 153
+    },
+    {
+      "abr": "guestdoublewickerbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedWickerDoubleGuest",
+      "price": 289
+    },
+    {
+      "abr": "gueststrawbed",
+      "category": "Furniture",
+      "defname": "DankPyon_StrawBedGuest",
+      "price": 171
+    },
+    {
+      "abr": "guestdoublestrawbed",
+      "category": "Furniture",
+      "defname": "DankPyon_StrawBedDoubleGuest",
+      "price": 325
+    },
+    {
+      "abr": "guestfurbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedFurGuest",
+      "price": 143
+    },
+    {
+      "abr": "guestdoublefurbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedFurDoubleGuest",
+      "price": 276
+    },
+    {
+      "abr": "guestroyaltudorbed",
+      "category": "Furniture",
+      "defname": "DankPyon_RoyalTudorBedGuest",
+      "price": 1908
+    },
+    {
+      "abr": "guestfurbed",
+      "category": "Furniture",
+      "defname": "VFEV_FurBedGuest",
+      "price": 170
+    },
+    {
+      "abr": "guestdoublefurbed",
+      "category": "Furniture",
+      "defname": "VFEV_DoubleFurBedGuest",
+      "price": 350
+    },
+    {
+      "abr": "guestergonomicbed",
+      "category": "Furniture",
+      "defname": "Bed_ErgonomicGuest",
+      "price": 450
+    },
+    {
+      "abr": "guestergonomicdoublebed",
+      "category": "Furniture",
+      "defname": "Bed_DoubleErgonomicGuest",
+      "price": 875
+    },
+    {
+      "abr": "guestroyalposterbed",
+      "category": "Furniture",
+      "defname": "Bed_KingsizeGuest",
+      "price": 1983
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "Bed_StoneSlabGuest",
+      "price": 111
+    },
+    {
+      "abr": "guestsimplebed",
+      "category": "Furniture",
+      "defname": "Bed_SimpleGuest",
+      "price": 137
+    },
+    {
+      "abr": "guesttriplebedroll",
+      "category": "Furniture",
+      "defname": "BedrollTripleGuest",
+      "price": 442
+    },
+    {
+      "abr": "guestquadrabedroll",
+      "category": "Furniture",
+      "defname": "BedrollQuadGuest",
+      "price": 600
+    },
+    {
+      "abr": "guesttriplebed",
+      "category": "Furniture",
+      "defname": "TripleBedGuest",
+      "price": 433
+    },
+    {
+      "abr": "guestquadrabed",
+      "category": "Furniture",
+      "defname": "QuadBedGuest",
+      "price": 567
+    },
+    {
+      "abr": "guesttripleroyalbed",
+      "category": "Furniture",
+      "defname": "TripleRoyalBedGuest",
+      "price": 2158
+    },
+    {
+      "abr": "guestquadraroyalbed",
+      "category": "Furniture",
+      "defname": "QuadRoyalBedGuest",
+      "price": 2867
+    },
+    {
+      "abr": "guestpentaroyalbed",
+      "category": "Furniture",
+      "defname": "PentaRoyalBedGuest",
+      "price": 3575
+    },
+    {
+      "abr": "guestoperatingtable",
+      "category": "Furniture",
+      "defname": "Bed_OperatingTableGuest",
+      "price": 508
+    },
+    {
+      "abr": "guestcryptosleepsuspender",
+      "category": "Furniture",
+      "defname": "Bed_CryptoBedGuest",
+      "price": 742
+    },
+    {
+      "abr": "guestancientbed",
+      "category": "Misc",
+      "defname": "VME_AncientBedGuest",
+      "price": 5
+    },
+    {
+      "abr": "guestmutanitebed",
+      "category": "Furniture",
+      "defname": "MutaniteBedGuest",
+      "price": 408
+    },
+    {
+      "abr": "guestslabtriplebed",
+      "category": "Furniture",
+      "defname": "SlabTripleBedGuest",
+      "price": 475
+    },
+    {
+      "abr": "guestslabquadbed",
+      "category": "Furniture",
+      "defname": "SlabQuadBedGuest",
+      "price": 658
     }
   ],
-  "total": 4895
+  "total": 5038
 }
