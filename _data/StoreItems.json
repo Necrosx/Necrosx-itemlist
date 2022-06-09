@@ -2005,12 +2005,6 @@
       "price": 240
     },
     {
-      "abr": "squirrel",
-      "category": "Animals",
-      "defname": "Squirrel",
-      "price": 51
-    },
-    {
       "abr": "boomrat",
       "category": "Animals",
       "defname": "Boomrat",
@@ -16645,12 +16639,6 @@
       "price": 133
     },
     {
-      "abr": "extremegenome",
-      "category": "Genomes",
-      "defname": "PM_Genome_Extreme_Implicit",
-      "price": 183
-    },
-    {
       "abr": "fakehorn",
       "category": "Prosthetic",
       "defname": "MG_FakeHorn",
@@ -26671,12 +26659,6 @@
       "price": 92
     },
     {
-      "abr": "steelslagchunk",
-      "category": "Chunks",
-      "defname": "ChunkSlagSteel",
-      "price": -10
-    },
-    {
       "abr": "stewpot",
       "category": "Misc",
       "defname": "DankPyon_StewPot",
@@ -28957,12 +28939,6 @@
       "price": 16667
     },
     {
-      "abr": "eyeling",
-      "category": "Animals",
-      "defname": "AA_Eyeling",
-      "price": 167
-    },
-    {
       "abr": "flyingserpentstatue",
       "category": "Art",
       "defname": "Dragon_Statue_E",
@@ -29731,12 +29707,6 @@
       "price": 16667
     },
     {
-      "abr": "raccoon",
-      "category": "Animals",
-      "defname": "Raccoon",
-      "price": 167
-    },
-    {
       "abr": "rat",
       "category": "Animals",
       "defname": "Rat",
@@ -29995,239 +29965,239 @@
       "price": 1783
     },
     {
-      "abr": "guestbed",
-      "category": "Furniture",
-      "defname": "BedGuest",
-      "price": 155
+      "abr": "eyeling",
+      "category": "Animals",
+      "defname": "AA_Eyeling",
+      "price": 167
     },
     {
-      "abr": "guestdoublebed",
-      "category": "Furniture",
-      "defname": "DoubleBedGuest",
-      "price": 292
+      "abr": "boomratmorph",
+      "category": "Animal",
+      "defname": "BoomratMorphRace_Implied",
+      "price": 1542
     },
     {
-      "abr": "guestroyalbed",
-      "category": "Furniture",
-      "defname": "RoyalBedGuest",
-      "price": 1450
+      "abr": "elkmorph",
+      "category": "Animal",
+      "defname": "ElkMorphRace_Implied",
+      "price": 1708
     },
     {
-      "abr": "guesthospitalbed",
-      "category": "Furniture",
-      "defname": "HospitalBedGuest",
-      "price": 675
+      "abr": "guineapigmorph",
+      "category": "Animal",
+      "defname": "GuineaPigMorphRace_Implied",
+      "price": 1583
     },
     {
-      "abr": "guestbedroll",
-      "category": "Furniture",
-      "defname": "BedrollGuest",
-      "price": 137
+      "abr": "mutaserum,equine",
+      "category": "Serums",
+      "defname": "RandomEquineTransformer",
+      "price": 200
     },
     {
-      "abr": "guestdoublebedroll",
-      "category": "Furniture",
-      "defname": "BedrollDoubleGuest",
-      "price": 290
+      "abr": "mutaserum,exotic",
+      "category": "Serums",
+      "defname": "RandomExoticTransformer",
+      "price": 200
     },
     {
-      "abr": "guestancientbed",
-      "category": "Misc",
-      "defname": "AncientBedGuest",
-      "price": 5
+      "abr": "mutaserum,simian",
+      "category": "Serums",
+      "defname": "RandomSimianTransformer",
+      "price": 200
     },
     {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "SlabBedGuest",
-      "price": 102
+      "abr": "mutaserum,ursine",
+      "category": "Serums",
+      "defname": "RandomUrsineTransformer",
+      "price": 200
     },
     {
-      "abr": "guestslabdoublebed",
-      "category": "Furniture",
-      "defname": "SlabDoubleBedGuest",
-      "price": 288
+      "abr": "animalclothes",
+      "category": "Animal Apparel",
+      "defname": "Apparel_SmallAnimalClothes",
+      "price": 166
     },
     {
-      "abr": "guestherbalbed",
-      "category": "Furniture",
-      "defname": "HerbBedeGuest",
-      "price": 475
+      "abr": "animalflakarmor",
+      "category": "Animal Apparel",
+      "defname": "Apparel_SmallAnimalFlakArmor",
+      "price": 500
     },
     {
-      "abr": "guestroboticbed",
-      "category": "Furniture",
-      "defname": "MedBedGuest",
-      "price": 1733
+      "abr": "animalflakhelmet",
+      "category": "Animal Apparel",
+      "defname": "Apparel_SmallAnimalAdvancedHelmet",
+      "price": 260
     },
     {
-      "abr": "guestcyberneticbed",
-      "category": "Furniture",
-      "defname": "IIMedGuest",
-      "price": 6808
+      "abr": "animalheadwear",
+      "category": "Animal Apparel",
+      "defname": "Apparel_SmallAnimalScarf",
+      "price": 91
     },
     {
-      "abr": "guestwickerbed",
-      "category": "Furniture",
-      "defname": "DankPyon_BedWickerGuest",
-      "price": 153
-    },
-    {
-      "abr": "guestdoublewickerbed",
-      "category": "Furniture",
-      "defname": "DankPyon_BedWickerDoubleGuest",
-      "price": 289
-    },
-    {
-      "abr": "gueststrawbed",
-      "category": "Furniture",
-      "defname": "DankPyon_StrawBedGuest",
-      "price": 171
-    },
-    {
-      "abr": "guestdoublestrawbed",
-      "category": "Furniture",
-      "defname": "DankPyon_StrawBedDoubleGuest",
-      "price": 325
-    },
-    {
-      "abr": "guestfurbed",
-      "category": "Furniture",
-      "defname": "DankPyon_BedFurGuest",
-      "price": 143
-    },
-    {
-      "abr": "guestdoublefurbed",
-      "category": "Furniture",
-      "defname": "DankPyon_BedFurDoubleGuest",
-      "price": 276
-    },
-    {
-      "abr": "guestroyaltudorbed",
-      "category": "Furniture",
-      "defname": "DankPyon_RoyalTudorBedGuest",
-      "price": 1908
-    },
-    {
-      "abr": "guestfurbed",
-      "category": "Furniture",
-      "defname": "VFEV_FurBedGuest",
-      "price": 170
-    },
-    {
-      "abr": "guestdoublefurbed",
-      "category": "Furniture",
-      "defname": "VFEV_DoubleFurBedGuest",
-      "price": 350
-    },
-    {
-      "abr": "guestergonomicbed",
-      "category": "Furniture",
-      "defname": "Bed_ErgonomicGuest",
+      "abr": "animalplatearmor",
+      "category": "Animal Apparel",
+      "defname": "Apparel_SmallAnimalPlateArmor",
       "price": 450
     },
     {
-      "abr": "guestergonomicdoublebed",
-      "category": "Furniture",
-      "defname": "Bed_DoubleErgonomicGuest",
-      "price": 875
+      "abr": "animalplatehelmet",
+      "category": "Animal Apparel",
+      "defname": "Apparel_SmallAnimalPlateHelmet",
+      "price": 135
     },
     {
-      "abr": "guestroyalposterbed",
-      "category": "Furniture",
-      "defname": "Bed_KingsizeGuest",
-      "price": 1983
+      "abr": "animalpowerarmor",
+      "category": "Animal Apparel",
+      "defname": "Apparel_SmallAnimalPowerArmor",
+      "price": 3392
     },
     {
-      "abr": "guestslabbed",
-      "category": "Furniture",
-      "defname": "Bed_StoneSlabGuest",
-      "price": 111
+      "abr": "animalpowerhelmet",
+      "category": "Animal Apparel",
+      "defname": "Apparel_SmallAnimalPowerArmorHelmet",
+      "price": 1058
     },
     {
-      "abr": "guestsimplebed",
-      "category": "Furniture",
-      "defname": "Bed_SimpleGuest",
-      "price": 137
+      "abr": "largeanimalclothes",
+      "category": "Animal Apparel",
+      "defname": "Apparel_LargeAnimalClothes",
+      "price": 292
     },
     {
-      "abr": "guesttriplebedroll",
-      "category": "Furniture",
-      "defname": "BedrollTripleGuest",
+      "abr": "largeanimalflakarmor",
+      "category": "Animal Apparel",
+      "defname": "Apparel_LargeAnimalFlakArmor",
+      "price": 1108
+    },
+    {
+      "abr": "largeanimalflakhelmet",
+      "category": "Animal Apparel",
+      "defname": "Apparel_LargeAnimalAdvancedHelmet",
+      "price": 592
+    },
+    {
+      "abr": "largeanimalheadwear",
+      "category": "Animal Apparel",
+      "defname": "Apparel_LargeAnimalScarf",
+      "price": 181
+    },
+    {
+      "abr": "largeanimalplatearmor",
+      "category": "Animal Apparel",
+      "defname": "Apparel_LargeAnimalPlateArmor",
+      "price": 1075
+    },
+    {
+      "abr": "largeanimalplatehelmet",
+      "category": "Animal Apparel",
+      "defname": "Apparel_LargeAnimalPlateHelmet",
+      "price": 269
+    },
+    {
+      "abr": "largeanimalpowerarmor",
+      "category": "Animal Apparel",
+      "defname": "Apparel_LargeAnimalPowerArmor",
+      "price": 5783
+    },
+    {
+      "abr": "largeanimalpowerhelmet",
+      "category": "Animal Apparel",
+      "defname": "Apparel_LargeAnimalPowerArmorHelmet",
+      "price": 1717
+    },
+    {
+      "abr": "mutasyringe,boomrat",
+      "category": "Injector",
+      "defname": "BoomratMorphTransformer",
+      "price": 667
+    },
+    {
+      "abr": "mutasyringe,elk",
+      "category": "Injector",
+      "defname": "ElkMorphTransformer",
+      "price": 667
+    },
+    {
+      "abr": "mutasyringe,guineapig",
+      "category": "Injector",
+      "defname": "GuineaPigMorphTransformer",
+      "price": 667
+    },
+    {
+      "abr": "mutasyringe,hellhound",
+      "category": "Injector",
+      "defname": "PM_HellhoundMorphTransformer",
+      "price": 667
+    },
+    {
+      "abr": "raccoon",
+      "category": "Animals",
+      "defname": "Raccoon",
+      "price": 167
+    },
+    {
+      "abr": "ridinggear",
+      "category": "Animal Apparel",
+      "defname": "Apparel_bridle",
+      "price": 322
+    },
+    {
+      "abr": "squirrel",
+      "category": "Animals",
+      "defname": "Squirrel",
+      "price": 58
+    },
+    {
+      "abr": "universalanimalclothes",
+      "category": "Animal Apparel",
+      "defname": "Apparel_AnimalClothes",
+      "price": 166
+    },
+    {
+      "abr": "universalanimalflakarmor",
+      "category": "Animal Apparel",
+      "defname": "Apparel_AnimalFlakArmor",
+      "price": 483
+    },
+    {
+      "abr": "universalanimalflakhelmet",
+      "category": "Animal Apparel",
+      "defname": "Apparel_AnimalAdvancedHelmet",
       "price": 442
     },
     {
-      "abr": "guestquadrabedroll",
-      "category": "Furniture",
-      "defname": "BedrollQuadGuest",
-      "price": 600
+      "abr": "universalanimalplatearmor",
+      "category": "Animal Apparel",
+      "defname": "Apparel_AnimalPlateArmor",
+      "price": 792
     },
     {
-      "abr": "guesttriplebed",
-      "category": "Furniture",
-      "defname": "TripleBedGuest",
-      "price": 433
+      "abr": "universalanimalplatehelmet",
+      "category": "Animal Apparel",
+      "defname": "Apparel_AnimalPlateHelmet",
+      "price": 153
     },
     {
-      "abr": "guestquadrabed",
-      "category": "Furniture",
-      "defname": "QuadBedGuest",
-      "price": 567
+      "abr": "universalanimalpowerarmor",
+      "category": "Animal Apparel",
+      "defname": "Apparel_AnimalPowerArmor",
+      "price": 3392
     },
     {
-      "abr": "guesttripleroyalbed",
-      "category": "Furniture",
-      "defname": "TripleRoyalBedGuest",
-      "price": 2158
+      "abr": "universalanimalpowerhelmet",
+      "category": "Animal Apparel",
+      "defname": "Apparel_AnimalPowerArmorHelmet",
+      "price": 1058
     },
     {
-      "abr": "guestquadraroyalbed",
-      "category": "Furniture",
-      "defname": "QuadRoyalBedGuest",
-      "price": 2867
-    },
-    {
-      "abr": "guestpentaroyalbed",
-      "category": "Furniture",
-      "defname": "PentaRoyalBedGuest",
-      "price": 3575
-    },
-    {
-      "abr": "guestoperatingtable",
-      "category": "Furniture",
-      "defname": "Bed_OperatingTableGuest",
-      "price": 508
-    },
-    {
-      "abr": "guestcryptosleepsuspender",
-      "category": "Furniture",
-      "defname": "Bed_CryptoBedGuest",
-      "price": 742
-    },
-    {
-      "abr": "guestancientbed",
-      "category": "Misc",
-      "defname": "VME_AncientBedGuest",
-      "price": 5
-    },
-    {
-      "abr": "guestmutanitebed",
-      "category": "Furniture",
-      "defname": "MutaniteBedGuest",
-      "price": 408
-    },
-    {
-      "abr": "guestslabtriplebed",
-      "category": "Furniture",
-      "defname": "SlabTripleBedGuest",
-      "price": 475
-    },
-    {
-      "abr": "guestslabquadbed",
-      "category": "Furniture",
-      "defname": "SlabQuadBedGuest",
-      "price": 658
+      "abr": "universalpetscarf",
+      "category": "Animal Apparel",
+      "defname": "Apparel_AnimalScarf",
+      "price": 83
     }
   ],
-  "total": 5038
+  "total": 5033
 }

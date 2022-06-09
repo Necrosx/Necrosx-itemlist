@@ -50007,6 +50007,36 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 4
+    },
+    {
+      "description": "Timmy's sees himself as the natural leader of his pride and as a consequence looks down on others and is easily offended.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Pawnmorpher",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PM_PridefulTrait",
+      "name": "prideful",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [

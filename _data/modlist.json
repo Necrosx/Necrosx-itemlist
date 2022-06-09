@@ -45,7 +45,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.7.4"
+    "version": "2.5.7.5"
   },
   {
     "author": "NetzachSloth",
@@ -88,6 +88,48 @@
     "name": "Adjustable Ability Cooldowns",
     "steamId": "2566715739",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "spoonshortage",
+    "name": "A Dog Said... Animal Prosthetics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": "2134308519",
+    "version": "1.3.7862.41411"
+  },
+  {
+    "author": "Mic,  Iron Wolf and  The Pheonix",
+    "name": "Pawnmorpher",
+    "steamId": "1786466855",
+    "version": "1.12.2"
+  },
+  {
+    "author": "Sarg Bjornson and  AFriend",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Anonymous, legodude17 and Oskar Potocki",
+    "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Daria40K",
+    "name": "Alpha Animals Patch for Outposts Mines",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Suvi",
@@ -160,6 +202,18 @@
     "name": "Blueprints",
     "steamId": "708455313",
     "version": "2.17.133"
+  },
+  {
+    "author": "Dylan",
+    "name": "Animal Gear",
+    "steamId": "1541438907",
+    "version": "1.3.1.3"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Animal Equipment",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Spanky_H",
@@ -334,24 +388,6 @@
     "name": "Everybody Gets One",
     "steamId": "1687566130",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
-    "name": "Vanilla Cooking Expanded",
-    "steamId": "2134308519",
-    "version": "1.3.7862.41411"
-  },
-  {
-    "author": "Mic,  Iron Wolf and  The Pheonix",
-    "name": "Pawnmorpher",
-    "steamId": "1786466855",
-    "version": "1.12.2"
   },
   {
     "author": "Fuglypump",
@@ -582,12 +618,6 @@
     "version": null
   },
   {
-    "author": "spoonshortage",
-    "name": "A Dog Said... Animal Prosthetics",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "LachlanEaston",
     "name": "LBE's A Dog Said Easy Patcher",
     "steamId": null,
@@ -652,12 +682,6 @@
     "name": "Medical Tab",
     "steamId": "715565817",
     "version": "3.4.91"
-  },
-  {
-    "author": "Sarg Bjornson and  AFriend",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
-    "version": "1.0.0.0"
   },
   {
     "author": "Little White Mouse",
@@ -942,6 +966,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Xeyeco",
+    "name": "OutpostsGemMine",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Leigh",
     "name": "Pack Mules Extended",
     "steamId": null,
@@ -1059,6 +1089,12 @@
     "author": "Sandy",
     "name": "RPG Style Inventory Revamped",
     "steamId": "2478833213",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "FLASHPOINT55",
+    "name": "RPG Style Level Up Mod",
+    "steamId": "1995668415",
     "version": "1.0.0.0"
   },
   {
@@ -1202,6 +1238,12 @@
   {
     "author": "Sierra",
     "name": "RimFantasy Addon - Heroic Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Daria40K",
+    "name": "RimFantasy Gemstones Patch for Outposts Mines",
     "steamId": null,
     "version": null
   },
@@ -1700,12 +1742,6 @@
   {
     "author": "Oskar Potocki,  Sarg Bjornson and  legodude17",
     "name": "Vanilla Ideology Expanded - Relics and Artifacts",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Anonymous, legodude17 and Oskar Potocki",
-    "name": "Vanilla Outposts Expanded",
     "steamId": null,
     "version": null
   },
