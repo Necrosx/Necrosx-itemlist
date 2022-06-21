@@ -1660,7 +1660,7 @@
       "abr": "bolt-actionrifle",
       "category": "Ranged weapons",
       "defname": "Gun_BoltActionRifle",
-      "price": 314
+      "price": -10
     },
     {
       "abr": "pumpshotgun",
@@ -1672,7 +1672,7 @@
       "abr": "chainshotgun",
       "category": "Ranged weapons",
       "defname": "Gun_ChainShotgun",
-      "price": 575
+      "price": -10
     },
     {
       "abr": "heavysmg",
@@ -1690,7 +1690,7 @@
       "abr": "assaultrifle",
       "category": "Ranged weapons",
       "defname": "Gun_AssaultRifle",
-      "price": 758
+      "price": -10
     },
     {
       "abr": "sniperrifle",
@@ -4258,7 +4258,7 @@
       "abr": "chargerailgun",
       "category": "Misc",
       "defname": "VFES_Turret_ChargeRailgunTurret",
-      "price": 4517
+      "price": -10
     },
     {
       "abr": "empcannon",
@@ -7690,7 +7690,7 @@
       "abr": "anti-materialrifle",
       "category": "Ranged weapons",
       "defname": "VWE_Gun_AntiMaterialRifle",
-      "price": 1550
+      "price": -10
     },
     {
       "abr": "antlers",
@@ -8020,7 +8020,7 @@
       "abr": "battlerifle",
       "category": "Ranged weapons",
       "defname": "VWE_Gun_BattleRifle",
-      "price": 758
+      "price": -10
     },
     {
       "abr": "baydecal",
@@ -15160,7 +15160,7 @@
       "abr": "assaultrifleoc(xenoorca)",
       "category": "Ranged weapons",
       "defname": "Gun_AssaultRifle_XO",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "barriercoat(nearmare)",
@@ -15850,7 +15850,7 @@
       "abr": "shotgunoc(xenoorca)",
       "category": "Ranged weapons",
       "defname": "Gun_PumpShotgun_XO",
-      "price": 3525
+      "price": -10
     },
     {
       "abr": "shrinemaidenclothes(xenoorca)",
@@ -19726,7 +19726,7 @@
       "abr": "chargeeltexgunblade",
       "category": "Eltex series",
       "defname": "V_AnimaGunBlade",
-      "price": 2833
+      "price": 2842
     },
     {
       "abr": "chargeeltexkatana",
@@ -19774,7 +19774,7 @@
       "abr": "chargegunblade",
       "category": "Charged arsenal",
       "defname": "V_ChargeGunBlade",
-      "price": 3200
+      "price": 3175
     },
     {
       "abr": "chargehalberd",
@@ -19822,7 +19822,7 @@
       "abr": "chargeshorteltexgunblade",
       "category": "Eltex series",
       "defname": "V_AnimaShortGunBlade",
-      "price": 2667
+      "price": 2792
     },
     {
       "abr": "chargeshortgunblade",
@@ -30197,7 +30197,379 @@
       "category": "Animal Apparel",
       "defname": "Apparel_AnimalScarf",
       "price": 83
+    },
+    {
+      "abr": "chest-deepmovingwater",
+      "category": "Misc",
+      "defname": "sd_bridges_terraform_ChestDeepMovingWater",
+      "price": 60
+    },
+    {
+      "abr": "deepwater",
+      "category": "Misc",
+      "defname": "sd_bridges_terraform_DeepWater",
+      "price": 60
+    },
+    {
+      "abr": "digupwater",
+      "category": "Misc",
+      "defname": "sd_bridges_terraform_DigUpWater",
+      "price": 30
+    },
+    {
+      "abr": "doubledrawbridgeup",
+      "category": "Misc",
+      "defname": "sd_bridges_doubledrawbridge_up",
+      "price": 858
+    },
+    {
+      "abr": "doubledrawbridgeup",
+      "category": "Misc",
+      "defname": "sd_bridges_doubledrawbridge_down",
+      "price": 858
+    },
+    {
+      "abr": "drawbridgeup",
+      "category": "Misc",
+      "defname": "sd_bridges_drawbridge_up",
+      "price": 425
+    },
+    {
+      "abr": "drawbridgeup",
+      "category": "Misc",
+      "defname": "sd_bridges_drawbridge_down",
+      "price": 425
+    },
+    {
+      "abr": "foundationmaterial",
+      "category": "Raw resources",
+      "defname": "sd_bridges_foundationmaterial",
+      "price": 3
+    },
+    {
+      "abr": "landbridge",
+      "category": "Misc",
+      "defname": "sd_bridges_landbridge",
+      "price": 70
+    },
+    {
+      "abr": "marsh",
+      "category": "Misc",
+      "defname": "sd_bridges_terraform_MarshWater",
+      "price": 30
+    },
+    {
+      "abr": "pontoonbridge",
+      "category": "Misc",
+      "defname": "sd_bridges_pontoonbridge",
+      "price": 10
+    },
+    {
+      "abr": "pontoonbridgepart",
+      "category": "Manufactured",
+      "defname": "sd_bridges_pontoonbridgepart",
+      "price": 3
+    },
+    {
+      "abr": "seabridge",
+      "category": "Misc",
+      "defname": "sd_bridges_seabridge",
+      "price": 70
+    },
+    {
+      "abr": "shallowmovingwater",
+      "category": "Misc",
+      "defname": "sd_bridges_terraform_ShallowMovingWater",
+      "price": 30
+    },
+    {
+      "abr": "shallowwater",
+      "category": "Misc",
+      "defname": "sd_bridges_terraform_ShallowWater",
+      "price": 30
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "BedGuest",
+      "price": 155
+    },
+    {
+      "abr": "guestdoublebed",
+      "category": "Furniture",
+      "defname": "DoubleBedGuest",
+      "price": 292
+    },
+    {
+      "abr": "guestroyalbed",
+      "category": "Furniture",
+      "defname": "RoyalBedGuest",
+      "price": 1708
+    },
+    {
+      "abr": "guesthospitalbed",
+      "category": "Furniture",
+      "defname": "HospitalBedGuest",
+      "price": 700
+    },
+    {
+      "abr": "guestbedroll",
+      "category": "Furniture",
+      "defname": "BedrollGuest",
+      "price": 137
+    },
+    {
+      "abr": "guestdoublebedroll",
+      "category": "Furniture",
+      "defname": "BedrollDoubleGuest",
+      "price": 290
+    },
+    {
+      "abr": "guestancientbed",
+      "category": "Misc",
+      "defname": "AncientBedGuest",
+      "price": 5
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "SlabBedGuest",
+      "price": 102
+    },
+    {
+      "abr": "guestslabdoublebed",
+      "category": "Furniture",
+      "defname": "SlabDoubleBedGuest",
+      "price": 288
+    },
+    {
+      "abr": "guestherbalbed",
+      "category": "Furniture",
+      "defname": "HerbBedeGuest",
+      "price": 475
+    },
+    {
+      "abr": "guestroboticbed",
+      "category": "Furniture",
+      "defname": "MedBedGuest",
+      "price": 1750
+    },
+    {
+      "abr": "guestcyberneticbed",
+      "category": "Furniture",
+      "defname": "IIMedGuest",
+      "price": 6633
+    },
+    {
+      "abr": "guestwickerbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedWickerGuest",
+      "price": 153
+    },
+    {
+      "abr": "guestdoublewickerbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedWickerDoubleGuest",
+      "price": 289
+    },
+    {
+      "abr": "gueststrawbed",
+      "category": "Furniture",
+      "defname": "DankPyon_StrawBedGuest",
+      "price": 172
+    },
+    {
+      "abr": "guestdoublestrawbed",
+      "category": "Furniture",
+      "defname": "DankPyon_StrawBedDoubleGuest",
+      "price": 326
+    },
+    {
+      "abr": "guestfurbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedFurGuest",
+      "price": 144
+    },
+    {
+      "abr": "guestdoublefurbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedFurDoubleGuest",
+      "price": 277
+    },
+    {
+      "abr": "guestroyaltudorbed",
+      "category": "Furniture",
+      "defname": "DankPyon_RoyalTudorBedGuest",
+      "price": 2267
+    },
+    {
+      "abr": "guestfurbed",
+      "category": "Furniture",
+      "defname": "VFEV_FurBedGuest",
+      "price": 170
+    },
+    {
+      "abr": "guestdoublefurbed",
+      "category": "Furniture",
+      "defname": "VFEV_DoubleFurBedGuest",
+      "price": 350
+    },
+    {
+      "abr": "guestergonomicbed",
+      "category": "Furniture",
+      "defname": "Bed_ErgonomicGuest",
+      "price": 450
+    },
+    {
+      "abr": "guestergonomicdoublebed",
+      "category": "Furniture",
+      "defname": "Bed_DoubleErgonomicGuest",
+      "price": 867
+    },
+    {
+      "abr": "guestroyalposterbed",
+      "category": "Furniture",
+      "defname": "Bed_KingsizeGuest",
+      "price": 2375
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "Bed_StoneSlabGuest",
+      "price": 111
+    },
+    {
+      "abr": "guestsimplebed",
+      "category": "Furniture",
+      "defname": "Bed_SimpleGuest",
+      "price": 137
+    },
+    {
+      "abr": "guesttriplebedroll",
+      "category": "Furniture",
+      "defname": "BedrollTripleGuest",
+      "price": 442
+    },
+    {
+      "abr": "guestquadrabedroll",
+      "category": "Furniture",
+      "defname": "BedrollQuadGuest",
+      "price": 600
+    },
+    {
+      "abr": "guesttriplebed",
+      "category": "Furniture",
+      "defname": "TripleBedGuest",
+      "price": 433
+    },
+    {
+      "abr": "guestquadrabed",
+      "category": "Furniture",
+      "defname": "QuadBedGuest",
+      "price": 567
+    },
+    {
+      "abr": "guesttripleroyalbed",
+      "category": "Furniture",
+      "defname": "TripleRoyalBedGuest",
+      "price": 2542
+    },
+    {
+      "abr": "guestquadraroyalbed",
+      "category": "Furniture",
+      "defname": "QuadRoyalBedGuest",
+      "price": 3383
+    },
+    {
+      "abr": "guestpentaroyalbed",
+      "category": "Furniture",
+      "defname": "PentaRoyalBedGuest",
+      "price": 4217
+    },
+    {
+      "abr": "guestoperatingtable",
+      "category": "Furniture",
+      "defname": "Bed_OperatingTableGuest",
+      "price": 525
+    },
+    {
+      "abr": "guestcryptosleepsuspender",
+      "category": "Furniture",
+      "defname": "Bed_CryptoBedGuest",
+      "price": 758
+    },
+    {
+      "abr": "guestancientbed",
+      "category": "Misc",
+      "defname": "VME_AncientBedGuest",
+      "price": 5
+    },
+    {
+      "abr": "guestmutanitebed",
+      "category": "Furniture",
+      "defname": "MutaniteBedGuest",
+      "price": 417
+    },
+    {
+      "abr": "guestslabtriplebed",
+      "category": "Furniture",
+      "defname": "SlabTripleBedGuest",
+      "price": 475
+    },
+    {
+      "abr": "guestslabquadbed",
+      "category": "Furniture",
+      "defname": "SlabQuadBedGuest",
+      "price": 658
+    },
+    {
+      "abr": "replicator-prototyp",
+      "category": "Misc",
+      "defname": "ReplicatorPrototyp",
+      "price": 3325
+    },
+    {
+      "abr": "mountains-emiter",
+      "category": "Misc",
+      "defname": "MountainsEmiter",
+      "price": 2825
+    },
+    {
+      "abr": "tectonic-emiter",
+      "category": "Misc",
+      "defname": "TectonicEmiter",
+      "price": 542
+    },
+    {
+      "abr": "flora-emiter",
+      "category": "Misc",
+      "defname": "FloraEmiter",
+      "price": 2825
+    },
+    {
+      "abr": "mineral-emiter",
+      "category": "Misc",
+      "defname": "MineralEmiter",
+      "price": 2825
+    },
+    {
+      "abr": "rock-emiter",
+      "category": "Misc",
+      "defname": "RockEmiter",
+      "price": 2825
+    },
+    {
+      "abr": "terrain-emiter",
+      "category": "Misc",
+      "defname": "TerraEmiter",
+      "price": 2825
+    },
+    {
+      "abr": "weather-emiter",
+      "category": "Misc",
+      "defname": "WeatherEmiter",
+      "price": 2825
     }
   ],
-  "total": 5033
+  "total": 5095
 }

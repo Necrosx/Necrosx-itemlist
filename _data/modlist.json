@@ -45,7 +45,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.7.5"
+    "version": "2.5.7.6"
   },
   {
     "author": "NetzachSloth",
@@ -207,7 +207,7 @@
     "author": "Dylan",
     "name": "Animal Gear",
     "steamId": "1541438907",
-    "version": "1.3.1.3"
+    "version": "1.3.2.0"
   },
   {
     "author": "Owlchemist",
@@ -238,12 +238,6 @@
     "name": "Change map edge limit",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "void",
-    "name": "Character Editor",
-    "steamId": "1874644848",
-    "version": "1.3.842.0"
   },
   {
     "author": "Aelanna",
@@ -549,7 +543,7 @@
     "author": "Mlie",
     "name": "Haul Mined Chunks",
     "steamId": "2799728059",
-    "version": "1.3.3"
+    "version": "1.3.4"
   },
   {
     "author": "Orion",
@@ -924,6 +918,24 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.3.842.0"
+  },
+  {
+    "author": "Hahkethomemah",
+    "name": "1-2-3 Personalities M1",
+    "steamId": "2527258500",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Hahkethomemah",
+    "name": "No Poopin",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki,  Taranchuk and  Chowder",
     "name": "Vanilla Traits Expanded",
     "steamId": "2296404655",
@@ -946,6 +958,12 @@
     "name": "No Version Warning",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "avilmask",
+    "name": "Non uno Pinata (don't drop items)",
+    "steamId": "1778821244",
+    "version": "1.0.0.0"
   },
   {
     "author": "Farmradish",
@@ -1077,13 +1095,13 @@
     "author": "The White Crayon (Updated for 1.1 by Ogliss)",
     "name": "Quarry",
     "steamId": "2007576583",
-    "version": "1.0.0.0"
+    "version": "2.0.0"
   },
   {
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8182.38322"
+    "version": "1.0.8204.32145"
   },
   {
     "author": "Sandy",
@@ -1464,6 +1482,12 @@
     "version": null
   },
   {
+    "author": "void",
+    "name": "Terraform Rimworld",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "El Luchador",
     "name": "This Is Mine (Continued)",
     "steamId": null,
@@ -1758,12 +1782,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki",
     "name": "Vanilla Weapons Expanded - Tribal",
     "steamId": null,
@@ -1776,10 +1794,16 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Sk",
     "name": "Weapon Mastery",
     "steamId": "2766683678",
-    "version": "2.0.15"
+    "version": "2.2.3"
   },
   {
     "author": "Onyxae",
@@ -1934,6 +1958,12 @@
   {
     "author": "Wemd",
     "name": "[WD] Reinforced Doors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "[sd] Bridges (Continued)",
     "steamId": null,
     "version": null
   }
