@@ -3643,18 +3643,6 @@
 		"defname": "SunLamp"
 	},
 	{
-		"abr": "electricrepairbench",
-		"price": 500,
-		"category": "Production",
-		"defname": "ElectricTableRepair"
-	},
-	{
-		"abr": "repairkit",
-		"price": 22,
-		"category": "Manufactured",
-		"defname": "RepairKit"
-	},
-	{
 		"abr": "shiphull",
 		"price": -10,
 		"category": "Misc",
@@ -4487,12 +4475,6 @@
 		"price": 270,
 		"category": "Apparel",
 		"defname": "Sihv_Apparel_BoneArmor"
-	},
-	{
-		"abr": "bone",
-		"price": 1,
-		"category": "Raw resources",
-		"defname": "BoneItem"
 	},
 	{
 		"abr": "bonecrete",
@@ -16585,18 +16567,6 @@
 		"defname": "PM_Genebank"
 	},
 	{
-		"abr": "gigascorpionmorph",
-		"price": 1875,
-		"category": "Animal",
-		"defname": "PMI_GigaScorpionMorphRace_Implied"
-	},
-	{
-		"abr": "gigawigmorph",
-		"price": 1833,
-		"category": "Animal",
-		"defname": "PMI_GigawigMorphRace_Implied"
-	},
-	{
 		"abr": "glowvineseedpod",
 		"price": 30,
 		"category": "Plant matter",
@@ -16775,12 +16745,6 @@
 		"price": 92,
 		"category": "Serums",
 		"defname": "MechaniteSlurry"
-	},
-	{
-		"abr": "megaspidermorph",
-		"price": 1875,
-		"category": "Animal",
-		"defname": "PMI_MegaSpiderMorphRace_Implied"
 	},
 	{
 		"abr": "microverse",
@@ -17551,12 +17515,6 @@
 		"defname": "RhinocerosMorphRace_Implied"
 	},
 	{
-		"abr": "royalmaggotmorph",
-		"price": 1875,
-		"category": "Animal",
-		"defname": "PMI_RoyalMaggotMorphRace_Implied"
-	},
-	{
 		"abr": "sheepmorph",
 		"price": 1633,
 		"category": "Animal",
@@ -17615,12 +17573,6 @@
 		"price": 183,
 		"category": "Genomes",
 		"defname": "PM_Genome_Social_Implicit"
-	},
-	{
-		"abr": "spiderweavermorph",
-		"price": 1625,
-		"category": "Animal",
-		"defname": "PMI_SpiderweaverMorphRace_Implied"
 	},
 	{
 		"abr": "squirrelmorph",
@@ -29965,12 +29917,6 @@
 		"defname": "GuineaPigMorphTransformer"
 	},
 	{
-		"abr": "mutasyringe,hellhound",
-		"price": 667,
-		"category": "Injector",
-		"defname": "PM_HellhoundMorphTransformer"
-	},
-	{
 		"abr": "raccoon",
 		"price": 167,
 		"category": "Animals",
@@ -30246,6 +30192,12 @@
 		"category": "Drugs",
 		"defname": "ShadowEssence"
 	},
+	{
+		"abr": "onions",
+		"price": 1,
+		"category": "Vegetarian",
+		"defname": "DankPyon_RawOnions"
+	},
 	],
-	"total": 5052
+	"total": 5035
 }
