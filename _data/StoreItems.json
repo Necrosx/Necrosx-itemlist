@@ -6543,31 +6543,31 @@
 	{
 		"abr": "goldbracelet",
 		"price": 325,
-		"category": "Apparel",
+		"category": "Jewelry",
 		"defname": "Jewelry_Bracelet"
 	},
 	{
 		"abr": "goldearring",
 		"price": 234,
-		"category": "Apparel",
+		"category": "Jewelry",
 		"defname": "Jewelry_Earring"
 	},
 	{
 		"abr": "goldeltexnecklace",
 		"price": 750,
-		"category": "Apparel",
+		"category": "Jewelry",
 		"defname": "Jewelry_PsychicNecklace"
 	},
 	{
 		"abr": "goldnecklace",
 		"price": 550,
-		"category": "Apparel",
+		"category": "Jewelry",
 		"defname": "Jewelry_Necklace"
 	},
 	{
 		"abr": "goldring",
 		"price": 249,
-		"category": "Apparel",
+		"category": "Jewelry",
 		"defname": "Jewelry_Ring"
 	},
 	{
@@ -6675,31 +6675,31 @@
 	{
 		"abr": "silverbracelet",
 		"price": 328,
-		"category": "Apparel",
+		"category": "Jewelry",
 		"defname": "Jewelry_Bracelet_Silver"
 	},
 	{
 		"abr": "silverearring",
 		"price": 277,
-		"category": "Apparel",
+		"category": "Jewelry",
 		"defname": "Jewelry_Earring_Silver"
 	},
 	{
 		"abr": "silvereltexnecklace",
 		"price": 750,
-		"category": "Apparel",
+		"category": "Jewelry",
 		"defname": "Jewelry_PsychicNecklace_Silver"
 	},
 	{
 		"abr": "silvernecklace",
 		"price": 500,
-		"category": "Apparel",
+		"category": "Jewelry",
 		"defname": "Jewelry_Necklace_Silver"
 	},
 	{
 		"abr": "silverring",
 		"price": 260,
-		"category": "Apparel",
+		"category": "Jewelry",
 		"defname": "Jewelry_Ring_Silver"
 	},
 	{
@@ -30198,6 +30198,54 @@
 		"category": "Vegetarian",
 		"defname": "DankPyon_RawOnions"
 	},
+	{
+		"abr": "arcanewall",
+		"price": 2,
+		"category": "Misc",
+		"defname": "TM_ArchitectWallTempBD"
+	},
+	{
+		"abr": "electricrepairbench",
+		"price": 692,
+		"category": "Production",
+		"defname": "RG_ElectricRepairTable"
+	},
+	{
+		"abr": "gunbreakerskill:doubledown",
+		"price": 4667,
+		"category": "Scrolls",
+		"defname": "SkillOf_DoubleDown"
+	},
+	{
+		"abr": "gigascorpionmorph",
+		"price": 1875,
+		"category": "Animal",
+		"defname": "PMI_GigaScorpionMorphRace_Implied"
+	},
+	{
+		"abr": "gigawigmorph",
+		"price": 1833,
+		"category": "Animal",
+		"defname": "PMI_GigawigMorphRace_Implied"
+	},
+	{
+		"abr": "gunbreakerskill:hypervelocity",
+		"price": 2333,
+		"category": "Scrolls",
+		"defname": "SkillOf_Hypervelocity"
+	},
+	{
+		"abr": "megaspidermorph",
+		"price": 1875,
+		"category": "Animal",
+		"defname": "PMI_MegaSpiderMorphRace_Implied"
+	},
+	{
+		"abr": "royalmaggotmorph",
+		"price": 1875,
+		"category": "Animal",
+		"defname": "PMI_RoyalMaggotMorphRace_Implied"
+	}
 	],
-	"total": 5035
+	"total": 5043
 }

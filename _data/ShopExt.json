@@ -47815,7 +47815,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy is a Gunslinger, a mobile attacker capable of blanketing the battlefield with suppressive fire.",
+      "description": "Timmy is a Gunslinger, a mobile ranged attacker capable of blanketing the battlefield with suppressive fire.",
       "stats": [
         "-25% aiming time",
         "+0.25 move speed",
@@ -52881,7 +52881,7 @@
           "+26.0C Maximum comfortable temperature",
           "+20 Leather amount",
           "+3 Honor value",
-          "+115% Hunger rate multiplier",
+          "+85% Hunger rate multiplier",
           "+120% Hunting stealth"
         ],
         "mod": "Unknown",
