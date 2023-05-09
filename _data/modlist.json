@@ -108,14 +108,20 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Holgast",
-    "name": "Alpha Genes - Tradable Mixedpacks",
-    "steamId": null,
-    "version": null
+    "author": "Oskar Potocki, Kikohi and Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Insectoids",
+    "steamId": "2149755445",
+    "version": "1.2.3.1"
   },
   {
-    "author": "Mr.Rock23",
-    "name": "Ancient Crystals LITE (Continued)",
+    "author": "Sarg Bjornson",
+    "name": "Alpha Genes - Insectoid Mutations",
+    "steamId": "2906193379",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Holgast",
+    "name": "Alpha Genes - Tradable Mixedpacks",
     "steamId": null,
     "version": null
   },
@@ -124,6 +130,66 @@
     "name": "Toggleable Overlays",
     "steamId": "2608654598",
     "version": "1.4"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.4.1.1"
+  },
+  {
+    "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk and ISOREX",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.1.2"
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Mechs",
+    "steamId": "2973169158",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Tweaks Galore",
+    "steamId": "2695164414",
+    "version": "2.0.8479.28013"
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Books Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson, Helixien, Cassie, Luizi and Allie",
+    "name": "Alpha Memes",
+    "steamId": "2661356814",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mr.Rock23",
+    "name": "Ancient Crystals LITE (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Roolo and Owlchemist",
@@ -153,6 +219,12 @@
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Animals Expanded — Caves",
     "steamId": "2576512001",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson and Ben Lubar",
+    "name": "Alpha Bees",
+    "steamId": "1558161673",
     "version": "1.0.0.0"
   },
   {
@@ -222,12 +294,6 @@
     "version": null
   },
   {
-    "author": "telardo",
-    "name": "Better Gene Graphics Framework",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Falconne",
     "name": "Better Workbench Management",
     "steamId": null,
@@ -243,7 +309,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.6.3.0"
+    "version": "1.6.4.0"
   },
   {
     "author": "m00nl1ght-dev",
@@ -256,18 +322,6 @@
     "name": "Biotech - Insectoid Genes",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.4.1.1"
-  },
-  {
-    "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk and ISOREX",
-    "name": "Vanilla Factions Expanded - Mechanoids",
-    "steamId": "2329011599",
-    "version": "1.0.1.2"
   },
   {
     "author": "PunkyRoo",
@@ -376,6 +430,12 @@
     "name": "Change map edge limit",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.4.1240.0"
   },
   {
     "author": "cedaro",
@@ -594,12 +654,6 @@
     "version": null
   },
   {
-    "author": "Tarojun",
-    "name": "EPOE-Forked: Allow direct crafting",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Victorique, Aurani and Tarojun",
     "name": "EPOE-Forked: Royalty DLC expansion",
     "steamId": null,
@@ -656,6 +710,12 @@
   {
     "author": "VerriganHolmes",
     "name": "Flak Dusters",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Flickable Storage",
     "steamId": null,
     "version": null
   },
@@ -978,6 +1038,12 @@
     "version": null
   },
   {
+    "author": "Arquebus and woffleman",
+    "name": "More Gene Complexity",
+    "steamId": "2876012466",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "Gaaius",
     "name": "More Hemogen Genes",
     "steamId": null,
@@ -1026,24 +1092,6 @@
     "version": null
   },
   {
-    "author": "void",
-    "name": "Character Editor",
-    "steamId": "1874644848",
-    "version": "1.4.1240.0"
-  },
-  {
-    "author": "Hahkethomemah",
-    "name": "1-2-3 Personalities M1",
-    "steamId": "2527258500",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "Hahkethomemah",
-    "name": "No Poopin",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "KasumiTakeshi",
     "name": "No Prison Breaks [1.1-1.4]",
     "steamId": null,
@@ -1060,12 +1108,6 @@
     "name": "No Random Construction Quality",
     "steamId": "2075484620",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Squidd",
-    "name": "No Ranged Cooldown (Continued)",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Mlie",
@@ -1104,27 +1146,9 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, Kikohi and Sarg Bjornson",
-    "name": "Vanilla Factions Expanded - Insectoids",
-    "steamId": "2149755445",
-    "version": "1.2.3.1"
-  },
-  {
     "author": "Scorpio",
     "name": "Optimization: Leathers - C# Edition",
     "steamId": "2591816333",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Cooking Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded",
-    "steamId": "1914064942",
     "version": "1.0.0.0"
   },
   {
@@ -1192,6 +1216,12 @@
     "name": "Vanilla Furniture Expanded - Architect",
     "steamId": "2608762624",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Vanilla Textures Expanded - Variations",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Wemd",
@@ -1287,7 +1317,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8514.3423"
+    "version": "1.0.8521.5340"
   },
   {
     "author": "Sandy",
@@ -1318,6 +1348,18 @@
     "name": "Raise The Roof 1.4",
     "steamId": "1776143665",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "telardo",
+    "name": "Better Gene Graphics Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ailk97",
+    "name": "Rakkle Gene (BioTech)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Haplo",
@@ -1384,6 +1426,12 @@
     "name": "ResearchPowl",
     "steamId": "2877856030",
     "version": "1.4"
+  },
+  {
+    "author": "Fox with a Shotgun, Shashlichnik ;p (aka Шашлычник ;р) and Lost",
+    "name": "Revia Race - biotech",
+    "steamId": "2893157989",
+    "version": "1.0.0.0"
   },
   {
     "author": "Jecrell",
@@ -1743,7 +1791,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.3.0.0.biotech.b6"
+    "version": "6.3.0.0.biotech.b12"
   },
   {
     "author": "MarvinKosh",
@@ -1814,8 +1862,8 @@
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Brewing Expanded",
-    "steamId": null,
-    "version": null
+    "steamId": "2186560858",
+    "version": "1.0.0.0"
   },
   {
     "author": "Sarg Bjornson, Chowder and Trahspanda",
@@ -1862,8 +1910,8 @@
   {
     "author": "Oskar Potocki, dninemfive and Kikohi",
     "name": "Vanilla Furniture Expanded - Farming",
-    "steamId": null,
-    "version": null
+    "steamId": "1957158779",
+    "version": "1.0.1.0"
   },
   {
     "author": "OskarPotocki, Atlas and Kikohi",
@@ -1950,24 +1998,6 @@
     "version": null
   },
   {
-    "author": "Neronix17",
-    "name": "Tweaks Galore",
-    "steamId": "2695164414",
-    "version": "2.0.8479.28013"
-  },
-  {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Books Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Ideology Expanded - Memes and Structures",
-    "steamId": "2636329500",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki, Sarg Bjornson and legodude17",
     "name": "Vanilla Ideology Expanded - Relics and Artifacts",
     "steamId": null,
@@ -2016,9 +2046,27 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Genie",
+    "steamId": "2901424072",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg",
+    "name": "Vanilla Races Expanded - Hussar",
+    "steamId": "2893586390",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki, Sarg Bjornson, Allie, Erin, Sir Van and Reann Shepard",
     "name": "Vanilla Races Expanded - Phytokin",
     "steamId": "2927323805",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Erin",
+    "name": "Vanilla Races Expanded - Sanguophage",
+    "steamId": "2963116383",
     "version": "1.0.0.0"
   },
   {

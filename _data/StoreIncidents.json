@@ -76,6 +76,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "shortcircuit",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "toxicfallout",
 		"price": 6500,
 		"karmatype": "Doom"
@@ -217,6 +222,11 @@
 	},
 	{
 		"abr": "raid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "dropraid",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
@@ -426,5 +436,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 85
+	"total": 87
 }
