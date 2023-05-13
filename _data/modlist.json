@@ -30,6 +30,18 @@
     "version": null
   },
   {
+    "author": "JI_Won",
+    "name": "Won hair_men",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JI_Won",
+    "name": "Won hair_women ",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "金兔子拉面",
     "name": "AFU女士发型_Women's hairstyles",
     "steamId": null,
@@ -228,6 +240,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Chemfuel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Sarg, erdelf, Oskar Potocki, Luizi and Reann Shepard",
     "name": "Vanilla Genetics Expanded",
     "steamId": "2801160906",
@@ -406,6 +430,12 @@
     "name": "Buildable Terrain v1",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "DerekBickley",
+    "name": "[LTO] Colony Groups",
+    "steamId": "2345493945",
+    "version": "1.0.06"
   },
   {
     "author": "CrashM",
@@ -642,6 +672,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Vectorial1024",
+    "name": "Elite Bionics Framework",
+    "steamId": "1665403571",
+    "version": "2.0.0.0"
+  },
+  {
+    "author": "Kikohi and Trunken",
+    "name": "Cybernetic Organism and Neural Network",
+    "steamId": "2045064990",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
@@ -814,6 +856,18 @@
     "name": "Haul Mined Chunks",
     "steamId": "2799728059",
     "version": "1.4.1"
+  },
+  {
+    "author": "ItsComcastic",
+    "name": "Haul to Stack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Cthanatos",
+    "name": "HaulTeleporter",
+    "steamId": "2892118549",
+    "version": "1.0.0.0"
   },
   {
     "author": "Lusty",
@@ -1287,7 +1341,13 @@
     "author": "iamrespawn",
     "name": "Prosthetic No Missing Body Parts (Continued)",
     "steamId": "2739055353",
-    "version": "1.4.2"
+    "version": "1.4.3"
+  },
+  {
+    "author": "RebelRabbit and Taranchuk",
+    "name": "Quality Bionics",
+    "steamId": "2527206368",
+    "version": "1.0.0.0"
   },
   {
     "author": "dninemfive",
@@ -1920,12 +1980,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Power",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and Trunken",
     "name": "Vanilla Furniture Expanded - Production",
     "steamId": null,
@@ -2272,6 +2326,12 @@
     "name": "[KV] No Max Bills",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "KittahKhan",
+    "name": "[Kit] Graze up",
+    "steamId": "2302739121",
+    "version": "1.0.0.0"
   },
   {
     "author": "Lazy Friday Studio",
