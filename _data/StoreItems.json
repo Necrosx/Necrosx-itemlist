@@ -28609,12 +28609,6 @@
 		"defname": "BS_CreateArchiteXenogerm"
 	},
 	{
-		"abr": "dragonscale",
-		"price": 8,
-		"category": "Raw resources",
-		"defname": "Leather_DragonScale"
-	},
-	{
 		"abr": "genedicombobulator",
 		"price": 1625,
 		"category": "Misc",
@@ -32765,7 +32759,19 @@
 		"price": 3933,
 		"category": "Misc",
 		"defname": "VREA_SubcorePolyanalyzer"
+	},
+	{
+		"abr": "dragonleather",
+		"price": 29,
+		"category": "Leathers",
+		"defname": "Dragon_Leather"
+	},
+	{
+		"abr": "raredragonleather",
+		"price": 38,
+		"category": "Leathers",
+		"defname": "Rare_Dragon_Leather"
 	}
 	],
-	"total": 5461
+	"total": 5463
 }

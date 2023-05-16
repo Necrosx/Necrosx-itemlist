@@ -94299,7 +94299,7 @@
     "Mod": null,
     "KarmaType": null
   },
-  "Leather_DragonScale": {
+  "Dragon_Leather": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -94316,7 +94316,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Optimization: Leathers - C# Edition",
+    "Mod": "Dragons Descent",
     "KarmaType": null
   },
   "Leather_Legend": {
@@ -109217,6 +109217,46 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": null,
+    "KarmaType": null
+  },
+  "Rare_Dragon_Leather": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dragons Descent",
+    "KarmaType": null
+  },
+  "True_Dragon_Leather": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dragons Descent",
     "KarmaType": null
   }
 }
