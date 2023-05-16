@@ -32471,7 +32471,301 @@
 		"price": 2358,
 		"category": "Cybernetic",
 		"defname": "CONN_Zoom"
+	},
+	{
+		"abr": "airfilter",
+		"price": 525,
+		"category": "Android body parts",
+		"defname": "VREA_AirFilter"
+	},
+	{
+		"abr": "amberblocks",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "BlocksAmber"
+	},
+	{
+		"abr": "androidarm",
+		"price": 383,
+		"category": "Android body parts",
+		"defname": "VREA_AndroidArm"
+	},
+	{
+		"abr": "androidbehavioriststation",
+		"price": 2417,
+		"category": "Production",
+		"defname": "VREA_AndroidBehavioristStation"
+	},
+	{
+		"abr": "androidcreationstation",
+		"price": 3517,
+		"category": "Production",
+		"defname": "VREA_AndroidCreationStation"
+	},
+	{
+		"abr": "androidfoot",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_AndroidFoot"
+	},
+	{
+		"abr": "androidhand",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_AndroidHand"
+	},
+	{
+		"abr": "androidleg",
+		"price": 383,
+		"category": "Android body parts",
+		"defname": "VREA_AndroidLeg"
+	},
+	{
+		"abr": "androidpartworkbench",
+		"price": 1150,
+		"category": "Production",
+		"defname": "VREA_AndroidPartWorkbench"
+	},
+	{
+		"abr": "androidstand",
+		"price": 166,
+		"category": "Misc",
+		"defname": "VREA_AndroidStand"
+	},
+	{
+		"abr": "artificialabdominalcavity",
+		"price": 201,
+		"category": "Android body parts",
+		"defname": "VREA_BodyCavityA"
+	},
+	{
+		"abr": "artificialback",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_Back"
+	},
+	{
+		"abr": "artificialclavicle",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_Clavicle"
+	},
+	{
+		"abr": "artificialfemur",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_Femur"
+	},
+	{
+		"abr": "artificialfinger",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_Finger"
+	},
+	{
+		"abr": "artificialhumerus",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_Humerus"
+	},
+	{
+		"abr": "artificialjaw",
+		"price": 306,
+		"category": "Android body parts",
+		"defname": "VREA_ArtificialJaw"
+	},
+	{
+		"abr": "artificialleftchestcavity",
+		"price": 201,
+		"category": "Android body parts",
+		"defname": "VREA_BodyCavity1"
+	},
+	{
+		"abr": "artificiallowershoulder",
+		"price": 261,
+		"category": "Android body parts",
+		"defname": "VREA_LowerShoulder"
+	},
+	{
+		"abr": "artificialneck",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_Neck"
+	},
+	{
+		"abr": "artificialnose",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_ArtificialNose"
+	},
+	{
+		"abr": "artificialpelvis",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_Pelvis"
+	},
+	{
+		"abr": "artificialradius",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_Radius"
+	},
+	{
+		"abr": "artificialribcage",
+		"price": 306,
+		"category": "Android body parts",
+		"defname": "VREA_ArtificialRibcage"
+	},
+	{
+		"abr": "artificialrightchestcavity",
+		"price": 201,
+		"category": "Android body parts",
+		"defname": "VREA_BodyCavity2"
+	},
+	{
+		"abr": "artificialshoulder",
+		"price": 261,
+		"category": "Android body parts",
+		"defname": "VREA_Shoulder"
+	},
+	{
+		"abr": "artificialspine",
+		"price": 323,
+		"category": "Android body parts",
+		"defname": "VREA_ArtificialSpine"
+	},
+	{
+		"abr": "artificialsternum",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_Sternum"
+	},
+	{
+		"abr": "artificialtail",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_Tail"
+	},
+	{
+		"abr": "artificialtibia",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_Tibia"
+	},
+	{
+		"abr": "artificialtoe",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_Toe"
+	},
+	{
+		"abr": "artificialtongue",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_Tongue"
+	},
+	{
+		"abr": "artificialutilityslot",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_Waist"
+	},
+	{
+		"abr": "audioprocessor",
+		"price": 492,
+		"category": "Android body parts",
+		"defname": "VREA_AudioProcessor"
+	},
+	{
+		"abr": "greattreesap",
+		"price": 13,
+		"category": "Foods",
+		"defname": "GreatTreeSap"
+	},
+	{
+		"abr": "greattreeseed",
+		"price": 2000,
+		"category": "Misc",
+		"defname": "GreatTreeSeed"
+	},
+	{
+		"abr": "implantor",
+		"price": 1333,
+		"category": "Utility",
+		"defname": "Implantor"
+	},
+	{
+		"abr": "metabolismregulator",
+		"price": 542,
+		"category": "Android body parts",
+		"defname": "VREA_MetabolismRegulator"
+	},
+	{
+		"abr": "neuropump",
+		"price": 642,
+		"category": "Android body parts",
+		"defname": "VREA_NeuroPump"
+	},
+	{
+		"abr": "neutrocasket",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "VREA_NeutroCasket"
+	},
+	{
+		"abr": "neutrodrain",
+		"price": 194,
+		"category": "Furniture",
+		"defname": "VREA_NeutroDrain"
+	},
+	{
+		"abr": "neutropipe",
+		"price": 7,
+		"category": "Misc",
+		"defname": "VREA_NeutroPipe"
+	},
+	{
+		"abr": "neutrotank",
+		"price": 675,
+		"category": "Misc",
+		"defname": "VREA_NeutroTank"
+	},
+	{
+		"abr": "neutrotap",
+		"price": 194,
+		"category": "Furniture",
+		"defname": "VREA_NeutroTap"
+	},
+	{
+		"abr": "neutrofilter",
+		"price": 525,
+		"category": "Android body parts",
+		"defname": "VREA_Neutrofilter"
+	},
+	{
+		"abr": "opticalunit",
+		"price": 567,
+		"category": "Android body parts",
+		"defname": "VREA_OpticalUnit"
+	},
+	{
+		"abr": "personasubcore",
+		"price": 3333,
+		"category": "Manufactured",
+		"defname": "VREA_PersonaSubcore"
+	},
+	{
+		"abr": "reactor",
+		"price": 950,
+		"category": "Android body parts",
+		"defname": "VREA_Reactor"
+	},
+	{
+		"abr": "subcorepolyanalyzer",
+		"price": 3933,
+		"category": "Misc",
+		"defname": "VREA_SubcorePolyanalyzer"
 	}
 	],
-	"total": 5412
+	"total": 5461
 }

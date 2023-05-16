@@ -662,8 +662,8 @@
   {
     "author": "Anomalous",
     "name": "Dynamic Population",
-    "steamId": null,
-    "version": null
+    "steamId": "1658712035",
+    "version": "1.1"
   },
   {
     "author": "Jaxxa",
@@ -712,6 +712,24 @@
     "name": "Enter Here",
     "steamId": "2824117092",
     "version": "1.4.9"
+  },
+  {
+    "author": "DemonRoka",
+    "name": "Euglena Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DemonRoka",
+    "name": "Euglena Expanded - Euglena Xenotype",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DemonRoka",
+    "name": "Euglena Expanded - Implantor",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "StatistNo1",
@@ -1216,6 +1234,12 @@
     "name": "Outland - Genetics",
     "steamId": "2910172297",
     "version": "1.0.8445.14336"
+  },
+  {
+    "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX and erdelf",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
   },
   {
     "author": "Neronix17",
@@ -2092,6 +2116,12 @@
     "name": "Vanilla Plants Expanded - Succulents",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Android",
+    "steamId": "2975771801",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
