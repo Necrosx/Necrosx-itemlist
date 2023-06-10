@@ -12,6 +12,12 @@
     "version": "1.0.0"
   },
   {
+    "author": "RedMattis",
+    "name": "Big and Small + Prerequisites Framework",
+    "steamId": "2925432336",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -51,7 +57,7 @@
     "author": "Neronix17",
     "name": "Tabula Rasa",
     "steamId": "1660622094",
-    "version": "1.0.8512.17733"
+    "version": "1.0.8555.25696"
   },
   {
     "author": "Andreas Pardeike",
@@ -114,6 +120,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Android",
+    "steamId": "2975771801",
+    "version": "1.0.7.0"
+  },
+  {
     "author": "Allie and Sarg",
     "name": "Alpha Genes",
     "steamId": "2891845502",
@@ -138,34 +150,10 @@
     "version": null
   },
   {
-    "author": "Owlchemist",
-    "name": "Toggleable Overlays",
-    "steamId": "2608654598",
-    "version": "1.4"
-  },
-  {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.4.1.1"
-  },
-  {
-    "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk and ISOREX",
-    "name": "Vanilla Factions Expanded - Mechanoids",
-    "steamId": "2329011599",
-    "version": "1.0.1.2"
-  },
-  {
-    "author": "Sarg Bjornson",
-    "name": "Alpha Mechs",
-    "steamId": "2973169158",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Neronix17",
     "name": "Tweaks Galore",
     "steamId": "2695164414",
-    "version": "2.0.8479.28013"
+    "version": "2.0.8551.17665"
   },
   {
     "author": "Oskar Potocki and Taranchuk",
@@ -202,6 +190,12 @@
     "name": "Ancient Crystals LITE (Continued)",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Toggleable Overlays",
+    "steamId": "2608654598",
+    "version": "1.4"
   },
   {
     "author": "Roolo and Owlchemist",
@@ -282,10 +276,10 @@
     "version": null
   },
   {
-    "author": "Biscuit",
-    "name": "Archotech+ (Continued)",
-    "steamId": "2270493883",
-    "version": "1.4.2"
+    "author": "taranchuk",
+    "name": "Archotech++ for 1.4",
+    "steamId": "2968309214",
+    "version": "1.0.0.0"
   },
   {
     "author": "Fluffy",
@@ -333,7 +327,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.6.4.0"
+    "version": "1.6.5.0"
   },
   {
     "author": "m00nl1ght-dev",
@@ -346,6 +340,18 @@
     "name": "Biotech - Insectoid Genes",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.4.1.1"
+  },
+  {
+    "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk and ISOREX",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.1.2"
   },
   {
     "author": "PunkyRoo",
@@ -534,6 +540,12 @@
     "version": "1.4.2"
   },
   {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Mechs",
+    "steamId": "2973169158",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Nehr",
     "name": "Craft Mechtech Chips",
     "steamId": null,
@@ -596,8 +608,8 @@
   {
     "author": "Holgast",
     "name": "Dragon Genetics",
-    "steamId": null,
-    "version": null
+    "steamId": "2846348757",
+    "version": "1.0.0.0"
   },
   {
     "author": "prkr",
@@ -711,7 +723,7 @@
     "author": "Mlie",
     "name": "Enter Here",
     "steamId": "2824117092",
-    "version": "1.4.9"
+    "version": "1.4.11"
   },
   {
     "author": "DemonRoka",
@@ -908,7 +920,7 @@
   {
     "author": "Adamas",
     "name": "Hospitality: Casino",
-    "steamId": "",
+    "steamId": "2939292644",
     "version": "1.0.0.0"
   },
   {
@@ -1140,6 +1152,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "DimonSever000",
+    "name": "Necrogene [1.4]",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "AmCh",
     "name": "Need Bar Overflow",
     "steamId": "2566316158",
@@ -1185,7 +1203,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.4.16"
+    "version": "1.4.17"
   },
   {
     "author": "Canguro",
@@ -1233,7 +1251,7 @@
     "author": "Neronix17",
     "name": "Outland - Genetics",
     "steamId": "2910172297",
-    "version": "1.0.8445.14336"
+    "version": "1.0.8548.39385"
   },
   {
     "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX and erdelf",
@@ -1401,7 +1419,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8521.5340"
+    "version": "1.0.8560.38088"
   },
   {
     "author": "Sandy",
@@ -1479,7 +1497,7 @@
     "author": "Mlie",
     "name": "Relevant Stats In Description",
     "steamId": "2692669482",
-    "version": "1.4.6"
+    "version": "1.4.7"
   },
   {
     "author": "sirrandoo",
@@ -1593,7 +1611,7 @@
     "author": "Loconeko",
     "name": "Roads of the Rim (Continued)",
     "steamId": "2280318231",
-    "version": "1.4.2"
+    "version": "1.4.3"
   },
   {
     "author": "Rooboid",
@@ -1903,15 +1921,9 @@
   },
   {
     "author": "RedMattis",
-    "name": "Better Gene Prerequisites",
-    "steamId": "2925432336",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "RedMattis",
-    "name": "Big and Small Genes (Core)",
-    "steamId": "2920751126",
-    "version": "1.0.0.0"
+    "name": "Big and Small Genes",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "RedMattis",
@@ -2118,12 +2130,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
-    "name": "Vanilla Races Expanded - Android",
-    "steamId": "2975771801",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki and Sarg Bjornson",
     "name": "Vanilla Races Expanded - Custom Icons",
     "steamId": null,
@@ -2157,7 +2163,7 @@
     "author": "Oskar Potocki and Neronix17",
     "name": "Vanilla Races Expanded - Saurid",
     "steamId": "2880990495",
-    "version": "1.0.8369.37080"
+    "version": "1.0.8553.21418"
   },
   {
     "author": "Oskar Potocki and Taranchuk",
@@ -2271,7 +2277,7 @@
     "author": "Andreas Pardeike",
     "name": "Zombieland",
     "steamId": "928376710",
-    "version": "3.9.0.0"
+    "version": "4.0.1.0"
   },
   {
     "author": "Merfinator",
