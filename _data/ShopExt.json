@@ -2166,46 +2166,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has spent time learning and practicing the tribal rituals required to link oneself to an Anima tree. he has long since been enamoured by the wonders of nature.",
-      "stats": [
-        "Artistic meditation focus type disabled.",
-        "Natural meditation focus type allowed.",
-        "+2 plants",
-        "+20% psychic sensitivity",
-        "-5% mental break threshold",
-        "x120% neural heat recovery rate",
-        "x110% neural heat limit",
-        "x90% neural heat gain"
-      ],
-      "conflicts": [],
-      "bypassLimit": true,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "Artistic meditation focus type disabled.",
-          "Natural meditation focus type allowed.",
-          "+2 plants",
-          "+20% psychic sensitivity",
-          "-5% mental break threshold",
-          "x120% neural heat recovery rate",
-          "x110% neural heat limit",
-          "x90% neural heat gain"
-        ],
-        "canBypassLimit": true,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dragonian Gene (BioTech)",
-        "karmaTypeForAdding": null
-      },
-      "defName": "DR_Attuned",
-      "name": "attuned"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
       "description": "Timmy is not affected by the effects of aging.",
       "stats": [],
       "conflicts": [],
@@ -8205,6 +8165,296 @@
       },
       "defName": "AM_Ahimsa",
       "name": "vowofnonviolence"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Xenophobia",
+      "name": "xenophobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Xenophobia",
+      "name": "xenophile"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is now a natural hunter.",
+      "stats": [
+        "+1 shooting",
+        "+1 animals"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+1 shooting",
+          "+1 animals"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Pawnmorpher",
+        "karmaTypeForAdding": null
+      },
+      "defName": "NaturalHunter",
+      "name": "naturalhunter"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is intrigued by the idea of becoming something other than human.",
+      "stats": [],
+      "conflicts": [
+        "bodypurist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "bodypurist"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Pawnmorpher",
+        "karmaTypeForAdding": null
+      },
+      "defName": "MutationAffinity",
+      "name": "mutationaffinity"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's sees himself as the natural leader of his pride and as a consequence looks down on others and is easily offended.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Pawnmorpher",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PM_PridefulTrait",
+      "name": "prideful"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "germaphobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy is very hygienic and will wash more frequently.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "hygienic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy is very unhygienic and will wash less frequently.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "unhygienic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2,
+      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Hygienic",
+      "name": "slob"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is always ready with a flirtatious comment or a playful compliment, lifting the spirits of those around him. he has a knack for making others feel special and desired, however this may sometimes lead to complicated situations when he's playful intentions are misinterpreted.",
+      "stats": [],
+      "conflicts": [
+        "abrasive",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "abrasive",
+          "psychopath"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Races Expanded - Highmate",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VRE_Flirty",
+      "name": "flirty"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is exceptionally empathetic and sensitive to the suffering of others. Whenever he witnesses pain or hardship, it deeply affects him, resulting in memories of these events haunting Timmy for a much longer time.",
+      "stats": [],
+      "conflicts": [
+        "bloodlust",
+        "psychopath"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "bloodlust",
+          "psychopath"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Races Expanded - Highmate",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VRE_Distressed",
+      "name": "distressed"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a member of a hivemind",
+      "stats": [],
+      "conflicts": [
+        "bodymodder"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "bodymodder"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "The Human Hive 3",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HivemindTrait",
+      "name": "hivemind"
     }
   ],
   "races": [
@@ -8234,28 +8484,122 @@
       "data": {
         "customName": false,
         "stats": [
-          "+70.00 Mass",
-          "+100% Flammability",
-          "-60.0C Minimum comfortable temperature",
-          "+200.0C Maximum comfortable temperature",
-          "+0% Psychic sensitivity",
-          "+0% Toxic resistance",
-          "+0 Meat amount",
-          "+0 Leather amount",
-          "+0 Carrying capacity",
-          "+0.00% Social impact",
-          "+0.0% Armor - Blunt",
-          "+0.0% Armor - Sharp",
-          "+0.0% Armor - Heat"
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$200 Market value",
+          "+4.60 Move speed",
+          "+4.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+300% Global learning factor"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "A zombie",
-      "defName": "Zombie",
-      "enabled": false,
-      "name": "Zombie",
-      "price": 1
+      "description": "A creature that resembles a human in many ways, differentiated by the fact that is is an imitation human, grown in a vat for a collective hivemind.",
+      "defName": "Hive_BioHuman",
+      "enabled": true,
+      "name": "bio-humanoid",
+      "price": 333
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$150 Market value",
+          "+2.60 Move speed",
+          "+4.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+45 Leather amount",
+          "+1 Honor value",
+          "+200% Global learning factor"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "An artificial imitation of a humanoid. Awkward and clumsy, this attempt is full of flaws, but its much better than nothing.",
+      "defName": "Hive_ProtoHuman",
+      "enabled": true,
+      "name": "proto-humanoid",
+      "price": 250
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$150 Market value",
+          "+4.00 Move speed",
+          "+8.0C Minimum comfortable temperature",
+          "+18.0C Maximum comfortable temperature",
+          "+45 Leather amount",
+          "+1 Honor value",
+          "+50% Global learning factor"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A specialised hive human filled with volitile chemicals and ready to explode upon a moments notice.",
+      "defName": "Hive_BoomHuman",
+      "enabled": true,
+      "name": "explodling",
+      "price": 250
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$700 Market value",
+          "+3.60 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+1 Honor value",
+          "+70% Global learning factor",
+          "+1.0 Body size cosmetic offset",
+          "+1.4 Body size offset",
+          "+1.5 Concussive damage multiplier"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A giant mass of muscles, grown in a vat for its immense strength, not very bright but hits like a truck.",
+      "defName": "Hive_MegaHulk",
+      "enabled": true,
+      "name": "mega hulk",
+      "price": 1167
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$3000 Market value",
+          "+3.60 Move speed",
+          "+0.0C Minimum comfortable temperature",
+          "+30.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+1 Honor value",
+          "+100% Global learning factor",
+          "+1.5 Body size cosmetic offset",
+          "+1.2 Body size offset",
+          "+110% Head size multiplier"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "The queen and controller of a Human Hive. She is the source of life for all hive creature. Without her, the hive dies.",
+      "defName": "Hive_Queen",
+      "enabled": true,
+      "name": "hive queen",
+      "price": 5000
     }
   ]
 }
