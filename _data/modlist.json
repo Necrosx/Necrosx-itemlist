@@ -147,7 +147,7 @@
     "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
     "name": "Vanilla Races Expanded - Android",
     "steamId": "2975771801",
-    "version": "1.0.9.0"
+    "version": "1.1.0.0"
   },
   {
     "author": "Allie and Sarg",
@@ -732,6 +732,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "2734032569",
+    "version": "1.0.2.2"
+  },
+  {
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
@@ -1054,6 +1060,24 @@
     "name": "Kijin Race 3.0",
     "steamId": "2884551646",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "NachoToast",
+    "name": "Simple Custom Gas Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NachoToast",
+    "name": "Gas Vents",
+    "steamId": "3001066867",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "NachoToast",
+    "name": "Knockout Gas",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Kikohi",
@@ -1533,7 +1557,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8572.14529"
+    "version": "1.0.8589.3035"
   },
   {
     "author": "Sandy",
@@ -1599,7 +1623,7 @@
     "author": "Mlie",
     "name": "Relevant Stats In Description",
     "steamId": "2692669482",
-    "version": "1.4.7"
+    "version": "1.4.10"
   },
   {
     "author": "sirrandoo",
@@ -1821,7 +1845,7 @@
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
-    "version": "1.4.2"
+    "version": "1.4.3"
   },
   {
     "author": "busted_bunny",
@@ -1958,6 +1982,12 @@
   {
     "author": "Karvinen",
     "name": "Tables+",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NachoToast",
+    "name": "Tear Gas",
     "steamId": null,
     "version": null
   },

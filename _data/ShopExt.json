@@ -8476,7 +8476,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "human",
       "price": 2917
     },
@@ -8499,7 +8499,7 @@
       },
       "description": "A creature that resembles a human in many ways, differentiated by the fact that is is an imitation human, grown in a vat for a collective hivemind.",
       "defName": "Hive_BioHuman",
-      "enabled": true,
+      "enabled": false,
       "name": "bio-humanoid",
       "price": 333
     },
@@ -8522,7 +8522,7 @@
       },
       "description": "An artificial imitation of a humanoid. Awkward and clumsy, this attempt is full of flaws, but its much better than nothing.",
       "defName": "Hive_ProtoHuman",
-      "enabled": true,
+      "enabled": false,
       "name": "proto-humanoid",
       "price": 250
     },
@@ -8545,7 +8545,7 @@
       },
       "description": "A specialised hive human filled with volitile chemicals and ready to explode upon a moments notice.",
       "defName": "Hive_BoomHuman",
-      "enabled": true,
+      "enabled": false,
       "name": "explodling",
       "price": 250
     },
@@ -8571,7 +8571,7 @@
       },
       "description": "A giant mass of muscles, grown in a vat for its immense strength, not very bright but hits like a truck.",
       "defName": "Hive_MegaHulk",
-      "enabled": true,
+      "enabled": false,
       "name": "mega hulk",
       "price": 1167
     },
@@ -8597,7 +8597,7 @@
       },
       "description": "The queen and controller of a Human Hive. She is the source of life for all hive creature. Without her, the hive dies.",
       "defName": "Hive_Queen",
-      "enabled": true,
+      "enabled": false,
       "name": "hive queen",
       "price": 5000
     }
