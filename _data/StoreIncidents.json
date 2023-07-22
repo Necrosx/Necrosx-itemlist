@@ -106,6 +106,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "resourcepodcrash",
+		"price": 300,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "tradercaravan",
 		"price": 275,
 		"karmatype": "Good"
@@ -161,6 +166,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "shipchunkdrop",
+		"price": 300,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "travelergroup",
 		"price": 80,
 		"karmatype": "Good"
@@ -186,6 +196,16 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "shippartpoison",
+		"price": 1900,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "shippartpsychic",
+		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "militaryaid",
 		"price": 700,
 		"karmatype": "Good"
@@ -197,6 +217,11 @@
 	},
 	{
 		"abr": "siegeraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "mechanoidraid",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
@@ -356,6 +381,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "equip",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "randomchildhood",
 		"price": 3000,
 		"karmatype": "Neutral"
@@ -381,5 +411,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 76
+	"total": 82
 }

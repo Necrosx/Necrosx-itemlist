@@ -32383,18 +32383,6 @@
       "price": 792
     },
     {
-      "abr": "aerofleetmorph",
-      "category": "Animal",
-      "defname": "AA_AerofleetMorph",
-      "price": 2917
-    },
-    {
-      "abr": "aerofleetmorph",
-      "category": "Animal",
-      "defname": "AA_AerofleetMorphRace_Implied",
-      "price": 1558
-    },
-    {
       "abr": "air-conindoorunit",
       "category": "Misc",
       "defname": "AirconIndoorUnit",
@@ -32437,12 +32425,6 @@
       "price": 1667
     },
     {
-      "abr": "animusmorph",
-      "category": "Animal",
-      "defname": "AA_AnimusMorphRace_Implied",
-      "price": 1708
-    },
-    {
       "abr": "antigen",
       "category": "Raw mutagens",
       "defname": "Antigen",
@@ -32477,18 +32459,6 @@
       "category": "Android body parts",
       "defname": "VREA_TailLeg",
       "price": 383
-    },
-    {
-      "abr": "artificialtail",
-      "category": "Android body parts",
-      "defname": "VREA_AA_TailLeg",
-      "price": 383
-    },
-    {
-      "abr": "artificialtentacle",
-      "category": "Android body parts",
-      "defname": "VREA_AA_JellyfishTentacle",
-      "price": 171
     },
     {
       "abr": "basin",
@@ -32542,7 +32512,7 @@
       "abr": "biosolids",
       "category": "Waste",
       "defname": "Biosolids",
-      "price": 0
+      "price": 1
     },
     {
       "abr": "biosolidscomposter",
@@ -33019,12 +32989,6 @@
       "price": 5
     },
     {
-      "abr": "helixienmorph",
-      "category": "Animal",
-      "defname": "AA_HelixienMorphRace_Implied",
-      "price": 2083
-    },
-    {
       "abr": "hellhound",
       "category": "Animals",
       "defname": "EtherHellhound",
@@ -33202,19 +33166,19 @@
       "abr": "morphdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Morph_Drone",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "morphhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Morph_Honeycomb",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "morphqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Morph_Queen",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "morphsilk",
@@ -33256,7 +33220,7 @@
       "abr": "mutagenicdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Mutagenic_Drone",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "mutagenicegg",
@@ -33280,7 +33244,7 @@
       "abr": "mutagenichoneycomb",
       "category": "Honey combs",
       "defname": "RB_Mutagenic_Honeycomb",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "mutagenicmilk",
@@ -33292,7 +33256,7 @@
       "abr": "mutagenicqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Mutagenic_Queen",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "mutagenicrocketlauncher",
@@ -33340,13 +33304,13 @@
       "abr": "mutanitedrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Mutanite_Drone",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "mutanitehoneycomb",
       "category": "Honey combs",
       "defname": "RB_Mutanite_Honeycomb",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "mutaniteknife",
@@ -33358,7 +33322,7 @@
       "abr": "mutanitequeen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Mutanite_Queen",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "mutanitesalt",
@@ -33685,12 +33649,6 @@
       "price": 200
     },
     {
-      "abr": "mutasyringe,aerofleet",
-      "category": "Injector",
-      "defname": "AA_AerofleetMorphTransformer",
-      "price": 667
-    },
-    {
       "abr": "mutasyringe,alpaca",
       "category": "Injector",
       "defname": "AlpacaMorphTransformer",
@@ -33700,12 +33658,6 @@
       "abr": "mutasyringe,alphabeaver",
       "category": "Injector",
       "defname": "AlphabeaverMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,animusvox",
-      "category": "Injector",
-      "defname": "AA_AnimusMorphTransformer",
       "price": 667
     },
     {
@@ -33910,12 +33862,6 @@
       "abr": "mutasyringe,hare",
       "category": "Injector",
       "defname": "HareMorphTransformer",
-      "price": 667
-    },
-    {
-      "abr": "mutasyringe,helixien",
-      "category": "Injector",
-      "defname": "AA_HelixienMorphTransformer",
       "price": 667
     },
     {
@@ -34180,7 +34126,7 @@
       "abr": "nutrientgoo",
       "category": "Meals",
       "defname": "HiveNutrientGoo",
-      "price": 0
+      "price": 1
     },
     {
       "abr": "ohmu",
@@ -34537,12 +34483,6 @@
       "price": 2375
     },
     {
-      "abr": "slugperson",
-      "category": "Animal",
-      "defname": "AA_HelixienMorph",
-      "price": 2917
-    },
-    {
       "abr": "slurrycanner",
       "category": "Misc",
       "defname": "PM_SlurryCanner",
@@ -34865,7 +34805,37 @@
       "category": "Mortar shells",
       "defname": "NachoToast_Shell_TearGas",
       "price": 25
+    },
+    {
+      "abr": "gasvent(mustardgas)",
+      "category": "Security",
+      "defname": "GasVent_MustardGas",
+      "price": 232
+    },
+    {
+      "abr": "iedmustardgastrap",
+      "category": "Security",
+      "defname": "NachoToast_TrapIED_MustardGas",
+      "price": 58
+    },
+    {
+      "abr": "mustardgaslauncher",
+      "category": "Ranged weapons",
+      "defname": "NachoToast_Gun_MustardGasLauncher",
+      "price": 1292
+    },
+    {
+      "abr": "mustardgasshell",
+      "category": "Mortar shells",
+      "defname": "NachoToast_Shell_MustardGas",
+      "price": 25
+    },
+    {
+      "abr": "radiationsuppressor",
+      "category": "Evolved body parts",
+      "defname": "EVOR_Item_Abd_Rad",
+      "price": 4667
     }
   ],
-  "total": 5811
+  "total": 5806
 }
