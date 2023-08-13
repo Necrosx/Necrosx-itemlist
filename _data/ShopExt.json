@@ -8455,6 +8455,28 @@
       },
       "defName": "HivemindTrait",
       "name": "hivemind"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy likes to be up during the day, and sleep during the night.\n\nhe gets a mood penalty if awake at night (23h-6h) and mood bonus if awake during the day (11h-18h).",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "EBSG - Expanded Sleep Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "EBSG_EarlyBird",
+      "name": "earlybird"
     }
   ],
   "races": [
