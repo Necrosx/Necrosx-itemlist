@@ -35657,7 +35657,13 @@
       "category": "Eggs (fert.)",
       "defname": "Yttakin_XenoEgg",
       "price": 500
+    },
+    {
+      "abr": "bunsen",
+      "category": "Misc",
+      "defname": "VVE_Bunsen_Blueprint",
+      "price": 4817
     }
   ],
-  "total": 5943
+  "total": 5944
 }
