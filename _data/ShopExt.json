@@ -342,10 +342,14 @@
       "degree": 0,
       "description": "Timmy likes to be up during the night, and sleep during the day.\n\nhe gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\nhe doesn't get a mood penalty for being in the dark.",
       "stats": [],
-      "conflicts": [],
+      "conflicts": [
+        "earlybird"
+      ],
       "bypassLimit": true,
       "data": {
-        "conflicts": [],
+        "conflicts": [
+          "earlybird"
+        ],
         "stats": [],
         "canBypassLimit": true,
         "customName": false,
@@ -8464,10 +8468,14 @@
       "degree": 0,
       "description": "Timmy likes to be up during the day, and sleep during the night.\n\nhe gets a mood penalty if awake at night (23h-6h) and mood bonus if awake during the day (11h-18h).",
       "stats": [],
-      "conflicts": [],
+      "conflicts": [
+        "nightowl"
+      ],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
+        "conflicts": [
+          "nightowl"
+        ],
         "stats": [],
         "canBypassLimit": false,
         "customName": false,
@@ -8477,6 +8485,28 @@
       },
       "defName": "EBSG_EarlyBird",
       "name": "earlybird"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "There is something about Timmy that makes predators not consider tham as prey",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_AnimalFriend",
+      "name": "animalfriend"
     }
   ],
   "races": [

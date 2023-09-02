@@ -75,7 +75,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.7.0.0"
+    "version": "3.8.0.0"
   },
   {
     "author": "Kippetje2000",
@@ -220,6 +220,24 @@
     "name": "Alpha Memes",
     "steamId": "2661356814",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.5.1356"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
+    "name": "Vanilla Vehicles Expanded",
+    "steamId": "3014906877",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Alpha Vehicles - Neolithic",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mr.Rock23",
@@ -510,12 +528,6 @@
     "version": "3.2"
   },
   {
-    "author": "Smash Phil",
-    "name": "Vehicle Framework",
-    "steamId": "3014915404",
-    "version": "1.5.1351"
-  },
-  {
     "author": "Zaljerem",
     "name": "Boats (Continued)",
     "steamId": null,
@@ -752,8 +764,8 @@
   {
     "author": "iwishforducks",
     "name": "Ducks' No Limits - Ideology (Continued)",
-    "steamId": null,
-    "version": null
+    "steamId": "2916566114",
+    "version": "1.4.2"
   },
   {
     "author": "Anomalous",
@@ -990,6 +1002,24 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Plants Expanded - More Plants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Goji, Arquebus, SirVan, Phy, DandMan, dendroid101 and visandar",
+    "name": "Goji's Fantasy Race: Merren",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Captain Muscles (Nathan Harbour)",
     "name": "Grab Your Tool! (Continued)",
     "steamId": "2947023388",
@@ -1158,6 +1188,18 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, xrushha, legodude17 and ISOREX",
+    "name": "Vanilla Furniture Expanded - Architect",
+    "steamId": "2608762624",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Keshash",
+    "name": "Layered Wall Destruction",
+    "steamId": "3024527775",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "KapTaiN_KaVerN and Dingo",
     "name": "Less Rebuff",
     "steamId": null,
@@ -1172,6 +1214,12 @@
   {
     "author": "Jel",
     "name": "Lifter Can do Nuclear",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Samael Gray",
+    "name": "Livestock Traders",
     "steamId": null,
     "version": null
   },
@@ -1524,12 +1572,6 @@
     "version": "1.2.0.0"
   },
   {
-    "author": "Oskar Potocki, xrushha, legodude17 and ISOREX",
-    "name": "Vanilla Furniture Expanded - Architect",
-    "steamId": "2608762624",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Sarg Bjornson",
     "name": "Vanilla Textures Expanded - Variations",
     "steamId": null,
@@ -1833,7 +1875,7 @@
     "author": "Loconeko",
     "name": "Roads of the Rim (Continued)",
     "steamId": "2280318231",
-    "version": "1.4.4"
+    "version": "1.4.5"
   },
   {
     "author": "Rooboid",
@@ -2364,18 +2406,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Plants Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson and Oskar Potocki",
-    "name": "Vanilla Plants Expanded - More Plants",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and Alestria",
     "name": "Vanilla Plants Expanded - Succulents",
     "steamId": null,
@@ -2422,12 +2452,6 @@
     "name": "Vanilla Trading Expanded",
     "steamId": "2785616901",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
-    "name": "Vanilla Vehicles Expanded",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
@@ -2517,7 +2541,7 @@
     "author": "CodeOptimist",
     "name": "While You're Up / PUAH+",
     "steamId": "2034960453",
-    "version": "4.0.3.3352"
+    "version": "4.0.4.466"
   },
   {
     "author": "SuviIlyaDragunova",

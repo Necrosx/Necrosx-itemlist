@@ -34897,12 +34897,6 @@
       "price": 500
     },
     {
-      "abr": "architegeneextractionvat",
-      "category": "Misc",
-      "defname": "GET_GeneExtractor_III",
-      "price": 5175
-    },
-    {
       "abr": "ashfeatheregg",
       "category": "Eggs (fert.)",
       "defname": "Ashfeather_XenoEgg",
@@ -34915,40 +34909,10 @@
       "price": 500
     },
     {
-      "abr": "autogaragedoor(1x4)",
-      "category": "Misc",
-      "defname": "VVE_GarageAutoDoor",
-      "price": 792
-    },
-    {
-      "abr": "autogaragedoor(1x4)",
-      "category": "Misc",
-      "defname": "VVE_GarageAutoDoorOpened",
-      "price": 792
-    },
-    {
-      "abr": "autogaragedoor(1x5)",
-      "category": "Misc",
-      "defname": "VVE_GarageAutoDoorLarge",
-      "price": 983
-    },
-    {
-      "abr": "autogaragedoor(1x5)",
-      "category": "Misc",
-      "defname": "VVE_GarageAutoDoorLargeOpened",
-      "price": 983
-    },
-    {
       "abr": "awakenedandroidegg",
       "category": "Eggs (fert.)",
       "defname": "VREA_AndroidAwakened_XenoEgg",
       "price": 500
-    },
-    {
-      "abr": "bangbus",
-      "category": "Misc",
-      "defname": "VVE_BangBus_Blueprint",
-      "price": 3042
     },
     {
       "abr": "barkkinegg",
@@ -34993,46 +34957,10 @@
       "price": 500
     },
     {
-      "abr": "bulldog",
-      "category": "Misc",
-      "defname": "VVE_Bulldog_Blueprint",
-      "price": 6933
-    },
-    {
       "abr": "buzzkindegg",
       "category": "Eggs (fert.)",
       "defname": "Buzzkind_XenoEgg",
       "price": 500
-    },
-    {
-      "abr": "caralternator",
-      "category": "Car parts",
-      "defname": "VVE_CarAlternator",
-      "price": 160
-    },
-    {
-      "abr": "carexhaust",
-      "category": "Car parts",
-      "defname": "VVE_CarExhaust",
-      "price": 130
-    },
-    {
-      "abr": "carsuspension",
-      "category": "Car parts",
-      "defname": "VVE_CarSuspension",
-      "price": 150
-    },
-    {
-      "abr": "carwheel",
-      "category": "Car parts",
-      "defname": "VVE_CarWheel",
-      "price": 117
-    },
-    {
-      "abr": "caravel",
-      "category": "Misc",
-      "defname": "Boats_Caravel_Blueprint",
-      "price": 383
     },
     {
       "abr": "carpetborder",
@@ -35047,12 +34975,6 @@
       "price": 2
     },
     {
-      "abr": "charley",
-      "category": "Misc",
-      "defname": "VVE_Charley_Blueprint",
-      "price": 2017
-    },
-    {
       "abr": "cloudpuffegg",
       "category": "Eggs (fert.)",
       "defname": "Cloudpuff_XenoEgg",
@@ -35063,18 +34985,6 @@
       "category": "Eggs (fert.)",
       "defname": "Devilpuff_XenoEgg",
       "price": 500
-    },
-    {
-      "abr": "dinghy",
-      "category": "Misc",
-      "defname": "VVE_Dinghy_Blueprint",
-      "price": 900
-    },
-    {
-      "abr": "dirtbike",
-      "category": "Misc",
-      "defname": "VVE_Dirtbike_Blueprint",
-      "price": 1517
     },
     {
       "abr": "dirtmoleegg",
@@ -35119,12 +35029,6 @@
       "price": 500
     },
     {
-      "abr": "engineblock",
-      "category": "Car parts",
-      "defname": "VVE_EngineBlock",
-      "price": 542
-    },
-    {
       "abr": "euglenaegg",
       "category": "Eggs (fert.)",
       "defname": "Euglena_XenoEgg",
@@ -35141,12 +35045,6 @@
       "category": "Eggs (fert.)",
       "defname": "VU_Dracul_Feral_XenoEgg",
       "price": 500
-    },
-    {
-      "abr": "fishingboat",
-      "category": "Misc",
-      "defname": "Boats_FishingBoat_Blueprint",
-      "price": 342
     },
     {
       "abr": "flagstoneborder",
@@ -35179,52 +35077,10 @@
       "price": 198
     },
     {
-      "abr": "frog",
-      "category": "Misc",
-      "defname": "VVE_Frog_Blueprint",
-      "price": 2583
-    },
-    {
       "abr": "frostjotunegg",
       "category": "Eggs (fert.)",
       "defname": "BS_FrostJotunInBlue_XenoEgg",
       "price": 500
-    },
-    {
-      "abr": "galleon",
-      "category": "Misc",
-      "defname": "Boats_Galleon_Blueprint",
-      "price": 525
-    },
-    {
-      "abr": "garagecabinet",
-      "category": "Misc",
-      "defname": "VVE_GarageCabinet",
-      "price": 700
-    },
-    {
-      "abr": "garagedoor(1x4)",
-      "category": "Misc",
-      "defname": "VVE_GarageDoor",
-      "price": 358
-    },
-    {
-      "abr": "garagedoor(1x4)",
-      "category": "Misc",
-      "defname": "VVE_GarageDoorOpened",
-      "price": 358
-    },
-    {
-      "abr": "garagedoor(1x5)",
-      "category": "Misc",
-      "defname": "VVE_GarageDoorLarge",
-      "price": 442
-    },
-    {
-      "abr": "garagedoor(1x5)",
-      "category": "Misc",
-      "defname": "VVE_GarageDoorLargeOpened",
-      "price": 442
     },
     {
       "abr": "gatekeeperegg",
@@ -35237,12 +35093,6 @@
       "category": "Eggs (fert.)",
       "defname": "VRE_Gauranlenkin_XenoEgg",
       "price": 500
-    },
-    {
-      "abr": "geneextractionvat",
-      "category": "Misc",
-      "defname": "GET_GeneExtractor_II",
-      "price": 1783
     },
     {
       "abr": "genieegg",
@@ -35297,12 +35147,6 @@
       "category": "Eggs (fert.)",
       "defname": "Highmate_XenoEgg",
       "price": 500
-    },
-    {
-      "abr": "highwayman",
-      "category": "Misc",
-      "defname": "VVE_Highwayman_Blueprint",
-      "price": 4217
     },
     {
       "abr": "hindhopperegg",
@@ -35389,18 +35233,6 @@
       "price": 500
     },
     {
-      "abr": "mosquito",
-      "category": "Misc",
-      "defname": "VVE_Mosquito_Blueprint",
-      "price": 5717
-    },
-    {
-      "abr": "mule",
-      "category": "Misc",
-      "defname": "VVE_Mule_Blueprint",
-      "price": 3750
-    },
-    {
       "abr": "neanderthalegg",
       "category": "Eggs (fert.)",
       "defname": "Neanderthal_XenoEgg",
@@ -35423,12 +35255,6 @@
       "category": "Eggs (fert.)",
       "defname": "VRE_Ocularkin_XenoEgg",
       "price": 500
-    },
-    {
-      "abr": "paddlesteamer",
-      "category": "Misc",
-      "defname": "Boats_PaddleSteamer_Blueprint",
-      "price": 442
     },
     {
       "abr": "pigskinegg",
@@ -35455,12 +35281,6 @@
       "price": 500
     },
     {
-      "abr": "prowler",
-      "category": "Misc",
-      "defname": "VVE_Prowler_Blueprint",
-      "price": 2683
-    },
-    {
       "abr": "randomcustomegg",
       "category": "Eggs (fert.)",
       "defname": "AG_RandomCustom_XenoEgg",
@@ -35477,24 +35297,6 @@
       "category": "Eggs (fert.)",
       "defname": "RevianXenotype_XenoEgg",
       "price": 500
-    },
-    {
-      "abr": "roadkill",
-      "category": "Misc",
-      "defname": "VVE_Roadkill_Blueprint",
-      "price": 5317
-    },
-    {
-      "abr": "roadrunner",
-      "category": "Misc",
-      "defname": "VVE_Roadrunner_Blueprint",
-      "price": 4175
-    },
-    {
-      "abr": "rowboat",
-      "category": "Misc",
-      "defname": "Boats_Rowboat_Blueprint",
-      "price": 152
     },
     {
       "abr": "sanguophageegg",
@@ -35521,16 +35323,382 @@
       "price": 517
     },
     {
+      "abr": "abyssalmerrenegg",
+      "category": "Eggs (fert.)",
+      "defname": "Stagz_Merfolk_Abyssal_XenoEgg",
+      "price": 500
+    },
+    {
+      "abr": "breachedwall",
+      "category": "Misc",
+      "defname": "Wall_Destr_Climbable",
+      "price": 17
+    },
+    {
+      "abr": "coastalmerrenegg",
+      "category": "Eggs (fert.)",
+      "defname": "Stagz_Merfolk_Coastal_XenoEgg",
+      "price": 500
+    },
+    {
+      "abr": "floatinglantern",
+      "category": "Misc",
+      "defname": "Stagz_WaterCandle",
+      "price": 21
+    },
+    {
+      "abr": "loopholewall",
+      "category": "Misc",
+      "defname": "Wall_Destr_Shootable",
+      "price": 17
+    },
+    {
+      "abr": "architegeneextractionvat",
+      "category": "Misc",
+      "defname": "GET_GeneExtractor_III",
+      "price": 4933
+    },
+    {
+      "abr": "autogaragedoor(1x4)",
+      "category": "Misc",
+      "defname": "VVE_GarageAutoDoor",
+      "price": 783
+    },
+    {
+      "abr": "autogaragedoor(1x4)",
+      "category": "Misc",
+      "defname": "VVE_GarageAutoDoorOpened",
+      "price": 783
+    },
+    {
+      "abr": "autogaragedoor(1x5)",
+      "category": "Misc",
+      "defname": "VVE_GarageAutoDoorLarge",
+      "price": 975
+    },
+    {
+      "abr": "autogaragedoor(1x5)",
+      "category": "Misc",
+      "defname": "VVE_GarageAutoDoorLargeOpened",
+      "price": 975
+    },
+    {
+      "abr": "bangbus",
+      "category": "Misc",
+      "defname": "VVE_BangBus_Blueprint",
+      "price": 3008
+    },
+    {
+      "abr": "bulldog",
+      "category": "Misc",
+      "defname": "VVE_Bulldog_Blueprint",
+      "price": 6842
+    },
+    {
+      "abr": "bunsen",
+      "category": "Misc",
+      "defname": "VVE_Bunsen_Blueprint",
+      "price": 4817
+    },
+    {
+      "abr": "caralternator",
+      "category": "Car parts",
+      "defname": "VVE_CarAlternator",
+      "price": 158
+    },
+    {
+      "abr": "carexhaust",
+      "category": "Car parts",
+      "defname": "VVE_CarExhaust",
+      "price": 133
+    },
+    {
+      "abr": "carsuspension",
+      "category": "Car parts",
+      "defname": "VVE_CarSuspension",
+      "price": 150
+    },
+    {
+      "abr": "carwheel",
+      "category": "Car parts",
+      "defname": "VVE_CarWheel",
+      "price": 117
+    },
+    {
+      "abr": "caravel",
+      "category": "Misc",
+      "defname": "Boats_Caravel_Blueprint",
+      "price": 525
+    },
+    {
+      "abr": "charley",
+      "category": "Misc",
+      "defname": "VVE_Charley_Blueprint",
+      "price": 2275
+    },
+    {
+      "abr": "dinghy",
+      "category": "Misc",
+      "defname": "VVE_Dinghy_Blueprint",
+      "price": 908
+    },
+    {
+      "abr": "dirtbike",
+      "category": "Misc",
+      "defname": "VVE_Dirtbike_Blueprint",
+      "price": 1517
+    },
+    {
+      "abr": "engineblock",
+      "category": "Car parts",
+      "defname": "VVE_EngineBlock",
+      "price": 542
+    },
+    {
+      "abr": "fishingboat",
+      "category": "Misc",
+      "defname": "Boats_FishingBoat_Blueprint",
+      "price": 358
+    },
+    {
+      "abr": "frog",
+      "category": "Misc",
+      "defname": "VVE_Frog_Blueprint",
+      "price": 2608
+    },
+    {
+      "abr": "galleon",
+      "category": "Misc",
+      "defname": "Boats_Galleon_Blueprint",
+      "price": 808
+    },
+    {
+      "abr": "garagecabinet",
+      "category": "Misc",
+      "defname": "VVE_GarageCabinet",
+      "price": 667
+    },
+    {
+      "abr": "garagedoor(1x4)",
+      "category": "Misc",
+      "defname": "VVE_GarageDoor",
+      "price": 358
+    },
+    {
+      "abr": "garagedoor(1x4)",
+      "category": "Misc",
+      "defname": "VVE_GarageDoorOpened",
+      "price": 358
+    },
+    {
+      "abr": "garagedoor(1x5)",
+      "category": "Misc",
+      "defname": "VVE_GarageDoorLarge",
+      "price": 442
+    },
+    {
+      "abr": "garagedoor(1x5)",
+      "category": "Misc",
+      "defname": "VVE_GarageDoorLargeOpened",
+      "price": 442
+    },
+    {
+      "abr": "geneextractionvat",
+      "category": "Misc",
+      "defname": "GET_GeneExtractor_II",
+      "price": 1692
+    },
+    {
+      "abr": "highwayman",
+      "category": "Misc",
+      "defname": "VVE_Highwayman_Blueprint",
+      "price": 4167
+    },
+    {
+      "abr": "mosquito",
+      "category": "Misc",
+      "defname": "VVE_Mosquito_Blueprint",
+      "price": 5617
+    },
+    {
+      "abr": "mule",
+      "category": "Misc",
+      "defname": "VVE_Mule_Blueprint",
+      "price": 3725
+    },
+    {
+      "abr": "paddlesteamer",
+      "category": "Misc",
+      "defname": "Boats_PaddleSteamer_Blueprint",
+      "price": 558
+    },
+    {
+      "abr": "prowler",
+      "category": "Misc",
+      "defname": "VVE_Prowler_Blueprint",
+      "price": 2658
+    },
+    {
+      "abr": "armoredwallrubble",
+      "category": "Misc",
+      "defname": "VFEArch_ArmoredWall_Destr_Rubble",
+      "price": 17
+    },
+    {
+      "abr": "balloon",
+      "category": "Misc",
+      "defname": "AV_Balloon_Blueprint",
+      "price": 517
+    },
+    {
+      "abr": "breachedarmoredwall",
+      "category": "Misc",
+      "defname": "VFEArch_ArmoredWall_Destr_Climbable",
+      "price": 17
+    },
+    {
+      "abr": "breachedfinewall",
+      "category": "Misc",
+      "defname": "VFEArch_FineWall_Destr_Climbable",
+      "price": 17
+    },
+    {
+      "abr": "carbattery",
+      "category": "Car parts",
+      "defname": "VVE_CarBattery",
+      "price": 200
+    },
+    {
+      "abr": "carfueltank",
+      "category": "Car parts",
+      "defname": "VVE_CarFuelTank",
+      "price": 158
+    },
+    {
+      "abr": "carradiator",
+      "category": "Car parts",
+      "defname": "VVE_CarRadiator",
+      "price": 150
+    },
+    {
+      "abr": "cartransmission",
+      "category": "Car parts",
+      "defname": "VVE_CarTransmission",
+      "price": 283
+    },
+    {
+      "abr": "carwiring",
+      "category": "Car parts",
+      "defname": "VVE_CarWiring",
+      "price": 208
+    },
+    {
+      "abr": "chariot",
+      "category": "Misc",
+      "defname": "AV_Chariot_Blueprint",
+      "price": 450
+    },
+    {
+      "abr": "coveredcarriage",
+      "category": "Misc",
+      "defname": "AV_CoveredCarriage_Blueprint",
+      "price": 625
+    },
+    {
+      "abr": "dogsled",
+      "category": "Misc",
+      "defname": "AV_DogSled_Blueprint",
+      "price": 400
+    },
+    {
+      "abr": "finewallrubble",
+      "category": "Misc",
+      "defname": "VFEArch_FineWall_Destr_Rubble",
+      "price": 17
+    },
+    {
+      "abr": "hwacha",
+      "category": "Misc",
+      "defname": "AV_Hwacha_Blueprint",
+      "price": 322
+    },
+    {
+      "abr": "loopholearmoredwall",
+      "category": "Misc",
+      "defname": "VFEArch_ArmoredWall_Destr_Shootable",
+      "price": 17
+    },
+    {
+      "abr": "loopholefinewall",
+      "category": "Misc",
+      "defname": "VFEArch_FineWall_Destr_Shootable",
+      "price": 17
+    },
+    {
+      "abr": "outriggercanoe",
+      "category": "Misc",
+      "defname": "AV_OutriggerCanoe_Blueprint",
+      "price": 625
+    },
+    {
+      "abr": "oxcart",
+      "category": "Misc",
+      "defname": "AV_OxCart_Blueprint",
+      "price": 600
+    },
+    {
+      "abr": "palanquin",
+      "category": "Misc",
+      "defname": "AV_Palanquin_Blueprint",
+      "price": 650
+    },
+    {
+      "abr": "rawquackweed",
+      "category": "Vegetarian",
+      "defname": "Stagz_RawDarkAlgae",
+      "price": 2
+    },
+    {
+      "abr": "rickshaw",
+      "category": "Misc",
+      "defname": "AV_Rickshaw_Blueprint",
+      "price": 342
+    },
+    {
+      "abr": "roadkill",
+      "category": "Misc",
+      "defname": "VVE_Roadkill_Blueprint",
+      "price": 5258
+    },
+    {
+      "abr": "roadrunner",
+      "category": "Misc",
+      "defname": "VVE_Roadrunner_Blueprint",
+      "price": 4425
+    },
+    {
+      "abr": "rowboat",
+      "category": "Misc",
+      "defname": "Boats_Rowboat_Blueprint",
+      "price": 159
+    },
+    {
+      "abr": "rubble",
+      "category": "Misc",
+      "defname": "Wall_Destr_Rubble",
+      "price": 17
+    },
+    {
       "abr": "smuggler",
       "category": "Misc",
       "defname": "VVE_Smuggler_Blueprint",
-      "price": 5308
+      "price": 6250
     },
     {
       "abr": "snatcher",
       "category": "Misc",
       "defname": "VVE_Snatcher_Blueprint",
-      "price": 3883
+      "price": 4175
     },
     {
       "abr": "stoneborder",
@@ -35572,7 +35740,7 @@
       "abr": "tango",
       "category": "Misc",
       "defname": "VVE_Tango_Blueprint",
-      "price": 6700
+      "price": 7533
     },
     {
       "abr": "taukaiegg",
@@ -35584,13 +35752,13 @@
       "abr": "traveller",
       "category": "Misc",
       "defname": "VVE_Traveller_Blueprint",
-      "price": 3075
+      "price": 3033
     },
     {
       "abr": "trawler",
       "category": "Misc",
       "defname": "VVE_Trawler_Blueprint",
-      "price": 2875
+      "price": 3167
     },
     {
       "abr": "uhlanegg",
@@ -35602,25 +35770,37 @@
       "abr": "vendingmachine",
       "category": "Furniture",
       "defname": "VendingMachine",
-      "price": 161
+      "price": 154
     },
     {
       "abr": "wagon",
       "category": "Misc",
       "defname": "VVE_Wagon_Blueprint",
-      "price": 3650
+      "price": 3958
+    },
+    {
+      "abr": "warchariot",
+      "category": "Misc",
+      "defname": "AV_WarChariot_Blueprint",
+      "price": 625
     },
     {
       "abr": "warbird",
       "category": "Misc",
       "defname": "VVE_Warbird_Blueprint",
-      "price": 4058
+      "price": 4825
     },
     {
       "abr": "wasteregg",
       "category": "Eggs (fert.)",
       "defname": "Waster_XenoEgg",
       "price": 500
+    },
+    {
+      "abr": "wheelbarrow",
+      "category": "Misc",
+      "defname": "AV_Wheelbarrow_Blueprint",
+      "price": 235
     },
     {
       "abr": "whiteroseegg",
@@ -35633,6 +35813,12 @@
       "category": "Eggs (fert.)",
       "defname": "Wiretail_XenoEgg",
       "price": 500
+    },
+    {
+      "abr": "wisent",
+      "category": "Misc",
+      "defname": "VVE_Wisent_Blueprint",
+      "price": 7000
     },
     {
       "abr": "woodenborder",
@@ -35657,13 +35843,7 @@
       "category": "Eggs (fert.)",
       "defname": "Yttakin_XenoEgg",
       "price": 500
-    },
-    {
-      "abr": "bunsen",
-      "category": "Misc",
-      "defname": "VVE_Bunsen_Blueprint",
-      "price": 4817
     }
   ],
-  "total": 5944
+  "total": 5974
 }
