@@ -225,7 +225,7 @@
     "author": "Smash Phil",
     "name": "Vehicle Framework",
     "steamId": "3014915404",
-    "version": "1.5.1356"
+    "version": "1.5.1368"
   },
   {
     "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
@@ -1016,8 +1016,8 @@
   {
     "author": "Goji, Arquebus, SirVan, Phy, DandMan, dendroid101 and visandar",
     "name": "Goji's Fantasy Race: Merren",
-    "steamId": null,
-    "version": null
+    "steamId": "3026235711",
+    "version": "1.0.0.0"
   },
   {
     "author": "Captain Muscles (Nathan Harbour)",
@@ -1090,6 +1090,12 @@
     "name": "Hospitality: Vending machines",
     "steamId": "3014885065",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "BlackMarket420",
+    "name": "Hunterphage Xenotype",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "SuviIlyaDragunova",
@@ -1737,7 +1743,7 @@
     "author": "Mlie",
     "name": "Relevant Stats In Description",
     "steamId": "2692669482",
-    "version": "1.4.10"
+    "version": "1.4.11"
   },
   {
     "author": "sirrandoo",
@@ -1968,6 +1974,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Sl4vP0weR",
+    "name": "Sleep Meditation",
+    "steamId": "3029526972",
+    "version": "1.0.0"
+  },
+  {
     "author": "Uuugggg",
     "name": "Smart Medicine",
     "steamId": "1309994319",
@@ -2148,22 +2160,22 @@
     "version": "1.4"
   },
   {
-    "author": "hodlhodl",
+    "author": "nry",
     "name": "ToolkitCore",
-    "steamId": "2018368654",
+    "steamId": "3013877477",
     "version": "1.0.0.0"
   },
   {
-    "author": "hodlhodl",
+    "author": "nry",
     "name": "Twitch Toolkit",
-    "steamId": "1718525787",
+    "steamId": "3013874066",
     "version": "2.0.10.0"
   },
   {
     "author": "swemoney",
     "name": "Toolkit - Channel Points",
     "steamId": "1916651243",
-    "version": "1.2.0"
+    "version": "1.4.1"
   },
   {
     "author": "SirRandoo",
@@ -2175,7 +2187,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.3.0.0.biotech.b12"
+    "version": "6.3.0.1"
   },
   {
     "author": "MarvinKosh",
