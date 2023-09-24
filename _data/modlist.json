@@ -69,13 +69,13 @@
     "author": "Neronix17",
     "name": "Tabula Rasa",
     "steamId": "1660622094",
-    "version": "1.0.8628.15310"
+    "version": "1.0.8665.37882"
   },
   {
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.8.0.0"
+    "version": "3.8.4.0"
   },
   {
     "author": "Kippetje2000",
@@ -225,10 +225,10 @@
     "author": "Smash Phil",
     "name": "Vehicle Framework",
     "steamId": "3014915404",
-    "version": "1.5.1368"
+    "version": "1.5.1381"
   },
   {
-    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
+    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk, Reann Shepard and Sarg",
     "name": "Vanilla Vehicles Expanded",
     "steamId": "3014906877",
     "version": "1.0.0.0"
@@ -858,6 +858,18 @@
     "version": null
   },
   {
+    "author": "alite",
+    "name": "Expanded Archite Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "erdelf",
+    "name": "Export Agency",
+    "steamId": "1467209473",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Smash Phil | Dr_Zhivago | monkey5206",
     "name": "Carry Capacity Fixed (Continued)",
     "steamId": null,
@@ -1094,6 +1106,12 @@
   {
     "author": "BlackMarket420",
     "name": "Hunterphage Xenotype",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sovereign, Elseud, Visander and DetVisor",
+    "name": "Illithid Xenotype",
     "steamId": null,
     "version": null
   },
@@ -1425,7 +1443,7 @@
     "author": "Oskar Potocki, Taranchuk and Chowder",
     "name": "Vanilla Traits Expanded",
     "steamId": "2296404655",
-    "version": "1.0.0.1"
+    "version": "1.4.1.0"
   },
   {
     "author": "Ben",
@@ -1437,7 +1455,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.4.17"
+    "version": "1.4.20"
   },
   {
     "author": "Canguro",
@@ -1626,6 +1644,24 @@
     "version": "1.0.8333.23545"
   },
   {
+    "author": "zymex",
+    "name": "Project RimFactory Revived",
+    "steamId": "2033979700",
+    "version": "2.8.0"
+  },
+  {
+    "author": "zymex",
+    "name": "Project RimFactory - Drones",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "zymex",
+    "name": "Project RimFactory - Insanity",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "iamrespawn",
     "name": "Prosthetic No Missing Body Parts (Continued)",
     "steamId": "2739055353",
@@ -1743,7 +1779,7 @@
     "author": "Mlie",
     "name": "Relevant Stats In Description",
     "steamId": "2692669482",
-    "version": "1.4.11"
+    "version": "1.4.12"
   },
   {
     "author": "sirrandoo",
@@ -1794,10 +1830,16 @@
     "version": "1.4.2"
   },
   {
+    "author": "Neceros",
+    "name": "RimFactory Neceros Patch (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.13.0.0"
+    "version": "1.14.5.0"
   },
   {
     "author": "sindre0830",
@@ -2428,6 +2470,18 @@
     "name": "Vanilla Psycasts Expanded - Hemosage",
     "steamId": "2990596478",
     "version": "1.0.1.0"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded - Puppeteer",
+    "steamId": "3033779606",
+    "version": "1.0.2.0"
+  },
+  {
+    "author": "Mobivis",
+    "name": "Vanilla Psycasts expanded - Revert some nerf",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
