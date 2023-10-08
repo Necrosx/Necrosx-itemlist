@@ -75,7 +75,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.8.4.0"
+    "version": "3.8.7.0"
   },
   {
     "author": "Kippetje2000",
@@ -168,7 +168,7 @@
     "version": "1.1.0.0"
   },
   {
-    "author": "Allie and Sarg",
+    "author": "Allie, Erin and Sarg",
     "name": "Alpha Genes",
     "steamId": "2891845502",
     "version": "1.0.0.0"
@@ -411,7 +411,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.6.5.0"
+    "version": "1.6.6.0"
   },
   {
     "author": "m00nl1ght-dev",
@@ -726,12 +726,6 @@
     "version": null
   },
   {
-    "author": "Roolo",
-    "name": "Dual Wield",
-    "steamId": "2537588364",
-    "version": "0.5.0.0"
-  },
-  {
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
@@ -772,6 +766,12 @@
     "name": "Dynamic Population",
     "steamId": "1658712035",
     "version": "1.1"
+  },
+  {
+    "author": "PixelBirb",
+    "name": "Dynamic Weapon Cooldown",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Jaxxa",
@@ -1647,7 +1647,7 @@
     "author": "zymex",
     "name": "Project RimFactory Revived",
     "steamId": "2033979700",
-    "version": "2.8.0"
+    "version": "2.8.1"
   },
   {
     "author": "zymex",
@@ -1707,7 +1707,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8606.30901"
+    "version": "1.0.8678.26598"
   },
   {
     "author": "Sandy",
@@ -2043,7 +2043,7 @@
     "author": "RemingtonRyder",
     "name": "Sometimes Raids Go Wrong",
     "steamId": "1551336515",
-    "version": "1.0.8484.41551"
+    "version": "1.0.8675.1195"
   },
   {
     "author": "Albion",
@@ -2169,6 +2169,12 @@
     "author": "Nimrag",
     "name": "The Human Hive 3",
     "steamId": "2992325761",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "The Price Is Right",
+    "steamId": "1498070208",
     "version": "1.0.0.0"
   },
   {
@@ -2490,6 +2496,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Fungoid",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, xrushha, Taranchuk and Sarg",
     "name": "Vanilla Races Expanded - Hussar",
     "steamId": "2893586390",
@@ -2757,7 +2769,7 @@
     "author": "Mlie",
     "name": "[RF] Rational Romance (Continued)",
     "steamId": "2013144996",
-    "version": "1.4.5"
+    "version": "1.4.6"
   },
   {
     "author": "Ravvy",
