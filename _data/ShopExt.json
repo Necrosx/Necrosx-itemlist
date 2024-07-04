@@ -734,7 +734,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has no need to experience the outdoors or light. he will never feel cooped up or get cabin fever, no matter how long he stays inside, and is not bothered by darkness.",
+      "description": "Timmy has no need to experience the outdoors or light. he will never feel cooped up or get cabin fever and is not bothered by darkness. However, Timmy will be unhappy while outdoors.",
       "stats": [
         "Morbid meditation focus type allowed."
       ],
@@ -860,7 +860,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has a fantastic memory for detail. he will learn new skills slightly faster than other people.",
+      "description": "Timmy has a fantastic memory for detail. he will lose unused skills at half the rate of other people.",
       "stats": [
         "+25% global learning factor"
       ],
@@ -2027,7 +2027,7 @@
         "kind",
         "psychopath"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "abrasive",
@@ -2037,10 +2037,10 @@
         "stats": [
           "-20% mental break threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Big and Small + Prerequisites Framework",
+        "mod": "Big and Small - Framework",
         "karmaTypeForAdding": null
       },
       "defName": "BS_Gentle",
@@ -2052,17 +2052,17 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is large enough to use oversized weapons.",
+      "description": "Timmy is able to use oversized weapons.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Big and Small + Prerequisites Framework",
+        "mod": "Big and Small - Framework",
         "karmaTypeForAdding": null
       },
       "defName": "BS_Giant",
@@ -2077,11 +2077,11 @@
       "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Psycasts Expanded",
@@ -2096,20 +2096,20 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is always ready with a flirtatious comment or a playful compliment, lifting the spirits of those around him. he has a knack for making others feel special and desired, however this may sometimes lead to complicated situations when he's playful intentions are misinterpreted.",
+      "description": "Timmy is always ready with a flirtatious comment or a playful compliment, lifting the spirits of those around him. he has a knack for making others feel special and desired, however this may sometimes lead to complicated situations when him playful intentions are misinterpreted.",
       "stats": [],
       "conflicts": [
         "abrasive",
         "psychopath"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "abrasive",
           "psychopath"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Races Expanded - Highmate",
@@ -2130,14 +2130,14 @@
         "bloodlust",
         "psychopath"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bloodlust",
           "psychopath"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Races Expanded - Highmate",
@@ -2155,11 +2155,11 @@
       "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Fishing Expanded",
@@ -2177,11 +2177,11 @@
       "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Ideology Expanded - Memes and Structures",
@@ -2195,103 +2195,15 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 2,
-      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "germaphobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy is very hygienic and will wash more frequently.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "hygienic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy is very unhygienic and will wash less frequently.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "unhygienic"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -2,
-      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Hygienic",
-      "name": "slob"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "degree": 0,
       "description": "Timmy is not affected by the effects of aging.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "EvolvedOrgansRedux",
@@ -2312,14 +2224,14 @@
         "+20 melee"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+20 shooting",
           "+20 melee"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "EvolvedOrgansRedux",
@@ -2342,7 +2254,7 @@
         "wimp",
         "frailback"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "wimp",
@@ -2351,10 +2263,10 @@
         "stats": [
           "+50 carrying capacity"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_StrongBack",
@@ -2374,7 +2286,7 @@
         "wimp",
         "frailback"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "wimp",
@@ -2383,10 +2295,10 @@
         "stats": [
           "+75 carrying capacity"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_StrongBack",
@@ -2416,7 +2328,7 @@
         "creepybreathing",
         "idiotsavant"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "abrasive",
@@ -2435,10 +2347,10 @@
           "+5.00% trade price improvement",
           "+5.00% drug sell price improvement"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Charisma",
@@ -2468,7 +2380,7 @@
         "creepybreathing",
         "idiotsavant"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "abrasive",
@@ -2487,10 +2399,10 @@
           "+10.00% trade price improvement",
           "+10.00% drug sell price improvement"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Charisma",
@@ -2518,7 +2430,7 @@
         "wimp",
         "kind"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "wimp",
@@ -2535,10 +2447,10 @@
           "+5.00% drug sell price improvement",
           "+5.00% animal products price improvement"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Intimidation",
@@ -2566,7 +2478,7 @@
         "wimp",
         "kind"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "wimp",
@@ -2583,10 +2495,10 @@
           "+10.00% drug sell price improvement",
           "+10.00% animal products price improvement"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Intimidation",
@@ -2608,7 +2520,7 @@
         "brawler",
         "ironfist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "brawler",
@@ -2619,10 +2531,10 @@
           "-10.0 shooting accuracy",
           "-10.0 melee hit chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_AimOffset",
@@ -2643,7 +2555,7 @@
         "brawler",
         "ironfist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "brawler",
@@ -2653,10 +2565,10 @@
           "+2 shooting",
           "+10.0 shooting accuracy"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_AimOffset",
@@ -2677,7 +2589,7 @@
         "brawler",
         "ironfist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "brawler",
@@ -2687,10 +2599,10 @@
           "+4 shooting",
           "+15.0 shooting accuracy"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_AimOffset",
@@ -2717,7 +2629,7 @@
         "stupid",
         "oblivious"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "stupid",
@@ -2733,10 +2645,10 @@
           "+10% construct success chance",
           "+10% repair success chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Artisan",
@@ -2759,7 +2671,7 @@
         "wimp",
         "leadbelly"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "wimp",
@@ -2771,10 +2683,10 @@
           "+10% immunity gain speed",
           "+10% per day slave suppression fall rate"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_IronStomach",
@@ -2792,17 +2704,17 @@
         "+0.15 move speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "-15 carrying capacity",
           "+0.15 move speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Packing",
@@ -2819,16 +2731,16 @@
         "+30 carrying capacity"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+30 carrying capacity"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Packing",
@@ -2860,7 +2772,7 @@
         "jogger",
         "rooted"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "wimp",
@@ -2881,10 +2793,10 @@
           "+20% hunting stealth",
           "-20% trap spring chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Agility",
@@ -2916,7 +2828,7 @@
         "jogger",
         "rooted"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "wimp",
@@ -2937,10 +2849,10 @@
           "+40% hunting stealth",
           "-40% trap spring chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Agility",
@@ -2971,7 +2883,7 @@
         "stupid",
         "oblivious"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "idiotsavant",
@@ -2991,10 +2903,10 @@
           "+5.00% drug sell price improvement",
           "+5% hacking speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Intelligence",
@@ -3025,7 +2937,7 @@
         "stupid",
         "oblivious"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "idiotsavant",
@@ -3045,10 +2957,10 @@
           "+10.00% drug sell price improvement",
           "+10% hacking speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Intelligence",
@@ -3079,7 +2991,7 @@
         "abrasive",
         "oblivious"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "idiotsavant",
@@ -3099,10 +3011,10 @@
           "+5.00% animal products price improvement",
           "-5.00% food poison chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Perception",
@@ -3133,7 +3045,7 @@
         "abrasive",
         "oblivious"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "idiotsavant",
@@ -3153,10 +3065,10 @@
           "+10.00% animal products price improvement",
           "-10.00% food poison chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Perception",
@@ -3181,7 +3093,7 @@
         "slothful",
         "rooted"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "industrious",
@@ -3195,10 +3107,10 @@
           "+0.1 melee dodge chance",
           "-20% trap spring chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Evasion",
@@ -3223,7 +3135,7 @@
         "slothful",
         "rooted"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "industrious",
@@ -3237,10 +3149,10 @@
           "+0.2 melee dodge chance",
           "-40% trap spring chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Evasion",
@@ -3264,7 +3176,7 @@
         "frailback",
         "rooted"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "frailback",
@@ -3277,10 +3189,10 @@
           "-10% bed hunger rate multiplier",
           "+0.5 foraged food amount"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Adventuring",
@@ -3304,7 +3216,7 @@
         "frailback",
         "rooted"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "frailback",
@@ -3317,10 +3229,10 @@
           "-15% bed hunger rate multiplier",
           "+0.75 foraged food amount"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Adventuring",
@@ -3344,7 +3256,7 @@
         "frailback",
         "rooted"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "frailback",
@@ -3357,10 +3269,10 @@
           "-20% bed hunger rate multiplier",
           "+1 foraged food amount"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Adventuring",
@@ -3383,7 +3295,7 @@
         "frailback",
         "ironfist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "brawler",
@@ -3395,10 +3307,10 @@
           "-10% aiming time",
           "+25 carrying capacity"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Bandolier",
@@ -3423,7 +3335,7 @@
         "stupid",
         "oblivious"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "idiotsavant",
@@ -3437,10 +3349,10 @@
           "+10% research speed",
           "+10% hacking speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Scientific",
@@ -3465,7 +3377,7 @@
         "stupid",
         "oblivious"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "idiotsavant",
@@ -3479,10 +3391,10 @@
           "+20% research speed",
           "+20% hacking speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Scientific",
@@ -3510,7 +3422,7 @@
         "nervous",
         "volatile"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "wimp",
@@ -3527,10 +3439,10 @@
           "-10% global certainty loss factor",
           "+10% per day slave suppression fall rate"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Endurance",
@@ -3558,7 +3470,7 @@
         "nervous",
         "volatile"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "wimp",
@@ -3575,10 +3487,10 @@
           "-20% global certainty loss factor",
           "+10% per day slave suppression fall rate"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Endurance",
@@ -3607,7 +3519,7 @@
         "stupid",
         "oblivious"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "abrasive",
@@ -3625,10 +3537,10 @@
           "+10.00% trade price improvement",
           "+10.00% drug sell price improvement"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Bargaining",
@@ -3657,7 +3569,7 @@
         "stupid",
         "oblivious"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "abrasive",
@@ -3675,10 +3587,10 @@
           "+15.00% trade price improvement",
           "+15.00% drug sell price improvement"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Bargaining",
@@ -3707,7 +3619,7 @@
         "creepybreathing",
         "idiotsavant"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "abrasive",
@@ -3725,10 +3637,10 @@
           "+10% global certainty loss factor",
           "-10% per day slave suppression fall rate"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Inspiration",
@@ -3758,7 +3670,7 @@
         "creepybreathing",
         "idiotsavant"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "abrasive",
@@ -3777,10 +3689,10 @@
           "-10% global certainty loss factor",
           "+10% per day slave suppression fall rate"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Inspiration",
@@ -3810,7 +3722,7 @@
         "creepybreathing",
         "idiotsavant"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "abrasive",
@@ -3829,10 +3741,10 @@
           "-20% global certainty loss factor",
           "+20% per day slave suppression fall rate"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Inspiration",
@@ -3861,7 +3773,7 @@
         "bloodlust",
         "idiotsavant"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "greedy",
@@ -3879,10 +3791,10 @@
           "-5.00% drug sell price improvement",
           "-5.00% animal products price improvement"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Generosity",
@@ -3911,7 +3823,7 @@
         "bloodlust",
         "idiotsavant"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "greedy",
@@ -3929,10 +3841,10 @@
           "-10.00% drug sell price improvement",
           "-10.00% animal products price improvement"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Generosity",
@@ -3956,7 +3868,7 @@
         "+10% mechanoid shredding efficiency"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -3969,10 +3881,10 @@
           "+25% mechanoid shredding speed",
           "+10% mechanoid shredding efficiency"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Scrapper",
@@ -4001,7 +3913,7 @@
         "creepybreathing",
         "idiotsavant"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "greedy",
@@ -4019,10 +3931,10 @@
           "+20% per day slave suppression fall rate",
           "-10% mental break threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_NaturalLeader",
@@ -4043,7 +3955,7 @@
       "conflicts": [
         "ghoulish"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "ghoulish"
@@ -4053,10 +3965,10 @@
           "+30% toxic environment resistance",
           "+10% immunity gain speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_RadResistant",
@@ -4077,7 +3989,7 @@
       "conflicts": [
         "ghoulish"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "ghoulish"
@@ -4087,10 +3999,10 @@
           "+60% toxic environment resistance",
           "+10% immunity gain speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_RadResistant",
@@ -4120,7 +4032,7 @@
         "actiongirl",
         "blitz"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "slowpoke",
@@ -4139,10 +4051,10 @@
           "+20% eating speed",
           "+10% rest rate multiplier"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_ActionBoy",
@@ -4172,7 +4084,7 @@
         "actionboy",
         "blitz"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "slowpoke",
@@ -4191,10 +4103,10 @@
           "+20% eating speed",
           "+10% rest rate multiplier"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_ActionGirl",
@@ -4214,7 +4126,7 @@
         "+5.0 melee hit chance"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -4223,10 +4135,10 @@
           "-10% aiming time",
           "+5.0 melee hit chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_QuickHands",
@@ -4249,7 +4161,7 @@
         "wimp",
         "ironfist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "brawler",
@@ -4261,10 +4173,10 @@
           "-10% aiming time",
           "+5.0 shooting accuracy"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_GunNut",
@@ -4289,7 +4201,7 @@
       "conflicts": [
         "oblivious"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "oblivious"
@@ -4303,10 +4215,10 @@
           "+20% mechanoid shredding speed",
           "+50% eating speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Scrounger",
@@ -4327,7 +4239,7 @@
       "conflicts": [
         "frailback"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "frailback"
@@ -4337,10 +4249,10 @@
           "+10% pain shock threshold",
           "+25 carrying capacity"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_SturdyFrame",
@@ -4364,7 +4276,7 @@
       "conflicts": [
         "oblivious"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "oblivious"
@@ -4377,10 +4289,10 @@
           "+10% plant harvest yield",
           "+0.5 foraged food amount"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Survivalist",
@@ -4412,7 +4324,7 @@
         "rooted",
         "perfectionist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "slowpoke",
@@ -4433,10 +4345,10 @@
           "+25% global work speed",
           "+10.0 melee hit chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Blitz",
@@ -4468,7 +4380,7 @@
         "bloodlust",
         "idiotsavant"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "cannibal",
@@ -4489,10 +4401,10 @@
           "+5.00% trade price improvement",
           "+5.00% animal products price improvement"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Philanthropist",
@@ -4519,7 +4431,7 @@
         "stupid",
         "oblivious"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bloodlust",
@@ -4535,10 +4447,10 @@
           "+10% medical surgery success chance",
           "-10.00% food poison chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_HealingHands",
@@ -4576,7 +4488,7 @@
         "explorer",
         "adventurer"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "wimp",
@@ -4603,10 +4515,10 @@
           "-20% global certainty loss factor",
           "+20% per day slave suppression fall rate"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Rooted",
@@ -4628,7 +4540,7 @@
       "conflicts": [
         "ironstomach"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "ironstomach"
@@ -4639,10 +4551,10 @@
           "+20% toxic environment resistance",
           "+10% immunity gain speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_LeadBelly",
@@ -4667,7 +4579,7 @@
         "+10% suppression power"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -4681,10 +4593,10 @@
           "+10% per day slave suppression fall rate",
           "+10% suppression power"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_BearArms",
@@ -4710,7 +4622,7 @@
         "depressive",
         "oblivious"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "sanguine",
@@ -4725,10 +4637,10 @@
           "+10% per day slave suppression fall rate",
           "x50% trap spring chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Serendipitous",
@@ -4753,7 +4665,7 @@
         "stupid",
         "oblivious"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "stupid",
@@ -4767,10 +4679,10 @@
           "+1 foraged food amount",
           "+10% pruning speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_GreenThumb",
@@ -4798,7 +4710,7 @@
         "wimp",
         "frailback"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "wimp",
@@ -4815,10 +4727,10 @@
           "+10.00% conversion power",
           "+10% suppression power"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Tenderizer",
@@ -4843,7 +4755,7 @@
       "conflicts": [
         "oblivious"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "oblivious"
@@ -4857,10 +4769,10 @@
           "+10% mechanoid shredding efficiency",
           "+1 foraged food amount"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_FortuneFinder",
@@ -4886,7 +4798,7 @@
         "animalfriend",
         "oblivious"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "animalfriend",
@@ -4901,10 +4813,10 @@
           "+10% butchery efficiency",
           "+10% mechanoid shredding efficiency"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_BountifulButcher",
@@ -4932,7 +4844,7 @@
         "bountifulbutcher",
         "ghoulish"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "psychopath",
@@ -4949,10 +4861,10 @@
           "+5.00% train animal chance",
           "+5.00% animal products price improvement"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_AnimalFriend",
@@ -4989,7 +4901,7 @@
         "idiotsavant",
         "ghoulish"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "beautiful",
@@ -5015,10 +4927,10 @@
           "-10% global certainty loss factor",
           "+10.00% Arrest success chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Magnetic",
@@ -5045,7 +4957,7 @@
         "stupid",
         "oblivious"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bloodlust",
@@ -5061,10 +4973,10 @@
           "+10% immunity gain speed",
           "+5% medical surgery success chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_LifeGiver",
@@ -5093,7 +5005,7 @@
         "stupid",
         "oblivious"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "abrasive",
@@ -5111,10 +5023,10 @@
           "+10% drug crop harvest yield",
           "+10.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_SpiritualHealer",
@@ -5142,7 +5054,7 @@
         "ironfist",
         "tenderizer"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "strongback",
@@ -5159,10 +5071,10 @@
         "stats": [
           "-25 carrying capacity"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_FrailBack",
@@ -5199,7 +5111,7 @@
         "animalfriend",
         "magnetic"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "beautiful",
@@ -5225,10 +5137,10 @@
           "-25.00% tame animal chance",
           "-25.00% train animal chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Ghoulish",
@@ -5265,7 +5177,7 @@
         "veryscientific",
         "philanthropist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "fastlearner",
@@ -5291,10 +5203,10 @@
           "+150% global learning factor",
           "-25% global work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_IdiotSavant",
@@ -5330,7 +5242,7 @@
         "veryscientific",
         "perfectionist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "fastlearner",
@@ -5355,10 +5267,10 @@
           "-10.00% conversion power",
           "+10% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Stupid",
@@ -5397,7 +5309,7 @@
         "veryscientific",
         "perfectionist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "fastlearner",
@@ -5425,10 +5337,10 @@
           "-10.00% conversion power",
           "+10% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Oblivious",
@@ -5452,7 +5364,7 @@
         "-10.00% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -5465,10 +5377,10 @@
           "-1.0 beauty",
           "-10.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Woodchucker",
@@ -5499,7 +5411,7 @@
         "frailback",
         "perfectionist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "wimp",
@@ -5519,10 +5431,10 @@
           "-10% construct success chance",
           "-10% repair success chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_WreckingBall",
@@ -5550,7 +5462,7 @@
         "blitz",
         "wreckingball"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "stupid",
@@ -5567,10 +5479,10 @@
           "-10% general labor speed",
           "-10% smoothing speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_Perfectionist",
@@ -5605,7 +5517,7 @@
         "gunnut",
         "frailback"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "brawler",
@@ -5629,10 +5541,10 @@
           "+20.00% Arrest success chance",
           "+10% suppression power"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Fallout Traits",
+        "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_IronFist",
@@ -5647,11 +5559,11 @@
       "description": "Everything Timmy cooks turns into Dark matter.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Kijin Race 3.0",
@@ -5666,34 +5578,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy detests manual labor, feeling that tasks such as cleaning and hauling are beneath him. he will perform such tasks more slowly than others would, and will also carry less per load when required to haul.",
-      "stats": [
-        "-20% general labor speed",
-        "-25 carrying capacity"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "-20% general labor speed",
-          "-25 carrying capacity"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "More Than Capable",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HatesDumbLabor",
-      "name": "hatesdumblabor"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
       "description": "Timmy has a loose screw or two, a small trade off for being naturally scientifically inclined.",
       "stats": [
         "x115% research speed"
@@ -5701,7 +5585,7 @@
       "conflicts": [
         "dunce"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "dunce"
@@ -5709,7 +5593,7 @@
         "stats": [
           "x115% research speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -5729,13 +5613,13 @@
         "x65% global work speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "x65% global work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -5757,7 +5641,7 @@
         "brave",
         "bloodlust"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "brawler",
@@ -5765,7 +5649,7 @@
           "bloodlust"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -5789,7 +5673,7 @@
         "wimp",
         "coward"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "wimp",
@@ -5799,7 +5683,7 @@
           "-20% mental break threshold",
           "+20% pain shock threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -5819,13 +5703,13 @@
       "conflicts": [
         "nimble"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "nimble"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -5847,7 +5731,7 @@
       "conflicts": [
         "coldinclined"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "coldinclined"
@@ -5855,7 +5739,7 @@
         "stats": [
           "+10.0C Maximum comfortable temperature"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -5877,7 +5761,7 @@
       "conflicts": [
         "heatinclined"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "heatinclined"
@@ -5885,7 +5769,7 @@
         "stats": [
           "-10.0C Minimum comfortable temperature"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -5903,11 +5787,11 @@
       "description": "A bomb could go off next to Timmy while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -5927,13 +5811,13 @@
       "conflicts": [
         "slob"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "slob"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -5953,13 +5837,13 @@
       "conflicts": [
         "neat"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "neat"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -5983,7 +5867,7 @@
         "lazy",
         "slothful"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "absent-minded",
@@ -5993,7 +5877,7 @@
           "slothful"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6013,13 +5897,13 @@
       "conflicts": [
         "squeamish"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "squeamish"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6039,13 +5923,13 @@
       "conflicts": [
         "animalhater"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "animalhater"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6066,14 +5950,14 @@
         "animallover",
         "menagerist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "animallover",
           "menagerist"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6091,11 +5975,11 @@
       "description": "Whether because they're a bit chunky or because they shift their weight oddly, Timmy has broken a few chairs in their time and is likely to break more.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6117,7 +6001,7 @@
       "conflicts": [
         "submissive"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "submissive"
@@ -6125,7 +6009,7 @@
         "stats": [
           "x25% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6147,7 +6031,7 @@
       "conflicts": [
         "rebel"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "rebel"
@@ -6155,7 +6039,7 @@
         "stats": [
           "x200% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6177,7 +6061,7 @@
       "conflicts": [
         "kind"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "kind"
@@ -6185,7 +6069,7 @@
         "stats": [
           "x25% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6207,7 +6091,7 @@
       "conflicts": [
         "bodymodder"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "bodymodder"
@@ -6215,7 +6099,7 @@
         "stats": [
           "Only mental break \"VTE_TechnophobeTantrum\" allowed."
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6235,13 +6119,13 @@
       "conflicts": [
         "anxious"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "anxious"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6267,7 +6151,7 @@
         "eccentric",
         "prodigy"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "fastlearner",
@@ -6279,7 +6163,7 @@
           "-50% global learning factor",
           "-50.00% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6297,11 +6181,11 @@
       "description": "Timmy learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6321,13 +6205,13 @@
       "conflicts": [
         "ascetic"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "ascetic"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6348,14 +6232,14 @@
         "ironstomach",
         "desensitized"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "ironstomach",
           "desensitized"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6377,7 +6261,7 @@
       "conflicts": [
         "fun-loving"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "fun-loving"
@@ -6385,7 +6269,7 @@
         "stats": [
           "Only mental break \"VTE_PanicFreezing\" allowed."
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6409,7 +6293,7 @@
         "asexual",
         "nudist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "prude",
@@ -6419,7 +6303,7 @@
         "stats": [
           "x200% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6442,7 +6326,7 @@
         "insatiable",
         "nudist"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "insatiable",
@@ -6451,7 +6335,7 @@
         "stats": [
           "x50% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6469,11 +6353,11 @@
       "description": "An armchair and flatscreen is all Timmy needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6493,13 +6377,13 @@
       "conflicts": [
         "dogperson"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "dogperson"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6519,13 +6403,13 @@
       "conflicts": [
         "catperson"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "catperson"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6548,7 +6432,7 @@
       "conflicts": [
         "dunce"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "dunce"
@@ -6557,7 +6441,7 @@
           "+20% mental break threshold",
           "x130% research speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6580,7 +6464,7 @@
       "conflicts": [
         "animalhater"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "animalhater"
@@ -6589,7 +6473,7 @@
           "x120% tame animal chance",
           "x120% train animal chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6607,11 +6491,11 @@
       "description": "The sea calls to Timmy. he feels happier just being near the ocean or a deep river.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6629,11 +6513,11 @@
       "description": "The mountains call to Timmy. he feels happier just being near a large mountain.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6653,13 +6537,13 @@
         "+20% surgery success chance factor"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+20% surgery success chance factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6679,13 +6563,13 @@
         "+4 melee"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+4 melee"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6705,13 +6589,13 @@
         "Only mental break \"VTE_Kleptomaniac\" allowed."
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "Only mental break \"VTE_Kleptomaniac\" allowed."
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6734,7 +6618,7 @@
         "teetotaler",
         "lush"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "chemicalfascination",
@@ -6743,7 +6627,7 @@
           "lush"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6766,7 +6650,7 @@
         "teetotaler",
         "lush"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "chemicalfascination",
@@ -6775,7 +6659,7 @@
           "lush"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6797,7 +6681,7 @@
       "conflicts": [
         "undergrounder"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "undergrounder"
@@ -6805,7 +6689,7 @@
         "stats": [
           "+0.2 foraged food amount"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6828,7 +6712,7 @@
       "conflicts": [
         "heavysleeper"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "heavysleeper"
@@ -6837,7 +6721,7 @@
           "x50% global work speed",
           "x70% move speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6855,11 +6739,11 @@
       "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. his bleak personality is a big downer and therefore it is very hard to become friends with them.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6881,7 +6765,7 @@
       "conflicts": [
         "squeamish"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "squeamish"
@@ -6889,7 +6773,7 @@
         "stats": [
           "x50% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6911,7 +6795,7 @@
       "conflicts": [
         "ascetic"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "ascetic"
@@ -6919,7 +6803,7 @@
         "stats": [
           "x70% eating speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6943,7 +6827,7 @@
       "conflicts": [
         "slowlearner"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "slowlearner"
@@ -6953,7 +6837,7 @@
           "+4 medical",
           "+20% medical tend quality"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -6976,7 +6860,7 @@
         "+20% construction speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -6985,7 +6869,7 @@
           "+20% mining yield",
           "+20% construction speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -7007,7 +6891,7 @@
         "-25.00% food poison chance"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -7015,7 +6899,7 @@
           "+4 artistic",
           "-25.00% food poison chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -7038,7 +6922,7 @@
         "+20% butchery efficiency"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -7047,7 +6931,7 @@
           "+20% plant harvest yield",
           "+20% butchery efficiency"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -7069,7 +6953,7 @@
         "+25.00% trade price improvement"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -7077,7 +6961,7 @@
           "+4 crafting",
           "+25.00% trade price improvement"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -7097,13 +6981,13 @@
       "conflicts": [
         "thinskinned"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "thinskinned"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -7123,13 +7007,13 @@
       "conflicts": [
         "thickskinned"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "thickskinned"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -7152,7 +7036,7 @@
         "nervous",
         "volatile"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "iron-willed",
@@ -7161,7 +7045,7 @@
           "volatile"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
@@ -7183,7 +7067,7 @@
         "x115% subcore encoding speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -7191,7 +7075,7 @@
           "x125% mech control groups",
           "x115% subcore encoding speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
@@ -7216,7 +7100,7 @@
         "x125% subcore encoding speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -7227,7 +7111,7 @@
           "x115% mech repair speed",
           "x125% subcore encoding speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
@@ -7253,7 +7137,7 @@
         "x130% melee dodge chance"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -7265,7 +7149,7 @@
           "x120% melee hit chance",
           "x130% melee dodge chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
@@ -7289,7 +7173,7 @@
         "x115% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -7299,7 +7183,7 @@
           "x130% negotiation ability",
           "x115% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
@@ -7322,7 +7206,7 @@
         "x100% neural heat gain"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -7331,7 +7215,7 @@
           "x75% neural heat limit",
           "x100% neural heat gain"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
@@ -7354,7 +7238,7 @@
         "x100% neural heat gain"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -7363,7 +7247,7 @@
           "x250% neural heat limit",
           "x100% neural heat gain"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
@@ -7383,13 +7267,13 @@
         "x125% global work speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "x125% global work speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
@@ -7409,13 +7293,13 @@
         "x66% aiming time"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "x66% aiming time"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
@@ -7435,13 +7319,13 @@
         "x133% shooting accuracy"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "x133% shooting accuracy"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
@@ -7463,7 +7347,7 @@
         "x140% melee dodge chance"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -7471,7 +7355,7 @@
           "x140% melee hit chance",
           "x140% melee dodge chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
@@ -7495,7 +7379,7 @@
         "x120% repair success chance"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -7505,7 +7389,7 @@
           "x110% construct success chance",
           "x120% repair success chance"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
@@ -7528,7 +7412,7 @@
         "x110% mining yield"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -7537,7 +7421,7 @@
           "x125% mining speed",
           "x110% mining yield"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
@@ -7561,7 +7445,7 @@
         "x125% butchery efficiency"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -7571,7 +7455,7 @@
           "x125% butchery speed",
           "x125% butchery efficiency"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
@@ -7593,7 +7477,7 @@
         "x110% research speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -7601,7 +7485,7 @@
           "x150% drug synthesis speed",
           "x110% research speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
@@ -7625,7 +7509,7 @@
         "x110% research speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -7635,7 +7519,7 @@
           "x150% foraged food amount",
           "x110% research speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
@@ -7662,7 +7546,7 @@
         "x125% hunting stealth"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -7675,7 +7559,7 @@
           "x125% tame animal chance",
           "x125% hunting stealth"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
@@ -7697,7 +7581,7 @@
         "x110% mechanoid shredding speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -7705,7 +7589,7 @@
           "x125% construct success chance",
           "x110% mechanoid shredding speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
@@ -7729,7 +7613,7 @@
         "x110% medical operation speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -7739,7 +7623,7 @@
           "x110% medical surgery success chance",
           "x110% medical operation speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
@@ -7762,7 +7646,7 @@
         "x150% smelting speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -7771,7 +7655,7 @@
           "x125% mechanoid shredding efficiency",
           "x150% smelting speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
@@ -7793,7 +7677,7 @@
         "x140% social impact"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -7801,7 +7685,7 @@
           "x140% negotiation ability",
           "x140% social impact"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
@@ -7823,7 +7707,7 @@
         "x120% mental break threshold"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -7831,7 +7715,7 @@
           "x140% psychic sensitivity",
           "x120% mental break threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
@@ -7855,7 +7739,7 @@
         "x75% mental break threshold"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -7865,7 +7749,7 @@
           "x135% psychic sensitivity",
           "x75% mental break threshold"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
@@ -7887,7 +7771,7 @@
         "x50% beauty"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -7895,7 +7779,7 @@
           "x50% honor value",
           "x50% beauty"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
@@ -7913,11 +7797,11 @@
       "description": "Timmy is romantically attracted to people of the opposite gender.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[RF] Rational Romance (Continued)",
@@ -7937,13 +7821,13 @@
       "conflicts": [
         "philanderer"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "philanderer"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[RF] Rational Romance (Continued)",
@@ -7963,13 +7847,13 @@
       "conflicts": [
         "faithful"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "faithful"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[RF] Rational Romance (Continued)",
@@ -7989,13 +7873,13 @@
       "conflicts": [
         "asexual"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "asexual"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "[RF] Rational Romance (Continued)",
@@ -8009,187 +7893,19 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy believes all simple labor to be beneath him.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Illithid Xenotype",
-        "karmaTypeForAdding": null
-      },
-      "defName": "GS_TArrogant",
-      "name": "arrogant"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1,
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Xenophobia",
-      "name": "xenophobe"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1,
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Xenophobia",
-      "name": "xenophile"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is now a natural hunter.",
-      "stats": [
-        "+1 shooting",
-        "+1 animals"
-      ],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [
-          "+1 shooting",
-          "+1 animals"
-        ],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Pawnmorpher",
-        "karmaTypeForAdding": null
-      },
-      "defName": "NaturalHunter",
-      "name": "naturalhunter"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is intrigued by the idea of becoming something other than human.",
-      "stats": [],
-      "conflicts": [
-        "bodypurist"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "bodypurist"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Pawnmorpher",
-        "karmaTypeForAdding": null
-      },
-      "defName": "MutationAffinity",
-      "name": "mutationaffinity"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy's sees himself as the natural leader of his pride and as a consequence looks down on others and is easily offended.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Pawnmorpher",
-        "karmaTypeForAdding": null
-      },
-      "defName": "PM_PridefulTrait",
-      "name": "prideful"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy is a member of a hivemind",
-      "stats": [],
-      "conflicts": [
-        "bodymodder"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "bodymodder"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "The Human Hive 3",
-        "karmaTypeForAdding": null
-      },
-      "defName": "HivemindTrait",
-      "name": "hivemind"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "degree": 2,
       "description": "Timmy possesses an unnatural, almost pristine beauty that makes him stand out among others of his kind.",
       "stats": [
         "+1.0 beauty"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+1.0 beauty"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Alpha Genes",
@@ -8209,13 +7925,13 @@
         "-1.0 beauty"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "-1.0 beauty"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Alpha Genes",
@@ -8233,11 +7949,11 @@
       "description": "A strict principle of nonviolence which applies to all living things.",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Alpha Memes",
@@ -8258,14 +7974,14 @@
         "x200% filth rate"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "-50% cleaning speed multiplier",
           "x200% filth rate"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Cleaning Speed",
@@ -8286,14 +8002,14 @@
         "x50% filth rate"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+50% cleaning speed multiplier",
           "x50% filth rate"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Cleaning Speed",
@@ -8313,13 +8029,13 @@
       "conflicts": [
         "nightowl"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "nightowl"
         ],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Expanded Biotech Style Genes - All in One",
@@ -8342,7 +8058,7 @@
         "x80% lifespan factor"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -8351,10 +8067,10 @@
           "x90% move speed",
           "x80% lifespan factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Big and Small Genes",
+        "mod": "Big and Small - Genes & More",
         "karmaTypeForAdding": null
       },
       "defName": "Gigantism",
@@ -8374,7 +8090,7 @@
         "x95% lifespan factor"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -8383,10 +8099,10 @@
           "x95% move speed",
           "x95% lifespan factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Big and Small Genes",
+        "mod": "Big and Small - Genes & More",
         "karmaTypeForAdding": null
       },
       "defName": "Large",
@@ -8407,7 +8123,7 @@
         "x93% move speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -8417,10 +8133,10 @@
           "x95% deep drilling speed",
           "x93% move speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Big and Small Genes",
+        "mod": "Big and Small - Genes & More",
         "karmaTypeForAdding": null
       },
       "defName": "Small",
@@ -8441,7 +8157,7 @@
         "x85% move speed"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
@@ -8451,10 +8167,10 @@
           "x75% deep drilling speed",
           "x85% move speed"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Big and Small Genes",
+        "mod": "Big and Small - Genes & More",
         "karmaTypeForAdding": null
       },
       "defName": "Dwarfism",
@@ -8472,17 +8188,17 @@
         "+15% global learning factor"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+0.35 skill learning (no passion)",
           "+15% global learning factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Big and Small Genes",
+        "mod": "Big and Small - Genes & More",
         "karmaTypeForAdding": null
       },
       "defName": "Passioned_Learning",
@@ -8500,17 +8216,17 @@
         "+30% global learning factor"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "+0.65 skill learning (no passion)",
           "+30% global learning factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Big and Small Genes",
+        "mod": "Big and Small - Genes & More",
         "karmaTypeForAdding": null
       },
       "defName": "Very_Passioned_Learning",
@@ -8522,43 +8238,21 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "There is something about Timmy that makes predators not consider tham as prey",
+      "description": "There is something about Timmy that makes predators not consider them prey",
       "stats": [],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Big and Small Genes",
+        "mod": "Big and Small - Genes & More",
         "karmaTypeForAdding": null
       },
       "defName": "BS_AnimalFriend",
       "name": "animalfriend"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
-      "description": "Timmy really dislikes and distrusts people in general. I mean, who can blame them right?",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Unknown",
-        "karmaTypeForAdding": null
-      },
-      "defName": "DislikesHumanity",
-      "name": "misanthrope"
     },
     {
       "canAdd": true,
@@ -8577,7 +8271,7 @@
         "teetotaler",
         "lush"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [
           "chemicalfascination",
@@ -8589,14 +8283,264 @@
           "+10% mental break threshold",
           "x150% recreation power"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Big and Small Genes",
+        "mod": "Big and Small - Genes & More",
         "karmaTypeForAdding": null
       },
       "defName": "BS_AlcoholAddict",
       "name": "alcohollover"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy doesn't react to insults or to either part failing a flirt attempt.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": true,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_InsultProof",
+      "name": "uninsultable"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy isn't bothered by rough apperances, a bit of rough living. Timmy also doesn't care as much for royal titles.",
+      "stats": [],
+      "conflicts": [
+        "greedy",
+        "jealous",
+        "bodypurist",
+        "misandrist",
+        "misogynist"
+      ],
+      "bypassLimit": true,
+      "data": {
+        "conflicts": [
+          "greedy",
+          "jealous",
+          "bodypurist",
+          "misandrist",
+          "misogynist"
+        ],
+        "stats": [],
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small - Genes & More",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_Unpretentious",
+      "name": "unpretentious"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has outstanding memory, both in terms of retaining information but also muscle memory. his skills will never decay.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": true,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PerfectMemory",
+      "name": "perfectmemory"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has deep knowledge of the twisted patterns of dark psychic energy. he can study unnatural entities faster than others. he will also periodically teach this inhuman knowledge to others when he gets the chance.",
+      "stats": [
+        "+100% study efficiency",
+        "+50% entity study rate"
+      ],
+      "conflicts": [],
+      "bypassLimit": true,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+100% study efficiency",
+          "+50% entity study rate"
+        ],
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Occultist",
+      "name": "occultist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has the ability to make everyone feel better and inspire them to be the best version of themselves.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": true,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Joyous",
+      "name": "joyous"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy doesn't have basic needs like eating, sleeping, or comfort. his body is driven by some unknown mechanism, which has turned his eyes completely white.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": true,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BodyMastery",
+      "name": "bodymastery"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a peculiar person who seems fixated on horrendous ideas. Talking to him is often upsetting.",
+      "stats": [
+        "Morbid meditation focus type allowed."
+      ],
+      "conflicts": [],
+      "bypassLimit": true,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Morbid meditation focus type allowed."
+        ],
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Disturbing",
+      "name": "disturbing"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is strangely intrigued by unnatural entities and is easily enthralled by them.",
+      "stats": [
+        "Artistic meditation focus type disabled.",
+        "Void meditation focus type allowed.",
+        "Only mental break \"entity liberator\" allowed."
+      ],
+      "conflicts": [],
+      "bypassLimit": true,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Artistic meditation focus type disabled.",
+          "Void meditation focus type allowed.",
+          "Only mental break \"entity liberator\" allowed."
+        ],
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Anomaly",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VoidFascination",
+      "name": "voidfascination"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": true,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HAR_Xenophobia",
+      "name": "xenophobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": true,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "HAR_Xenophobia",
+      "name": "xenophile"
     }
   ],
   "races": [
@@ -8608,8 +8552,8 @@
           "+70% Flammability",
           "+$1750 Market value",
           "+4.60 Move speed",
-          "+16.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
+          "+16.0C Min comfortable temperature",
+          "+26.0C Max comfortable temperature",
           "+75 Leather amount",
           "+3 Honor value"
         ],
@@ -8628,120 +8572,21 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
-          "+$200 Market value",
+          "+$1750 Market value",
           "+4.60 Move speed",
-          "+4.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
+          "+16.0C Min comfortable temperature",
+          "+26.0C Max comfortable temperature",
           "+75 Leather amount",
-          "+3 Honor value",
-          "+300% Global learning factor"
+          "+3 Honor value"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
-      "description": "A creature that resembles a human in many ways, differentiated by the fact that is is an imitation human, grown in a vat for a collective hivemind.",
-      "defName": "Hive_BioHuman",
-      "enabled": false,
-      "name": "bio-humanoid",
-      "price": 333
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$150 Market value",
-          "+2.60 Move speed",
-          "+4.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
-          "+45 Leather amount",
-          "+1 Honor value",
-          "+200% Global learning factor"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "An artificial imitation of a humanoid. Awkward and clumsy, this attempt is full of flaws, but its much better than nothing.",
-      "defName": "Hive_ProtoHuman",
-      "enabled": false,
-      "name": "proto-humanoid",
-      "price": 250
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$150 Market value",
-          "+4.00 Move speed",
-          "+8.0C Minimum comfortable temperature",
-          "+18.0C Maximum comfortable temperature",
-          "+45 Leather amount",
-          "+1 Honor value",
-          "+50% Global learning factor"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A specialised hive human filled with volitile chemicals and ready to explode upon a moments notice.",
-      "defName": "Hive_BoomHuman",
-      "enabled": false,
-      "name": "explodling",
-      "price": 250
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$700 Market value",
-          "+3.60 Move speed",
-          "+0.0C Minimum comfortable temperature",
-          "+30.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+1 Honor value",
-          "+70% Global learning factor",
-          "+1.0 Body size cosmetic offset",
-          "+1.4 Body size offset",
-          "+1.5 Concussive damage multiplier"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "A giant mass of muscles, grown in a vat for its immense strength, not very bright but hits like a truck.",
-      "defName": "Hive_MegaHulk",
-      "enabled": false,
-      "name": "mega hulk",
-      "price": 1167
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$3000 Market value",
-          "+3.60 Move speed",
-          "+0.0C Minimum comfortable temperature",
-          "+30.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+1 Honor value",
-          "+100% Global learning factor",
-          "+1.5 Body size cosmetic offset",
-          "+1.2 Body size offset",
-          "+110% Head size multiplier"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "The queen and controller of a Human Hive. She is the source of life for all hive creature. Without her, the hive dies.",
-      "defName": "Hive_Queen",
-      "enabled": false,
-      "name": "hive queen",
-      "price": 5000
+      "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
+      "defName": "CreepJoiner",
+      "enabled": true,
+      "name": "human",
+      "price": 2917
     }
   ]
 }
