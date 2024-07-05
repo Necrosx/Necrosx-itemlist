@@ -5620,13 +5620,13 @@
           "x65% global work speed"
         ],
         "canBypassLimit": true,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null
       },
       "defName": "VTE_Perfectionist",
-      "name": "perfectionist"
+      "name": "perfectionist2"
     },
     {
       "canAdd": true,
@@ -5904,13 +5904,13 @@
         ],
         "stats": [],
         "canBypassLimit": true,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null
       },
       "defName": "VTE_IronStomach",
-      "name": "ironstomach"
+      "name": "ironstomach2"
     },
     {
       "canAdd": true,
@@ -7590,13 +7590,13 @@
           "x110% mechanoid shredding speed"
         ],
         "canBypassLimit": true,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Synergistic Traits",
         "karmaTypeForAdding": null
       },
       "defName": "SN_Artisan",
-      "name": "artisan"
+      "name": "artisan2"
     },
     {
       "canAdd": true,
@@ -8246,13 +8246,13 @@
         "conflicts": [],
         "stats": [],
         "canBypassLimit": true,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Big and Small - Genes & More",
         "karmaTypeForAdding": null
       },
       "defName": "BS_AnimalFriend",
-      "name": "animalfriend"
+      "name": "animalfriend2"
     },
     {
       "canAdd": true,
