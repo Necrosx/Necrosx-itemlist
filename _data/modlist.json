@@ -3,7 +3,7 @@
     "author": "Zetrith",
     "name": "Prepatcher",
     "steamId": "2934420800",
-    "version": "1.0.0+7bb30f4069b9ca6e671bce39d25df6f6d04059bf"
+    "version": "1.0.0+350afc454b4f794a613c562877690c2fe8a66670"
   },
   {
     "author": "Andreas Pardeike",
@@ -522,6 +522,12 @@
     "version": null
   },
   {
+    "author": "Ron Popeil",
+    "name": "Don't Steal My Walls!",
+    "steamId": "3280860603",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Alias, SirHumphreyAppleby, Syrchalis and Latta",
     "name": "Doormats",
     "steamId": "",
@@ -621,7 +627,7 @@
     "author": "Mlie",
     "name": "Enter Here",
     "steamId": "2824117092",
-    "version": "1.5.5"
+    "version": "1.5.6"
   },
   {
     "author": "DemonRoka",
@@ -651,7 +657,7 @@
     "author": "alite",
     "name": "EBSG Framework",
     "steamId": "3112549163",
-    "version": "1.0.8943.17626"
+    "version": "1.0.8953.21995"
   },
   {
     "author": "alite",
@@ -870,6 +876,12 @@
     "version": null
   },
   {
+    "author": "VentaExtera",
+    "name": "Ideo Roles Don't Forbid Work",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "AlexNares",
     "name": "Idle Dungeon Looting",
     "steamId": null,
@@ -1006,6 +1018,12 @@
     "name": "Mech Caller",
     "steamId": "2881974849",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Poncho",
+    "name": "Mech Water Raids Begone!",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "tofudriver",
@@ -1263,7 +1281,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8949.21957"
+    "version": "1.0.8954.31775"
   },
   {
     "author": "Sandy",
@@ -1656,6 +1674,12 @@
     "version": "1.5"
   },
   {
+    "author": "NuanKi",
+    "name": "Tacticowl - Ghouls/Mechs Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "alite",
     "name": "Technology Helps Children Learn Fast",
     "steamId": null,
@@ -1788,6 +1812,18 @@
     "version": "1.4.1.0"
   },
   {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Armour Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BunX",
+    "name": "VAE Handwear and Footwear Addon",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Zaljerem",
     "name": "Vali's Charged Arsenal (Continued)",
     "steamId": null,
@@ -1808,12 +1844,6 @@
   {
     "author": "Oskar Potocki, xrushha, SmashPhil and legodude17",
     "name": "Vanilla Apparel Expanded — Accessories",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Armour Expanded",
     "steamId": null,
     "version": null
   },
@@ -2004,6 +2034,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki, Taranchuk and Sarg",
+    "name": "Vanilla Races Expanded - Insector",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki and Taranchuk",
     "name": "Vanilla Trading Expanded",
     "steamId": "2785616901",
@@ -2062,6 +2098,12 @@
     "name": "WVC - Work Modes",
     "steamId": "2888380373",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Victor and wilki24",
+    "name": "Walls are solid",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Epicguru (James B)",

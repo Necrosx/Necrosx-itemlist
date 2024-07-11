@@ -25919,7 +25919,61 @@
       "category": "Animals",
       "defname": "pphhyy_LightlessEmpyrean_Sirius",
       "price": 100
+    },
+    {
+      "abr": "!!experimental!!energygenerationcataphractgloves",
+      "category": "Handwear and footwear",
+      "defname": "Handwear_EnergyCataphractGloves",
+      "price": 2258
+    },
+    {
+      "abr": "cataphractboots",
+      "category": "Handwear and footwear",
+      "defname": "Footwear_CataphractBoots",
+      "price": 2258
+    },
+    {
+      "abr": "cataphractgloves",
+      "category": "Handwear and footwear",
+      "defname": "Handwear_CataphractGloves",
+      "price": 2258
+    },
+    {
+      "abr": "genepackreprocessor",
+      "category": "Production",
+      "defname": "GeneSeparator",
+      "price": 2183
+    },
+    {
+      "abr": "reconboots",
+      "category": "Handwear and footwear",
+      "defname": "Footwear_ReconBoots",
+      "price": 825
+    },
+    {
+      "abr": "recongloves",
+      "category": "Handwear and footwear",
+      "defname": "Handwear_ReconGloves",
+      "price": 967
+    },
+    {
+      "abr": "trooperboots",
+      "category": "Handwear and footwear",
+      "defname": "Footwear_TrooperBoots",
+      "price": 717
+    },
+    {
+      "abr": "troopergloves",
+      "category": "Handwear and footwear",
+      "defname": "Handwear_TrooperGloves",
+      "price": 700
+    },
+    {
+      "abr": "uraniumfilamentcataphractboots",
+      "category": "Handwear and footwear",
+      "defname": "Footwear_UraniumCataphractBoots",
+      "price": 2108
     }
   ],
-  "total": 4320
+  "total": 4329
 }
