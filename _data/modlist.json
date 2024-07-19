@@ -522,6 +522,12 @@
     "version": null
   },
   {
+    "author": "SpaceMoth",
+    "name": "Do Not Go There",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Ron Popeil",
     "name": "Don't Steal My Walls!",
     "steamId": "3280860603",
@@ -878,8 +884,8 @@
   {
     "author": "VentaExtera",
     "name": "Ideo Roles Don't Forbid Work",
-    "steamId": null,
-    "version": null
+    "steamId": "3284846696",
+    "version": "1.0.0.0"
   },
   {
     "author": "AlexNares",
@@ -922,6 +928,12 @@
     "name": "Infinite Reinforce",
     "steamId": "2623528901",
     "version": "1.1.0.6"
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Insect Evolution",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Turnovus",
@@ -1080,6 +1092,18 @@
     "version": "0.0.0.0"
   },
   {
+    "author": "Oskar Potocki, Taranchuk and Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.4.1.0"
+  },
+  {
+    "author": "Sinnamon",
+    "name": "More Ritual Rewards",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oldking",
     "name": "Multi-Bed Royalty Patch (Continued)",
     "steamId": null,
@@ -1102,12 +1126,6 @@
     "name": "No Job Authors",
     "steamId": "2009825774",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Taranchuk and Chowder",
-    "name": "Vanilla Traits Expanded",
-    "steamId": "2296404655",
-    "version": "1.4.1.0"
   },
   {
     "author": "Ben",
@@ -1368,6 +1386,24 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg",
+    "name": "Vanilla Furniture Expanded - Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Helixien Gas Expanded",
+    "steamId": "2877699803",
+    "version": "1.0.1.0"
+  },
+  {
     "author": "Sarg Bjornson",
     "name": "Vanilla Textures Expanded - Variations",
     "steamId": null,
@@ -1377,6 +1413,18 @@
     "author": "Helixien and Oracle of Thessia",
     "name": "ReBuild: Doors and Corners",
     "steamId": "3262718980",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Helixien",
+    "name": "ReGrowth: ReTextures",
+    "steamId": "3205381921",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien",
+    "name": "ReSplice: Core",
+    "steamId": "3236303965",
     "version": "0.0.0.0"
   },
   {
@@ -1444,6 +1492,12 @@
     "name": "Replace Stuff",
     "steamId": "1372003680",
     "version": "1.1.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Research Tree (Continued)",
+    "steamId": "3030499331",
+    "version": "1.5.5"
   },
   {
     "author": "telardo",
@@ -1704,8 +1758,20 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "HaiLuan",
+    "name": "Custom Quest Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "BotchJob",
     "name": "The Profaned",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "HaiLuan",
+    "name": "The Profaned Expanded",
     "steamId": null,
     "version": null
   },
@@ -1774,6 +1840,12 @@
     "name": "Trait Slots Plus",
     "steamId": "3217782973",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "HaiLuan",
+    "name": "Tunnel and underground",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "SirRandoo",
@@ -1902,18 +1974,6 @@
     "version": "1.0.1.0"
   },
   {
-    "author": "Oskar Potocki and Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Power",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Trunken and Sarg",
-    "name": "Vanilla Furniture Expanded - Production",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, Trunken and XeoNovaDan",
     "name": "Vanilla Furniture Expanded - Security",
     "steamId": "1845154007",
@@ -1930,12 +1990,6 @@
     "name": "Vanilla Hair Expanded",
     "steamId": "1888705256",
     "version": "1.0.3"
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Helixien Gas Expanded",
-    "steamId": "2877699803",
-    "version": "1.0.1.0"
   },
   {
     "author": "Oskar Potocki, Taranchuk and xrushha",
