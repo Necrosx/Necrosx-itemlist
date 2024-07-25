@@ -25577,7 +25577,523 @@
 		"price": 197,
 		"category": "Misc",
 		"defname": "PE_ProfanedTable"
+	},
+	{
+		"abr": "reconboots",
+		"price": 825,
+		"category": "Handwear and footwear",
+		"defname": "Footwear_ReconBoots"
+	},
+	{
+		"abr": "recongloves",
+		"price": 967,
+		"category": "Handwear and footwear",
+		"defname": "Handwear_ReconGloves"
+	},
+	{
+		"abr": "sarcophagus",
+		"price": 214,
+		"category": "Misc",
+		"defname": "QE_Sarcophagus"
+	},
+	{
+		"abr": "scute",
+		"price": 100,
+		"category": "Animals",
+		"defname": "pphhyy_LightlessEmpyrean_Scutes"
+	},
+	{
+		"abr": "sign",
+		"price": 67,
+		"category": "Misc",
+		"defname": "QE_Sign"
+	},
+	{
+		"abr": "sirius",
+		"price": 100,
+		"category": "Animals",
+		"defname": "pphhyy_LightlessEmpyrean_Sirius"
+	},
+	{
+		"abr": "skeletonchest",
+		"price": 117,
+		"category": "Misc",
+		"defname": "PE_TreasureChest"
+	},
+	{
+		"abr": "somecrate",
+		"price": 250,
+		"category": "Misc",
+		"defname": "QE_SomeCrate"
+	},
+	{
+		"abr": "strangewall",
+		"price": 17,
+		"category": "Misc",
+		"defname": "QF_StrangeWall"
+	},
+	{
+		"abr": "treasurechest",
+		"price": 117,
+		"category": "Misc",
+		"defname": "QE_TreasureChest"
+	},
+	{
+		"abr": "trooperboots",
+		"price": 717,
+		"category": "Handwear and footwear",
+		"defname": "Footwear_TrooperBoots"
+	},
+	{
+		"abr": "troopergloves",
+		"price": 700,
+		"category": "Handwear and footwear",
+		"defname": "Handwear_TrooperGloves"
+	},
+	{
+		"abr": "undergroundentrance",
+		"price": 1375,
+		"category": "Misc",
+		"defname": "TD_UndergroundEntrance"
+	},
+	{
+		"abr": "uraniumfilamentcataphractboots",
+		"price": 2108,
+		"category": "Handwear and footwear",
+		"defname": "Footwear_UraniumCataphractBoots"
+	},
+	{
+		"abr": "voidspike",
+		"price": 833,
+		"category": "Misc",
+		"defname": "RS_DarkArchiteSpike"
+	},
+	{
+		"abr": "xenogermduplicator",
+		"price": 1375,
+		"category": "Misc",
+		"defname": "RS_XenoGermDuplicator"
+	},
+	{
+		"abr": "alkalicoatimplant",
+		"price": 858,
+		"category": "Bionic",
+		"defname": "DeacidifierMembrane"
+	},
+	{
+		"abr": "archotechvoicebox",
+		"price": 1667,
+		"category": "Archotech",
+		"defname": "ArchotechVoicebox"
+	},
+	{
+		"abr": "archotechwomb",
+		"price": 1667,
+		"category": "Archotech",
+		"defname": "Archowomb"
+	},
+	{
+		"abr": "biochameleondevice",
+		"price": 1975,
+		"category": "Bionic",
+		"defname": "BiochameleonDevice"
+	},
+	{
+		"abr": "bionictail",
+		"price": 2275,
+		"category": "Bionic",
+		"defname": "LTS_BionicTail"
+	},
+	{
+		"abr": "bionicwomb",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "Synthwomb"
+	},
+	{
+		"abr": "bio-tuner",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "BiotunerImplant"
+	},
+	{
+		"abr": "blacksightdevice",
+		"price": 6492,
+		"category": "Bionic",
+		"defname": "BlacksightDevice"
+	},
+	{
+		"abr": "bluecoralwall",
+		"price": 4,
+		"category": "Misc",
+		"defname": "AG_BlueCoralWall"
+	},
+	{
+		"abr": "braindetonator",
+		"price": 342,
+		"category": "Prosthetic",
+		"defname": "LTS_BrainDetonator"
+	},
+	{
+		"abr": "brainshocker",
+		"price": 342,
+		"category": "Prosthetic",
+		"defname": "LTS_NeuralStunner"
+	},
+	{
+		"abr": "clawtail",
+		"price": 2275,
+		"category": "Bionic",
+		"defname": "LTS_ManipulationTail"
+	},
+	{
+		"abr": "coralcolumn",
+		"price": 4,
+		"category": "Misc",
+		"defname": "AG_CoralColumn"
+	},
+	{
+		"abr": "cranialinsulation",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "CranialInsulation"
+	},
+	{
+		"abr": "cryptosleepadaptor",
+		"price": 533,
+		"category": "Prosthetic",
+		"defname": "CryptoWakeImplant"
+	},
+	{
+		"abr": "deadlifecoil",
+		"price": 875,
+		"category": "Bionic",
+		"defname": "DeadlifeCollar"
+	},
+	{
+		"abr": "deadlifevenomclaw",
+		"price": 383,
+		"category": "Ghoul",
+		"defname": "DeadlifeVenomClaw"
+	},
+	{
+		"abr": "deathrestapparatus",
+		"price": 1842,
+		"category": "Sangophage",
+		"defname": "DeathrestApparatus"
+	},
+	{
+		"abr": "deathrestcapacitor",
+		"price": 1842,
+		"category": "Sangophage",
+		"defname": "DeathrestCapacitor"
+	},
+	{
+		"abr": "dreadheart",
+		"price": 3158,
+		"category": "Bionic",
+		"defname": "Dreadheart"
+	},
+	{
+		"abr": "dreadmeldcore",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "DreadmeldCore"
+	},
+	{
+		"abr": "eltexadornments",
+		"price": 2367,
+		"category": "Bionic",
+		"defname": "EltexAdornments"
+	},
+	{
+		"abr": "ghoulbioferriteextractor",
+		"price": 1433,
+		"category": "Ghoul",
+		"defname": "GhoulBioferriteExtractor"
+	},
+	{
+		"abr": "ghoulpowerplating",
+		"price": 2700,
+		"category": "Ghoul",
+		"defname": "GhoulPowerPlating"
+	},
+	{
+		"abr": "gourmandtongue",
+		"price": 1383,
+		"category": "Bionic",
+		"defname": "GourmandTongue"
+	},
+	{
+		"abr": "graydoor",
+		"price": 37,
+		"category": "Misc",
+		"defname": "AG_GrayDoor"
+	},
+	{
+		"abr": "graywall",
+		"price": 4,
+		"category": "Misc",
+		"defname": "AG_GrayWall"
+	},
+	{
+		"abr": "hackingport",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "HackingPortImplant"
+	},
+	{
+		"abr": "hemo-fangs",
+		"price": 1842,
+		"category": "Sangophage",
+		"defname": "HemoFangs"
+	},
+	{
+		"abr": "hemogenicactivator",
+		"price": 1842,
+		"category": "Sangophage",
+		"defname": "HemogenicActivator"
+	},
+	{
+		"abr": "hemogenicmicrocompressor",
+		"price": 1842,
+		"category": "Sangophage",
+		"defname": "HemogenicMicrocompressor"
+	},
+	{
+		"abr": "hyper-adrenalinegland",
+		"price": 858,
+		"category": "Bionic",
+		"defname": "HyperAdrenalineGland"
+	},
+	{
+		"abr": "internalclimatecontrol",
+		"price": 667,
+		"category": "Prosthetic",
+		"defname": "InternalClimateControlImplant"
+	},
+	{
+		"abr": "lacto-stimulator",
+		"price": 433,
+		"category": "Prosthetic",
+		"defname": "LactoStimulator"
+	},
+	{
+		"abr": "largeclam",
+		"price": 15,
+		"category": "Misc",
+		"defname": "AG_DecorativeClam"
+	},
+	{
+		"abr": "largecoralcolumn",
+		"price": 4,
+		"category": "Misc",
+		"defname": "AG_LargeCoralColumn"
+	},
+	{
+		"abr": "largeluminescentcolumn",
+		"price": 4,
+		"category": "Misc",
+		"defname": "AG_LargeLuminescentColumn"
+	},
+	{
+		"abr": "luminescentcolumn",
+		"price": 4,
+		"category": "Misc",
+		"defname": "AG_LuminescentColumn"
+	},
+	{
+		"abr": "mechhivesatelliteuplink",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "MechhiveSatelliteUplink"
+	},
+	{
+		"abr": "mechwomb",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "Mechwomb"
+	},
+	{
+		"abr": "metabolicengine",
+		"price": 608,
+		"category": "Ghoul",
+		"defname": "GhoulMetabolicEngine"
+	},
+	{
+		"abr": "metalhorrorsymbiont",
+		"price": 875,
+		"category": "Bionic",
+		"defname": "MetalhorrorSymbiont"
+	},
+	{
+		"abr": "nerveshredderclaw",
+		"price": 383,
+		"category": "Ghoul",
+		"defname": "NerveShredderClaw"
+	},
+	{
+		"abr": "neuralheatsink",
+		"price": 3050,
+		"category": "Bionic",
+		"defname": "NeuralHeatsink"
+	},
+	{
+		"abr": "nociosphereemitter",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "NociosphereEmitter"
+	},
+	{
+		"abr": "noctolithsensor",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "NoctolithSensor"
+	},
+	{
+		"abr": "prestigesubdermalarmour",
+		"price": 5217,
+		"category": "Bionic",
+		"defname": "LTS_PrestigeSubdermalArmour"
+	},
+	{
+		"abr": "psychicagonizer",
+		"price": 3158,
+		"category": "Bionic",
+		"defname": "PsychicAgonizer"
+	},
+	{
+		"abr": "psychicbeguiler",
+		"price": 3492,
+		"category": "Bionic",
+		"defname": "PsychicBeguiler"
+	},
+	{
+		"abr": "psychiclevitator",
+		"price": 1667,
+		"category": "Archotech",
+		"defname": "PsychicLevitator"
+	},
+	{
+		"abr": "psychicnullifier",
+		"price": 1667,
+		"category": "Archotech",
+		"defname": "PsychicNullifier"
+	},
+	{
+		"abr": "psychicsustainer",
+		"price": 858,
+		"category": "Bionic",
+		"defname": "PsychicSustainer"
+	},
+	{
+		"abr": "remotedominator",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "RemoteDominator"
+	},
+	{
+		"abr": "remoteresurrector",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "RemoteResurrector"
+	},
+	{
+		"abr": "retributiveimpaler",
+		"price": 858,
+		"category": "Bionic",
+		"defname": "DefensiveImpaler"
+	},
+	{
+		"abr": "shoulderchargeturret",
+		"price": 1867,
+		"category": "Bionic",
+		"defname": "LTS_ShoulderChargeTurret"
+	},
+	{
+		"abr": "shoulderturret",
+		"price": 708,
+		"category": "Prosthetic",
+		"defname": "LTS_ShoulderTurret"
+	},
+	{
+		"abr": "signalbooster(high)",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "SignalBoosterHigh"
+	},
+	{
+		"abr": "signalbooster(standard)",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "SignalBooster"
+	},
+	{
+		"abr": "signalbooster(ultra)",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "SignalBoosterUltra"
+	},
+	{
+		"abr": "skeletalbracing",
+		"price": 833,
+		"category": "Prosthetic",
+		"defname": "SkeletalBracing"
+	},
+	{
+		"abr": "slayer'scollar",
+		"price": 875,
+		"category": "Bionic",
+		"defname": "SlayersCollar"
+	},
+	{
+		"abr": "stalkerskull",
+		"price": 1367,
+		"category": "Ghoul",
+		"defname": "StalkerSkull"
+	},
+	{
+		"abr": "strengthenhancer",
+		"price": 1383,
+		"category": "Bionic",
+		"defname": "StrengthEnhancer"
+	},
+	{
+		"abr": "subdermalarmour",
+		"price": 3758,
+		"category": "Bionic",
+		"defname": "LTS_SubdermalArmour"
+	},
+	{
+		"abr": "synthmarrow",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "Synthmarrow"
+	},
+	{
+		"abr": "universalconduit",
+		"price": 85,
+		"category": "Misc",
+		"defname": "ConduitUniversal"
+	},
+	{
+		"abr": "universalwaterconduit",
+		"price": 115,
+		"category": "Misc",
+		"defname": "ConduitUniversalWater"
+	},
+	{
+		"abr": "venomtail",
+		"price": 2275,
+		"category": "Bionic",
+		"defname": "LTS_ScorpionTail"
+	},
+	{
+		"abr": "warprogrammerinterface",
+		"price": 2000,
+		"category": "Mechtech",
+		"defname": "WarprogrammerInterface"
 	}
 	],
-	"total": 4279
+	"total": 4349
 }
