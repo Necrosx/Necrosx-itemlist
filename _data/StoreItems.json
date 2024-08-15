@@ -26285,7 +26285,391 @@
 		"price": 10000,
 		"category": "Animals",
 		"defname": "BotchJob_UndeadDragon"
+	},
+	{
+		"abr": "bionicfaceplate",
+		"price": 2608,
+		"category": "Bionic",
+		"defname": "LTS_FaceplateArachnid"
+	},
+	{
+		"abr": "shouldermortar",
+		"price": 2275,
+		"category": "Bionic",
+		"defname": "LTS_ShoulderMortar"
+	},
+	{
+		"abr": "shoulderrocketpod",
+		"price": 2275,
+		"category": "Bionic",
+		"defname": "LTS_ShoulderRocketPod"
+	},
+	{
+		"abr": "vanguardaccelerator",
+		"price": 2608,
+		"category": "Bionic",
+		"defname": "LTS_Vanguard"
+	},
+	{
+		"abr": "voicelock",
+		"price": 342,
+		"category": "Prosthetic",
+		"defname": "LTS_Voicelock"
+	},
+	{
+		"abr": "acidspitter",
+		"price": 1250,
+		"category": "Animals",
+		"defname": "VFEI2_Acidspitter"
+	},
+	{
+		"abr": "artificialbasichive",
+		"price": 250,
+		"category": "Misc",
+		"defname": "VFEI2_ArtificialBasicHive"
+	},
+	{
+		"abr": "artificialchelishive",
+		"price": 833,
+		"category": "Misc",
+		"defname": "VFEI2_ArtificialChelisHive"
+	},
+	{
+		"abr": "artificialkemianhive",
+		"price": 833,
+		"category": "Misc",
+		"defname": "VFEI2_ArtificialKemianHive"
+	},
+	{
+		"abr": "artificialnuchadushive",
+		"price": 833,
+		"category": "Misc",
+		"defname": "VFEI2_ArtificialNuchadusHive"
+	},
+	{
+		"abr": "artificialsornehive",
+		"price": 417,
+		"category": "Misc",
+		"defname": "VFEI2_ArtificialSorneHive"
+	},
+	{
+		"abr": "artificialxanideshive",
+		"price": 833,
+		"category": "Misc",
+		"defname": "VFEI2_ArtificialXanidesHive"
+	},
+	{
+		"abr": "boomtick",
+		"price": 167,
+		"category": "Animals",
+		"defname": "VFEI2_Boomtick"
+	},
+	{
+		"abr": "cellularadapter",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "LTS_CellularAdapter"
+	},
+	{
+		"abr": "chelispherocore",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "VFEI2_PherocoreChelis"
+	},
+	{
+		"abr": "chitin",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "VFEI2_Chitin"
+	},
+	{
+		"abr": "creeper",
+		"price": 167,
+		"category": "Misc",
+		"defname": "VFEI2_Creeper"
+	},
+	{
+		"abr": "deepheater",
+		"price": 83,
+		"category": "Special",
+		"defname": "VFEI2_DeepHeater"
+	},
+	{
+		"abr": "durapod",
+		"price": 333,
+		"category": "Animals",
+		"defname": "VFEI2_Durapod"
+	},
+	{
+		"abr": "empress",
+		"price": 3000,
+		"category": "Animals",
+		"defname": "VFEI2_Empress"
+	},
+	{
+		"abr": "empressthumper",
+		"price": 417,
+		"category": "Misc",
+		"defname": "VFEI2_Thumper_Empress"
+	},
+	{
+		"abr": "foampod",
+		"price": 83,
+		"category": "Special",
+		"defname": "VFEI2_FoamPod"
+	},
+	{
+		"abr": "fuelmite",
+		"price": 1083,
+		"category": "Animals",
+		"defname": "VFEI2_Fuelmite"
+	},
+	{
+		"abr": "gigalocust",
+		"price": 1333,
+		"category": "Animals",
+		"defname": "VFEI2_Gigalocust"
+	},
+	{
+		"abr": "gigamite",
+		"price": 3000,
+		"category": "Animals",
+		"defname": "VFEI2_Gigamite"
+	},
+	{
+		"abr": "gigamitethumper",
+		"price": 417,
+		"category": "Misc",
+		"defname": "VFEI2_Thumper_Gigamite"
+	},
+	{
+		"abr": "glowpodformation",
+		"price": 167,
+		"category": "Misc",
+		"defname": "VFEI2_GlowPodFormation"
+	},
+	{
+		"abr": "glowpodspire",
+		"price": 167,
+		"category": "Misc",
+		"defname": "VFEI2_GlowPodSpire"
+	},
+	{
+		"abr": "heatpod",
+		"price": 33,
+		"category": "Special",
+		"defname": "VFEI2_HeatPod"
+	},
+	{
+		"abr": "hellbeetle",
+		"price": 833,
+		"category": "Animals",
+		"defname": "VFEI2_Hellbeetle"
+	},
+	{
+		"abr": "hivewall",
+		"price": 12,
+		"category": "Misc",
+		"defname": "VFEI_HiveWall"
+	},
+	{
+		"abr": "hivenode",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "VFEI2_Hivenode"
+	},
+	{
+		"abr": "insectjellywall",
+		"price": 65,
+		"category": "Misc",
+		"defname": "VFEI2_InsectJellyWall"
+	},
+	{
+		"abr": "insectoidqueen",
+		"price": 2500,
+		"category": "Animals",
+		"defname": "VFEI2_Queen"
+	},
+	{
+		"abr": "ironclad",
+		"price": 2500,
+		"category": "Animals",
+		"defname": "VFEI2_Ironclad"
+	},
+	{
+		"abr": "jellyfarm",
+		"price": 167,
+		"category": "Misc",
+		"defname": "VFEI2_JellyFarm"
+	},
+	{
+		"abr": "jellymorpher",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "VFEI2_JellyMorpher"
+	},
+	{
+		"abr": "kemianpherocore",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "VFEI2_PherocoreKemian"
+	},
+	{
+		"abr": "largeglowpod",
+		"price": 67,
+		"category": "Special",
+		"defname": "VFEI2_LargeGlowPod"
+	},
+	{
+		"abr": "macrofly",
+		"price": 333,
+		"category": "Animals",
+		"defname": "VFEI2_Macrofly"
+	},
+	{
+		"abr": "megapede",
+		"price": 1250,
+		"category": "Animals",
+		"defname": "VFEI2_Megapede"
+	},
+	{
+		"abr": "megathrips",
+		"price": 167,
+		"category": "Animals",
+		"defname": "VFEI2_Megathrips"
+	},
+	{
+		"abr": "megawasp",
+		"price": 833,
+		"category": "Animals",
+		"defname": "VFEI2_Megawasp"
+	},
+	{
+		"abr": "nuchaduspherocore",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "VFEI2_PherocoreNuchadus"
+	},
+	{
+		"abr": "petroglypher",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "VFEI2_Petroglypher"
+	},
+	{
+		"abr": "royalinsectjelly",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "VFEI2_RoyalInsectJelly"
+	},
+	{
+		"abr": "royaljellywall",
+		"price": 79,
+		"category": "Misc",
+		"defname": "VFEI2_RoyalJellyWall"
+	},
+	{
+		"abr": "silverfish",
+		"price": 3000,
+		"category": "Animals",
+		"defname": "VFEI2_Silverfish"
+	},
+	{
+		"abr": "silverfishthumper",
+		"price": 417,
+		"category": "Misc",
+		"defname": "VFEI2_Thumper_Silverfish"
+	},
+	{
+		"abr": "sornepherocore",
+		"price": 833,
+		"category": "Misc",
+		"defname": "VFEI2_PherocoreSorne"
+	},
+	{
+		"abr": "staticpod",
+		"price": 83,
+		"category": "Special",
+		"defname": "VFEI2_StaticPod"
+	},
+	{
+		"abr": "swarmlings",
+		"price": 83,
+		"category": "Animals",
+		"defname": "VFEI2_Swarmling"
+	},
+	{
+		"abr": "tankroach",
+		"price": 1250,
+		"category": "Animals",
+		"defname": "VFEI2_Tankroach"
+	},
+	{
+		"abr": "tendrilfarm",
+		"price": 133,
+		"category": "Misc",
+		"defname": "VFEI2_TendrilFarm"
+	},
+	{
+		"abr": "tendrilmoss",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VFEI2_Tendrilmoss"
+	},
+	{
+		"abr": "teramantis",
+		"price": 3000,
+		"category": "Animals",
+		"defname": "VFEI2_Teramantis"
+	},
+	{
+		"abr": "teramantisthumper",
+		"price": 417,
+		"category": "Misc",
+		"defname": "VFEI2_Thumper_Teramantis"
+	},
+	{
+		"abr": "thornpod",
+		"price": 142,
+		"category": "Security",
+		"defname": "VFEI2_Thornpod"
+	},
+	{
+		"abr": "thornworm",
+		"price": 1583,
+		"category": "Misc",
+		"defname": "VFEI2_Thornworm"
+	},
+	{
+		"abr": "titantick",
+		"price": 3000,
+		"category": "Animals",
+		"defname": "VFEI2_Titantick"
+	},
+	{
+		"abr": "titantickthumper",
+		"price": 417,
+		"category": "Misc",
+		"defname": "VFEI2_Thumper_Titantick"
+	},
+	{
+		"abr": "venomite",
+		"price": 833,
+		"category": "Animals",
+		"defname": "VFEI2_Venomite"
+	},
+	{
+		"abr": "vilelobber",
+		"price": 1583,
+		"category": "Misc",
+		"defname": "VFEI2_Vilelobber"
+	},
+	{
+		"abr": "xanidespherocore",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "VFEI2_PherocoreXanides"
 	}
 	],
-	"total": 4381
+	"total": 4445
 }

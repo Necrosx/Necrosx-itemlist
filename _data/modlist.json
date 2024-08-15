@@ -186,6 +186,24 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Insectoids 2",
+    "steamId": "3309003431",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, Taranchuk and Sarg",
     "name": "Vanilla Races Expanded - Insector",
     "steamId": null,
@@ -375,7 +393,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.6.10.0"
+    "version": "1.6.11+1c2929a19695c4b98f35b00e39d1ee0725b46b45"
   },
   {
     "author": "m00nl1ght-dev",
@@ -663,7 +681,7 @@
     "author": "alite",
     "name": "EBSG Framework",
     "steamId": "3112549163",
-    "version": "1.0.8975.36990"
+    "version": "1.0.8990.33850"
   },
   {
     "author": "PeteTimesSix",
@@ -711,7 +729,7 @@
     "author": "Mlie",
     "name": "Enter Here",
     "steamId": "2824117092",
-    "version": "1.5.6"
+    "version": "1.5.7"
   },
   {
     "author": "DemonRoka",
@@ -1209,7 +1227,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.5.10"
+    "version": "1.5.12"
   },
   {
     "author": "Sergwest",
@@ -1347,7 +1365,7 @@
     "author": "iamrespawn",
     "name": "Prosthetic No Missing Body Parts (Continued)",
     "steamId": "2739055353",
-    "version": "1.5.0"
+    "version": "1.5.2"
   },
   {
     "author": "RebelRabbit, Taranchuk and ilyvion",
@@ -1377,7 +1395,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8976.34564"
+    "version": "1.0.8983.31108"
   },
   {
     "author": "Sandy",
@@ -2226,12 +2244,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
     "name": "Vanilla Weapons Expanded - Coilguns",
     "steamId": null,
@@ -2240,12 +2252,6 @@
   {
     "author": "Oskar Potocki",
     "name": "Vanilla Weapons Expanded - Grenades",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Weapons Expanded - Heavy Weapons",
     "steamId": null,
     "version": null
   },
