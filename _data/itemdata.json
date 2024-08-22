@@ -87739,107 +87739,7 @@
     "Mod": "Vanilla Factions Expanded - Insectoids 2",
     "KarmaType": null
   },
-  "VFEI_HiveWall": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Insectoids 2",
-    "KarmaType": null
-  },
-  "VFEI2_InsectJellyWall": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Insectoids 2",
-    "KarmaType": null
-  },
-  "VFEI2_RoyalJellyWall": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Insectoids 2",
-    "KarmaType": null
-  },
   "VFEI2_LargeGlowPod": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Insectoids 2",
-    "KarmaType": null
-  },
-  "VFEI2_GlowPodFormation": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Insectoids 2",
-    "KarmaType": null
-  },
-  "VFEI2_GlowPodSpire": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -87899,13 +87799,13 @@
     "Mod": "Vanilla Factions Expanded - Insectoids 2",
     "KarmaType": null
   },
-  "VFEI2_TendrilFarm": {
+  "IE_MeleeWeapon_InsectophageMonoBladeBladelink": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": false,
+    "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -87916,16 +87816,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Insectoids 2",
+    "Mod": null,
     "KarmaType": null
   },
-  "VFEI2_Creeper": {
+  "IE_MeleeWeapon_InsectophageMonoBlade": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": false,
+    "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -87936,16 +87836,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Insectoids 2",
+    "Mod": null,
     "KarmaType": null
   },
-  "VFEI2_JellyFarm": {
+  "BotchJob_AbyssalGlaive": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -87956,16 +87856,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Insectoids 2",
+    "Mod": "The Profaned",
     "KarmaType": null
   },
-  "VFEI2_ArtificialBasicHive": {
+  "BotchJob_ProfanedGlaive": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": false,
+    "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -87976,10 +87876,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Insectoids 2",
+    "Mod": "The Profaned",
     "KarmaType": null
   },
-  "VFEI2_ArtificialSorneHive": {
+  "BotchJob_ProfanedTableLarge": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -87996,10 +87896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Insectoids 2",
+    "Mod": "The Profaned",
     "KarmaType": null
   },
-  "VFEI2_ArtificialNuchadusHive": {
+  "BotchJob_ProfanedSlabLarge": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -88016,10 +87916,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Insectoids 2",
+    "Mod": "The Profaned",
     "KarmaType": null
   },
-  "VFEI2_ArtificialChelisHive": {
+  "LTS_StealthSystem": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -88036,10 +87936,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Insectoids 2",
+    "Mod": "Integrated Implants",
     "KarmaType": null
   },
-  "VFEI2_ArtificialKemianHive": {
+  "LTS_FireSupressionSystem": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -88056,10 +87956,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Insectoids 2",
+    "Mod": "Integrated Implants",
     "KarmaType": null
   },
-  "VFEI2_ArtificialXanidesHive": {
+  "LTS_MemoryDatabank": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -88076,7 +87976,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Insectoids 2",
+    "Mod": "Integrated Implants",
     "KarmaType": null
   },
   "VFEI2_HeatPod": {
@@ -88119,7 +88019,7 @@
     "Mod": "Vanilla Factions Expanded - Insectoids 2",
     "KarmaType": null
   },
-  "VFEI2_JellyMorpher": {
+  "LTS_PsychicReaper": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -88136,10 +88036,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Insectoids 2",
+    "Mod": "Integrated Implants",
     "KarmaType": null
   },
-  "VFEI2_Petroglypher": {
+  "LTS_Voidlink": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -88156,10 +88056,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Insectoids 2",
+    "Mod": "Integrated Implants",
     "KarmaType": null
   },
-  "VFEI2_Hivenode": {
+  "IE_InsectoidAbomination": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -88176,7 +88076,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Insectoids 2",
+    "Mod": "Insectophage",
     "KarmaType": null
   },
   "VFEI2_Thornpod": {
@@ -88199,13 +88099,13 @@
     "Mod": "Vanilla Factions Expanded - Insectoids 2",
     "KarmaType": null
   },
-  "VFEI2_Vilelobber": {
+  "IE_MeleeWeapon_InsectophageBlade": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": false,
+    "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
@@ -88216,10 +88116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Insectoids 2",
+    "Mod": "Insectophage",
     "KarmaType": null
   },
-  "VFEI2_Thornworm": {
+  "IE_Apparel_InsectophageBattleBlouse": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -88236,7 +88136,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Insectoids 2",
+    "Mod": "Insectophage",
     "KarmaType": null
   },
   "VFEI2_Thumper_Empress": {

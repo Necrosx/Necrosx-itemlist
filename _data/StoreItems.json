@@ -26325,37 +26325,37 @@
 	{
 		"abr": "artificialbasichive",
 		"price": 250,
-		"category": "Misc",
+		"category": "",
 		"defname": "VFEI2_ArtificialBasicHive"
 	},
 	{
 		"abr": "artificialchelishive",
 		"price": 833,
-		"category": "Misc",
+		"category": "",
 		"defname": "VFEI2_ArtificialChelisHive"
 	},
 	{
 		"abr": "artificialkemianhive",
 		"price": 833,
-		"category": "Misc",
+		"category": "",
 		"defname": "VFEI2_ArtificialKemianHive"
 	},
 	{
 		"abr": "artificialnuchadushive",
 		"price": 833,
-		"category": "Misc",
+		"category": "",
 		"defname": "VFEI2_ArtificialNuchadusHive"
 	},
 	{
 		"abr": "artificialsornehive",
 		"price": 417,
-		"category": "Misc",
+		"category": "",
 		"defname": "VFEI2_ArtificialSorneHive"
 	},
 	{
 		"abr": "artificialxanideshive",
 		"price": 833,
-		"category": "Misc",
+		"category": "",
 		"defname": "VFEI2_ArtificialXanidesHive"
 	},
 	{
@@ -26385,7 +26385,7 @@
 	{
 		"abr": "creeper",
 		"price": 167,
-		"category": "Misc",
+		"category": "",
 		"defname": "VFEI2_Creeper"
 	},
 	{
@@ -26445,13 +26445,13 @@
 	{
 		"abr": "glowpodformation",
 		"price": 167,
-		"category": "Misc",
+		"category": "",
 		"defname": "VFEI2_GlowPodFormation"
 	},
 	{
 		"abr": "glowpodspire",
 		"price": 167,
-		"category": "Misc",
+		"category": "",
 		"defname": "VFEI2_GlowPodSpire"
 	},
 	{
@@ -26469,19 +26469,19 @@
 	{
 		"abr": "hivewall",
 		"price": 12,
-		"category": "Misc",
+		"category": "",
 		"defname": "VFEI_HiveWall"
 	},
 	{
 		"abr": "hivenode",
 		"price": 1667,
-		"category": "Misc",
+		"category": "",
 		"defname": "VFEI2_Hivenode"
 	},
 	{
 		"abr": "insectjellywall",
 		"price": 65,
-		"category": "Misc",
+		"category": "",
 		"defname": "VFEI2_InsectJellyWall"
 	},
 	{
@@ -26499,13 +26499,13 @@
 	{
 		"abr": "jellyfarm",
 		"price": 167,
-		"category": "Misc",
+		"category": "",
 		"defname": "VFEI2_JellyFarm"
 	},
 	{
 		"abr": "jellymorpher",
 		"price": 1667,
-		"category": "Misc",
+		"category": "",
 		"defname": "VFEI2_JellyMorpher"
 	},
 	{
@@ -26553,7 +26553,7 @@
 	{
 		"abr": "petroglypher",
 		"price": 1667,
-		"category": "Misc",
+		"category": "",
 		"defname": "VFEI2_Petroglypher"
 	},
 	{
@@ -26565,7 +26565,7 @@
 	{
 		"abr": "royaljellywall",
 		"price": 79,
-		"category": "Misc",
+		"category": "",
 		"defname": "VFEI2_RoyalJellyWall"
 	},
 	{
@@ -26607,7 +26607,7 @@
 	{
 		"abr": "tendrilfarm",
 		"price": 133,
-		"category": "Misc",
+		"category": "",
 		"defname": "VFEI2_TendrilFarm"
 	},
 	{
@@ -26637,7 +26637,7 @@
 	{
 		"abr": "thornworm",
 		"price": 1583,
-		"category": "Misc",
+		"category": "",
 		"defname": "VFEI2_Thornworm"
 	},
 	{
@@ -26661,7 +26661,7 @@
 	{
 		"abr": "vilelobber",
 		"price": 1583,
-		"category": "Misc",
+		"category": "",
 		"defname": "VFEI2_Vilelobber"
 	},
 	{
@@ -26669,7 +26669,91 @@
 		"price": 1667,
 		"category": "Misc",
 		"defname": "VFEI2_PherocoreXanides"
+	},
+	{
+		"abr": "abyssalglaive",
+		"price": 2342,
+		"category": "Melee weapons",
+		"defname": "BotchJob_AbyssalGlaive"
+	},
+	{
+		"abr": "activecamouflage",
+		"price": 2383,
+		"category": "Bionic",
+		"defname": "LTS_StealthSystem"
+	},
+	{
+		"abr": "firesuppressionsystem",
+		"price": 1383,
+		"category": "Bionic",
+		"defname": "LTS_FireSupressionSystem"
+	},
+	{
+		"abr": "insectoidabomination",
+		"price": 1333,
+		"category": "Animals",
+		"defname": "IE_InsectoidAbomination"
+	},
+	{
+		"abr": "insectophagebattlesuit",
+		"price": 212,
+		"category": "Misc",
+		"defname": "IE_Apparel_InsectophageBattleBlouse"
+	},
+	{
+		"abr": "insectophageblade",
+		"price": 533,
+		"category": "Melee weapons",
+		"defname": "IE_MeleeWeapon_InsectophageBlade"
+	},
+	{
+		"abr": "insectophagemonoblade",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "IE_MeleeWeapon_InsectophageMonoBlade"
+	},
+	{
+		"abr": "largeprofanedtable",
+		"price": 442,
+		"category": "Furniture",
+		"defname": "BotchJob_ProfanedTableLarge"
+	},
+	{
+		"abr": "memorydatabank",
+		"price": 1975,
+		"category": "Bionic",
+		"defname": "LTS_MemoryDatabank"
+	},
+	{
+		"abr": "personainsectophageblade",
+		"price": 5667,
+		"category": "Persona weapons",
+		"defname": "IE_MeleeWeapon_InsectophageMonoBladeBladelink"
+	},
+	{
+		"abr": "profanedglaive",
+		"price": 875,
+		"category": "Melee weapons",
+		"defname": "BotchJob_ProfanedGlaive"
+	},
+	{
+		"abr": "profanedslab",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "BotchJob_ProfanedSlabLarge"
+	},
+	{
+		"abr": "psychicreaper",
+		"price": 875,
+		"category": "Bionic",
+		"defname": "LTS_PsychicReaper"
+	},
+	{
+		"abr": "voidlink",
+		"price": 875,
+		"category": "Bionic",
+		"defname": "LTS_Voidlink"
 	}
 	],
-	"total": 4445
+	"total": 4459
 }

@@ -300,6 +300,12 @@
     "version": "3.14.109"
   },
   {
+    "author": "Lecht",
+    "name": "Auto-repair On",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Nibato",
     "name": "AutoExtractGenes",
     "steamId": "2882834449",
@@ -681,7 +687,7 @@
     "author": "alite",
     "name": "EBSG Framework",
     "steamId": "3112549163",
-    "version": "1.0.8990.33850"
+    "version": "1.0.8994.23085"
   },
   {
     "author": "PeteTimesSix",
@@ -954,6 +960,12 @@
     "version": null
   },
   {
+    "author": "tinygrox",
+    "name": "Hold Open Door Instantly",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Orion",
     "name": "Hospitality",
     "steamId": null,
@@ -1006,6 +1018,12 @@
     "name": "Infinite Reinforce",
     "steamId": "2623528901",
     "version": "1.1.0.6"
+  },
+  {
+    "author": "xrushha",
+    "name": "Insectophage",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Turnovus",
@@ -1182,6 +1200,12 @@
     "version": null
   },
   {
+    "author": "DrwalZ",
+    "name": "More VFE-I2 Hives",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Mlie",
     "name": "Move Interaction Cell",
     "steamId": null,
@@ -1227,7 +1251,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.5.12"
+    "version": "1.5.13"
   },
   {
     "author": "Sergwest",
@@ -1533,7 +1557,7 @@
     "author": "Mlie",
     "name": "Relevant Stats In Description",
     "steamId": "2692669482",
-    "version": "1.5.2"
+    "version": "1.5.3"
   },
   {
     "author": "sirrandoo",
