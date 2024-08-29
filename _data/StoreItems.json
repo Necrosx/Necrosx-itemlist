@@ -13155,7 +13155,7 @@
 	{
 		"abr": "ancientlockerbank",
 		"price": 425,
-		"category": "Furniture",
+		"category": "",
 		"defname": "AM_AncientLockerBank"
 	},
 	{
@@ -22281,7 +22281,7 @@
 	{
 		"abr": "restoredancientbed",
 		"price": 105,
-		"category": "Furniture",
+		"category": "Misc",
 		"defname": "AM_AncientBed"
 	},
 	{
@@ -22299,7 +22299,7 @@
 	{
 		"abr": "restoredancientoperatingtable",
 		"price": 683,
-		"category": "Furniture",
+		"category": "",
 		"defname": "AM_AncientOperatingTable"
 	},
 	{
@@ -26753,7 +26753,1711 @@
 		"price": 875,
 		"category": "Bionic",
 		"defname": "LTS_Voidlink"
+	},
+	{
+		"abr": ".338precisioncomponents",
+		"price": 1667,
+		"category": "Manufactured",
+		"defname": "AM_338PrecisionComponents"
+	},
+	{
+		"abr": "6.8upperreceivercomponents",
+		"price": 1333,
+		"category": "Manufactured",
+		"defname": "AM_227FURYComponents"
+	},
+	{
+		"abr": "abandonedbigbread",
+		"price": 95,
+		"category": "Misc",
+		"defname": "AM_AbandonedBigBread"
+	},
+	{
+		"abr": "abandonedbus",
+		"price": 95,
+		"category": "Misc",
+		"defname": "AM_AbandonedBus"
+	},
+	{
+		"abr": "abandonedforklift",
+		"price": 95,
+		"category": "Misc",
+		"defname": "AM_AbandonedForklift"
+	},
+	{
+		"abr": "adar215",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "AM_ADAR"
+	},
+	{
+		"abr": "ai2a",
+		"price": 33,
+		"category": "Medicine",
+		"defname": "AM_AI2A"
+	},
+	{
+		"abr": "ak101",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "AM_AK101A"
+	},
+	{
+		"abr": "ak6.8",
+		"price": 2583,
+		"category": "Ranged weapons",
+		"defname": "AM_AK68A"
+	},
+	{
+		"abr": "allowableturn",
+		"price": 16,
+		"category": "Misc",
+		"defname": "AM_AllowableTurn"
+	},
+	{
+		"abr": "aluminumsplint",
+		"price": 200,
+		"category": "Manufactured",
+		"defname": "AM_AluminumSplint"
+	},
+	{
+		"abr": "analgesicregenerationinjector",
+		"price": 1500,
+		"category": "Drugs",
+		"defname": "AM_AnalgesicRegenerationInjector"
+	},
+	{
+		"abr": "ancientamublance",
+		"price": 95,
+		"category": "Misc",
+		"defname": "AM_Amublance"
+	},
+	{
+		"abr": "ancientarmoredgate",
+		"price": 190,
+		"category": "Misc",
+		"defname": "AM_ArmoredGate_invincible"
+	},
+	{
+		"abr": "ancientarmoredgate",
+		"price": 190,
+		"category": "Misc",
+		"defname": "AM_ArmoredGate"
+	},
+	{
+		"abr": "ancientarmoredgate",
+		"price": 317,
+		"category": "Misc",
+		"defname": "AM_ArmoredGateL"
+	},
+	{
+		"abr": "ancientarmoredgate",
+		"price": 158,
+		"category": "Misc",
+		"defname": "AM_ArmoredGateS"
+	},
+	{
+		"abr": "ancientarmoredgate",
+		"price": 127,
+		"category": "Misc",
+		"defname": "AM_ArmoredGateXS"
+	},
+	{
+		"abr": "ancientcashregister",
+		"price": 3,
+		"category": "Furniture",
+		"defname": "AM_AncientCashRegister"
+	},
+	{
+		"abr": "ancientconcretewall",
+		"price": 1,
+		"category": "Misc",
+		"defname": "AM_Wall_Atlas_Concrete"
+	},
+	{
+		"abr": "ancientconcretewall(weathered)",
+		"price": 1,
+		"category": "Misc",
+		"defname": "AM_Wall_Atlas_Concrete_HP"
+	},
+	{
+		"abr": "ancientdismantlingtable",
+		"price": 758,
+		"category": "Production",
+		"defname": "AM_AncientDismantlingWorkbench"
+	},
+	{
+		"abr": "ancientfacilitywall",
+		"price": 1,
+		"category": "Misc",
+		"defname": "AM_Wall_Atlas_AcientConcrete"
+	},
+	{
+		"abr": "ancientfacilitywall(weathered)",
+		"price": 1,
+		"category": "Misc",
+		"defname": "AM_Wall_Atlas_AcientConcrete_HP"
+	},
+	{
+		"abr": "ancientfiretruck",
+		"price": 95,
+		"category": "Misc",
+		"defname": "AM_FireTruck"
+	},
+	{
+		"abr": "ancientfrontdesk",
+		"price": 0,
+		"category": "Misc",
+		"defname": "AM_FrontDesk"
+	},
+	{
+		"abr": "ancientfrontdesk",
+		"price": 0,
+		"category": "Misc",
+		"defname": "AM_FrontDeskB"
+	},
+	{
+		"abr": "ancientgianthelicopter",
+		"price": 95,
+		"category": "Misc",
+		"defname": "AM_MI26_D"
+	},
+	{
+		"abr": "ancientglasscounter",
+		"price": 0,
+		"category": "Misc",
+		"defname": "AM_Counter_Atlas_Weapon"
+	},
+	{
+		"abr": "ancientglasscurtainwall",
+		"price": 1,
+		"category": "Misc",
+		"defname": "AM_Wall_Atlas_Glass"
+	},
+	{
+		"abr": "ancientgoldenglasscounter",
+		"price": 0,
+		"category": "Misc",
+		"defname": "AM_Counter_Atlas_JewelryA"
+	},
+	{
+		"abr": "ancientgoldenglasscounter",
+		"price": 0,
+		"category": "Misc",
+		"defname": "AM_Counter_Atlas_JewelryB"
+	},
+	{
+		"abr": "ancientgrizzlykit",
+		"price": 833,
+		"category": "Medicine",
+		"defname": "AM_AncientGrizzly"
+	},
+	{
+		"abr": "ancientlargemilitarysuppliescase",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_OldBigCase"
+	},
+	{
+		"abr": "ancientload-bearingconcretewalls",
+		"price": 1,
+		"category": "Misc",
+		"defname": "AM_Wall_Atlas_LoadBearing"
+	},
+	{
+		"abr": "ancientrevolvingdoor",
+		"price": 3,
+		"category": "Misc",
+		"defname": "AM_AncientRevolvingDoorA"
+	},
+	{
+		"abr": "ancientrevolvingdoor",
+		"price": 3,
+		"category": "Misc",
+		"defname": "AM_AncientRevolvingDoorB"
+	},
+	{
+		"abr": "ancientrevolvingdoor",
+		"price": 3,
+		"category": "Misc",
+		"defname": "AM_AncientRevolvingDoorC"
+	},
+	{
+		"abr": "ancientroadblocks",
+		"price": 3,
+		"category": "Furniture",
+		"defname": "AM_AncientRoadblocks"
+	},
+	{
+		"abr": "ancientsmallmilitarycase",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_OldSmallCase"
+	},
+	{
+		"abr": "ancienttruckcarriages",
+		"price": 158,
+		"category": "Misc",
+		"defname": "AM_AncientTruckCarriages"
+	},
+	{
+		"abr": "ancientweaponcase",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_OldWeaponCase"
+	},
+	{
+		"abr": "antibiotic",
+		"price": 92,
+		"category": "Drugs",
+		"defname": "AM_Antibiotic"
+	},
+	{
+		"abr": "aps",
+		"price": 558,
+		"category": "Ranged weapons",
+		"defname": "AM_APS"
+	},
+	{
+		"abr": "aramidcloth",
+		"price": 14,
+		"category": "Textiles",
+		"defname": "AM_AramidCloth"
+	},
+	{
+		"abr": "armoredconcealedrig",
+		"price": 1667,
+		"category": "Armor",
+		"defname": "AM_MK4aConcealed"
+	},
+	{
+		"abr": "armoreddefensiverig",
+		"price": 3333,
+		"category": "Armor",
+		"defname": "AM_MK4aDefensive"
+	},
+	{
+		"abr": "asval",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "AM_ASVAL"
+	},
+	{
+		"abr": "avt",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "AM_AVT"
+	},
+	{
+		"abr": "bakingthermometer",
+		"price": 750,
+		"category": "Manufactured",
+		"defname": "AM_BakingThermometer"
+	},
+	{
+		"abr": "bigcase",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "AM_BigCase_Open_Decoration"
+	},
+	{
+		"abr": "blockedundergroundparkinglotentrance",
+		"price": 442,
+		"category": "Misc",
+		"defname": "AM_BlockedUndergroundGarageEntrance"
+	},
+	{
+		"abr": "brasslionstatue",
+		"price": 1167,
+		"category": "Art",
+		"defname": "AM_BrassLionStatue"
+	},
+	{
+		"abr": "briefcase",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "AM_BriefCase_SalvagePoint"
+	},
+	{
+		"abr": "briefcase",
+		"price": 1667,
+		"category": "Manufactured",
+		"defname": "AM_BriefCase"
+	},
+	{
+		"abr": "brokedlogisticsterminal",
+		"price": 95,
+		"category": "Misc",
+		"defname": "AM_brokedLogisticsTerminal"
+	},
+	{
+		"abr": "budweiser",
+		"price": 75,
+		"category": "Drugs",
+		"defname": "AM_Budweiser"
+	},
+	{
+		"abr": "bulletproofmask",
+		"price": 967,
+		"category": "Headgear",
+		"defname": "AM_BulletproofMask"
+	},
+	{
+		"abr": "burgerpaperbag",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_BurgerPaperBag"
+	},
+	{
+		"abr": "burgerpaperbox",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_BurgerPaperBox"
+	},
+	{
+		"abr": "busroutesign",
+		"price": 3,
+		"category": "Misc",
+		"defname": "AM_BusRouteSignA"
+	},
+	{
+		"abr": "busroutesign",
+		"price": 3,
+		"category": "Misc",
+		"defname": "AM_BusRouteSignB"
+	},
+	{
+		"abr": "busstop",
+		"price": 3,
+		"category": "Misc",
+		"defname": "AM_BusStop"
+	},
+	{
+		"abr": "cannedbraisedpork",
+		"price": 583,
+		"category": "Meals",
+		"defname": "AM_CannedBraisedPorkbelly"
+	},
+	{
+		"abr": "cannedherring",
+		"price": 150,
+		"category": "Meals",
+		"defname": "AM_CannedHerring"
+	},
+	{
+		"abr": "cannedpeas",
+		"price": 133,
+		"category": "Meals",
+		"defname": "AM_CannedPeas"
+	},
+	{
+		"abr": "cannedstewedmuffalo",
+		"price": 250,
+		"category": "Meals",
+		"defname": "AM_CannedStewedBeef"
+	},
+	{
+		"abr": "cardboardbox",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "AM_PaperBox_A_Open_Decoration"
+	},
+	{
+		"abr": "cardboardbox",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "AM_PaperBox_B_Open_Decoration"
+	},
+	{
+		"abr": "cardboardbox",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "AM_PaperBox_C_Open_Decoration"
+	},
+	{
+		"abr": "cardboardbox",
+		"price": 3,
+		"category": "Misc",
+		"defname": "AM_CardboardBox_Impassable"
+	},
+	{
+		"abr": "cardboardbox",
+		"price": 3,
+		"category": "Misc",
+		"defname": "AM_CardboardBox"
+	},
+	{
+		"abr": "cardboardbox",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_PaperBox_A"
+	},
+	{
+		"abr": "cardboardbox",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_PaperBox_B"
+	},
+	{
+		"abr": "cardboardbox",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_PaperBox_C"
+	},
+	{
+		"abr": "cataphracthelmet“fashion”",
+		"price": 2000,
+		"category": "Headgear",
+		"defname": "AM_CataphractHelmetFashion"
+	},
+	{
+		"abr": "cataphracthelmet“slaughter”",
+		"price": 2000,
+		"category": "Headgear",
+		"defname": "AM_CataphractHelmetSlaughter"
+	},
+	{
+		"abr": "cellregenerationinjector",
+		"price": 4167,
+		"category": "Drugs",
+		"defname": "AM_CellRegenerationInjector"
+	},
+	{
+		"abr": "classicpotatochips",
+		"price": 83,
+		"category": "Meals",
+		"defname": "AM_PotatoChipsA"
+	},
+	{
+		"abr": "closedoxygencylinder",
+		"price": 667,
+		"category": "Utility",
+		"defname": "AM_ClosedOxygenCylinder"
+	},
+	{
+		"abr": "clothesrack",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_ClothesHanger"
+	},
+	{
+		"abr": "coca-cola",
+		"price": 58,
+		"category": "Meals",
+		"defname": "AM_Coca"
+	},
+	{
+		"abr": "collapsedshelves",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "AM_DamagedEmptyShelves"
+	},
+	{
+		"abr": "compositeassaultdress",
+		"price": 2833,
+		"category": "Armor",
+		"defname": "AM_AScompFD"
+	},
+	{
+		"abr": "compositeflaksuit",
+		"price": 2833,
+		"category": "Armor",
+		"defname": "AM_CompFlakSuit"
+	},
+	{
+		"abr": "computercase",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_ComputerCase"
+	},
+	{
+		"abr": "concretebarrier",
+		"price": 3,
+		"category": "Furniture",
+		"defname": "AM_Palisade"
+	},
+	{
+		"abr": "cone",
+		"price": 3,
+		"category": "Furniture",
+		"defname": "AM_Cone"
+	},
+	{
+		"abr": "confidentialintelmap",
+		"price": 7500,
+		"category": "Manufactured",
+		"defname": "AM_ConfidentialIntelMapA"
+	},
+	{
+		"abr": "confidentialintelmap",
+		"price": 8333,
+		"category": "Manufactured",
+		"defname": "AM_ConfidentialIntelMapB"
+	},
+	{
+		"abr": "constructionsite",
+		"price": 3,
+		"category": "Furniture",
+		"defname": "AM_ConstructionSite"
+	},
+	{
+		"abr": "cp46",
+		"price": 558,
+		"category": "Ranged weapons",
+		"defname": "AM_CPHG"
+	},
+	{
+		"abr": "cpu",
+		"price": 833,
+		"category": "Manufactured",
+		"defname": "AM_CPU"
+	},
+	{
+		"abr": "creditcard",
+		"price": 833,
+		"category": "Manufactured",
+		"defname": "AM_CreditCard"
+	},
+	{
+		"abr": "crossroadsign",
+		"price": 16,
+		"category": "Misc",
+		"defname": "AM_Crossroad"
+	},
+	{
+		"abr": "crosstie",
+		"price": 63,
+		"category": "Misc",
+		"defname": "AM_Crosstie"
+	},
+	{
+		"abr": "cucumberpotatochips",
+		"price": 83,
+		"category": "Meals",
+		"defname": "AM_PotatoChipsC"
+	},
+	{
+		"abr": "damagedlargeshelves",
+		"price": 48,
+		"category": "Misc",
+		"defname": "AM_BDAShelfA_Open_Decoration"
+	},
+	{
+		"abr": "damagedlargeshelves",
+		"price": 48,
+		"category": "Misc",
+		"defname": "AM_BDAShelfB_Open_Decoration"
+	},
+	{
+		"abr": "damagedlargeshelves",
+		"price": 48,
+		"category": "Misc",
+		"defname": "AM_DoubleDeckRacks_Open_Decoration"
+	},
+	{
+		"abr": "damagedlargeshelves",
+		"price": 48,
+		"category": "Misc",
+		"defname": "AM_ThreeLayerRacks_Open_Decoration"
+	},
+	{
+		"abr": "deluxecannedmuffalo",
+		"price": 583,
+		"category": "Meals",
+		"defname": "AM_DeliciousCannedBeef"
+	},
+	{
+		"abr": "dilapidatedmap",
+		"price": 833,
+		"category": "Manufactured",
+		"defname": "AM_DilapidatedMap"
+	},
+	{
+		"abr": "diningchair",
+		"price": 206,
+		"category": "Furniture",
+		"defname": "AM_DiningChair"
+	},
+	{
+		"abr": "dtmdr308",
+		"price": 2200,
+		"category": "Ranged weapons",
+		"defname": "AM_DTMDR"
+	},
+	{
+		"abr": "electricaltape",
+		"price": 333,
+		"category": "Manufactured",
+		"defname": "AM_ElectricalTape"
+	},
+	{
+		"abr": "emptybox",
+		"price": 83,
+		"category": "Manufactured",
+		"defname": "AM_EmptyBox"
+	},
+	{
+		"abr": "emptycans",
+		"price": 3,
+		"category": "Misc",
+		"defname": "AM_EmptyCans"
+	},
+	{
+		"abr": "emptyclotheshanger",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "AM_ClothesHangerEmpty_Decoration"
+	},
+	{
+		"abr": "emptyshelves",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "AM_EmptyShelves_Decoration"
+	},
+	{
+		"abr": "emptyvegetableshelf",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "AM_VegetableShelfEmpty_Decoration"
+	},
+	{
+		"abr": "essentialbalm",
+		"price": 283,
+		"category": "Drugs",
+		"defname": "AM_EssentialBalm"
+	},
+	{
+		"abr": "fanta",
+		"price": 58,
+		"category": "Meals",
+		"defname": "AM_Fanta"
+	},
+	{
+		"abr": "firstaidkit",
+		"price": 67,
+		"category": "Medicine",
+		"defname": "AM_FirstAidKit"
+	},
+	{
+		"abr": "floorsignage",
+		"price": 3,
+		"category": "Misc",
+		"defname": "AM_FloorSignageA"
+	},
+	{
+		"abr": "floorsignage",
+		"price": 3,
+		"category": "Misc",
+		"defname": "AM_FloorSignageB"
+	},
+	{
+		"abr": "floorsignage",
+		"price": 3,
+		"category": "Misc",
+		"defname": "AM_FloorSignageC"
+	},
+	{
+		"abr": "floorsignage",
+		"price": 3,
+		"category": "Misc",
+		"defname": "AM_FloorSignageD"
+	},
+	{
+		"abr": "fn57",
+		"price": 558,
+		"category": "Ranged weapons",
+		"defname": "AM_FNHG"
+	},
+	{
+		"abr": "forkedroadsign",
+		"price": 16,
+		"category": "Misc",
+		"defname": "AM_AllowRightTurn"
+	},
+	{
+		"abr": "freezer",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_Freezer"
+	},
+	{
+		"abr": "freighttraincarriages",
+		"price": 158,
+		"category": "Misc",
+		"defname": "AM_FreightTrainCarriages"
+	},
+	{
+		"abr": "fullyenclosedhelmet",
+		"price": 1467,
+		"category": "Headgear",
+		"defname": "AM_FullyEnclosedHelmet"
+	},
+	{
+		"abr": "gameconsole",
+		"price": 1500,
+		"category": "Manufactured",
+		"defname": "AM_GameConsole"
+	},
+	{
+		"abr": "glassadhesive",
+		"price": 450,
+		"category": "Manufactured",
+		"defname": "AM_OneLiterGlassAdhesive"
+	},
+	{
+		"abr": "goldenegg",
+		"price": 417,
+		"category": "Manufactured",
+		"defname": "AM_GoldenEgg"
+	},
+	{
+		"abr": "goldenroosterstatue",
+		"price": 833,
+		"category": "Art",
+		"defname": "AM_GoldenRoosterStatue"
+	},
+	{
+		"abr": "gpu",
+		"price": 2000,
+		"category": "Manufactured",
+		"defname": "AM_GPU"
+	},
+	{
+		"abr": "grizzlykit",
+		"price": 833,
+		"category": "Medicine",
+		"defname": "AM_Grizzly"
+	},
+	{
+		"abr": "hallsignage",
+		"price": 3,
+		"category": "Misc",
+		"defname": "AM_HallSignage"
+	},
+	{
+		"abr": "hdd",
+		"price": 400,
+		"category": "Manufactured",
+		"defname": "AM_HDD"
+	},
+	{
+		"abr": "heavycompositeplate",
+		"price": 667,
+		"category": "Manufactured",
+		"defname": "AM_HeavyCompositePlate"
+	},
+	{
+		"abr": "hemostaticagent",
+		"price": 50,
+		"category": "Medicine",
+		"defname": "AM_HemostaticAgent"
+	},
+	{
+		"abr": "hunter",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "AM_Hunter"
+	},
+	{
+		"abr": "ibuprofen",
+		"price": 33,
+		"category": "Drugs",
+		"defname": "AM_Ibuprofen"
+	},
+	{
+		"abr": "indicatorline",
+		"price": 25,
+		"category": "Misc",
+		"defname": "AM_IndicatorLine_Yellow"
+	},
+	{
+		"abr": "indicatorline",
+		"price": 25,
+		"category": "Misc",
+		"defname": "AM_IndicatorLine"
+	},
+	{
+		"abr": "injectionstorageracks",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_Injection_StorageRacks"
+	},
+	{
+		"abr": "integratedparasitearmor",
+		"price": 2000,
+		"category": "Bionic",
+		"defname": "AM_IntegratedTorsoArmor"
+	},
+	{
+		"abr": "intelmap",
+		"price": 2500,
+		"category": "Manufactured",
+		"defname": "AM_IntelMap"
+	},
+	{
+		"abr": "italianredstewpotatochips",
+		"price": 83,
+		"category": "Meals",
+		"defname": "AM_PotatoChipsF"
+	},
+	{
+		"abr": "keycard",
+		"price": 1667,
+		"category": "Manufactured",
+		"defname": "AM_KeyCard"
+	},
+	{
+		"abr": "largebackpack",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_LargeBackpack_Decoration"
+	},
+	{
+		"abr": "largebackpack",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "AM_LargeBackpack"
+	},
+	{
+		"abr": "largemilitarysuppliescase",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_BigCase"
+	},
+	{
+		"abr": "large-screentelevision",
+		"price": 2475,
+		"category": "Recreation",
+		"defname": "AM_LargeScreenTelevision"
+	},
+	{
+		"abr": "lbt",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_LBT_Decoration"
+	},
+	{
+		"abr": "lbt",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "AM_LBT"
+	},
+	{
+		"abr": "ledx",
+		"price": 16667,
+		"category": "Manufactured",
+		"defname": "AM_LEDX"
+	},
+	{
+		"abr": "legogiantrockexcavator",
+		"price": 1500,
+		"category": "Manufactured",
+		"defname": "AM_LEGO_GiantRockExcavator_NotOpen"
+	},
+	{
+		"abr": "legogiantrockexcavator",
+		"price": 1558,
+		"category": "Art",
+		"defname": "LEGO_GiantRockExcavator_Accomplish"
+	},
+	{
+		"abr": "legoheavycrane",
+		"price": 1500,
+		"category": "Manufactured",
+		"defname": "AM_LEGO_HeavyCrane_NotOpen"
+	},
+	{
+		"abr": "legoheavycrane",
+		"price": 1558,
+		"category": "Art",
+		"defname": "LEGO_HeavyCrane_Accomplish"
+	},
+	{
+		"abr": "legolandmarkbuilding",
+		"price": 1500,
+		"category": "Manufactured",
+		"defname": "AM_LEGO_LandmarkBuilding_NotOpen"
+	},
+	{
+		"abr": "legolandmarkbuilding",
+		"price": 1558,
+		"category": "Art",
+		"defname": "LEGO_LandmarkBuilding_Accomplish"
+	},
+	{
+		"abr": "legolightcrane",
+		"price": 1500,
+		"category": "Manufactured",
+		"defname": "AM_LEGO_LightCrane_NotOpen"
+	},
+	{
+		"abr": "legolightcrane",
+		"price": 1558,
+		"category": "Art",
+		"defname": "LEGO_LightCrane_Accomplish"
+	},
+	{
+		"abr": "legomediumcrane",
+		"price": 1500,
+		"category": "Manufactured",
+		"defname": "AM_LEGO_MediumCrane_NotOpen"
+	},
+	{
+		"abr": "legomediumcrane",
+		"price": 1558,
+		"category": "Art",
+		"defname": "LEGO_MediumCrane_Accomplish"
+	},
+	{
+		"abr": "legopalace",
+		"price": 1500,
+		"category": "Manufactured",
+		"defname": "AM_LEGO_Palace_NotOpen"
+	},
+	{
+		"abr": "legopalace",
+		"price": 1558,
+		"category": "Art",
+		"defname": "LEGO_Palace_Accomplish"
+	},
+	{
+		"abr": "lemonpotatochips",
+		"price": 83,
+		"category": "Meals",
+		"defname": "AM_PotatoChipsE"
+	},
+	{
+		"abr": "m4a1",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "AM_M4A"
+	},
+	{
+		"abr": "m4a12u",
+		"price": 1367,
+		"category": "Ranged weapons",
+		"defname": "AM_M42U"
+	},
+	{
+		"abr": "m4a1cqb",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "AM_M4C"
+	},
+	{
+		"abr": "m4a1sopmodii",
+		"price": 1367,
+		"category": "Ranged weapons",
+		"defname": "AM_M4ASOP"
+	},
+	{
+		"abr": "m7spear",
+		"price": 2583,
+		"category": "Ranged weapons",
+		"defname": "AM_Spear68A"
+	},
+	{
+		"abr": "m7spearcqb",
+		"price": 2583,
+		"category": "Ranged weapons",
+		"defname": "AM_Spear68C"
+	},
+	{
+		"abr": "m700",
+		"price": 1783,
+		"category": "Ranged weapons",
+		"defname": "AM_M700A"
+	},
+	{
+		"abr": "makarov",
+		"price": 558,
+		"category": "Ranged weapons",
+		"defname": "AM_Makarov"
+	},
+	{
+		"abr": "mallbench",
+		"price": 19,
+		"category": "Furniture",
+		"defname": "AM_MallBench"
+	},
+	{
+		"abr": "mallcolumn",
+		"price": 3,
+		"category": "Misc",
+		"defname": "AM_MallColumn"
+	},
+	{
+		"abr": "mallpew",
+		"price": 19,
+		"category": "Furniture",
+		"defname": "AM_MallPew"
+	},
+	{
+		"abr": "mallwoodenbench",
+		"price": 48,
+		"category": "Furniture",
+		"defname": "AM_MallWoodenBench"
+	},
+	{
+		"abr": "manatworksign",
+		"price": 16,
+		"category": "Misc",
+		"defname": "AM_ManAtWork"
+	},
+	{
+		"abr": "mbss",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_MBSS_Decoration"
+	},
+	{
+		"abr": "mbss",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "AM_MBSS"
+	},
+	{
+		"abr": "mcx",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "AM_MCX"
+	},
+	{
+		"abr": "mcxcqb",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "AM_MCXC"
+	},
+	{
+		"abr": "mcxm5a3",
+		"price": 2583,
+		"category": "Ranged weapons",
+		"defname": "AM_M5A3LT"
+	},
+	{
+		"abr": "medicalstorageracks",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_MedicalSupplies_StorageRacks"
+	},
+	{
+		"abr": "metalbloodinjector",
+		"price": 500,
+		"category": "Drugs",
+		"defname": "AM_MetalbloodInjector"
+	},
+	{
+		"abr": "militaryration",
+		"price": 42,
+		"category": "Meals",
+		"defname": "AM_MRE"
+	},
+	{
+		"abr": "militarystorageracks",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_MilitarySupplies_StorageRacks"
+	},
+	{
+		"abr": "milkbeer",
+		"price": 83,
+		"category": "Drugs",
+		"defname": "AM_MilkBeer"
+	},
+	{
+		"abr": "miscellaneousstorageracks",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_TousledStorageRacks"
+	},
+	{
+		"abr": "mk17",
+		"price": 1783,
+		"category": "Ranged weapons",
+		"defname": "AM_MK17A"
+	},
+	{
+		"abr": "mk18338lm",
+		"price": 2617,
+		"category": "Ranged weapons",
+		"defname": "AM_MK18M"
+	},
+	{
+		"abr": "modeldummy",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_Model"
+	},
+	{
+		"abr": "modeldummy",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_Modelf"
+	},
+	{
+		"abr": "motorvehiclelanesign",
+		"price": 16,
+		"category": "Misc",
+		"defname": "AM_MotorVehicleLane"
+	},
+	{
+		"abr": "mpx",
+		"price": 975,
+		"category": "Ranged weapons",
+		"defname": "AM_MPX"
+	},
+	{
+		"abr": "mpxlb",
+		"price": 975,
+		"category": "Ranged weapons",
+		"defname": "AM_MPXL"
+	},
+	{
+		"abr": "nightvisionhelmet",
+		"price": 1300,
+		"category": "Headgear",
+		"defname": "AM_NightVisionHelmet"
+	},
+	{
+		"abr": "noaccesssign",
+		"price": 16,
+		"category": "Misc",
+		"defname": "AM_NoAccess"
+	},
+	{
+		"abr": "noghoulspermittedsign",
+		"price": 16,
+		"category": "Misc",
+		"defname": "AM_NoGhoul"
+	},
+	{
+		"abr": "noparkingsign",
+		"price": 16,
+		"category": "Misc",
+		"defname": "AM_NoParking"
+	},
+	{
+		"abr": "nou-turnsign",
+		"price": 16,
+		"category": "Misc",
+		"defname": "AM_NoTurningAaround"
+	},
+	{
+		"abr": "noticesign",
+		"price": 16,
+		"category": "Misc",
+		"defname": "AM_Notice"
+	},
+	{
+		"abr": "oildrum",
+		"price": 3,
+		"category": "Misc",
+		"defname": "AM_OilDrum"
+	},
+	{
+		"abr": "oldfreezer",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "AM_OldFreezer_Decoration"
+	},
+	{
+		"abr": "openedweaponcase",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "AM_WeaponCase_Open_Decoration"
+	},
+	{
+		"abr": "openedweaponcase",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_WeaponCaseLow"
+	},
+	{
+		"abr": "packagedcpu",
+		"price": 2500,
+		"category": "Manufactured",
+		"defname": "AM_PackagedCPU"
+	},
+	{
+		"abr": "packagedgpu",
+		"price": 7500,
+		"category": "Manufactured",
+		"defname": "AM_PackagedGPU"
+	},
+	{
+		"abr": "parkinglotcolumn",
+		"price": 3,
+		"category": "Misc",
+		"defname": "AM_ParkingLotColumn"
+	},
+	{
+		"abr": "parkinglotsignage",
+		"price": 3,
+		"category": "Misc",
+		"defname": "AM_ParkingLotSignage"
+	},
+	{
+		"abr": "parkingpermittedsign",
+		"price": 16,
+		"category": "Misc",
+		"defname": "AM_ParkingPermitted"
+	},
+	{
+		"abr": "pelvichammock",
+		"price": 133,
+		"category": "Manufactured",
+		"defname": "AM_PelvicHammock"
+	},
+	{
+		"abr": "pepsi",
+		"price": 58,
+		"category": "Meals",
+		"defname": "AM_Pepsi"
+	},
+	{
+		"abr": "pkm",
+		"price": 2617,
+		"category": "Ranged weapons",
+		"defname": "AM_PKM"
+	},
+	{
+		"abr": "pkp",
+		"price": 2617,
+		"category": "Ranged weapons",
+		"defname": "AM_PKP"
+	},
+	{
+		"abr": "pkpcomponents",
+		"price": 1667,
+		"category": "Manufactured",
+		"defname": "AM_PKPMagazineComponents"
+	},
+	{
+		"abr": "postmanshoulderbag",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_PostmanShoulderBag_Decoration"
+	},
+	{
+		"abr": "postmanshoulderbag",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "AM_PostmanShoulderBag"
+	},
+	{
+		"abr": "r11",
+		"price": 1367,
+		"category": "Ranged weapons",
+		"defname": "AM_R11A"
+	},
+	{
+		"abr": "radiointercom",
+		"price": 833,
+		"category": "Manufactured",
+		"defname": "AM_RadioIntercom"
+	},
+	{
+		"abr": "rail",
+		"price": 25,
+		"category": "Misc",
+		"defname": "AM_Rail"
+	},
+	{
+		"abr": "rampageparasite",
+		"price": 3667,
+		"category": "Bionic",
+		"defname": "AM_RampageParasite"
+	},
+	{
+		"abr": "rm6.8",
+		"price": 2583,
+		"category": "Ranged weapons",
+		"defname": "AM_RM68A"
+	},
+	{
+		"abr": "rollingshutterdoor",
+		"price": 127,
+		"category": "Misc",
+		"defname": "AM_RollingShutter"
+	},
+	{
+		"abr": "rollingshutterdoor",
+		"price": 127,
+		"category": "Misc",
+		"defname": "AM_RollingShutter_I"
+	},
+	{
+		"abr": "rollingshutterdoor",
+		"price": 127,
+		"category": "Misc",
+		"defname": "AM_RollingShutter_II"
+	},
+	{
+		"abr": "rollingshutterdoor",
+		"price": 127,
+		"category": "Misc",
+		"defname": "AM_RollingShutter_III"
+	},
+	{
+		"abr": "rollingshutterdoor",
+		"price": 127,
+		"category": "Misc",
+		"defname": "AM_RollingShutter_NoHP"
+	},
+	{
+		"abr": "rustyemptyshelves",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "AM_RustyEmptyShelves_Decoration"
+	},
+	{
+		"abr": "salewakit",
+		"price": 167,
+		"category": "Medicine",
+		"defname": "AM_Salewa"
+	},
+	{
+		"abr": "scar6.8",
+		"price": 2583,
+		"category": "Ranged weapons",
+		"defname": "AM_MK68A"
+	},
+	{
+		"abr": "scavbag",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_Scav_Decoration"
+	},
+	{
+		"abr": "scavbag",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "AM_Scav"
+	},
+	{
+		"abr": "serketistslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "VME_SerketistSlab_Broad"
+	},
+	{
+		"abr": "serketistslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "VME_SerketistSlab_Medium"
+	},
+	{
+		"abr": "shoppingguidemap",
+		"price": 3,
+		"category": "Furniture",
+		"defname": "AM_SmallShoppingGuideMapA"
+	},
+	{
+		"abr": "shoppingguidemap",
+		"price": 3,
+		"category": "Furniture",
+		"defname": "AM_SmallShoppingGuideMapB"
+	},
+	{
+		"abr": "shoppingguidemap",
+		"price": 3,
+		"category": "Furniture",
+		"defname": "AM_SmallShoppingGuideMapC"
+	},
+	{
+		"abr": "shoppingmallguidemap",
+		"price": 3,
+		"category": "Misc",
+		"defname": "AM_ShoppingMallGuideMap"
+	},
+	{
+		"abr": "sicc",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "AM_SICC_SalvagePoint"
+	},
+	{
+		"abr": "sicc",
+		"price": 8333,
+		"category": "Manufactured",
+		"defname": "AM_SICC"
+	},
+	{
+		"abr": "slidesign",
+		"price": 3,
+		"category": "Furniture",
+		"defname": "AM_SlideSign"
+	},
+	{
+		"abr": "smallcase",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "AM_SmallCase_Open_Decoration"
+	},
+	{
+		"abr": "smallfuelgenerator",
+		"price": 492,
+		"category": "Misc",
+		"defname": "AM_SmallGenerator"
+	},
+	{
+		"abr": "smallmilitarycasecase",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_SmallCase"
+	},
+	{
+		"abr": "snackstorageracks",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_Snack_StorageRacks"
+	},
+	{
+		"abr": "speedlimitsign",
+		"price": 16,
+		"category": "Misc",
+		"defname": "AM_SpeedLimit40KPH"
+	},
+	{
+		"abr": "spiritualfortress",
+		"price": 3,
+		"category": "Misc",
+		"defname": "AM_SpiritualFortressA"
+	},
+	{
+		"abr": "spiritualfortress",
+		"price": 3,
+		"category": "Misc",
+		"defname": "AM_SpiritualFortressB"
+	},
+	{
+		"abr": "spiritualfortress",
+		"price": 3,
+		"category": "Misc",
+		"defname": "AM_SpiritualFortressC"
+	},
+	{
+		"abr": "spiritualfortress",
+		"price": 3,
+		"category": "Misc",
+		"defname": "AM_SpiritualFortressD"
+	},
+	{
+		"abr": "sportsbag",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_SportsBag_Decoration"
+	},
+	{
+		"abr": "sportsbag",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "AM_SportsBag"
+	},
+	{
+		"abr": "sprite",
+		"price": 58,
+		"category": "Meals",
+		"defname": "AM_Sprite"
+	},
+	{
+		"abr": "sr25",
+		"price": 1367,
+		"category": "Ranged weapons",
+		"defname": "AM_SR25A"
+	},
+	{
+		"abr": "ssd",
+		"price": 833,
+		"category": "Manufactured",
+		"defname": "AM_SSD"
+	},
+	{
+		"abr": "steakpotatochips",
+		"price": 83,
+		"category": "Meals",
+		"defname": "AM_PotatoChipsD"
+	},
+	{
+		"abr": "steepascentsign",
+		"price": 16,
+		"category": "Misc",
+		"defname": "AM_SteepAscent"
+	},
+	{
+		"abr": "stm9",
+		"price": 558,
+		"category": "Ranged weapons",
+		"defname": "AM_STM"
+	},
+	{
+		"abr": "stm9custom",
+		"price": 975,
+		"category": "Ranged weapons",
+		"defname": "AM_STMC"
+	},
+	{
+		"abr": "storageracks",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_StorageRacks"
+	},
+	{
+		"abr": "surgicalbag",
+		"price": 617,
+		"category": "Drugs",
+		"defname": "AM_SurgicalBag"
+	},
+	{
+		"abr": "survivalkit",
+		"price": 750,
+		"category": "Drugs",
+		"defname": "AM_BigSurgicalBag"
+	},
+	{
+		"abr": "tapemeasure",
+		"price": 417,
+		"category": "Manufactured",
+		"defname": "AM_TapeMeasure"
+	},
+	{
+		"abr": "thicc",
+		"price": 3,
+		"category": "Misc",
+		"defname": "AM_THICC"
+	},
+	{
+		"abr": "tkb6.8",
+		"price": 2583,
+		"category": "Ranged weapons",
+		"defname": "AM_TKB68A"
+	},
+	{
+		"abr": "tomatopotatochips",
+		"price": 83,
+		"category": "Meals",
+		"defname": "AM_PotatoChipsB"
+	},
+	{
+		"abr": "transportpod",
+		"price": 253,
+		"category": "Misc",
+		"defname": "AM_TransportPod"
+	},
+	{
+		"abr": "travelbag",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_TravelBag_Decoration"
+	},
+	{
+		"abr": "travelbag",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "AM_TravelBag"
+	},
+	{
+		"abr": "tsingtao",
+		"price": 67,
+		"category": "Drugs",
+		"defname": "AM_TsingtaoBeer"
+	},
+	{
+		"abr": "uhmwpeplate",
+		"price": 500,
+		"category": "Manufactured",
+		"defname": "AM_UHMWPEPlate"
+	},
+	{
+		"abr": "u-turnsign",
+		"price": 16,
+		"category": "Misc",
+		"defname": "AM_TurnAround"
+	},
+	{
+		"abr": "vegetableshelf",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_VegetableShelf"
+	},
+	{
+		"abr": "vendingmachine",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "AM_VendingMachine_Decoration"
+	},
+	{
+		"abr": "vss",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "AM_VSS"
+	},
+	{
+		"abr": "watchforgorehulksign",
+		"price": 16,
+		"category": "Misc",
+		"defname": "AM_WatchForGorehulk"
+	},
+	{
+		"abr": "watchforinsectssign",
+		"price": 16,
+		"category": "Misc",
+		"defname": "AM_WatchForBug"
+	},
+	{
+		"abr": "watchformechanoidsign",
+		"price": 16,
+		"category": "Misc",
+		"defname": "AM_WatchForMachine"
+	},
+	{
+		"abr": "watchformetalhorrorsign",
+		"price": 16,
+		"category": "Misc",
+		"defname": "AM_WatchForMetalhorror"
+	},
+	{
+		"abr": "watchfornoctolsign",
+		"price": 16,
+		"category": "Misc",
+		"defname": "AM_WatchForNoctol"
+	},
+	{
+		"abr": "waybill",
+		"price": 4250,
+		"category": "Manufactured",
+		"defname": "AM_WayBill"
+	},
+	{
+		"abr": "weaponcase",
+		"price": 583,
+		"category": "Furniture",
+		"defname": "AM_WeaponCase"
+	},
+	{
+		"abr": "weaponcomponent",
+		"price": 417,
+		"category": "Manufactured",
+		"defname": "AM_ComponentWeapon"
+	},
+	{
+		"abr": "weatheredrollingshutterdoor",
+		"price": 127,
+		"category": "Misc",
+		"defname": "AM_RollingShutter_I_HP"
+	},
+	{
+		"abr": "weatheredrollingshutterdoor",
+		"price": 127,
+		"category": "Misc",
+		"defname": "AM_RollingShutter_II_HP"
+	},
+	{
+		"abr": "weatheredrollingshutterdoor",
+		"price": 127,
+		"category": "Misc",
+		"defname": "AM_RollingShutter_III_HP"
 	}
 	],
-	"total": 4459
+	"total": 4743
 }
