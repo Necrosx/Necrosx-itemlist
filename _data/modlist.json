@@ -120,22 +120,46 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Owlchemist",
-    "name": "Simple Utilities: Fridge",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
   },
   {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Fridge",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
     "name": "Vanilla Psycasts Expanded",
     "steamId": "2842502659",
     "version": "1.1.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Insectoids 2",
+    "steamId": "3309003431",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk and Sarg",
+    "name": "Vanilla Races Expanded - Insector",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Sarg Bjornson and AFriend",
@@ -182,30 +206,6 @@
   {
     "author": "alite",
     "name": "More Biotech Style Genes - All in One",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg Bjornson",
-    "name": "Vanilla Factions Expanded - Insectoids 2",
-    "steamId": "3309003431",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Taranchuk",
-    "name": "Vanilla Weapons Expanded - Heavy Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Taranchuk and Sarg",
-    "name": "Vanilla Races Expanded - Insector",
     "steamId": null,
     "version": null
   },
@@ -260,8 +260,8 @@
   {
     "author": "MO",
     "name": "Ancient urban ruins",
-    "steamId": null,
-    "version": null
+    "steamId": "3316062206",
+    "version": "1.0.0.0"
   },
   {
     "author": "Fluffy",
@@ -498,6 +498,12 @@
     "version": "1.5.0"
   },
   {
+    "author": "busted_bunny",
+    "name": "Capture Them (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Smash Phil | Dr_Zhivago | monkey5206",
     "name": "Carry Capacity Fixed (Continued)",
     "steamId": null,
@@ -532,6 +538,12 @@
     "name": "Colonist Bar Adjuster",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "ISOREX, Turnovus and community contributors.",
+    "name": "Community Framework",
+    "steamId": "2585162118",
+    "version": "1.5.0"
   },
   {
     "author": "miyamiya, twsta and vokaerian",
@@ -942,6 +954,12 @@
     "version": null
   },
   {
+    "author": "Neronix17",
+    "name": "Hair Extensions",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Smuffle and OMGSplat",
     "name": "Harvest Organs Post Mortem",
     "steamId": null,
@@ -1024,6 +1042,12 @@
     "name": "Infinite Reinforce",
     "steamId": "2623528901",
     "version": "1.1.0.6"
+  },
+  {
+    "author": "瑞秋·克劳狄乌斯, frolg and LingLuo",
+    "name": "Insectoids 2 - Isopoda geneline",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "xrushha",
@@ -1176,6 +1200,12 @@
     "version": null
   },
   {
+    "author": "Superniquito",
+    "name": "Mod Options Sort",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Stolij",
     "name": "More Batteries",
     "steamId": null,
@@ -1263,7 +1293,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.5.14"
+    "version": "1.5.15"
   },
   {
     "author": "Sergwest",
@@ -1596,6 +1626,12 @@
     "version": "1.1.0.0"
   },
   {
+    "author": "Garethp",
+    "name": "Replace Stuff Mod Compatibility",
+    "steamId": "2642161586",
+    "version": "2.0.3"
+  },
+  {
     "author": "VinaLx and Owlchemist",
     "name": "ResearchPowl",
     "steamId": "3236264529",
@@ -1640,6 +1676,12 @@
   {
     "author": "rooki1",
     "name": "Rimsenal - Hair pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Rimsenal Hair Retextured",
     "steamId": null,
     "version": null
   },
@@ -2064,6 +2106,12 @@
     "version": null
   },
   {
+    "author": "Neronix17",
+    "name": "Vanilla Beards Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki and Taranchuk",
     "name": "Vanilla Books Expanded",
     "steamId": "2193152410",
@@ -2140,6 +2188,12 @@
     "name": "Vanilla Hair Expanded",
     "steamId": "1888705256",
     "version": "1.0.3"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Vanilla Hair Retextured",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Taranchuk and xrushha",
@@ -2346,6 +2400,18 @@
     "version": null
   },
   {
+    "author": "Neronix17",
+    "name": "Won Hair Men Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Won Hair Women Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Fluffy (Arof and DomB)",
     "name": "Work Tab",
     "steamId": "3253535347",
@@ -2366,6 +2432,12 @@
   {
     "author": "Orion",
     "name": "Xeva's Rimhair",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Xeva's Rimhair Retextured",
     "steamId": null,
     "version": null
   },
@@ -2510,6 +2582,12 @@
   {
     "author": "Wemd",
     "name": "[WD] Reinforced Doors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "pphhyy.",
+    "name": "pphhyy BoneReapers",
     "steamId": null,
     "version": null
   },

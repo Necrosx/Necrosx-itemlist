@@ -13153,12 +13153,6 @@
 		"defname": "AG_AncientLargeRecharger"
 	},
 	{
-		"abr": "ancientlockerbank",
-		"price": 425,
-		"category": "",
-		"defname": "AM_AncientLockerBank"
-	},
-	{
 		"abr": "ancientmechgestator",
 		"price": 47,
 		"category": "Misc",
@@ -22297,12 +22291,6 @@
 		"defname": "AM_AncientFence"
 	},
 	{
-		"abr": "restoredancientoperatingtable",
-		"price": 683,
-		"category": "",
-		"defname": "AM_AncientOperatingTable"
-	},
-	{
 		"abr": "revenantspine",
 		"price": 1667,
 		"category": "Misc",
@@ -26323,52 +26311,10 @@
 		"defname": "VFEI2_Acidspitter"
 	},
 	{
-		"abr": "artificialbasichive",
-		"price": 250,
-		"category": "",
-		"defname": "VFEI2_ArtificialBasicHive"
-	},
-	{
-		"abr": "artificialchelishive",
-		"price": 833,
-		"category": "",
-		"defname": "VFEI2_ArtificialChelisHive"
-	},
-	{
-		"abr": "artificialkemianhive",
-		"price": 833,
-		"category": "",
-		"defname": "VFEI2_ArtificialKemianHive"
-	},
-	{
-		"abr": "artificialnuchadushive",
-		"price": 833,
-		"category": "",
-		"defname": "VFEI2_ArtificialNuchadusHive"
-	},
-	{
-		"abr": "artificialsornehive",
-		"price": 417,
-		"category": "",
-		"defname": "VFEI2_ArtificialSorneHive"
-	},
-	{
-		"abr": "artificialxanideshive",
-		"price": 833,
-		"category": "",
-		"defname": "VFEI2_ArtificialXanidesHive"
-	},
-	{
 		"abr": "boomtick",
 		"price": 167,
 		"category": "Animals",
 		"defname": "VFEI2_Boomtick"
-	},
-	{
-		"abr": "cellularadapter",
-		"price": 1717,
-		"category": "Bionic",
-		"defname": "LTS_CellularAdapter"
 	},
 	{
 		"abr": "chelispherocore",
@@ -26381,12 +26327,6 @@
 		"price": 5,
 		"category": "Leathers",
 		"defname": "VFEI2_Chitin"
-	},
-	{
-		"abr": "creeper",
-		"price": 167,
-		"category": "",
-		"defname": "VFEI2_Creeper"
 	},
 	{
 		"abr": "deepheater",
@@ -26443,18 +26383,6 @@
 		"defname": "VFEI2_Thumper_Gigamite"
 	},
 	{
-		"abr": "glowpodformation",
-		"price": 167,
-		"category": "",
-		"defname": "VFEI2_GlowPodFormation"
-	},
-	{
-		"abr": "glowpodspire",
-		"price": 167,
-		"category": "",
-		"defname": "VFEI2_GlowPodSpire"
-	},
-	{
 		"abr": "heatpod",
 		"price": 33,
 		"category": "Special",
@@ -26467,24 +26395,6 @@
 		"defname": "VFEI2_Hellbeetle"
 	},
 	{
-		"abr": "hivewall",
-		"price": 12,
-		"category": "",
-		"defname": "VFEI_HiveWall"
-	},
-	{
-		"abr": "hivenode",
-		"price": 1667,
-		"category": "",
-		"defname": "VFEI2_Hivenode"
-	},
-	{
-		"abr": "insectjellywall",
-		"price": 65,
-		"category": "",
-		"defname": "VFEI2_InsectJellyWall"
-	},
-	{
 		"abr": "insectoidqueen",
 		"price": 2500,
 		"category": "Animals",
@@ -26495,18 +26405,6 @@
 		"price": 2500,
 		"category": "Animals",
 		"defname": "VFEI2_Ironclad"
-	},
-	{
-		"abr": "jellyfarm",
-		"price": 167,
-		"category": "",
-		"defname": "VFEI2_JellyFarm"
-	},
-	{
-		"abr": "jellymorpher",
-		"price": 1667,
-		"category": "",
-		"defname": "VFEI2_JellyMorpher"
 	},
 	{
 		"abr": "kemianpherocore",
@@ -26551,22 +26449,10 @@
 		"defname": "VFEI2_PherocoreNuchadus"
 	},
 	{
-		"abr": "petroglypher",
-		"price": 1667,
-		"category": "",
-		"defname": "VFEI2_Petroglypher"
-	},
-	{
 		"abr": "royalinsectjelly",
 		"price": 17,
 		"category": "Drugs",
 		"defname": "VFEI2_RoyalInsectJelly"
-	},
-	{
-		"abr": "royaljellywall",
-		"price": 79,
-		"category": "",
-		"defname": "VFEI2_RoyalJellyWall"
 	},
 	{
 		"abr": "silverfish",
@@ -26605,12 +26491,6 @@
 		"defname": "VFEI2_Tankroach"
 	},
 	{
-		"abr": "tendrilfarm",
-		"price": 133,
-		"category": "",
-		"defname": "VFEI2_TendrilFarm"
-	},
-	{
 		"abr": "tendrilmoss",
 		"price": 2,
 		"category": "Vegetarian",
@@ -26635,12 +26515,6 @@
 		"defname": "VFEI2_Thornpod"
 	},
 	{
-		"abr": "thornworm",
-		"price": 1583,
-		"category": "",
-		"defname": "VFEI2_Thornworm"
-	},
-	{
 		"abr": "titantick",
 		"price": 3000,
 		"category": "Animals",
@@ -26659,12 +26533,6 @@
 		"defname": "VFEI2_Venomite"
 	},
 	{
-		"abr": "vilelobber",
-		"price": 1583,
-		"category": "",
-		"defname": "VFEI2_Vilelobber"
-	},
-	{
 		"abr": "xanidespherocore",
 		"price": 1667,
 		"category": "Misc",
@@ -26675,12 +26543,6 @@
 		"price": 2342,
 		"category": "Melee weapons",
 		"defname": "BotchJob_AbyssalGlaive"
-	},
-	{
-		"abr": "activecamouflage",
-		"price": 2383,
-		"category": "Bionic",
-		"defname": "LTS_StealthSystem"
 	},
 	{
 		"abr": "firesuppressionsystem",
@@ -26841,31 +26703,31 @@
 	{
 		"abr": "ancientarmoredgate",
 		"price": 190,
-		"category": "Misc",
+		"category": "",
 		"defname": "AM_ArmoredGate"
 	},
 	{
 		"abr": "ancientarmoredgate",
 		"price": 317,
-		"category": "Misc",
+		"category": "",
 		"defname": "AM_ArmoredGateL"
 	},
 	{
 		"abr": "ancientarmoredgate",
 		"price": 158,
-		"category": "Misc",
+		"category": "",
 		"defname": "AM_ArmoredGateS"
 	},
 	{
 		"abr": "ancientarmoredgate",
 		"price": 127,
-		"category": "Misc",
+		"category": "",
 		"defname": "AM_ArmoredGateXS"
 	},
 	{
 		"abr": "ancientcashregister",
 		"price": 3,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_AncientCashRegister"
 	},
 	{
@@ -26955,7 +26817,7 @@
 	{
 		"abr": "ancientlargemilitarysuppliescase",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_OldBigCase"
 	},
 	{
@@ -26985,13 +26847,13 @@
 	{
 		"abr": "ancientroadblocks",
 		"price": 3,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_AncientRoadblocks"
 	},
 	{
 		"abr": "ancientsmallmilitarycase",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_OldSmallCase"
 	},
 	{
@@ -27003,7 +26865,7 @@
 	{
 		"abr": "ancientweaponcase",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_OldWeaponCase"
 	},
 	{
@@ -27057,7 +26919,7 @@
 	{
 		"abr": "bigcase",
 		"price": 750,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_BigCase_Open_Decoration"
 	},
 	{
@@ -27075,7 +26937,7 @@
 	{
 		"abr": "briefcase",
 		"price": 750,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_BriefCase_SalvagePoint"
 	},
 	{
@@ -27105,13 +26967,13 @@
 	{
 		"abr": "burgerpaperbag",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_BurgerPaperBag"
 	},
 	{
 		"abr": "burgerpaperbox",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_BurgerPaperBox"
 	},
 	{
@@ -27159,19 +27021,19 @@
 	{
 		"abr": "cardboardbox",
 		"price": 750,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_PaperBox_A_Open_Decoration"
 	},
 	{
 		"abr": "cardboardbox",
 		"price": 750,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_PaperBox_B_Open_Decoration"
 	},
 	{
 		"abr": "cardboardbox",
 		"price": 750,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_PaperBox_C_Open_Decoration"
 	},
 	{
@@ -27189,19 +27051,19 @@
 	{
 		"abr": "cardboardbox",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_PaperBox_A"
 	},
 	{
 		"abr": "cardboardbox",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_PaperBox_B"
 	},
 	{
 		"abr": "cardboardbox",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_PaperBox_C"
 	},
 	{
@@ -27237,7 +27099,7 @@
 	{
 		"abr": "clothesrack",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_ClothesHanger"
 	},
 	{
@@ -27249,7 +27111,7 @@
 	{
 		"abr": "collapsedshelves",
 		"price": 750,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_DamagedEmptyShelves"
 	},
 	{
@@ -27267,19 +27129,19 @@
 	{
 		"abr": "computercase",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_ComputerCase"
 	},
 	{
 		"abr": "concretebarrier",
 		"price": 3,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_Palisade"
 	},
 	{
 		"abr": "cone",
 		"price": 3,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_Cone"
 	},
 	{
@@ -27297,7 +27159,7 @@
 	{
 		"abr": "constructionsite",
 		"price": 3,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_ConstructionSite"
 	},
 	{
@@ -27405,19 +27267,19 @@
 	{
 		"abr": "emptyclotheshanger",
 		"price": 750,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_ClothesHangerEmpty_Decoration"
 	},
 	{
 		"abr": "emptyshelves",
 		"price": 750,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_EmptyShelves_Decoration"
 	},
 	{
 		"abr": "emptyvegetableshelf",
 		"price": 750,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_VegetableShelfEmpty_Decoration"
 	},
 	{
@@ -27477,7 +27339,7 @@
 	{
 		"abr": "freezer",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_Freezer"
 	},
 	{
@@ -27579,7 +27441,7 @@
 	{
 		"abr": "injectionstorageracks",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_Injection_StorageRacks"
 	},
 	{
@@ -27609,19 +27471,19 @@
 	{
 		"abr": "largebackpack",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_LargeBackpack_Decoration"
 	},
 	{
 		"abr": "largebackpack",
 		"price": 750,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_LargeBackpack"
 	},
 	{
 		"abr": "largemilitarysuppliescase",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_BigCase"
 	},
 	{
@@ -27633,13 +27495,13 @@
 	{
 		"abr": "lbt",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_LBT_Decoration"
 	},
 	{
 		"abr": "lbt",
 		"price": 750,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_LBT"
 	},
 	{
@@ -27777,7 +27639,7 @@
 	{
 		"abr": "mallbench",
 		"price": 19,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_MallBench"
 	},
 	{
@@ -27789,13 +27651,13 @@
 	{
 		"abr": "mallpew",
 		"price": 19,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_MallPew"
 	},
 	{
 		"abr": "mallwoodenbench",
 		"price": 48,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_MallWoodenBench"
 	},
 	{
@@ -27807,13 +27669,13 @@
 	{
 		"abr": "mbss",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_MBSS_Decoration"
 	},
 	{
 		"abr": "mbss",
 		"price": 750,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_MBSS"
 	},
 	{
@@ -27837,7 +27699,7 @@
 	{
 		"abr": "medicalstorageracks",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_MedicalSupplies_StorageRacks"
 	},
 	{
@@ -27855,7 +27717,7 @@
 	{
 		"abr": "militarystorageracks",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_MilitarySupplies_StorageRacks"
 	},
 	{
@@ -27867,7 +27729,7 @@
 	{
 		"abr": "miscellaneousstorageracks",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_TousledStorageRacks"
 	},
 	{
@@ -27885,13 +27747,13 @@
 	{
 		"abr": "modeldummy",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_Model"
 	},
 	{
 		"abr": "modeldummy",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_Modelf"
 	},
 	{
@@ -27957,19 +27819,19 @@
 	{
 		"abr": "oldfreezer",
 		"price": 750,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_OldFreezer_Decoration"
 	},
 	{
 		"abr": "openedweaponcase",
 		"price": 750,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_WeaponCase_Open_Decoration"
 	},
 	{
 		"abr": "openedweaponcase",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_WeaponCaseLow"
 	},
 	{
@@ -28035,13 +27897,13 @@
 	{
 		"abr": "postmanshoulderbag",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_PostmanShoulderBag_Decoration"
 	},
 	{
 		"abr": "postmanshoulderbag",
 		"price": 750,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_PostmanShoulderBag"
 	},
 	{
@@ -28077,7 +27939,7 @@
 	{
 		"abr": "rollingshutterdoor",
 		"price": 127,
-		"category": "Misc",
+		"category": "",
 		"defname": "AM_RollingShutter"
 	},
 	{
@@ -28107,7 +27969,7 @@
 	{
 		"abr": "rustyemptyshelves",
 		"price": 750,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_RustyEmptyShelves_Decoration"
 	},
 	{
@@ -28125,13 +27987,13 @@
 	{
 		"abr": "scavbag",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_Scav_Decoration"
 	},
 	{
 		"abr": "scavbag",
 		"price": 750,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_Scav"
 	},
 	{
@@ -28149,19 +28011,19 @@
 	{
 		"abr": "shoppingguidemap",
 		"price": 3,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_SmallShoppingGuideMapA"
 	},
 	{
 		"abr": "shoppingguidemap",
 		"price": 3,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_SmallShoppingGuideMapB"
 	},
 	{
 		"abr": "shoppingguidemap",
 		"price": 3,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_SmallShoppingGuideMapC"
 	},
 	{
@@ -28173,7 +28035,7 @@
 	{
 		"abr": "sicc",
 		"price": 750,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_SICC_SalvagePoint"
 	},
 	{
@@ -28185,13 +28047,13 @@
 	{
 		"abr": "slidesign",
 		"price": 3,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_SlideSign"
 	},
 	{
 		"abr": "smallcase",
 		"price": 750,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_SmallCase_Open_Decoration"
 	},
 	{
@@ -28203,13 +28065,13 @@
 	{
 		"abr": "smallmilitarycasecase",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_SmallCase"
 	},
 	{
 		"abr": "snackstorageracks",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_Snack_StorageRacks"
 	},
 	{
@@ -28245,13 +28107,13 @@
 	{
 		"abr": "sportsbag",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_SportsBag_Decoration"
 	},
 	{
 		"abr": "sportsbag",
 		"price": 750,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_SportsBag"
 	},
 	{
@@ -28299,7 +28161,7 @@
 	{
 		"abr": "storageracks",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_StorageRacks"
 	},
 	{
@@ -28347,13 +28209,13 @@
 	{
 		"abr": "travelbag",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_TravelBag_Decoration"
 	},
 	{
 		"abr": "travelbag",
 		"price": 750,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_TravelBag"
 	},
 	{
@@ -28377,13 +28239,13 @@
 	{
 		"abr": "vegetableshelf",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_VegetableShelf"
 	},
 	{
 		"abr": "vendingmachine",
 		"price": 750,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_VendingMachine_Decoration"
 	},
 	{
@@ -28431,7 +28293,7 @@
 	{
 		"abr": "weaponcase",
 		"price": 583,
-		"category": "Furniture",
+		"category": "Container",
 		"defname": "AM_WeaponCase"
 	},
 	{
@@ -28443,21 +28305,705 @@
 	{
 		"abr": "weatheredrollingshutterdoor",
 		"price": 127,
-		"category": "Misc",
+		"category": "",
 		"defname": "AM_RollingShutter_I_HP"
 	},
 	{
 		"abr": "weatheredrollingshutterdoor",
 		"price": 127,
-		"category": "Misc",
+		"category": "",
 		"defname": "AM_RollingShutter_II_HP"
 	},
 	{
 		"abr": "weatheredrollingshutterdoor",
 		"price": 127,
-		"category": "Misc",
+		"category": "",
 		"defname": "AM_RollingShutter_III_HP"
+	},
+	{
+		"abr": "anastasi",
+		"price": 100,
+		"category": "Drugs",
+		"defname": "pphhyy_Anastasi"
+	},
+	{
+		"abr": "ancientcar",
+		"price": 275,
+		"category": "Misc",
+		"defname": "AM_AncientRustedCar"
+	},
+	{
+		"abr": "ancientcarframe",
+		"price": 155,
+		"category": "Misc",
+		"defname": "AM_AncientRustedCarFrame"
+	},
+	{
+		"abr": "ancientpodcar",
+		"price": 275,
+		"category": "Misc",
+		"defname": "AM_AncientPodCar"
+	},
+	{
+		"abr": "ancientsuspendedifv",
+		"price": 392,
+		"category": "Misc",
+		"defname": "AM_BTR82A"
+	},
+	{
+		"abr": "ancienttroopcarrier",
+		"price": 275,
+		"category": "Misc",
+		"defname": "AM_AncientRustedJeep"
+	},
+	{
+		"abr": "ancienttruck",
+		"price": 275,
+		"category": "Misc",
+		"defname": "AM_AncientRustedTruck"
+	},
+	{
+		"abr": "animalbone",
+		"price": 1,
+		"category": "Misc",
+		"defname": "pphhyy_AnimalBones"
+	},
+	{
+		"abr": "ankylosistable",
+		"price": 262,
+		"category": "Production",
+		"defname": "pphhyy_AnkylosisTable"
+	},
+	{
+		"abr": "archonarmor",
+		"price": 1908,
+		"category": "Armor",
+		"defname": "Apparel_ArchonArmor"
+	},
+	{
+		"abr": "archonhelm",
+		"price": 750,
+		"category": "Headgear",
+		"defname": "Apparel_ArchonHelm"
+	},
+	{
+		"abr": "archonpolearm",
+		"price": 783,
+		"category": "Melee weapons",
+		"defname": "pphhyy_BoneReapers_ArchonPolearm"
+	},
+	{
+		"abr": "archonshieldi",
+		"price": 500,
+		"category": "Shields",
+		"defname": "pphhyy_BoneReapers_ArchonShieldI"
+	},
+	{
+		"abr": "archonshieldii",
+		"price": 500,
+		"category": "Shields",
+		"defname": "pphhyy_BoneReapers_ArchonShieldII"
+	},
+	{
+		"abr": "archonshieldiii",
+		"price": 500,
+		"category": "Shields",
+		"defname": "pphhyy_BoneReapers_ArchonShieldIII"
+	},
+	{
+		"abr": "archonshieldiv",
+		"price": 500,
+		"category": "Shields",
+		"defname": "pphhyy_BoneReapers_ArchonShieldIV"
+	},
+	{
+		"abr": "archonshieldv",
+		"price": 500,
+		"category": "Shields",
+		"defname": "pphhyy_BoneReapers_ArchonShieldV"
+	},
+	{
+		"abr": "archonsword",
+		"price": 783,
+		"category": "Melee weapons",
+		"defname": "pphhyy_BoneReapers_ArchonSword"
+	},
+	{
+		"abr": "blackempress",
+		"price": 3000,
+		"category": "Animals",
+		"defname": "VFEI2_BlackEmpress"
+	},
+	{
+		"abr": "blackempressthumper",
+		"price": 417,
+		"category": "Misc",
+		"defname": "VFEI2_Thumper_BlackEmpress"
+	},
+	{
+		"abr": "blackinsectoidqueen",
+		"price": 2500,
+		"category": "Animals",
+		"defname": "VFEI2_BlackQueen"
+	},
+	{
+		"abr": "blackpherocore",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "VFEI2_PherocoreBlack"
+	},
+	{
+		"abr": "blackswarmlings",
+		"price": 83,
+		"category": "Animals",
+		"defname": "VFEI2_BlackSwarmling"
+	},
+	{
+		"abr": "bonearm",
+		"price": 98,
+		"category": "Prosthetic",
+		"defname": "pphhyy_BoneArm"
+	},
+	{
+		"abr": "boneeye",
+		"price": 98,
+		"category": "Prosthetic",
+		"defname": "pphhyy_BoneEye"
+	},
+	{
+		"abr": "bonejaw",
+		"price": 98,
+		"category": "Prosthetic",
+		"defname": "pphhyy_BoneJaw"
+	},
+	{
+		"abr": "boneleg",
+		"price": 98,
+		"category": "Prosthetic",
+		"defname": "pphhyy_BoneLeg"
+	},
+	{
+		"abr": "bonemold",
+		"price": 20,
+		"category": "Raw resources",
+		"defname": "pphhyy_BoneMoldSteel"
+	},
+	{
+		"abr": "bonetithenexus",
+		"price": 408,
+		"category": "Production",
+		"defname": "pphhyy_BoneTitheNexus"
+	},
+	{
+		"abr": "daraigana",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "pphhyy_Daraigana"
+	},
+	{
+		"abr": "darkglowpod",
+		"price": 33,
+		"category": "Special",
+		"defname": "AA_DarkGlowPod"
+	},
+	{
+		"abr": "ekkatharistisbench",
+		"price": 287,
+		"category": "Production",
+		"defname": "pphhyy_EkkatharistisBench"
+	},
+	{
+		"abr": "electricfish",
+		"price": 333,
+		"category": "Animals",
+		"defname": "SW_Electricfish"
+	},
+	{
+		"abr": "electricgryllotalpa",
+		"price": 833,
+		"category": "Animals",
+		"defname": "SW_Electricgryllotalpa"
+	},
+	{
+		"abr": "electrictick",
+		"price": 167,
+		"category": "Animals",
+		"defname": "SW_Electrictick"
+	},
+	{
+		"abr": "emperorisopod",
+		"price": 3000,
+		"category": "Animals",
+		"defname": "SW_Emperorisopod"
+	},
+	{
+		"abr": "emperorisopodthumper",
+		"price": 417,
+		"category": "Misc",
+		"defname": "VFEI2_Thumper_Isopoda"
+	},
+	{
+		"abr": "etherealhood",
+		"price": 417,
+		"category": "Headgear",
+		"defname": "Apparel_EtherealHood"
+	},
+	{
+		"abr": "etherealrobes",
+		"price": 417,
+		"category": "Misc",
+		"defname": "Apparel_EtherealRobes"
+	},
+	{
+		"abr": "etherealsteel",
+		"price": 25,
+		"category": "Raw resources",
+		"defname": "pphhyy_EtherealSteel"
+	},
+	{
+		"abr": "freezepod",
+		"price": 33,
+		"category": "Special",
+		"defname": "AA_FreezePod"
+	},
+	{
+		"abr": "ghora",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "pphhyy_Ghora"
+	},
+	{
+		"abr": "greatersoul",
+		"price": 5,
+		"category": "Misc",
+		"defname": "pphhyy_GreaterSoul"
+	},
+	{
+		"abr": "grenadierworm",
+		"price": 1083,
+		"category": "Animals",
+		"defname": "SW_Grenadierworm"
+	},
+	{
+		"abr": "hathiyarbench",
+		"price": 287,
+		"category": "Production",
+		"defname": "pphhyy_HathiyarBench"
+	},
+	{
+		"abr": "humanbone",
+		"price": 2,
+		"category": "Misc",
+		"defname": "pphhyy_HumanBones"
+	},
+	{
+		"abr": "isopodaglowpod",
+		"price": 33,
+		"category": "Special",
+		"defname": "VFEI2_IsopodaGlowPod"
+	},
+	{
+		"abr": "isopodapherocore",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "VFEI2_IsopodaNuchadus"
+	},
+	{
+		"abr": "juggernautbeetles",
+		"price": 2500,
+		"category": "Animals",
+		"defname": "SW_Juggernautbeetles"
+	},
+	{
+		"abr": "largedarkglowpod",
+		"price": 67,
+		"category": "Special",
+		"defname": "AA_DarkLargeGlowPod"
+	},
+	{
+		"abr": "lessersoul",
+		"price": 3,
+		"category": "Misc",
+		"defname": "pphhyy_LesserSoul"
+	},
+	{
+		"abr": "mongrel",
+		"price": 750,
+		"category": "Animals",
+		"defname": "pphhyy_Mongrel"
+	},
+	{
+		"abr": "osseousarm",
+		"price": 192,
+		"category": "Prosthetic",
+		"defname": "pphhyy_OsseousArm"
+	},
+	{
+		"abr": "osseousbanner",
+		"price": 121,
+		"category": "Furniture",
+		"defname": "pphhyy_OsseousBanner"
+	},
+	{
+		"abr": "osseousbrazier",
+		"price": 75,
+		"category": "Furniture",
+		"defname": "pphhyy_OsseousBrazier"
+	},
+	{
+		"abr": "osseouscolumn",
+		"price": 75,
+		"category": "Furniture",
+		"defname": "pphhyy_OsseousColumn"
+	},
+	{
+		"abr": "osseouseye",
+		"price": 192,
+		"category": "Prosthetic",
+		"defname": "pphhyy_OsseousEye"
+	},
+	{
+		"abr": "osseousgheist",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "pphhyy_OsseousGheist"
+	},
+	{
+		"abr": "osseoushorror",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "pphhyy_OsseousHorror"
+	},
+	{
+		"abr": "osseousjaw",
+		"price": 192,
+		"category": "Prosthetic",
+		"defname": "pphhyy_OsseousJaw"
+	},
+	{
+		"abr": "osseouskurasi",
+		"price": 198,
+		"category": "Furniture",
+		"defname": "pphhyy_OsseousKurasi"
+	},
+	{
+		"abr": "osseouslamp",
+		"price": 78,
+		"category": "Furniture",
+		"defname": "pphhyy_OsseousLamp"
+	},
+	{
+		"abr": "osseousleg",
+		"price": 192,
+		"category": "Prosthetic",
+		"defname": "pphhyy_OsseousLeg"
+	},
+	{
+		"abr": "osseousobelisk",
+		"price": 517,
+		"category": "Furniture",
+		"defname": "pphhyy_OsseousObelisk"
+	},
+	{
+		"abr": "osseouspillar",
+		"price": 533,
+		"category": "Furniture",
+		"defname": "pphhyy_OsseousPillar"
+	},
+	{
+		"abr": "osseousshrine",
+		"price": 1125,
+		"category": "Furniture",
+		"defname": "pphhyy_OsseousShrine"
+	},
+	{
+		"abr": "osseousskamni",
+		"price": 86,
+		"category": "Furniture",
+		"defname": "pphhyy_OsseousSkamni"
+	},
+	{
+		"abr": "osseousthrone",
+		"price": 153,
+		"category": "Furniture",
+		"defname": "pphhyy_OsseousThrone"
+	},
+	{
+		"abr": "osseousurn",
+		"price": 45,
+		"category": "Furniture",
+		"defname": "pphhyy_OsseousUrnI"
+	},
+	{
+		"abr": "osseousurn",
+		"price": 45,
+		"category": "Furniture",
+		"defname": "pphhyy_OsseousUrnII"
+	},
+	{
+		"abr": "osseousurn",
+		"price": 45,
+		"category": "Furniture",
+		"defname": "pphhyy_OsseousUrnIII"
+	},
+	{
+		"abr": "scarab",
+		"price": 250,
+		"category": "Animals",
+		"defname": "pphhyy_Scarab"
+	},
+	{
+		"abr": "siparbench",
+		"price": 287,
+		"category": "Production",
+		"defname": "pphhyy_SiparBench"
+	},
+	{
+		"abr": "soularchonpolearm",
+		"price": 1208,
+		"category": "Melee weapons",
+		"defname": "pphhyy_BoneReapers_SoulArchonPolearm"
+	},
+	{
+		"abr": "soularchonsword",
+		"price": 1208,
+		"category": "Melee weapons",
+		"defname": "pphhyy_BoneReapers_SoulArchonSword"
+	},
+	{
+		"abr": "soulberries",
+		"price": 8,
+		"category": "Meals",
+		"defname": "pphhyy_SoulBerries"
+	},
+	{
+		"abr": "soulcask",
+		"price": 74,
+		"category": "Production",
+		"defname": "pphhyy_SoulCask"
+	},
+	{
+		"abr": "soulthetesbow",
+		"price": 825,
+		"category": "Ranged weapons",
+		"defname": "pphhyy_BoneReapers_SoulThetesBow"
+	},
+	{
+		"abr": "soulthetesgreatmace",
+		"price": 1008,
+		"category": "Melee weapons",
+		"defname": "pphhyy_BoneReapers_SoulThetesGreatMace"
+	},
+	{
+		"abr": "soulthetesgreatsword",
+		"price": 1008,
+		"category": "Melee weapons",
+		"defname": "pphhyy_BoneReapers_SoulThetesGreatSword"
+	},
+	{
+		"abr": "soulthetesjavelin",
+		"price": 825,
+		"category": "Melee weapons",
+		"defname": "pphhyy_BoneReaper_SoulThetesJavelin"
+	},
+	{
+		"abr": "soulthetesmace",
+		"price": 825,
+		"category": "Melee weapons",
+		"defname": "pphhyy_BoneReapers_SoulThetesMace"
+	},
+	{
+		"abr": "soulthetespolearm",
+		"price": 1008,
+		"category": "Melee weapons",
+		"defname": "pphhyy_BoneReapers_SoulThetesPolearm"
+	},
+	{
+		"abr": "soulthetesscythe",
+		"price": 1008,
+		"category": "Melee weapons",
+		"defname": "pphhyy_BoneReapers_SoulThetesScythe"
+	},
+	{
+		"abr": "soulthetesspear",
+		"price": 825,
+		"category": "Melee weapons",
+		"defname": "pphhyy_BoneReapers_SoulThetesSpear"
+	},
+	{
+		"abr": "soulthetesstaff",
+		"price": 825,
+		"category": "Melee weapons",
+		"defname": "pphhyy_BoneReapers_SoulThetesStaff"
+	},
+	{
+		"abr": "soulthetessword",
+		"price": 825,
+		"category": "Melee weapons",
+		"defname": "pphhyy_BoneReapers_SoulThetesSword"
+	},
+	{
+		"abr": "soulwine",
+		"price": 47,
+		"category": "Drugs",
+		"defname": "pphhyy_SoulWine"
+	},
+	{
+		"abr": "thetesarmor",
+		"price": 1383,
+		"category": "Armor",
+		"defname": "Apparel_ThetesArmor"
+	},
+	{
+		"abr": "thetesbow",
+		"price": 408,
+		"category": "Ranged weapons",
+		"defname": "pphhyy_BoneReapers_ThetesBow"
+	},
+	{
+		"abr": "thetescuirass",
+		"price": 792,
+		"category": "Armor",
+		"defname": "Apparel_ThetesCuirass"
+	},
+	{
+		"abr": "thetesgrandplate",
+		"price": 2567,
+		"category": "Armor",
+		"defname": "Apparel_ThetesGrandPlate"
+	},
+	{
+		"abr": "thetesgrandplatehelm",
+		"price": 742,
+		"category": "Headgear",
+		"defname": "Apparel_ThetesGrandPlateHelm"
+	},
+	{
+		"abr": "thetesgrandshieldi",
+		"price": 500,
+		"category": "Shields",
+		"defname": "pphhyy_BoneReapers_ThetesGrandShieldI"
+	},
+	{
+		"abr": "thetesgrandshieldii",
+		"price": 500,
+		"category": "Shields",
+		"defname": "pphhyy_BoneReapers_ThetesGrandShieldII"
+	},
+	{
+		"abr": "thetesgrandshieldiii",
+		"price": 500,
+		"category": "Shields",
+		"defname": "pphhyy_BoneReapers_ThetesGrandShieldIII"
+	},
+	{
+		"abr": "thetesgrandshieldiv",
+		"price": 500,
+		"category": "Shields",
+		"defname": "pphhyy_BoneReapers_ThetesGrandShieldIV"
+	},
+	{
+		"abr": "thetesgrandshieldv",
+		"price": 500,
+		"category": "Shields",
+		"defname": "pphhyy_BoneReapers_ThetesGrandShieldV"
+	},
+	{
+		"abr": "thetesgreatmace",
+		"price": 592,
+		"category": "Melee weapons",
+		"defname": "pphhyy_BoneReapers_ThetesGreatMace"
+	},
+	{
+		"abr": "thetesgreatsword",
+		"price": 592,
+		"category": "Melee weapons",
+		"defname": "pphhyy_BoneReapers_ThetesGreatSword"
+	},
+	{
+		"abr": "theteshelm",
+		"price": 322,
+		"category": "Headgear",
+		"defname": "Apparel_ThetesHelm"
+	},
+	{
+		"abr": "thetesjavelin",
+		"price": 408,
+		"category": "Melee weapons",
+		"defname": "pphhyy_BoneReaper_ThetesJavelin"
+	},
+	{
+		"abr": "thetesmace",
+		"price": 408,
+		"category": "Melee weapons",
+		"defname": "pphhyy_BoneReapers_ThetesMace"
+	},
+	{
+		"abr": "thetesplate",
+		"price": 1975,
+		"category": "Armor",
+		"defname": "Apparel_ThetesPlate"
+	},
+	{
+		"abr": "thetesplatehelm",
+		"price": 525,
+		"category": "Headgear",
+		"defname": "Apparel_ThetesPlateHelm"
+	},
+	{
+		"abr": "thetespolearm",
+		"price": 592,
+		"category": "Melee weapons",
+		"defname": "pphhyy_BoneReapers_ThetesPolearm"
+	},
+	{
+		"abr": "thetesscythe",
+		"price": 592,
+		"category": "Melee weapons",
+		"defname": "pphhyy_BoneReapers_ThetesScythe"
+	},
+	{
+		"abr": "thetesshieldi",
+		"price": 500,
+		"category": "Shields",
+		"defname": "pphhyy_BoneReapers_ThetesShieldI"
+	},
+	{
+		"abr": "thetesshieldii",
+		"price": 500,
+		"category": "Shields",
+		"defname": "pphhyy_BoneReapers_ThetesShieldII"
+	},
+	{
+		"abr": "thetesshieldiii",
+		"price": 500,
+		"category": "Shields",
+		"defname": "pphhyy_BoneReapers_ThetesShieldIII"
+	},
+	{
+		"abr": "thetesshieldiv",
+		"price": 500,
+		"category": "Shields",
+		"defname": "pphhyy_BoneReapers_ThetesShieldIV"
+	},
+	{
+		"abr": "thetesshieldiv",
+		"price": 500,
+		"category": "Shields",
+		"defname": "pphhyy_BoneReapers_ThetesShieldV"
+	},
+	{
+		"abr": "thetesspear",
+		"price": 408,
+		"category": "Melee weapons",
+		"defname": "pphhyy_BoneReapers_ThetesSpear"
+	},
+	{
+		"abr": "thetesstaff",
+		"price": 408,
+		"category": "Melee weapons",
+		"defname": "pphhyy_BoneReapers_ThetesStaff"
 	}
 	],
-	"total": 4743
+	"total": 4836
 }
