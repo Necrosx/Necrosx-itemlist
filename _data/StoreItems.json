@@ -26619,13 +26619,13 @@
 	{
 		"abr": ".338precisioncomponents",
 		"price": 1667,
-		"category": "Manufactured",
+		"category": "Military components",
 		"defname": "AM_338PrecisionComponents"
 	},
 	{
 		"abr": "6.8upperreceivercomponents",
 		"price": 1333,
-		"category": "Manufactured",
+		"category": "Military components",
 		"defname": "AM_227FURYComponents"
 	},
 	{
@@ -26679,7 +26679,7 @@
 	{
 		"abr": "aluminumsplint",
 		"price": 200,
-		"category": "Manufactured",
+		"category": "Medical supplies",
 		"defname": "AM_AluminumSplint"
 	},
 	{
@@ -26913,7 +26913,7 @@
 	{
 		"abr": "bakingthermometer",
 		"price": 750,
-		"category": "Manufactured",
+		"category": "Tools",
 		"defname": "AM_BakingThermometer"
 	},
 	{
@@ -26931,7 +26931,7 @@
 	{
 		"abr": "brasslionstatue",
 		"price": 1167,
-		"category": "Art",
+		"category": "Rare items",
 		"defname": "AM_BrassLionStatue"
 	},
 	{
@@ -26943,7 +26943,7 @@
 	{
 		"abr": "briefcase",
 		"price": 1667,
-		"category": "Manufactured",
+		"category": "Rare items",
 		"defname": "AM_BriefCase"
 	},
 	{
@@ -27147,13 +27147,13 @@
 	{
 		"abr": "confidentialintelmap",
 		"price": 7500,
-		"category": "Manufactured",
+		"category": "Rare items",
 		"defname": "AM_ConfidentialIntelMapA"
 	},
 	{
 		"abr": "confidentialintelmap",
 		"price": 8333,
-		"category": "Manufactured",
+		"category": "Rare items",
 		"defname": "AM_ConfidentialIntelMapB"
 	},
 	{
@@ -27171,13 +27171,13 @@
 	{
 		"abr": "cpu",
 		"price": 833,
-		"category": "Manufactured",
+		"category": "Electronics",
 		"defname": "AM_CPU"
 	},
 	{
 		"abr": "creditcard",
 		"price": 833,
-		"category": "Manufactured",
+		"category": "Rare items",
 		"defname": "AM_CreditCard"
 	},
 	{
@@ -27231,7 +27231,7 @@
 	{
 		"abr": "dilapidatedmap",
 		"price": 833,
-		"category": "Manufactured",
+		"category": "Rare items",
 		"defname": "AM_DilapidatedMap"
 	},
 	{
@@ -27249,13 +27249,13 @@
 	{
 		"abr": "electricaltape",
 		"price": 333,
-		"category": "Manufactured",
+		"category": "Tools",
 		"defname": "AM_ElectricalTape"
 	},
 	{
 		"abr": "emptybox",
 		"price": 83,
-		"category": "Manufactured",
+		"category": "Rare items",
 		"defname": "AM_EmptyBox"
 	},
 	{
@@ -27357,31 +27357,31 @@
 	{
 		"abr": "gameconsole",
 		"price": 1500,
-		"category": "Manufactured",
+		"category": "Electronics",
 		"defname": "AM_GameConsole"
 	},
 	{
 		"abr": "glassadhesive",
 		"price": 450,
-		"category": "Manufactured",
+		"category": "Tools",
 		"defname": "AM_OneLiterGlassAdhesive"
 	},
 	{
 		"abr": "goldenegg",
 		"price": 417,
-		"category": "Manufactured",
+		"category": "Rare items",
 		"defname": "AM_GoldenEgg"
 	},
 	{
 		"abr": "goldenroosterstatue",
 		"price": 833,
-		"category": "Art",
+		"category": "Rare items",
 		"defname": "AM_GoldenRoosterStatue"
 	},
 	{
 		"abr": "gpu",
 		"price": 2000,
-		"category": "Manufactured",
+		"category": "Electronics",
 		"defname": "AM_GPU"
 	},
 	{
@@ -27399,13 +27399,13 @@
 	{
 		"abr": "hdd",
 		"price": 400,
-		"category": "Manufactured",
+		"category": "Electronics",
 		"defname": "AM_HDD"
 	},
 	{
 		"abr": "heavycompositeplate",
 		"price": 667,
-		"category": "Manufactured",
+		"category": "Military components",
 		"defname": "AM_HeavyCompositePlate"
 	},
 	{
@@ -27453,7 +27453,7 @@
 	{
 		"abr": "intelmap",
 		"price": 2500,
-		"category": "Manufactured",
+		"category": "Rare items",
 		"defname": "AM_IntelMap"
 	},
 	{
@@ -27465,7 +27465,7 @@
 	{
 		"abr": "keycard",
 		"price": 1667,
-		"category": "Manufactured",
+		"category": "Rare items",
 		"defname": "AM_KeyCard"
 	},
 	{
@@ -27507,79 +27507,79 @@
 	{
 		"abr": "ledx",
 		"price": 16667,
-		"category": "Manufactured",
+		"category": "Electronics",
 		"defname": "AM_LEDX"
 	},
 	{
 		"abr": "legogiantrockexcavator",
 		"price": 1500,
-		"category": "Manufactured",
+		"category": "Rare items",
 		"defname": "AM_LEGO_GiantRockExcavator_NotOpen"
 	},
 	{
 		"abr": "legogiantrockexcavator",
 		"price": 1558,
-		"category": "Art",
+		"category": "Rare items",
 		"defname": "LEGO_GiantRockExcavator_Accomplish"
 	},
 	{
 		"abr": "legoheavycrane",
 		"price": 1500,
-		"category": "Manufactured",
+		"category": "Rare items",
 		"defname": "AM_LEGO_HeavyCrane_NotOpen"
 	},
 	{
 		"abr": "legoheavycrane",
 		"price": 1558,
-		"category": "Art",
+		"category": "Rare items",
 		"defname": "LEGO_HeavyCrane_Accomplish"
 	},
 	{
 		"abr": "legolandmarkbuilding",
 		"price": 1500,
-		"category": "Manufactured",
+		"category": "Rare items",
 		"defname": "AM_LEGO_LandmarkBuilding_NotOpen"
 	},
 	{
 		"abr": "legolandmarkbuilding",
 		"price": 1558,
-		"category": "Art",
+		"category": "Rare items",
 		"defname": "LEGO_LandmarkBuilding_Accomplish"
 	},
 	{
 		"abr": "legolightcrane",
 		"price": 1500,
-		"category": "Manufactured",
+		"category": "Rare items",
 		"defname": "AM_LEGO_LightCrane_NotOpen"
 	},
 	{
 		"abr": "legolightcrane",
 		"price": 1558,
-		"category": "Art",
+		"category": "Rare items",
 		"defname": "LEGO_LightCrane_Accomplish"
 	},
 	{
 		"abr": "legomediumcrane",
 		"price": 1500,
-		"category": "Manufactured",
+		"category": "Rare items",
 		"defname": "AM_LEGO_MediumCrane_NotOpen"
 	},
 	{
 		"abr": "legomediumcrane",
 		"price": 1558,
-		"category": "Art",
+		"category": "Rare items",
 		"defname": "LEGO_MediumCrane_Accomplish"
 	},
 	{
 		"abr": "legopalace",
 		"price": 1500,
-		"category": "Manufactured",
+		"category": "Rare items",
 		"defname": "AM_LEGO_Palace_NotOpen"
 	},
 	{
 		"abr": "legopalace",
 		"price": 1558,
-		"category": "Art",
+		"category": "Rare items",
 		"defname": "LEGO_Palace_Accomplish"
 	},
 	{
@@ -27837,13 +27837,13 @@
 	{
 		"abr": "packagedcpu",
 		"price": 2500,
-		"category": "Manufactured",
+		"category": "Electronics",
 		"defname": "AM_PackagedCPU"
 	},
 	{
 		"abr": "packagedgpu",
 		"price": 7500,
-		"category": "Manufactured",
+		"category": "Electronics",
 		"defname": "AM_PackagedGPU"
 	},
 	{
@@ -27867,7 +27867,7 @@
 	{
 		"abr": "pelvichammock",
 		"price": 133,
-		"category": "Manufactured",
+		"category": "Medical supplies",
 		"defname": "AM_PelvicHammock"
 	},
 	{
@@ -27891,7 +27891,7 @@
 	{
 		"abr": "pkpcomponents",
 		"price": 1667,
-		"category": "Manufactured",
+		"category": "Military components",
 		"defname": "AM_PKPMagazineComponents"
 	},
 	{
@@ -27915,7 +27915,7 @@
 	{
 		"abr": "radiointercom",
 		"price": 833,
-		"category": "Manufactured",
+		"category": "Electronics",
 		"defname": "AM_RadioIntercom"
 	},
 	{
@@ -28041,7 +28041,7 @@
 	{
 		"abr": "sicc",
 		"price": 8333,
-		"category": "Manufactured",
+		"category": "Rare items",
 		"defname": "AM_SICC"
 	},
 	{
@@ -28131,7 +28131,7 @@
 	{
 		"abr": "ssd",
 		"price": 833,
-		"category": "Manufactured",
+		"category": "Electronics",
 		"defname": "AM_SSD"
 	},
 	{
@@ -28179,7 +28179,7 @@
 	{
 		"abr": "tapemeasure",
 		"price": 417,
-		"category": "Manufactured",
+		"category": "Tools",
 		"defname": "AM_TapeMeasure"
 	},
 	{
@@ -28227,7 +28227,7 @@
 	{
 		"abr": "uhmwpeplate",
 		"price": 500,
-		"category": "Manufactured",
+		"category": "Military components",
 		"defname": "AM_UHMWPEPlate"
 	},
 	{
@@ -28287,7 +28287,7 @@
 	{
 		"abr": "waybill",
 		"price": 4250,
-		"category": "Manufactured",
+		"category": "Rare items",
 		"defname": "AM_WayBill"
 	},
 	{
@@ -28299,7 +28299,7 @@
 	{
 		"abr": "weaponcomponent",
 		"price": 417,
-		"category": "Manufactured",
+		"category": "Military components",
 		"defname": "AM_ComponentWeapon"
 	},
 	{
@@ -29003,7 +29003,1555 @@
 		"price": 408,
 		"category": "Melee weapons",
 		"defname": "pphhyy_BoneReapers_ThetesStaff"
-	}
+	},
+	{
+		"abr": "customdoor",
+		"price": 88,
+		"category": "Misc",
+		"defname": "CQF_CustomDoor"
+	},
+	{
+		"abr": "insect-likehumanoid",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "BS_InsectoidHumanoid_FourArmed"
+	},
+	{
+		"abr": "powerlessuniversalconduit",
+		"price": 85,
+		"category": "Misc",
+		"defname": "PowerlessConduitUniversal"
+	},
+	{
+		"abr": "powerlessuniversalwaterconduit",
+		"price": 115,
+		"category": "Misc",
+		"defname": "PowerlessConduitUniversalWater"
+	},
+	{
+		"abr": "techprint(poweredflight)",
+		"price": 6667,
+		"category": "Techprints",
+		"defname": "Techprint_ColonialShuttleResearch"
+	},
+	{
+		"abr": "airdrop",
+		"price": 1,
+		"category": "Misc",
+		"defname": "Airdrop"
+	},
+	{
+		"abr": "artillerywreck",
+		"price": 30,
+		"category": "Misc",
+		"defname": "VVE_ArtilleryWreck"
+	},
+	{
+		"abr": "autogaragedoor(1x4)",
+		"price": 783,
+		"category": "Misc",
+		"defname": "VVE_GarageAutoDoor"
+	},
+	{
+		"abr": "autogaragedoor(1x4)",
+		"price": 783,
+		"category": "Misc",
+		"defname": "VVE_GarageAutoDoorOpened"
+	},
+	{
+		"abr": "autogaragedoor(1x5)",
+		"price": 975,
+		"category": "Misc",
+		"defname": "VVE_GarageAutoDoorLarge"
+	},
+	{
+		"abr": "autogaragedoor(1x5)",
+		"price": 975,
+		"category": "Misc",
+		"defname": "VVE_GarageAutoDoorLargeOpened"
+	},
+	{
+		"abr": "badger",
+		"price": 7975,
+		"category": "Misc",
+		"defname": "VVE_Badger_Blueprint"
+	},
+	{
+		"abr": "balloon",
+		"price": 517,
+		"category": "Misc",
+		"defname": "AV_Balloon_Blueprint"
+	},
+	{
+		"abr": "bangbus",
+		"price": 3008,
+		"category": "Misc",
+		"defname": "VVE_BangBus_Blueprint"
+	},
+	{
+		"abr": "battletankwreck",
+		"price": 30,
+		"category": "Misc",
+		"defname": "VVE_BattleTankWreck"
+	},
+	{
+		"abr": "bigrig",
+		"price": 9000,
+		"category": "Misc",
+		"defname": "VVE_BigRig_Blueprint"
+	},
+	{
+		"abr": "brig",
+		"price": 3708,
+		"category": "Misc",
+		"defname": "AV_Brig_Blueprint"
+	},
+	{
+		"abr": "bulldog",
+		"price": 7742,
+		"category": "Misc",
+		"defname": "VVE_Bulldog_Blueprint"
+	},
+	{
+		"abr": "bunsen",
+		"price": 4817,
+		"category": "Misc",
+		"defname": "VVE_Bunsen_Blueprint"
+	},
+	{
+		"abr": "burya",
+		"price": 11192,
+		"category": "Misc",
+		"defname": "VVE_Burya_Blueprint"
+	},
+	{
+		"abr": "caralternator",
+		"price": 158,
+		"category": "Car parts",
+		"defname": "VVE_CarAlternator"
+	},
+	{
+		"abr": "carbattery",
+		"price": 200,
+		"category": "Car parts",
+		"defname": "VVE_CarBattery"
+	},
+	{
+		"abr": "carexhaust",
+		"price": 133,
+		"category": "Car parts",
+		"defname": "VVE_CarExhaust"
+	},
+	{
+		"abr": "carfueltank",
+		"price": 158,
+		"category": "Car parts",
+		"defname": "VVE_CarFuelTank"
+	},
+	{
+		"abr": "carradiator",
+		"price": 150,
+		"category": "Car parts",
+		"defname": "VVE_CarRadiator"
+	},
+	{
+		"abr": "carsuspension",
+		"price": 150,
+		"category": "Car parts",
+		"defname": "VVE_CarSuspension"
+	},
+	{
+		"abr": "cartransmission",
+		"price": 283,
+		"category": "Car parts",
+		"defname": "VVE_CarTransmission"
+	},
+	{
+		"abr": "carwheel",
+		"price": 117,
+		"category": "Car parts",
+		"defname": "VVE_CarWheel"
+	},
+	{
+		"abr": "carwiring",
+		"price": 208,
+		"category": "Car parts",
+		"defname": "VVE_CarWiring"
+	},
+	{
+		"abr": "caravel",
+		"price": 1925,
+		"category": "Misc",
+		"defname": "AV_Caravel_Blueprint"
+	},
+	{
+		"abr": "cargohelicopterwreck",
+		"price": 30,
+		"category": "Misc",
+		"defname": "VVE_CargoHelicopterWreck"
+	},
+	{
+		"abr": "chariot",
+		"price": 450,
+		"category": "Misc",
+		"defname": "AV_Chariot_Blueprint"
+	},
+	{
+		"abr": "charley",
+		"price": 2433,
+		"category": "Misc",
+		"defname": "VVE_Charley_Blueprint"
+	},
+	{
+		"abr": "cherokee",
+		"price": 19883,
+		"category": "Misc",
+		"defname": "VVE_Cherokee_Blueprint"
+	},
+	{
+		"abr": "classicalcarwreck",
+		"price": 30,
+		"category": "Misc",
+		"defname": "VVE_ClassicCarWreck"
+	},
+	{
+		"abr": "cog",
+		"price": 1100,
+		"category": "Misc",
+		"defname": "AV_Cog_Blueprint"
+	},
+	{
+		"abr": "coveredcarriage",
+		"price": 625,
+		"category": "Misc",
+		"defname": "AV_CoveredCarriage_Blueprint"
+	},
+	{
+		"abr": "dinghy",
+		"price": 908,
+		"category": "Misc",
+		"defname": "VVE_Dinghy_Blueprint"
+	},
+	{
+		"abr": "dirtbike",
+		"price": 1517,
+		"category": "Misc",
+		"defname": "VVE_Dirtbike_Blueprint"
+	},
+	{
+		"abr": "dogsled",
+		"price": 400,
+		"category": "Misc",
+		"defname": "AV_DogSled_Blueprint"
+	},
+	{
+		"abr": "engineblock",
+		"price": 542,
+		"category": "Car parts",
+		"defname": "VVE_EngineBlock"
+	},
+	{
+		"abr": "frigate",
+		"price": 3300,
+		"category": "Misc",
+		"defname": "AV_Frigate_Blueprint"
+	},
+	{
+		"abr": "frog",
+		"price": 2608,
+		"category": "Misc",
+		"defname": "VVE_Frog_Blueprint"
+	},
+	{
+		"abr": "galleon",
+		"price": 2517,
+		"category": "Misc",
+		"defname": "AV_Galleon_Blueprint"
+	},
+	{
+		"abr": "garagecabinet",
+		"price": 667,
+		"category": "Misc",
+		"defname": "VVE_GarageCabinet"
+	},
+	{
+		"abr": "garagedoor(1x4)",
+		"price": 358,
+		"category": "Misc",
+		"defname": "VVE_GarageDoor"
+	},
+	{
+		"abr": "garagedoor(1x4)",
+		"price": 358,
+		"category": "Misc",
+		"defname": "VVE_GarageDoorOpened"
+	},
+	{
+		"abr": "garagedoor(1x5)",
+		"price": 442,
+		"category": "Misc",
+		"defname": "VVE_GarageDoorLarge"
+	},
+	{
+		"abr": "garagedoor(1x5)",
+		"price": 442,
+		"category": "Misc",
+		"defname": "VVE_GarageDoorLargeOpened"
+	},
+	{
+		"abr": "goliath",
+		"price": 10292,
+		"category": "Misc",
+		"defname": "VVE_Goliath_Blueprint"
+	},
+	{
+		"abr": "helicopterwreck",
+		"price": 30,
+		"category": "Misc",
+		"defname": "VVE_HelicopterWreck"
+	},
+	{
+		"abr": "hermano",
+		"price": 6150,
+		"category": "Misc",
+		"defname": "VVE_Hermano_Blueprint"
+	},
+	{
+		"abr": "highwayman",
+		"price": 4167,
+		"category": "Misc",
+		"defname": "VVE_Highwayman_Blueprint"
+	},
+	{
+		"abr": "hwacha",
+		"price": 322,
+		"category": "Misc",
+		"defname": "AV_Hwacha_Blueprint"
+	},
+	{
+		"abr": "infantryfightingvehiclewreck",
+		"price": 30,
+		"category": "Misc",
+		"defname": "VVE_InfantryFightingVehicleWreck"
+	},
+	{
+		"abr": "junk",
+		"price": 758,
+		"category": "Misc",
+		"defname": "AV_Junk_Blueprint"
+	},
+	{
+		"abr": "lightarmoredvehiclewreck",
+		"price": 30,
+		"category": "Misc",
+		"defname": "VVE_LightArmoredVehicleWreck"
+	},
+	{
+		"abr": "lightning",
+		"price": 5908,
+		"category": "Misc",
+		"defname": "VVE_Lightning_Blueprint"
+	},
+	{
+		"abr": "longship",
+		"price": 817,
+		"category": "Misc",
+		"defname": "AV_Longship_Blueprint"
+	},
+	{
+		"abr": "louie",
+		"price": 11625,
+		"category": "Misc",
+		"defname": "VVE_Louie_Blueprint"
+	},
+	{
+		"abr": "marshal",
+		"price": 10458,
+		"category": "Misc",
+		"defname": "VVE_Marshal_Blueprint"
+	},
+	{
+		"abr": "mastandsails",
+		"price": 333,
+		"category": "Ship parts",
+		"defname": "AV_MastAndSails"
+	},
+	{
+		"abr": "mosquito",
+		"price": 6717,
+		"category": "Misc",
+		"defname": "VVE_Mosquito_Blueprint"
+	},
+	{
+		"abr": "mule",
+		"price": 3725,
+		"category": "Misc",
+		"defname": "VVE_Mule_Blueprint"
+	},
+	{
+		"abr": "nomad",
+		"price": 5608,
+		"category": "Misc",
+		"defname": "VVE_Nomad_Blueprint"
+	},
+	{
+		"abr": "offroadjeepwreck",
+		"price": 30,
+		"category": "Misc",
+		"defname": "VVE_OffroadJeepWreck"
+	},
+	{
+		"abr": "outriggercanoe",
+		"price": 625,
+		"category": "Misc",
+		"defname": "AV_OutriggerCanoe_Blueprint"
+	},
+	{
+		"abr": "oxcart",
+		"price": 600,
+		"category": "Misc",
+		"defname": "AV_OxCart_Blueprint"
+	},
+	{
+		"abr": "paladin",
+		"price": 7883,
+		"category": "Misc",
+		"defname": "VVE_Paladin_Blueprint"
+	},
+	{
+		"abr": "palanquin",
+		"price": 650,
+		"category": "Misc",
+		"defname": "AV_Palanquin_Blueprint"
+	},
+	{
+		"abr": "piratecaravel",
+		"price": 2100,
+		"category": "Misc",
+		"defname": "AV_PirateCaravel_Blueprint"
+	},
+	{
+		"abr": "prowler",
+		"price": 2658,
+		"category": "Misc",
+		"defname": "VVE_Prowler_Blueprint"
+	},
+	{
+		"abr": "refrigeratedtruckwreck",
+		"price": 30,
+		"category": "Misc",
+		"defname": "VVE_RefrigeratedTruckWreck"
+	},
+	{
+		"abr": "refuelingpump",
+		"price": 375,
+		"category": "Misc",
+		"defname": "VVE_RefuelingPump"
+	},
+	{
+		"abr": "reinforcedwood",
+		"price": 150,
+		"category": "Ship parts",
+		"defname": "AV_ReinforcedWood"
+	},
+	{
+		"abr": "rickshaw",
+		"price": 342,
+		"category": "Misc",
+		"defname": "AV_Rickshaw_Blueprint"
+	},
+	{
+		"abr": "rigging",
+		"price": 158,
+		"category": "Ship parts",
+		"defname": "AV_Rigging"
+	},
+	{
+		"abr": "roadkill",
+		"price": 5258,
+		"category": "Misc",
+		"defname": "VVE_Roadkill_Blueprint"
+	},
+	{
+		"abr": "roadrunner",
+		"price": 4425,
+		"category": "Misc",
+		"defname": "VVE_Roadrunner_Blueprint"
+	},
+	{
+		"abr": "rocketartillerywreck",
+		"price": 30,
+		"category": "Misc",
+		"defname": "VVE_RocketArtilleryWreck"
+	},
+	{
+		"abr": "sailinginstruments",
+		"price": 133,
+		"category": "Ship parts",
+		"defname": "AV_SailingInstruments"
+	},
+	{
+		"abr": "scytheman",
+		"price": 3267,
+		"category": "Misc",
+		"defname": "VVE_Scytheman_Blueprint"
+	},
+	{
+		"abr": "shuttle",
+		"price": 4117,
+		"category": "Misc",
+		"defname": "ColonialShuttleBlueprint"
+	},
+	{
+		"abr": "siegepodwreck",
+		"price": 30,
+		"category": "Misc",
+		"defname": "VVE_SiegePodWreck"
+	},
+	{
+		"abr": "sloop",
+		"price": 1592,
+		"category": "Misc",
+		"defname": "AV_Sloop_Blueprint"
+	},
+	{
+		"abr": "smuggler",
+		"price": 6250,
+		"category": "Misc",
+		"defname": "VVE_Smuggler_Blueprint"
+	},
+	{
+		"abr": "snatcher",
+		"price": 4175,
+		"category": "Misc",
+		"defname": "VVE_Snatcher_Blueprint"
+	},
+	{
+		"abr": "springbok",
+		"price": 6683,
+		"category": "Misc",
+		"defname": "VVE_Springbok_Blueprint"
+	},
+	{
+		"abr": "supercarwreck",
+		"price": 30,
+		"category": "Misc",
+		"defname": "VVE_SupercarWreck"
+	},
+	{
+		"abr": "tango",
+		"price": 7533,
+		"category": "Misc",
+		"defname": "VVE_Tango_Blueprint"
+	},
+	{
+		"abr": "tanktrap",
+		"price": 144,
+		"category": "Misc",
+		"defname": "VVE_TankTrap"
+	},
+	{
+		"abr": "thetessword",
+		"price": 408,
+		"category": "Melee weapons",
+		"defname": "pphhyy_BoneReapers_ThetesSword"
+	},
+	{
+		"abr": "toad",
+		"price": 3958,
+		"category": "Misc",
+		"defname": "VVE_Toad_Blueprint"
+	},
+	{
+		"abr": "traveller",
+		"price": 3033,
+		"category": "Misc",
+		"defname": "VVE_Traveller_Blueprint"
+	},
+	{
+		"abr": "trawler",
+		"price": 3167,
+		"category": "Misc",
+		"defname": "VVE_Trawler_Blueprint"
+	},
+	{
+		"abr": "truckwreck",
+		"price": 30,
+		"category": "Misc",
+		"defname": "VVE_TruckWreck"
+	},
+	{
+		"abr": "udar",
+		"price": 9875,
+		"category": "Misc",
+		"defname": "VVE_Udar_Blueprint"
+	},
+	{
+		"abr": "wagon",
+		"price": 3958,
+		"category": "Misc",
+		"defname": "VVE_Wagon_Blueprint"
+	},
+	{
+		"abr": "warchariot",
+		"price": 625,
+		"category": "Misc",
+		"defname": "AV_WarChariot_Blueprint"
+	},
+	{
+		"abr": "warbird",
+		"price": 4825,
+		"category": "Misc",
+		"defname": "VVE_Warbird_Blueprint"
+	},
+	{
+		"abr": "waterlock(1x5)",
+		"price": 717,
+		"category": "Misc",
+		"defname": "AV_GarageDoorWater"
+	},
+	{
+		"abr": "waterlock(1x5)",
+		"price": 717,
+		"category": "Misc",
+		"defname": "AV_GarageDoorWaterOpened"
+	},
+	{
+		"abr": "wheelbarrow",
+		"price": 235,
+		"category": "Misc",
+		"defname": "AV_Wheelbarrow_Blueprint"
+	},
+	{
+		"abr": "wisent",
+		"price": 7000,
+		"category": "Misc",
+		"defname": "VVE_Wisent_Blueprint"
+	},
+	{
+		"abr": "woodengaragedoor(1x4)",
+		"price": 262,
+		"category": "Misc",
+		"defname": "AV_GarageDoorWooden"
+	},
+	{
+		"abr": "alphapackdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Alphapack_Drone"
+	},
+	{
+		"abr": "alphapackhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Alphapack_Honeycomb"
+	},
+	{
+		"abr": "alphapackqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Alphapack_Queen"
+	},
+	{
+		"abr": "animadrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Anima_Drone"
+	},
+	{
+		"abr": "animahoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Anima_Honeycomb"
+	},
+	{
+		"abr": "animaqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Anima_Queen"
+	},
+	{
+		"abr": "architedrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Archite_Drone"
+	},
+	{
+		"abr": "architegenomecloner",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "BS_CreateArchiteXenogerm_Endo"
+	},
+	{
+		"abr": "architehoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Archite_Honeycomb"
+	},
+	{
+		"abr": "architequeen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Archite_Queen"
+	},
+	{
+		"abr": "beeresearch(unfinished)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_RandomTier6Research"
+	},
+	{
+		"abr": "beeresearchpapers(tier4)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersInsectoidLuxurious"
+	},
+	{
+		"abr": "beeresearchpapers(tier4)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersNutPsychic"
+	},
+	{
+		"abr": "beeresearchpapers(tier4)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersAlloySwamp"
+	},
+	{
+		"abr": "beeresearchpapers(tier4)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersResearchPsychic"
+	},
+	{
+		"abr": "beeresearchpapers(tier4)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersQuarryTech"
+	},
+	{
+		"abr": "beeresearchpapers(tier4)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersTipsyCommando"
+	},
+	{
+		"abr": "beeresearchpapers(tier4)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersInsectoidCommando"
+	},
+	{
+		"abr": "beeresearchpapers(tier4)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersResearchOily"
+	},
+	{
+		"abr": "beeresearchpapers(tier4)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersJanitorWorker"
+	},
+	{
+		"abr": "beeresearchpapers(tier4)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersJanitorAdaptive"
+	},
+	{
+		"abr": "beeresearchpapers(tier4)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersJanitorTechnological"
+	},
+	{
+		"abr": "beeresearchpapers(tier4)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersJanitorAgricultural"
+	},
+	{
+		"abr": "beeresearchpapers(tier4)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersJanitorCommando"
+	},
+	{
+		"abr": "beeresearchpapers(tier5)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersCultivatorWarden"
+	},
+	{
+		"abr": "beeresearchpapers(tier5)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersAlloySynthetic"
+	},
+	{
+		"abr": "beeresearchpapers(tier5)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersSyntheticMedicinal"
+	},
+	{
+		"abr": "beeresearchpapers(tier5)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersDesertBlazing"
+	},
+	{
+		"abr": "beeresearchpapers(tier5)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersArcticFrigid"
+	},
+	{
+		"abr": "beeresearchpapers(tier5)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersPetWarden"
+	},
+	{
+		"abr": "beeresearchpapers(tier5)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersHarvesterWarden"
+	},
+	{
+		"abr": "beeresearchpapers(tier6)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersBioferrousNitro"
+	},
+	{
+		"abr": "beeresearchpapers(tier6)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersHyperGenepack"
+	},
+	{
+		"abr": "beeresearchpapers(tier6)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersHyperSurgeon"
+	},
+	{
+		"abr": "beeresearchpapers(tier6)",
+		"price": 83,
+		"category": "Bee research",
+		"defname": "RB_ResearchPapersChefHigh"
+	},
+	{
+		"abr": "bioferrousdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Bioferrous_Drone"
+	},
+	{
+		"abr": "bioferroushoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Bioferrous_Honeycomb"
+	},
+	{
+		"abr": "bioferrousqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Bioferrous_Queen"
+	},
+	{
+		"abr": "blazingdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Blazing_Drone"
+	},
+	{
+		"abr": "blazinghoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Blazing_Honeycomb"
+	},
+	{
+		"abr": "blazingqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Blazing_Queen"
+	},
+	{
+		"abr": "bookcase",
+		"price": 17,
+		"category": "Container",
+		"defname": "AM_BookCase"
+	},
+	{
+		"abr": "bunkerbeehouse",
+		"price": 350,
+		"category": "Misc",
+		"defname": "RB_BunkerBeehouse"
+	},
+	{
+		"abr": "commandodrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Commando_Drone"
+	},
+	{
+		"abr": "commandohoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Commando_Honeycomb"
+	},
+	{
+		"abr": "commandoqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Commando_Queen"
+	},
+	{
+		"abr": "cultivatordrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Cultivator_Drone"
+	},
+	{
+		"abr": "cultivatorhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Cultivator_Honeycomb"
+	},
+	{
+		"abr": "cultivatorqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Cultivator_Queen"
+	},
+	{
+		"abr": "desiccateddrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Desiccated_Drone"
+	},
+	{
+		"abr": "desiccatedhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Desiccated_Honeycomb"
+	},
+	{
+		"abr": "desiccatedqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Desiccated_Queen"
+	},
+	{
+		"abr": "epicureandrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Epicurean_Drone"
+	},
+	{
+		"abr": "epicureanhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Epicurean_Honeycomb"
+	},
+	{
+		"abr": "epicureanqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Epicurean_Queen"
+	},
+	{
+		"abr": "foamydrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Foamy_Drone"
+	},
+	{
+		"abr": "foamyhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Foamy_Honeycomb"
+	},
+	{
+		"abr": "foamyqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Foamy_Queen"
+	},
+	{
+		"abr": "frigiddrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Frigid_Drone"
+	},
+	{
+		"abr": "frigidhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Frigid_Honeycomb"
+	},
+	{
+		"abr": "frigidqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Frigid_Queen"
+	},
+	{
+		"abr": "genepackdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Genepack_Drone"
+	},
+	{
+		"abr": "genepackhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Genepack_Honeycomb"
+	},
+	{
+		"abr": "genepackqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Genepack_Queen"
+	},
+	{
+		"abr": "genetweakingdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Genetweaking_Drone"
+	},
+	{
+		"abr": "genetweakinghoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Genetweaking_Honeycomb"
+	},
+	{
+		"abr": "genetweakingqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Genetweaking_Queen"
+	},
+	{
+		"abr": "germlinecloner",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "BS_CreateXenogerm_Endo"
+	},
+	{
+		"abr": "glacialdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Glacial_Drone"
+	},
+	{
+		"abr": "glacialhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Glacial_Honeycomb"
+	},
+	{
+		"abr": "glacialqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Glacial_Queen"
+	},
+	{
+		"abr": "glitteringdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Glittering_Drone"
+	},
+	{
+		"abr": "glitteringhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Glittering_Honeycomb"
+	},
+	{
+		"abr": "glitteringqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Glittering_Queen"
+	},
+	{
+		"abr": "gourmethoneymeal",
+		"price": 117,
+		"category": "Meals",
+		"defname": "RB_GourmetHoney"
+	},
+	{
+		"abr": "handlerdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Handler_Drone"
+	},
+	{
+		"abr": "handlerhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Handler_Honeycomb"
+	},
+	{
+		"abr": "handlerqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Handler_Queen"
+	},
+	{
+		"abr": "harvesterdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Harvester_Drone"
+	},
+	{
+		"abr": "harvesterhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Harvester_Honeycomb"
+	},
+	{
+		"abr": "harvesterqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Harvester_Queen"
+	},
+	{
+		"abr": "infernodrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Inferno_Drone"
+	},
+	{
+		"abr": "infernohoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Inferno_Honeycomb"
+	},
+	{
+		"abr": "infernoqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Inferno_Queen"
+	},
+	{
+		"abr": "janitordrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Janitor_Drone"
+	},
+	{
+		"abr": "janitorhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Janitor_Honeycomb"
+	},
+	{
+		"abr": "janitorqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Janitor_Queen"
+	},
+	{
+		"abr": "masondrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Mason_Drone"
+	},
+	{
+		"abr": "masonhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Mason_Honeycomb"
+	},
+	{
+		"abr": "masonqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Mason_Queen"
+	},
+	{
+		"abr": "mechrechargerboosteri",
+		"price": 248,
+		"category": "Misc",
+		"defname": "MechChargerBooster_I"
+	},
+	{
+		"abr": "mechrechargerboosterii",
+		"price": 301,
+		"category": "Misc",
+		"defname": "MechChargerBooster_II"
+	},
+	{
+		"abr": "mechrechargerboosteriii",
+		"price": 3817,
+		"category": "Misc",
+		"defname": "MechChargerBooster_III"
+	},
+	{
+		"abr": "mechrechargerboosteriv",
+		"price": 1450,
+		"category": "Misc",
+		"defname": "MechChargerBooster_IV"
+	},
+	{
+		"abr": "mixedpackdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Mixedpack_Drone"
+	},
+	{
+		"abr": "mixedpackhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Mixedpack_Honeycomb"
+	},
+	{
+		"abr": "mixedpackqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Mixedpack_Queen"
+	},
+	{
+		"abr": "nannydrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Nanny_Drone"
+	},
+	{
+		"abr": "nannyhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Nanny_Honeycomb"
+	},
+	{
+		"abr": "nannyqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Nanny_Queen"
+	},
+	{
+		"abr": "noxiousdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Noxious_Drone"
+	},
+	{
+		"abr": "noxioushoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Noxious_Honeycomb"
+	},
+	{
+		"abr": "noxiousqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Noxious_Queen"
+	},
+	{
+		"abr": "performanceenhancinghoney",
+		"price": 3,
+		"category": "Bee honeys",
+		"defname": "RB_PerformanceEnhancingHoney"
+	},
+	{
+		"abr": "quarrydrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Quarry_Drone"
+	},
+	{
+		"abr": "quarryhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Quarry_Honeycomb"
+	},
+	{
+		"abr": "quarryqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Quarry_Queen"
+	},
+	{
+		"abr": "rainbowdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Rainbow_Drone"
+	},
+	{
+		"abr": "rainbowhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Rainbow_Honeycomb"
+	},
+	{
+		"abr": "rainbowqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Rainbow_Queen"
+	},
+	{
+		"abr": "randomblocks",
+		"price": 12,
+		"category": "Misc",
+		"defname": "RB_RandomBlocks"
+	},
+	{
+		"abr": "randomchunk",
+		"price": 12,
+		"category": "Misc",
+		"defname": "RB_RandomChunks"
+	},
+	{
+		"abr": "randomcondiment",
+		"price": 12,
+		"category": "Misc",
+		"defname": "RB_RandomCondiments"
+	},
+	{
+		"abr": "randomgeneartifact",
+		"price": 12,
+		"category": "Misc",
+		"defname": "RB_RandomGeneArtifact"
+	},
+	{
+		"abr": "researchdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Research_Drone"
+	},
+	{
+		"abr": "researchhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Research_Honeycomb"
+	},
+	{
+		"abr": "researchqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Research_Queen"
+	},
+	{
+		"abr": "royaldrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Royal_Drone"
+	},
+	{
+		"abr": "royalhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Royal_Honeycomb"
+	},
+	{
+		"abr": "royalqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Royal_Queen"
+	},
+	{
+		"abr": "sharddrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Shard_Drone"
+	},
+	{
+		"abr": "shardhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Shard_Honeycomb"
+	},
+	{
+		"abr": "shardqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Shard_Queen"
+	},
+	{
+		"abr": "shepherddrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Shepherd_Drone"
+	},
+	{
+		"abr": "shepherdhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Shepherd_Honeycomb"
+	},
+	{
+		"abr": "shepherdqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Shepherd_Queen"
+	},
+	{
+		"abr": "skilfuldrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Skilful_Drone"
+	},
+	{
+		"abr": "skilfulhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Skilful_Honeycomb"
+	},
+	{
+		"abr": "skilfulqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Skilful_Queen"
+	},
+	{
+		"abr": "stunningdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Stunning_Drone"
+	},
+	{
+		"abr": "stunninghoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Stunning_Honeycomb"
+	},
+	{
+		"abr": "stunningqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Stunning_Queen"
+	},
+	{
+		"abr": "tetradrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Tetra_Drone"
+	},
+	{
+		"abr": "tetrahoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Tetra_Honeycomb"
+	},
+	{
+		"abr": "tetraqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Tetra_Queen"
+	},
+	{
+		"abr": "trashdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Trash_Drone"
+	},
+	{
+		"abr": "trashhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Trash_Honeycomb"
+	},
+	{
+		"abr": "trashqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Trash_Queen"
+	},
+	{
+		"abr": "universalmechrecharger",
+		"price": 950,
+		"category": "Misc",
+		"defname": "UniversalMechCharger"
+	},
+	{
+		"abr": "vampiredrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Vampire_Drone"
+	},
+	{
+		"abr": "vampirehoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Vampire_Honeycomb"
+	},
+	{
+		"abr": "vampirequeen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Vampire_Queen"
+	},
+	{
+		"abr": "wardendrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Warden_Drone"
+	},
+	{
+		"abr": "wardenhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Warden_Honeycomb"
+	},
+	{
+		"abr": "wardenqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Warden_Queen"
+	},
+	{
+		"abr": "wirelessmechanoidrecharger(highspeed)",
+		"price": 1367,
+		"category": "Misc",
+		"defname": "WirelessCharger_II"
+	},
+	{
+		"abr": "wirelessmechanoidrecharger(widerange)",
+		"price": 700,
+		"category": "Misc",
+		"defname": "WirelessCharger_I"
+	},
+	{
+		"abr": "wololodrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Wololo_Drone"
+	},
+	{
+		"abr": "wololohoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Wololo_Honeycomb"
+	},
+	{
+		"abr": "wololoqueen",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Wololo_Queen"
+	},
+	{
+		"abr": "woodengaragedoor(1x4)",
+		"price": 262,
+		"category": "Misc",
+		"defname": "AV_GarageDoorWoodenOpened"
+	},
+	{
+		"abr": "workerdrone",
+		"price": 0,
+		"category": "Drones and queens",
+		"defname": "RB_Bee_Worker_Drone"
+	},
+	{
+		"abr": "workerhoneycomb",
+		"price": 0,
+		"category": "Honey combs",
+		"defname": "RB_Worker_Honeycomb"
+	},
 	],
-	"total": 4836
+	"total": 5094
 }

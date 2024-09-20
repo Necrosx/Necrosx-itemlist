@@ -252,10 +252,52 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk, Reann Shepard and Sarg",
+    "name": "Vanilla Vehicles Expanded",
+    "steamId": "3014906877",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Alpha Vehicles - Age of Sail",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg",
+    "name": "Alpha Vehicles - Neolithic",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Mr.Rock23",
     "name": "Ancient Crystals LITE (Continued)",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.6.11+1c2929a19695c4b98f35b00e39d1ee0725b46b45"
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Research Reinvented",
+    "steamId": "2868392160",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.1.0.0"
   },
   {
     "author": "MO",
@@ -402,12 +444,6 @@
     "version": null
   },
   {
-    "author": "m00nl1ght",
-    "name": "Geological Landforms",
-    "steamId": "2773943594",
-    "version": "1.6.11+1c2929a19695c4b98f35b00e39d1ee0725b46b45"
-  },
-  {
     "author": "m00nl1ght-dev",
     "name": "Biome Transitions",
     "steamId": null,
@@ -534,6 +570,12 @@
     "version": null
   },
   {
+    "author": "J",
+    "name": "Colonial Shuttle",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Syrus",
     "name": "Colonist Bar Adjuster",
     "steamId": null,
@@ -580,6 +622,12 @@
     "name": "Construction Friendly Infestations",
     "steamId": "2800047809",
     "version": "1.0.0"
+  },
+  {
+    "author": "NuanKi",
+    "name": "Controlled Rituals",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Nehr",
@@ -672,6 +720,12 @@
     "version": null
   },
   {
+    "author": "pelador",
+    "name": "Drug Policy Fix (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
@@ -705,13 +759,7 @@
     "author": "alite",
     "name": "EBSG Framework",
     "steamId": "3112549163",
-    "version": "1.0.9002.28461"
-  },
-  {
-    "author": "PeteTimesSix",
-    "name": "Research Reinvented",
-    "steamId": "2868392160",
-    "version": "1.0.0.0"
+    "version": "1.0.9020.34814"
   },
   {
     "author": "PeteTimesSix",
@@ -969,7 +1017,7 @@
     "author": "Mlie",
     "name": "Haul Mined Chunks",
     "steamId": "2799728059",
-    "version": "1.5.3"
+    "version": "1.5.4"
   },
   {
     "author": "ItsComcastic",
@@ -1146,6 +1194,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "AzzyH",
+    "name": "Mech Charger Booster",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Poncho",
     "name": "Mech Water Raids Begone!",
     "steamId": null,
@@ -1293,7 +1347,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.5.15"
+    "version": "1.5.17"
   },
   {
     "author": "Sergwest",
@@ -1461,7 +1515,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.9005.34653"
+    "version": "1.0.9024.37219"
   },
   {
     "author": "Sandy",
@@ -1618,12 +1672,6 @@
     "name": "Repair Items",
     "steamId": "2564355300",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Uuugggg",
-    "name": "Replace Stuff",
-    "steamId": "1372003680",
-    "version": "1.1.0.0"
   },
   {
     "author": "Garethp",
@@ -1885,7 +1933,7 @@
   },
   {
     "author": "NuanKi",
-    "name": "Tacticowl - Ghouls/Mechs Patch",
+    "name": "Tacticowl - Ghouls/Mechs/Animals Patch",
     "steamId": null,
     "version": null
   },
@@ -2056,6 +2104,12 @@
     "name": "Underground Food",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "AzzyH",
+    "name": "Universal Mech Charger",
+    "steamId": "3330287994",
+    "version": "1.0.0.0"
   },
   {
     "author": "dhultgren",
@@ -2332,6 +2386,18 @@
     "name": "Vanilla Trading Expanded",
     "steamId": "2785616901",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
+    "name": "Vanilla Vehicles Expanded - Tier 3",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Smash Phil",
+    "name": "Vanilla Vehicles Expanded - Upgrades",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
