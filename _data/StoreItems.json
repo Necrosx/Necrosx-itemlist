@@ -13255,12 +13255,6 @@
 		"defname": "BS_Shrink_Serum"
 	},
 	{
-		"abr": "animalprostheticstable",
-		"price": 400,
-		"category": "Production",
-		"defname": "TableAnimalProsthetics"
-	},
-	{
 		"abr": "animalisk",
 		"price": 800,
 		"category": "Animals",
@@ -14205,74 +14199,20 @@
 	{
 		"abr": "bionicanimalarm",
 		"price": 842,
-		"category": "Animal Body Part",
+		"category": "Artificial Animal Body Part",
 		"defname": "BionicArmAnimal"
-	},
-	{
-		"abr": "bionicanimalbrainstimulator",
-		"price": 1450,
-		"category": "Animal Body Part",
-		"defname": "AnimalBrainStimulator"
-	},
-	{
-		"abr": "bionicanimalearimplant",
-		"price": 817,
-		"category": "Animal Body Part",
-		"defname": "EarAnimalBionic"
 	},
 	{
 		"abr": "bionicanimaleye",
 		"price": 817,
-		"category": "Animal Body Part",
+		"category": "Artificial Animal Body Part",
 		"defname": "BionicEyeAnimal"
-	},
-	{
-		"abr": "bionicanimalheart",
-		"price": 642,
-		"category": "Animal Body Part",
-		"defname": "BionicAnimalHeart"
-	},
-	{
-		"abr": "bionicanimaljaw",
-		"price": 817,
-		"category": "Animal Body Part",
-		"defname": "JawAnimalBionic"
-	},
-	{
-		"abr": "bionicanimalkidney",
-		"price": 458,
-		"category": "Animal Body Part",
-		"defname": "BionicAnimalKidney"
 	},
 	{
 		"abr": "bionicanimalleg",
 		"price": 842,
-		"category": "Animal Body Part",
+		"category": "Artificial Animal Body Part",
 		"defname": "BionicLegAnimal"
-	},
-	{
-		"abr": "bionicanimalliver",
-		"price": 458,
-		"category": "Animal Body Part",
-		"defname": "BionicAnimalLiver"
-	},
-	{
-		"abr": "bionicanimallung",
-		"price": 458,
-		"category": "Animal Body Part",
-		"defname": "BionicAnimalLung"
-	},
-	{
-		"abr": "bionicanimalspine",
-		"price": 1000,
-		"category": "Animal Body Part",
-		"defname": "SpineAnimalBionic"
-	},
-	{
-		"abr": "bionicanimalstomach",
-		"price": 467,
-		"category": "Animal Body Part",
-		"defname": "BionicAnimalStomach"
 	},
 	{
 		"abr": "bishophat",
@@ -22873,30 +22813,6 @@
 		"defname": "BlocksKura_Siltstone"
 	},
 	{
-		"abr": "simpleanimalearimplant",
-		"price": 124,
-		"category": "Animal Body Part",
-		"defname": "EarAnimalSimple"
-	},
-	{
-		"abr": "simpleanimaljawimplant",
-		"price": 124,
-		"category": "Animal Body Part",
-		"defname": "JawAnimalSimple"
-	},
-	{
-		"abr": "simpleanimalnose",
-		"price": 124,
-		"category": "Animal Body Part",
-		"defname": "NoseAnimalSimple"
-	},
-	{
-		"abr": "simpleanimalspine",
-		"price": 207,
-		"category": "Animal Body Part",
-		"defname": "SpineAnimalSimple"
-	},
-	{
 		"abr": "simpleclimatizedbeehouse",
 		"price": 350,
 		"category": "Misc",
@@ -22935,20 +22851,14 @@
 	{
 		"abr": "simpleprostheticanimalarm",
 		"price": 225,
-		"category": "Animal Body Part",
+		"category": "Artificial Animal Body Part",
 		"defname": "SimpleProstheticArmAnimal"
 	},
 	{
 		"abr": "simpleprostheticanimalleg",
 		"price": 225,
-		"category": "Animal Body Part",
+		"category": "Artificial Animal Body Part",
 		"defname": "SimpleProstheticLegAnimal"
-	},
-	{
-		"abr": "simpleprostheticanimaltail",
-		"price": 120,
-		"category": "Animal Body Part",
-		"defname": "ProstheticTailAnimal"
 	},
 	{
 		"abr": "simplereveredtotem",
@@ -30552,6 +30462,954 @@
 		"category": "Honey combs",
 		"defname": "RB_Worker_Honeycomb"
 	},
+	{
+		"abr": "cellwall",
+		"price": 17,
+		"category": "Misc",
+		"defname": "RB_CellWall"
+	},
+	{
+		"abr": "guestadvancedbed",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "Bed_AdvBedGuest"
+	},
+	{
+		"abr": "guestadvanceddoublebed",
+		"price": 1483,
+		"category": "Furniture",
+		"defname": "Bed_AdvDoubleBedGuest"
+	},
+	{
+		"abr": "guestancientbed",
+		"price": 36,
+		"category": "Misc",
+		"defname": "AncientBedGuest"
+	},
+	{
+		"abr": "guestancientbed",
+		"price": 5,
+		"category": "Misc",
+		"defname": "AM_AncientBedGuest"
+	},
+	{
+		"abr": "guestancientbed",
+		"price": 5,
+		"category": "Misc",
+		"defname": "VME_AncientBedGuest"
+	},
+	{
+		"abr": "guestancienthospitalbed",
+		"price": 667,
+		"category": "Furniture",
+		"defname": "AG_RuinedHospitalBedGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestcrib",
+		"price": 86,
+		"category": "Furniture",
+		"defname": "CribGuest"
+	},
+	{
+		"abr": "guestcryptosleepsuspender",
+		"price": 733,
+		"category": "Furniture",
+		"defname": "Bed_CryptoBedGuest"
+	},
+	{
+		"abr": "guestcubicbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "AM_CubicBedGuest"
+	},
+	{
+		"abr": "guestcubiccrib",
+		"price": 86,
+		"category": "Furniture",
+		"defname": "AM_CubicCribGuest"
+	},
+	{
+		"abr": "guestcubichospitalbed",
+		"price": 667,
+		"category": "Furniture",
+		"defname": "AM_CubicHospitalBedGuest"
+	},
+	{
+		"abr": "guestdeathrestcasket",
+		"price": 492,
+		"category": "Misc",
+		"defname": "DeathrestCasketGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": 290,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guestdoublecubicbed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "AM_DoubleCubicBedGuest"
+	},
+	{
+		"abr": "guestdoublehoraxianbed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "AM_DoubleHoraxianBedGuest"
+	},
+	{
+		"abr": "guestdoublestone-framedbedroll",
+		"price": 295,
+		"category": "Furniture",
+		"defname": "AM_DoubleStoneBedrollGuest"
+	},
+	{
+		"abr": "guestergonomicbed",
+		"price": 450,
+		"category": "Furniture",
+		"defname": "Bed_ErgonomicGuest"
+	},
+	{
+		"abr": "guestergonomicdoublebed",
+		"price": 867,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomicGuest"
+	},
+	{
+		"abr": "guestglitterworldhospitalbed",
+		"price": 1958,
+		"category": "Furniture",
+		"defname": "GlitterworldHospitalBedSWGuest"
+	},
+	{
+		"abr": "guesthoraxianbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "AM_HoraxianBedGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": 667,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestnanotechbed",
+		"price": 224,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_BedGuest"
+	},
+	{
+		"abr": "guestnanotechdoublebed",
+		"price": 433,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_DoubleBedGuest"
+	},
+	{
+		"abr": "guestnanotechhospitalbed",
+		"price": 725,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_HospitalBedGuest"
+	},
+	{
+		"abr": "guestnanotechpentaroyalbed",
+		"price": 6875,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_PentaRoyalBedGuest"
+	},
+	{
+		"abr": "guestnanotechquadrabed",
+		"price": 2825,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_QuadBedGuest"
+	},
+	{
+		"abr": "guestnanotechquadraroyalbed",
+		"price": 5500,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_QuadRoyalBedGuest"
+	},
+	{
+		"abr": "guestnanotechroyalbed",
+		"price": 1608,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_RoyalBedGuest"
+	},
+	{
+		"abr": "guestnanotechtriplebed",
+		"price": 2108,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_TripleBedGuest"
+	},
+	{
+		"abr": "guestnanotechtripleroyalbed",
+		"price": 4125,
+		"category": "Furniture",
+		"defname": "Ogre_NanoTech_TripleRoyalBedGuest"
+	},
+	{
+		"abr": "guestoperatingtable",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTableGuest"
+	},
+	{
+		"abr": "guestpentaroyalbed",
+		"price": 3617,
+		"category": "Furniture",
+		"defname": "PentaRoyalBedGuest"
+	},
+	{
+		"abr": "guestprofanedbed",
+		"price": 171,
+		"category": "Furniture",
+		"defname": "BotchJob_ProfanedBedGuest"
+	},
+	{
+		"abr": "guestprofanedroyalbed",
+		"price": 767,
+		"category": "Furniture",
+		"defname": "BotchJob_ProfanedRoyalBedGuest"
+	},
+	{
+		"abr": "guestquadrabed",
+		"price": 567,
+		"category": "Furniture",
+		"defname": "QuadBedGuest"
+	},
+	{
+		"abr": "guestquadrabedroll",
+		"price": 600,
+		"category": "Furniture",
+		"defname": "BedrollQuadGuest"
+	},
+	{
+		"abr": "guestquadraroyalbed",
+		"price": 2900,
+		"category": "Furniture",
+		"defname": "QuadRoyalBedGuest"
+	},
+	{
+		"abr": "guestre-ambulationpod",
+		"price": 8258,
+		"category": "Furniture",
+		"defname": "ambTableGuest"
+	},
+	{
+		"abr": "guestrestoredancientdoublebed",
+		"price": 242,
+		"category": "Furniture",
+		"defname": "AM_AncientDoubleBedGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": 1467,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "guestroyalposterbed",
+		"price": 2008,
+		"category": "Furniture",
+		"defname": "Bed_KingsizeGuest"
+	},
+	{
+		"abr": "guestsimplebed",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "Bed_SimpleGuest"
+	},
+	{
+		"abr": "guestslabbed",
+		"price": 102,
+		"category": "Furniture",
+		"defname": "SlabBedGuest"
+	},
+	{
+		"abr": "guestslabbed",
+		"price": 111,
+		"category": "Furniture",
+		"defname": "Bed_StoneSlabGuest"
+	},
+	{
+		"abr": "guestslabdoublebed",
+		"price": 288,
+		"category": "Furniture",
+		"defname": "SlabDoubleBedGuest"
+	},
+	{
+		"abr": "guestslabquadbed",
+		"price": 658,
+		"category": "Furniture",
+		"defname": "SlabQuadBedGuest"
+	},
+	{
+		"abr": "guestslabtriplebed",
+		"price": 475,
+		"category": "Furniture",
+		"defname": "SlabTripleBedGuest"
+	},
+	{
+		"abr": "gueststone-framedbedroll",
+		"price": 159,
+		"category": "Furniture",
+		"defname": "AM_StoneBedrollGuest"
+	},
+	{
+		"abr": "guesttriplebed",
+		"price": 433,
+		"category": "Furniture",
+		"defname": "TripleBedGuest"
+	},
+	{
+		"abr": "guesttriplebedroll",
+		"price": 442,
+		"category": "Furniture",
+		"defname": "BedrollTripleGuest"
+	},
+	{
+		"abr": "guesttripleroyalbed",
+		"price": 2183,
+		"category": "Furniture",
+		"defname": "TripleRoyalBedGuest"
+	},
+	{
+		"abr": "patriarch",
+		"price": 3333,
+		"category": "Animals",
+		"defname": "VFEI2_Patriarch"
+	},
+	{
+		"abr": "royalmegascarab",
+		"price": 333,
+		"category": "Animals",
+		"defname": "VFEI2_RoyalMegascarab"
+	},
+	{
+		"abr": "royalmegaspider",
+		"price": 1250,
+		"category": "Animals",
+		"defname": "VFEI2_RoyalMegaspider"
+	},
+	{
+		"abr": "royalspelopede",
+		"price": 833,
+		"category": "Animals",
+		"defname": "VFEI2_RoyalSpelopede"
+	},
+	{
+		"abr": "abandonedlargeelevator",
+		"price": 1075,
+		"category": "Misc",
+		"defname": "AM_BlockedLargeElevator"
+	},
+	{
+		"abr": "animahedge",
+		"price": 11,
+		"category": "Misc",
+		"defname": "AP_Hedge_Anima"
+	},
+	{
+		"abr": "animalbrainstimulator",
+		"price": 358,
+		"category": "Artificial Animal Body Part",
+		"defname": "BrainStimulatorAnimal"
+	},
+	{
+		"abr": "animalcochlearimplant",
+		"price": 252,
+		"category": "Artificial Animal Body Part",
+		"defname": "CochlearImplantAnimal"
+	},
+	{
+		"abr": "animallightreceptor",
+		"price": 252,
+		"category": "Artificial Animal Body Part",
+		"defname": "LightReceptorAnimal"
+	},
+	{
+		"abr": "artificialanimalnose",
+		"price": 96,
+		"category": "Artificial Animal Body Part",
+		"defname": "ArtificialNoseAnimal"
+	},
+	{
+		"abr": "barreld",
+		"price": 33,
+		"category": "Furniture",
+		"defname": "BarrelD"
+	},
+	{
+		"abr": "barrele",
+		"price": 33,
+		"category": "Furniture",
+		"defname": "BarrelE"
+	},
+	{
+		"abr": "bionicanimalclaw",
+		"price": 383,
+		"category": "Artificial Animal Body Part",
+		"defname": "BionicClawAnimal"
+	},
+	{
+		"abr": "bionicanimalear",
+		"price": 925,
+		"category": "Artificial Animal Body Part",
+		"defname": "BionicEarAnimal"
+	},
+	{
+		"abr": "bionicanimalfinger",
+		"price": 383,
+		"category": "Artificial Animal Body Part",
+		"defname": "BionicFingerAnimal"
+	},
+	{
+		"abr": "bionicanimalfoot",
+		"price": 925,
+		"category": "Artificial Animal Body Part",
+		"defname": "BionicFootAnimal"
+	},
+	{
+		"abr": "bionicanimalhand",
+		"price": 925,
+		"category": "Artificial Animal Body Part",
+		"defname": "BionicHandAnimal"
+	},
+	{
+		"abr": "bionicanimalhoof",
+		"price": 925,
+		"category": "Artificial Animal Body Part",
+		"defname": "BionicHoofAnimal"
+	},
+	{
+		"abr": "bionicanimaljaw",
+		"price": 1308,
+		"category": "Artificial Animal Body Part",
+		"defname": "BionicJawAnimal"
+	},
+	{
+		"abr": "bionicanimalpaw",
+		"price": 925,
+		"category": "Artificial Animal Body Part",
+		"defname": "BionicPawAnimal"
+	},
+	{
+		"abr": "bionicanimalspine",
+		"price": 1333,
+		"category": "Artificial Animal Body Part",
+		"defname": "BionicSpineAnimal"
+	},
+	{
+		"abr": "bionicanimaltail",
+		"price": 975,
+		"category": "Artificial Animal Body Part",
+		"defname": "BionicTailAnimal"
+	},
+	{
+		"abr": "bionicanimaltoe",
+		"price": 383,
+		"category": "Artificial Animal Body Part",
+		"defname": "BionicToeAnimal"
+	},
+	{
+		"abr": "bionicanimaltongue",
+		"price": 583,
+		"category": "Artificial Animal Body Part",
+		"defname": "BionicTongueAnimal"
+	},
+	{
+		"abr": "blockedstaircase",
+		"price": 127,
+		"category": "Misc",
+		"defname": "AM_BlockedStairs"
+	},
+	{
+		"abr": "blockedstaircase",
+		"price": 127,
+		"category": "Misc",
+		"defname": "AM_BlockedStairsD"
+	},
+	{
+		"abr": "blockedstaircase",
+		"price": 127,
+		"category": "Misc",
+		"defname": "AM_BlockedStairsX"
+	},
+	{
+		"abr": "bundled",
+		"price": 33,
+		"category": "Furniture",
+		"defname": "Bundle_D"
+	},
+	{
+		"abr": "canisterc",
+		"price": 658,
+		"category": "Furniture",
+		"defname": "CanisterC"
+	},
+	{
+		"abr": "cataphractcape",
+		"price": 367,
+		"category": "Noble apparel",
+		"defname": "Apparel_CapeCosmeticCataphract"
+	},
+	{
+		"abr": "chunka",
+		"price": 1683,
+		"category": "Furniture",
+		"defname": "ChunkA"
+	},
+	{
+		"abr": "chunkb",
+		"price": 1683,
+		"category": "Furniture",
+		"defname": "ChunkB"
+	},
+	{
+		"abr": "containerc",
+		"price": 1450,
+		"category": "Furniture",
+		"defname": "ContainerC"
+	},
+	{
+		"abr": "crateh",
+		"price": 50,
+		"category": "Furniture",
+		"defname": "CrateH"
+	},
+	{
+		"abr": "cratei",
+		"price": 50,
+		"category": "Furniture",
+		"defname": "CrateI"
+	},
+	{
+		"abr": "cratej",
+		"price": 27,
+		"category": "Furniture",
+		"defname": "CrateJ"
+	},
+	{
+		"abr": "cratek",
+		"price": 17,
+		"category": "Furniture",
+		"defname": "CrateK"
+	},
+	{
+		"abr": "cratel",
+		"price": 68,
+		"category": "Misc",
+		"defname": "CrateL"
+	},
+	{
+		"abr": "cylindera",
+		"price": 159,
+		"category": "Furniture",
+		"defname": "CylinderA"
+	},
+	{
+		"abr": "duskcarbine",
+		"price": 1642,
+		"category": "Dusk weapons",
+		"defname": "DF_Dusk_Carbine"
+	},
+	{
+		"abr": "duskcloak",
+		"price": 275,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Cloak"
+	},
+	{
+		"abr": "duskenforcer",
+		"price": 658,
+		"category": "Dusk weapons",
+		"defname": "DF_Dusk_Enforcer"
+	},
+	{
+		"abr": "duskhelmet",
+		"price": 1058,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Helmet"
+	},
+	{
+		"abr": "duskhood",
+		"price": 73,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Hood"
+	},
+	{
+		"abr": "duskhoodedhelmet",
+		"price": 1158,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Helmet_Hooded"
+	},
+	{
+		"abr": "duskkris",
+		"price": 933,
+		"category": "Melee weapons",
+		"defname": "DF_Dusk_Kris"
+	},
+	{
+		"abr": "dusklauncher",
+		"price": 1617,
+		"category": "Dusk weapons",
+		"defname": "DF_Dusk_Launcher"
+	},
+	{
+		"abr": "duskmag",
+		"price": 1750,
+		"category": "Dusk weapons",
+		"defname": "DF_Dusk_MAG"
+	},
+	{
+		"abr": "duskmesh",
+		"price": 280,
+		"category": "Apparel",
+		"defname": "DF_Dusk_Mesh"
+	},
+	{
+		"abr": "duskrazor",
+		"price": 1808,
+		"category": "Melee weapons",
+		"defname": "DF_Dusk_Razor"
+	},
+	{
+		"abr": "duskreactive",
+		"price": 280,
+		"category": "Apparel",
+		"defname": "DF_Dusk_Reactive"
+	},
+	{
+		"abr": "dusksaw",
+		"price": 2117,
+		"category": "Melee weapons",
+		"defname": "DF_Dusk_Saw"
+	},
+	{
+		"abr": "dusksmg",
+		"price": 1058,
+		"category": "Dusk weapons",
+		"defname": "DF_Dusk_SMG"
+	},
+	{
+		"abr": "duskstriker",
+		"price": 1650,
+		"category": "Dusk weapons",
+		"defname": "DF_Dusk_Striker"
+	},
+	{
+		"abr": "duskwintercloak",
+		"price": 315,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Cloak_Fur"
+	},
+	{
+		"abr": "duskwintercloak(black)",
+		"price": 315,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Cloak_Fur_Black"
+	},
+	{
+		"abr": "duskwintercloak(golden)",
+		"price": 315,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Cloak_Fur_Gold"
+	},
+	{
+		"abr": "duskwintercloak(white)",
+		"price": 315,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Cloak_Fur_White"
+	},
+	{
+		"abr": "duskwinterhood",
+		"price": 107,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Hood_Fur"
+	},
+	{
+		"abr": "duskwinterhood(black)",
+		"price": 107,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Hood_Fur_Black"
+	},
+	{
+		"abr": "duskwinterhood(golden)",
+		"price": 107,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Hood_Fur_Gold"
+	},
+	{
+		"abr": "duskwinterhood(white)",
+		"price": 107,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Hood_Fur_White"
+	},
+	{
+		"abr": "duskwinterhoodedhelmet",
+		"price": 1175,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Helmet_Hooded_Fur"
+	},
+	{
+		"abr": "duskwinterhoodedhelmet(black)",
+		"price": 1158,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Helmet_Hooded_Fur_Black"
+	},
+	{
+		"abr": "duskwinterhoodedhelmet(golden)",
+		"price": 1158,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Helmet_Hooded_Fur_Gold"
+	},
+	{
+		"abr": "duskwinterhoodedhelmet(white)",
+		"price": 1158,
+		"category": "Dusk apparel",
+		"defname": "DF_Dusk_Helmet_Hooded_Fur_White"
+	},
+	{
+		"abr": "electricalbox",
+		"price": 442,
+		"category": "Misc",
+		"defname": "AM_ElectricalBox"
+	},
+	{
+		"abr": "floweryhedge",
+		"price": 11,
+		"category": "Misc",
+		"defname": "AP_Hedge_Flowery"
+	},
+	{
+		"abr": "floweryhedge",
+		"price": 11,
+		"category": "Misc",
+		"defname": "AP_Hedge_FloweryTwo"
+	},
+	{
+		"abr": "freighta",
+		"price": 1683,
+		"category": "Furniture",
+		"defname": "Freight_A"
+	},
+	{
+		"abr": "freightb",
+		"price": 1683,
+		"category": "Furniture",
+		"defname": "Freight_B"
+	},
+	{
+		"abr": "gauranlenhedge",
+		"price": 11,
+		"category": "Misc",
+		"defname": "AP_Hedge_Gau"
+	},
+	{
+		"abr": "hedge",
+		"price": 11,
+		"category": "Misc",
+		"defname": "AP_Hedge"
+	},
+	{
+		"abr": "hydraulicanimaljaw",
+		"price": 256,
+		"category": "Artificial Animal Body Part",
+		"defname": "HydraulicJawAnimal"
+	},
+	{
+		"abr": "largefacilityelevator",
+		"price": 3933,
+		"category": "Misc",
+		"defname": "AM_Entrance_LargeElevator"
+	},
+	{
+		"abr": "locustcape",
+		"price": 367,
+		"category": "Noble apparel",
+		"defname": "Apparel_CapeCosmeticLocust"
+	},
+	{
+		"abr": "lowhedge",
+		"price": 5,
+		"category": "Misc",
+		"defname": "AP_LowHedge"
+	},
+	{
+		"abr": "materialelevator",
+		"price": 3358,
+		"category": "Misc",
+		"defname": "AM_MaterialElevatorA"
+	},
+	{
+		"abr": "materialelevator",
+		"price": 3358,
+		"category": "Misc",
+		"defname": "AM_MaterialElevatorC"
+	},
+	{
+		"abr": "materialelevatoroutlet",
+		"price": 3358,
+		"category": "Misc",
+		"defname": "AM_MaterialElevatorB"
+	},
+	{
+		"abr": "materialelevatoroutlet",
+		"price": 3358,
+		"category": "Misc",
+		"defname": "AM_MaterialElevatorD"
+	},
+	{
+		"abr": "mealcratea",
+		"price": 244,
+		"category": "Furniture",
+		"defname": "MealCrate_A"
+	},
+	{
+		"abr": "mealcrateb",
+		"price": 112,
+		"category": "Furniture",
+		"defname": "MealCrate_B"
+	},
+	{
+		"abr": "ocularhedge",
+		"price": 11,
+		"category": "Misc",
+		"defname": "AP_Hedge_Ocular"
+	},
+	{
+		"abr": "parkbench,functional",
+		"price": 86,
+		"category": "Misc",
+		"defname": "VFEPD_AP_ParkBench_Functional"
+	},
+	{
+		"abr": "parkbench,functional",
+		"price": 86,
+		"category": "Misc",
+		"defname": "VFEPD_AP_SimpleParkBench_Functional"
+	},
+	{
+		"abr": "phoenixcape",
+		"price": 367,
+		"category": "Noble apparel",
+		"defname": "Apparel_CapeCosmeticPhoenix"
+	},
+	{
+		"abr": "prestigecataphractcape",
+		"price": 367,
+		"category": "Noble apparel",
+		"defname": "Apparel_CapeCosmeticPrestigeCataphract"
+	},
+	{
+		"abr": "prestigemarinecape",
+		"price": 367,
+		"category": "Noble apparel",
+		"defname": "Apparel_CapeCosmeticPrestigeMarine"
+	},
+	{
+		"abr": "prestigereconcape",
+		"price": 367,
+		"category": "Noble apparel",
+		"defname": "Apparel_CapeCosmeticPrestigeRecon"
+	},
+	{
+		"abr": "profanedhorsebarding",
+		"price": 475,
+		"category": "Animal Apparel",
+		"defname": "BotchJob_ProfanedHorseBarding"
+	},
+	{
+		"abr": "prostheticanimalclaw",
+		"price": 58,
+		"category": "Artificial Animal Body Part",
+		"defname": "SimpleProstheticClawAnimal"
+	},
+	{
+		"abr": "prostheticanimalfinger",
+		"price": 22,
+		"category": "Artificial Animal Body Part",
+		"defname": "SimpleProstheticFingerAnimal"
+	},
+	{
+		"abr": "prostheticanimalfoot",
+		"price": 199,
+		"category": "Artificial Animal Body Part",
+		"defname": "SimpleProstheticFootAnimal"
+	},
+	{
+		"abr": "prostheticanimalhand",
+		"price": 199,
+		"category": "Artificial Animal Body Part",
+		"defname": "SimpleProstheticHandAnimal"
+	},
+	{
+		"abr": "prostheticanimalhoof",
+		"price": 199,
+		"category": "Artificial Animal Body Part",
+		"defname": "SimpleProstheticHoofAnimal"
+	},
+	{
+		"abr": "prostheticanimalpaw",
+		"price": 199,
+		"category": "Artificial Animal Body Part",
+		"defname": "SimpleProstheticPawAnimal"
+	},
+	{
+		"abr": "prostheticanimaltail",
+		"price": 124,
+		"category": "Artificial Animal Body Part",
+		"defname": "SimpleProstheticTailAnimal"
+	},
+	{
+		"abr": "prostheticanimaltoe",
+		"price": 22,
+		"category": "Artificial Animal Body Part",
+		"defname": "SimpleProstheticToeAnimal"
+	},
+	{
+		"abr": "replacementanimalspine",
+		"price": 284,
+		"category": "Artificial Animal Body Part",
+		"defname": "SimpleSpineAnimal"
+	},
+	{
+		"abr": "stonebench,functional",
+		"price": 86,
+		"category": "Misc",
+		"defname": "VFEPD_AP_StoneBench_Functional"
+	},
+	{
+		"abr": "streetlight,functional",
+		"price": 65,
+		"category": "Misc",
+		"defname": "VFEPD_AP_LamplightA_Functional"
+	},
+	{
+		"abr": "streetlight,functional",
+		"price": 65,
+		"category": "Misc",
+		"defname": "VFEPD_AP_LamplightB_Functional"
+	},
 	],
-	"total": 5094
+	"total": 5252
 }
