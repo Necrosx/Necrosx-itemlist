@@ -30967,12 +30967,6 @@
 		"defname": "CanisterC"
 	},
 	{
-		"abr": "cataphractcape",
-		"price": 367,
-		"category": "Noble apparel",
-		"defname": "Apparel_CapeCosmeticCataphract"
-	},
-	{
 		"abr": "chunka",
 		"price": 1683,
 		"category": "Furniture",
@@ -31243,12 +31237,6 @@
 		"defname": "AM_Entrance_LargeElevator"
 	},
 	{
-		"abr": "locustcape",
-		"price": 367,
-		"category": "Noble apparel",
-		"defname": "Apparel_CapeCosmeticLocust"
-	},
-	{
 		"abr": "lowhedge",
 		"price": 5,
 		"category": "Misc",
@@ -31307,30 +31295,6 @@
 		"price": 86,
 		"category": "Misc",
 		"defname": "VFEPD_AP_SimpleParkBench_Functional"
-	},
-	{
-		"abr": "phoenixcape",
-		"price": 367,
-		"category": "Noble apparel",
-		"defname": "Apparel_CapeCosmeticPhoenix"
-	},
-	{
-		"abr": "prestigecataphractcape",
-		"price": 367,
-		"category": "Noble apparel",
-		"defname": "Apparel_CapeCosmeticPrestigeCataphract"
-	},
-	{
-		"abr": "prestigemarinecape",
-		"price": 367,
-		"category": "Noble apparel",
-		"defname": "Apparel_CapeCosmeticPrestigeMarine"
-	},
-	{
-		"abr": "prestigereconcape",
-		"price": 367,
-		"category": "Noble apparel",
-		"defname": "Apparel_CapeCosmeticPrestigeRecon"
 	},
 	{
 		"abr": "profanedhorsebarding",
@@ -31410,6 +31374,6984 @@
 		"category": "Misc",
 		"defname": "VFEPD_AP_LamplightB_Functional"
 	},
+	{
+		"abr": "animalclothes",
+		"price": 166,
+		"category": "Animal Apparel",
+		"defname": "Apparel_SmallAnimalClothes"
+	},
+	{
+		"abr": "animalflakarmor",
+		"price": 500,
+		"category": "Animal Apparel",
+		"defname": "Apparel_SmallAnimalFlakArmor"
+	},
+	{
+		"abr": "animalflakhelmet",
+		"price": 260,
+		"category": "Animal Apparel",
+		"defname": "Apparel_SmallAnimalAdvancedHelmet"
+	},
+	{
+		"abr": "animalheadwear",
+		"price": 91,
+		"category": "Animal Apparel",
+		"defname": "Apparel_SmallAnimalScarf"
+	},
+	{
+		"abr": "animalplatearmor",
+		"price": 450,
+		"category": "Animal Apparel",
+		"defname": "Apparel_SmallAnimalPlateArmor"
+	},
+	{
+		"abr": "animalplatehelmet",
+		"price": 135,
+		"category": "Animal Apparel",
+		"defname": "Apparel_SmallAnimalPlateHelmet"
+	},
+	{
+		"abr": "animalpowerarmor",
+		"price": 3392,
+		"category": "Animal Apparel",
+		"defname": "Apparel_SmallAnimalPowerArmor"
+	},
+	{
+		"abr": "animalpowerhelmet",
+		"price": 1058,
+		"category": "Animal Apparel",
+		"defname": "Apparel_SmallAnimalPowerArmorHelmet"
+	},
+	{
+		"abr": "largeanimalclothes",
+		"price": 292,
+		"category": "Animal Apparel",
+		"defname": "Apparel_LargeAnimalClothes"
+	},
+	{
+		"abr": "largeanimalflakarmor",
+		"price": 1108,
+		"category": "Animal Apparel",
+		"defname": "Apparel_LargeAnimalFlakArmor"
+	},
+	{
+		"abr": "largeanimalflakhelmet",
+		"price": 592,
+		"category": "Animal Apparel",
+		"defname": "Apparel_LargeAnimalAdvancedHelmet"
+	},
+	{
+		"abr": "largeanimalheadwear",
+		"price": 181,
+		"category": "Animal Apparel",
+		"defname": "Apparel_LargeAnimalScarf"
+	},
+	{
+		"abr": "largeanimalplatearmor",
+		"price": 1075,
+		"category": "Animal Apparel",
+		"defname": "Apparel_LargeAnimalPlateArmor"
+	},
+	{
+		"abr": "largeanimalplatehelmet",
+		"price": 269,
+		"category": "Animal Apparel",
+		"defname": "Apparel_LargeAnimalPlateHelmet"
+	},
+	{
+		"abr": "largeanimalpowerarmor",
+		"price": 5783,
+		"category": "Animal Apparel",
+		"defname": "Apparel_LargeAnimalPowerArmor"
+	},
+	{
+		"abr": "largeanimalpowerhelmet",
+		"price": 1717,
+		"category": "Animal Apparel",
+		"defname": "Apparel_LargeAnimalPowerArmorHelmet"
+	},
+	{
+		"abr": "ridinggear",
+		"price": 322,
+		"category": "Animal Apparel",
+		"defname": "Apparel_bridle"
+	},
+	{
+		"abr": "streetlight,functional",
+		"price": 65,
+		"category": "Misc",
+		"defname": "VFEPD_AP_LamplightC_Functional"
+	},
+	{
+		"abr": "streetlight,functional",
+		"price": 65,
+		"category": "Misc",
+		"defname": "VFEPD_AP_LamplightD_Functional"
+	},
+	{
+		"abr": "streetlight,functional",
+		"price": 65,
+		"category": "Misc",
+		"defname": "VFEPD_AP_LamplightE_Functional"
+	},
+	{
+		"abr": "streetlight,functional",
+		"price": 65,
+		"category": "Misc",
+		"defname": "VFEPD_AP_LamplightL_Functional"
+	},
+	{
+		"abr": "streetlight,functional",
+		"price": 65,
+		"category": "Misc",
+		"defname": "VFEPD_AP_LamplightT_Functional"
+	},
+	{
+		"abr": "surrogateanimalheart",
+		"price": 268,
+		"category": "Artificial Animal Body Part",
+		"defname": "SimpleProstheticHeartAnimal"
+	},
+	{
+		"abr": "surrogateanimalkidney",
+		"price": 268,
+		"category": "Artificial Animal Body Part",
+		"defname": "SurrogateKidneyAnimal"
+	},
+	{
+		"abr": "surrogateanimalliver",
+		"price": 268,
+		"category": "Artificial Animal Body Part",
+		"defname": "SurrogateLiverAnimal"
+	},
+	{
+		"abr": "surrogateanimallung",
+		"price": 268,
+		"category": "Artificial Animal Body Part",
+		"defname": "SurrogateLungAnimal"
+	},
+	{
+		"abr": "largecape",
+		"price": 367,
+		"category": "Noble apparel",
+		"defname": "Apparel_LargeCape"
+	},
+	{
+		"abr": "lovethrallcapacityserum",
+		"price": 1250,
+		"category": "Misc",
+		"defname": "RS_LovethrallCapacitySerum"
+	},
+	{
+		"abr": "powergridoutlet",
+		"price": 425,
+		"category": "Misc",
+		"defname": "Outpost_PowerGrid_DeliverySpot"
+	},
+	{
+		"abr": "absolverarmor",
+		"price": 5333,
+		"category": "Armor",
+		"defname": "VFEE_Apparel_ArmorAbsolver"
+	},
+	{
+		"abr": "absolverhelmet",
+		"price": 2000,
+		"category": "Headgear",
+		"defname": "VFEE_Apparel_AbsolverHelmet"
+	},
+	{
+		"abr": "acidbruul",
+		"price": 6667,
+		"category": "Animals",
+		"defname": "OE_Bruul_Acid"
+	},
+	{
+		"abr": "acidbruulcaviar(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "OE_CaviarBruulAcidFertilized"
+	},
+	{
+		"abr": "aciddemonslime",
+		"price": 2917,
+		"category": "Animals",
+		"defname": "OE_Slime_Demon_Acid"
+	},
+	{
+		"abr": "aciddemonslimeheart(сonf.)",
+		"price": 1667,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Demon_Acid"
+	},
+	{
+		"abr": "acidinfestor",
+		"price": 750,
+		"category": "Animals",
+		"defname": "OE_Infestor_Acid"
+	},
+	{
+		"abr": "acidrift",
+		"price": 2583,
+		"category": "Melee weapons",
+		"defname": "OTC_Trophy_Sword_Acid"
+	},
+	{
+		"abr": "advancedbionicarm",
+		"price": 2750,
+		"category": "Bionic",
+		"defname": "OE_ProstheticArm_M"
+	},
+	{
+		"abr": "advancedbionicear",
+		"price": 2675,
+		"category": "Bionic",
+		"defname": "OE_ProstheticEar_M"
+	},
+	{
+		"abr": "advancedbioniceye",
+		"price": 2675,
+		"category": "Bionic",
+		"defname": "OE_ProstheticEye_M"
+	},
+	{
+		"abr": "advancedbionicheart",
+		"price": 2675,
+		"category": "Bionic",
+		"defname": "OE_ProstheticHeart_M"
+	},
+	{
+		"abr": "advancedbionicjaw",
+		"price": 2675,
+		"category": "Bionic",
+		"defname": "OE_ProstheticJaw_M"
+	},
+	{
+		"abr": "advancedbionickidney",
+		"price": 2675,
+		"category": "Bionic",
+		"defname": "OE_ProstheticKidney_M"
+	},
+	{
+		"abr": "advancedbionicleg",
+		"price": 2750,
+		"category": "Bionic",
+		"defname": "OE_ProstheticLeg_M"
+	},
+	{
+		"abr": "advancedbionicliver",
+		"price": 2675,
+		"category": "Bionic",
+		"defname": "OE_ProstheticLiver_M"
+	},
+	{
+		"abr": "advancedbioniclung",
+		"price": 2675,
+		"category": "Bionic",
+		"defname": "OE_ProstheticLung_M"
+	},
+	{
+		"abr": "advancedbionicspine",
+		"price": 5000,
+		"category": "Bionic",
+		"defname": "GTSpine"
+	},
+	{
+		"abr": "advancedbionicspine",
+		"price": 2750,
+		"category": "Bionic",
+		"defname": "OE_ProstheticSpine_M"
+	},
+	{
+		"abr": "advancedbionicstomach",
+		"price": 2675,
+		"category": "Bionic",
+		"defname": "OE_ProstheticStomach_M"
+	},
+	{
+		"abr": "advanceddeepdrill",
+		"price": 6592,
+		"category": "Production",
+		"defname": "AdvancedDeepDrill"
+	},
+	{
+		"abr": "aegis-emergent",
+		"price": 2083,
+		"category": "Shields",
+		"defname": "ODC_Shield_Medium"
+	},
+	{
+		"abr": "aegismk-ii",
+		"price": 2083,
+		"category": "Shields",
+		"defname": "OMC_Shield_Medium"
+	},
+	{
+		"abr": "aegisprototype",
+		"price": 1958,
+		"category": "Shields",
+		"defname": "OTC_Shield_Medium"
+	},
+	{
+		"abr": "alcrexin",
+		"price": 125,
+		"category": "Drugs",
+		"defname": "OE_Alcrexin"
+	},
+	{
+		"abr": "alcrexinserum",
+		"price": 208,
+		"category": "Drugs",
+		"defname": "OE_AlcrexinSerum"
+	},
+	{
+		"abr": "ambrosiaslime",
+		"price": 2417,
+		"category": "Animals",
+		"defname": "OE_Slime_Ambrosia"
+	},
+	{
+		"abr": "ambrosiaslimeheart(сonf.)",
+		"price": 1583,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Ambrosia"
+	},
+	{
+		"abr": "ancientdragonskull",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "OE_RelicDragonSkull"
+	},
+	{
+		"abr": "ancientobsidiabeacon",
+		"price": 4375,
+		"category": "Special",
+		"defname": "OE_Beacon_OMC"
+	},
+	{
+		"abr": "ancientobsidiabeacon",
+		"price": 4375,
+		"category": "Special",
+		"defname": "OE_Beacon_OTC"
+	},
+	{
+		"abr": "ancientobsidiabeacon",
+		"price": 4375,
+		"category": "Special",
+		"defname": "OE_Beacon_OCC"
+	},
+	{
+		"abr": "ancientobsidiabeacon",
+		"price": 4375,
+		"category": "Special",
+		"defname": "OE_Beacon_ODC"
+	},
+	{
+		"abr": "ancientobsidiabeacon",
+		"price": 4375,
+		"category": "Special",
+		"defname": "OE_Beacon_CAC"
+	},
+	{
+		"abr": "ancientobsidiabeacon",
+		"price": 4375,
+		"category": "Special",
+		"defname": "OE_Beacon_OES"
+	},
+	{
+		"abr": "ancientobsidiabeacon",
+		"price": 4375,
+		"category": "Special",
+		"defname": "OE_Beacon_OEC"
+	},
+	{
+		"abr": "ancientobsidiablade",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "OE_RelicBlade"
+	},
+	{
+		"abr": "ancientscepter",
+		"price": 4250,
+		"category": "Melee weapons",
+		"defname": "OEC_Trophy_Scepter"
+	},
+	{
+		"abr": "ancientslime",
+		"price": 2500,
+		"category": "Animals",
+		"defname": "OE_Slime_Ancient"
+	},
+	{
+		"abr": "anesthesiaivstand",
+		"price": 358,
+		"category": "Misc",
+		"defname": "AnesthesiaIVStand_IVStand"
+	},
+	{
+		"abr": "animacompanionslime",
+		"price": 1625,
+		"category": "Animals",
+		"defname": "OE_Slime_Companion_Anima"
+	},
+	{
+		"abr": "animacompanionslimeheart(сonf.)",
+		"price": 1667,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Companion_Anima"
+	},
+	{
+		"abr": "animalhemogenslime",
+		"price": 1875,
+		"category": "Animals",
+		"defname": "OE_Slime_HemogenAnimal"
+	},
+	{
+		"abr": "animalhemogenslimeheart(сonf.)",
+		"price": 1042,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_HemogenAnimal"
+	},
+	{
+		"abr": "apathy",
+		"price": 5292,
+		"category": "Melee weapons",
+		"defname": "CAC_Thurible"
+	},
+	{
+		"abr": "aperitif",
+		"price": 27,
+		"category": "Drugs",
+		"defname": "VFEE_Aperitif"
+	},
+	{
+		"abr": "arachnacore",
+		"price": 8333,
+		"category": "Manufactured",
+		"defname": "OE_ArachnaCore"
+	},
+	{
+		"abr": "armimplant-assassin",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantArm_Assassin"
+	},
+	{
+		"abr": "armimplant-demolisher",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantArm_Demolisher"
+	},
+	{
+		"abr": "armimplant-duelist",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantArm_Duelist"
+	},
+	{
+		"abr": "armimplant-sting(acid)",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantArm_Sting_Acid"
+	},
+	{
+		"abr": "armimplant-sting(cryo)",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantArm_Sting_Cryo"
+	},
+	{
+		"abr": "armimplant-sting(emp)",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantArm_Sting_EMP"
+	},
+	{
+		"abr": "armimplant-sting(fire)",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantArm_Sting_Fire"
+	},
+	{
+		"abr": "armagon",
+		"price": 1417,
+		"category": "Animals",
+		"defname": "OE_Armagon"
+	},
+	{
+		"abr": "armoredobsidiaanimaldoor",
+		"price": 1250,
+		"category": "Misc",
+		"defname": "OE_ArmoredPetdoor"
+	},
+	{
+		"abr": "armoredobsidiaautodoor",
+		"price": 1258,
+		"category": "Misc",
+		"defname": "OE_ArmoredAutodoor"
+	},
+	{
+		"abr": "armoredobsidiadoor",
+		"price": 1200,
+		"category": "Misc",
+		"defname": "OE_ArmoredDoor"
+	},
+	{
+		"abr": "ashisogijizō",
+		"price": 2583,
+		"category": "Ranged weapons",
+		"defname": "OE_Trophy_SampleCollector"
+	},
+	{
+		"abr": "astrinx",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "OE_Astrinx"
+	},
+	{
+		"abr": "auramodule-battlecommander",
+		"price": 4633,
+		"category": "Apparel",
+		"defname": "OE_Module_AuraBattleCommander"
+	},
+	{
+		"abr": "auramodule-brigadier",
+		"price": 4633,
+		"category": "Apparel",
+		"defname": "OE_Module_AuraBrigadier"
+	},
+	{
+		"abr": "auramodule-guardcommander",
+		"price": 4633,
+		"category": "Apparel",
+		"defname": "OE_Module_AuraGuardCommander"
+	},
+	{
+		"abr": "auramodule-psylord",
+		"price": 4633,
+		"category": "Apparel",
+		"defname": "OE_Module_AuraPsyLord"
+	},
+	{
+		"abr": "awakenedsynthesisdryad",
+		"price": 500,
+		"category": "Animals",
+		"defname": "OE_AwakenedDryad_Synthesis"
+	},
+	{
+		"abr": "azulium",
+		"price": 33,
+		"category": "Drugs",
+		"defname": "OE_Azulium"
+	},
+	{
+		"abr": "balor",
+		"price": 4250,
+		"category": "Melee weapons",
+		"defname": "OCC_Trophy_Drillspear"
+	},
+	{
+		"abr": "basher",
+		"price": 725,
+		"category": "Melee weapons",
+		"defname": "ODC_Tonfa"
+	},
+	{
+		"abr": "batterbone",
+		"price": 8217,
+		"category": "Melee weapons",
+		"defname": "EGO_BigHammer"
+	},
+	{
+		"abr": "batterskull",
+		"price": 8217,
+		"category": "Melee weapons",
+		"defname": "EGO_BigScythe"
+	},
+	{
+		"abr": "battlecompanionslime",
+		"price": 1625,
+		"category": "Animals",
+		"defname": "OE_Slime_Companion_Battle"
+	},
+	{
+		"abr": "battlecompanionslimeheart(сonf.)",
+		"price": 1667,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Companion_Battle"
+	},
+	{
+		"abr": "battlemodule-psy",
+		"price": 2892,
+		"category": "Apparel",
+		"defname": "OE_Module_Psy"
+	},
+	{
+		"abr": "battlemodule-resist",
+		"price": 2892,
+		"category": "Apparel",
+		"defname": "OE_Module_Resist"
+	},
+	{
+		"abr": "battlemodule-warrior",
+		"price": 2892,
+		"category": "Apparel",
+		"defname": "OE_Module_Warrior"
+	},
+	{
+		"abr": "beerslime",
+		"price": 2167,
+		"category": "Animals",
+		"defname": "OE_Slime_Beer"
+	},
+	{
+		"abr": "beerslimeheart(сonf.)",
+		"price": 1333,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Beer"
+	},
+	{
+		"abr": "behemoth",
+		"price": 4092,
+		"category": "Ranged weapons",
+		"defname": "OCC_RocketLauncher"
+	},
+	{
+		"abr": "bequest-apex",
+		"price": 1725,
+		"category": "Melee weapons",
+		"defname": "ODC_BigSword"
+	},
+	{
+		"abr": "betrayer'sweight",
+		"price": 11917,
+		"category": "Melee weapons",
+		"defname": "OES_Trophy_BigHammer"
+	},
+	{
+		"abr": "bioferriteslime",
+		"price": 1650,
+		"category": "Animals",
+		"defname": "OE_Slime_Bioferrite"
+	},
+	{
+		"abr": "bioferriteslimeheart(сonf.)",
+		"price": 817,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Bioferrite"
+	},
+	{
+		"abr": "bionicarm",
+		"price": 1983,
+		"category": "Bionic",
+		"defname": "OE_ProstheticArm"
+	},
+	{
+		"abr": "bionicear",
+		"price": 1867,
+		"category": "Bionic",
+		"defname": "OE_ProstheticEar"
+	},
+	{
+		"abr": "bioniceye",
+		"price": 1867,
+		"category": "Bionic",
+		"defname": "OE_ProstheticEye"
+	},
+	{
+		"abr": "bionicheart",
+		"price": 1867,
+		"category": "Bionic",
+		"defname": "OE_ProstheticHeart"
+	},
+	{
+		"abr": "bionicjaw",
+		"price": 1867,
+		"category": "Bionic",
+		"defname": "OE_ProstheticJaw"
+	},
+	{
+		"abr": "bionickidney",
+		"price": 1867,
+		"category": "Bionic",
+		"defname": "OE_ProstheticKidney"
+	},
+	{
+		"abr": "bionicleg",
+		"price": 1983,
+		"category": "Bionic",
+		"defname": "OE_ProstheticLeg"
+	},
+	{
+		"abr": "bionicliver",
+		"price": 1867,
+		"category": "Bionic",
+		"defname": "OE_ProstheticLiver"
+	},
+	{
+		"abr": "bioniclung",
+		"price": 1867,
+		"category": "Bionic",
+		"defname": "OE_ProstheticLung"
+	},
+	{
+		"abr": "bionicspine",
+		"price": 1983,
+		"category": "Bionic",
+		"defname": "OE_ProstheticSpine"
+	},
+	{
+		"abr": "bionicstomach",
+		"price": 1867,
+		"category": "Bionic",
+		"defname": "OE_ProstheticStomach"
+	},
+	{
+		"abr": "biophormidspherocore",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "OE_PherocoreBiophormids"
+	},
+	{
+		"abr": "blackprincesword",
+		"price": 2583,
+		"category": "Melee weapons",
+		"defname": "OE_Trophy_BrokenSword"
+	},
+	{
+		"abr": "blackout",
+		"price": 7375,
+		"category": "Ranged weapons",
+		"defname": "CAC_Minigun"
+	},
+	{
+		"abr": "bloodspiller",
+		"price": 608,
+		"category": "Melee weapons",
+		"defname": "OMC_Whip"
+	},
+	{
+		"abr": "bloodspillermk-ii",
+		"price": 1025,
+		"category": "Melee weapons",
+		"defname": "OMC_Whip_M"
+	},
+	{
+		"abr": "bloodspillermk-ii(acid)",
+		"price": 1150,
+		"category": "Melee weapons",
+		"defname": "OMC_Whip_M_Acid"
+	},
+	{
+		"abr": "bloodspillermk-ii(cryo)",
+		"price": 1150,
+		"category": "Melee weapons",
+		"defname": "OMC_Whip_M_Cryo"
+	},
+	{
+		"abr": "bloodspillermk-ii(emp)",
+		"price": 1150,
+		"category": "Melee weapons",
+		"defname": "OMC_Whip_M_EMP"
+	},
+	{
+		"abr": "bloodspillermk-ii(fire)",
+		"price": 1150,
+		"category": "Melee weapons",
+		"defname": "OMC_Whip_M_Fire"
+	},
+	{
+		"abr": "bloodspiller(acid)",
+		"price": 733,
+		"category": "Melee weapons",
+		"defname": "OMC_Whip_Acid"
+	},
+	{
+		"abr": "bloodspiller(cryo)",
+		"price": 733,
+		"category": "Melee weapons",
+		"defname": "OMC_Whip_Cryo"
+	},
+	{
+		"abr": "bloodspiller(emp)",
+		"price": 733,
+		"category": "Melee weapons",
+		"defname": "OMC_Whip_EMP"
+	},
+	{
+		"abr": "bloodspiller(fire)",
+		"price": 733,
+		"category": "Melee weapons",
+		"defname": "OMC_Whip_Fire"
+	},
+	{
+		"abr": "bluescorpid",
+		"price": 1750,
+		"category": "Animals",
+		"defname": "OE_Scorpid_Blue"
+	},
+	{
+		"abr": "bluetionantegg(fert.)",
+		"price": 58,
+		"category": "Eggs (fert.)",
+		"defname": "OE_EggBlueTionantFertilized"
+	},
+	{
+		"abr": "bluetionantjelly",
+		"price": 208,
+		"category": "Medicine",
+		"defname": "OE_Blue_TionantJelly"
+	},
+	{
+		"abr": "boneslime",
+		"price": 2917,
+		"category": "Animals",
+		"defname": "OE_Slime_Bone"
+	},
+	{
+		"abr": "boneslimeheart(сonf.)",
+		"price": 1667,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Bone"
+	},
+	{
+		"abr": "bonesword",
+		"price": 8217,
+		"category": "Melee weapons",
+		"defname": "EGO_BigSword"
+	},
+	{
+		"abr": "boomshooter-apex(acid)",
+		"price": 3592,
+		"category": "Ranged weapons",
+		"defname": "ODC_RocketLauncher_Acid"
+	},
+	{
+		"abr": "boomshooter-apex(cryo)",
+		"price": 3592,
+		"category": "Ranged weapons",
+		"defname": "ODC_RocketLauncher_Cryo"
+	},
+	{
+		"abr": "boomshooter-apex(emp)",
+		"price": 3592,
+		"category": "Ranged weapons",
+		"defname": "ODC_RocketLauncher_EMP"
+	},
+	{
+		"abr": "boomshooter-apex(fire)",
+		"price": 3592,
+		"category": "Ranged weapons",
+		"defname": "ODC_RocketLauncher_Fire"
+	},
+	{
+		"abr": "boomshooter-emergent",
+		"price": 3592,
+		"category": "Ranged weapons",
+		"defname": "ODC_RocketLauncher"
+	},
+	{
+		"abr": "brainimplant-psychicallydeaf",
+		"price": 1867,
+		"category": "Bionic",
+		"defname": "OE_ImplantBrain_Psydeaf"
+	},
+	{
+		"abr": "brainimplant-sacrifice",
+		"price": 1242,
+		"category": "Bionic",
+		"defname": "OE_ImplantBrain_Slave"
+	},
+	{
+		"abr": "brainimplant-suppression",
+		"price": 1867,
+		"category": "Bionic",
+		"defname": "OE_ImplantBrain_Prisoner"
+	},
+	{
+		"abr": "brontarok",
+		"price": 1417,
+		"category": "Animals",
+		"defname": "OE_Brontarok"
+	},
+	{
+		"abr": "bruulcaviar(unfert.)",
+		"price": 67,
+		"category": "Eggs (unfert.)",
+		"defname": "OE_CaviarBruulUnfertilized"
+	},
+	{
+		"abr": "cacblackoutturret",
+		"price": 6875,
+		"category": "Security",
+		"defname": "CAC_Turret_Big"
+	},
+	{
+		"abr": "caccultistheavyarmor",
+		"price": 8208,
+		"category": "Armor",
+		"defname": "CAC_HeavyArmor"
+	},
+	{
+		"abr": "caccultistheavyarmor(fogler)",
+		"price": 9875,
+		"category": "Armor",
+		"defname": "CAC_HeavyArmor_Smoker"
+	},
+	{
+		"abr": "caccultistheavyarmor(goblin)",
+		"price": 9875,
+		"category": "Armor",
+		"defname": "CAC_HeavyArmor_Turret"
+	},
+	{
+		"abr": "caccultistheavyarmor(lord)",
+		"price": 9875,
+		"category": "Armor",
+		"defname": "CAC_HeavyArmor_Prestige"
+	},
+	{
+		"abr": "caccultistheavyarmor(overseer)",
+		"price": 9875,
+		"category": "Armor",
+		"defname": "CAC_HeavyArmor_Mechanitor"
+	},
+	{
+		"abr": "caccultistheavyarmor(raven)",
+		"price": 9875,
+		"category": "Armor",
+		"defname": "CAC_HeavyArmor_Jump"
+	},
+	{
+		"abr": "caccultistheavyhelmet",
+		"price": 2917,
+		"category": "Headgear",
+		"defname": "CAC_HeavyHelmet"
+	},
+	{
+		"abr": "caccultistheavyhelmet(lord)",
+		"price": 4583,
+		"category": "Headgear",
+		"defname": "CAC_HeavyHelmet_Prestige"
+	},
+	{
+		"abr": "caccultistheavyhelmet(overseer)",
+		"price": 4583,
+		"category": "Headgear",
+		"defname": "CAC_HeavyHelmet_Mechanitor"
+	},
+	{
+		"abr": "caccultistlightarmor",
+		"price": 7583,
+		"category": "Armor",
+		"defname": "CAC_LightArmor"
+	},
+	{
+		"abr": "caccultistlightarmor(fogler)",
+		"price": 9250,
+		"category": "Armor",
+		"defname": "CAC_LightArmor_Smoker"
+	},
+	{
+		"abr": "caccultistlightarmor(goblin)",
+		"price": 9250,
+		"category": "Armor",
+		"defname": "CAC_LightArmor_Turret"
+	},
+	{
+		"abr": "caccultistlightarmor(lord)",
+		"price": 9250,
+		"category": "Armor",
+		"defname": "CAC_LightArmor_Prestige"
+	},
+	{
+		"abr": "caccultistlightarmor(overseer)",
+		"price": 9250,
+		"category": "Armor",
+		"defname": "CAC_LightArmor_Mechanitor"
+	},
+	{
+		"abr": "caccultistlightarmor(raven)",
+		"price": 9250,
+		"category": "Armor",
+		"defname": "CAC_LightArmor_Jump"
+	},
+	{
+		"abr": "caccultistlighthelmet",
+		"price": 2875,
+		"category": "Headgear",
+		"defname": "CAC_LightHelmet"
+	},
+	{
+		"abr": "caccultistlighthelmet(lord)",
+		"price": 4542,
+		"category": "Headgear",
+		"defname": "CAC_LightHelmet_Prestige"
+	},
+	{
+		"abr": "caccultistlighthelmet(overseer)",
+		"price": 4542,
+		"category": "Headgear",
+		"defname": "CAC_LightHelmet_Mechanitor"
+	},
+	{
+		"abr": "cacpriestarmor",
+		"price": 12542,
+		"category": "Armor",
+		"defname": "CAC_PriestArmor"
+	},
+	{
+		"abr": "cacpriesthelmet",
+		"price": 7250,
+		"category": "Headgear",
+		"defname": "CAC_PriestHelmet"
+	},
+	{
+		"abr": "cacwidowmakerpoweredturret",
+		"price": 4000,
+		"category": "Security",
+		"defname": "CAC_Turret_SmallPowered"
+	},
+	{
+		"abr": "cacwidowmakerturret",
+		"price": 3083,
+		"category": "Security",
+		"defname": "CAC_Turret_Small"
+	},
+	{
+		"abr": "candelabra",
+		"price": 169,
+		"category": "Furniture",
+		"defname": "VFEE_Candelabra"
+	},
+	{
+		"abr": "carnifex",
+		"price": 8492,
+		"category": "Melee weapons",
+		"defname": "EGO_Scepter"
+	},
+	{
+		"abr": "celestialprototype(acid)",
+		"price": 1275,
+		"category": "Ranged weapons",
+		"defname": "OTC_Pistol_M_Acid"
+	},
+	{
+		"abr": "celestialprototype(cryo)",
+		"price": 1275,
+		"category": "Ranged weapons",
+		"defname": "OTC_Pistol_M_Cryo"
+	},
+	{
+		"abr": "celestialprototype(emp)",
+		"price": 1275,
+		"category": "Ranged weapons",
+		"defname": "OTC_Pistol_M_EMP"
+	},
+	{
+		"abr": "celestialprototype(fire)",
+		"price": 1275,
+		"category": "Ranged weapons",
+		"defname": "OTC_Pistol_M_Fire"
+	},
+	{
+		"abr": "celestial(acid)",
+		"price": 858,
+		"category": "Ranged weapons",
+		"defname": "OTC_Pistol_Acid"
+	},
+	{
+		"abr": "celestial(cryo)",
+		"price": 858,
+		"category": "Ranged weapons",
+		"defname": "OTC_Pistol_Cryo"
+	},
+	{
+		"abr": "celestial(emp)",
+		"price": 858,
+		"category": "Ranged weapons",
+		"defname": "OTC_Pistol_EMP"
+	},
+	{
+		"abr": "celestial(fire)",
+		"price": 858,
+		"category": "Ranged weapons",
+		"defname": "OTC_Pistol_Fire"
+	},
+	{
+		"abr": "cerberus",
+		"price": 1892,
+		"category": "Ranged weapons",
+		"defname": "OCC_Rifle"
+	},
+	{
+		"abr": "chargethumper",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "VFEE_Gun_ChargeThumper"
+	},
+	{
+		"abr": "chemfuelslime",
+		"price": 1550,
+		"category": "Animals",
+		"defname": "OE_Slime_Chemfuel"
+	},
+	{
+		"abr": "chemfuelslimeheart(сonf.)",
+		"price": 717,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Chemfuel"
+	},
+	{
+		"abr": "chimera",
+		"price": 3075,
+		"category": "Ranged weapons",
+		"defname": "OCC_MultiCannon"
+	},
+	{
+		"abr": "cofagradol",
+		"price": 242,
+		"category": "Drugs",
+		"defname": "OE_Cofagradol"
+	},
+	{
+		"abr": "compressedsyntherius",
+		"price": 583,
+		"category": "Manufactured",
+		"defname": "OE_SyntheriusPack"
+	},
+	{
+		"abr": "conspirator-apex(acid)",
+		"price": 2308,
+		"category": "Ranged weapons",
+		"defname": "ODC_Shotgun_Acid"
+	},
+	{
+		"abr": "conspirator-apex(cryo)",
+		"price": 2308,
+		"category": "Ranged weapons",
+		"defname": "ODC_Shotgun_Cryo"
+	},
+	{
+		"abr": "conspirator-apex(emp)",
+		"price": 2308,
+		"category": "Ranged weapons",
+		"defname": "ODC_Shotgun_EMP"
+	},
+	{
+		"abr": "conspirator-apex(fire)",
+		"price": 2308,
+		"category": "Ranged weapons",
+		"defname": "ODC_Shotgun_Fire"
+	},
+	{
+		"abr": "conspirator-emergent",
+		"price": 1975,
+		"category": "Ranged weapons",
+		"defname": "ODC_Shotgun"
+	},
+	{
+		"abr": "corpsehemogenslime",
+		"price": 1875,
+		"category": "Animals",
+		"defname": "OE_Slime_HemogenCorpse"
+	},
+	{
+		"abr": "corpsehemogenslimeheart(сonf.)",
+		"price": 1042,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_HemogenCorpse"
+	},
+	{
+		"abr": "corrupter",
+		"price": 6892,
+		"category": "Ranged weapons",
+		"defname": "EGO_Shotgun"
+	},
+	{
+		"abr": "corruptermutalisk",
+		"price": 1083,
+		"category": "Animals",
+		"defname": "OE_Mutalisk_Corrupter"
+	},
+	{
+		"abr": "cosmol",
+		"price": 42,
+		"category": "Drugs",
+		"defname": "OE_Cosmol"
+	},
+	{
+		"abr": "cressadol",
+		"price": 242,
+		"category": "Drugs",
+		"defname": "OE_Cressadol"
+	},
+	{
+		"abr": "crimsonarachnabeacon",
+		"price": 2475,
+		"category": "Special",
+		"defname": "OE_Beacon_CrimsonArachna"
+	},
+	{
+		"abr": "crimsonarachnacultbanner",
+		"price": 917,
+		"category": "Inert relics",
+		"defname": "OE_RelicBannerC"
+	},
+	{
+		"abr": "cronus",
+		"price": 4250,
+		"category": "Ranged weapons",
+		"defname": "OCC_Trophy_Railgun"
+	},
+	{
+		"abr": "cryobruul",
+		"price": 6667,
+		"category": "Animals",
+		"defname": "OE_Bruul_Cryo"
+	},
+	{
+		"abr": "cryobruulcaviar(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "OE_CaviarBruulCryoFertilized"
+	},
+	{
+		"abr": "cryodemonslime",
+		"price": 2917,
+		"category": "Animals",
+		"defname": "OE_Slime_Demon_Cryo"
+	},
+	{
+		"abr": "cryodemonslimeheart(сonf.)",
+		"price": 1667,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Demon_Cryo"
+	},
+	{
+		"abr": "cryorift",
+		"price": 2583,
+		"category": "Melee weapons",
+		"defname": "OTC_Trophy_Sword_Cryo"
+	},
+	{
+		"abr": "crystalstar",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "OE_RelicStar"
+	},
+	{
+		"abr": "cultistbionicarm",
+		"price": 5833,
+		"category": "Bionic",
+		"defname": "OE_ProstheticArm_CAC"
+	},
+	{
+		"abr": "cultistbionicear",
+		"price": 5833,
+		"category": "Bionic",
+		"defname": "OE_ProstheticEar_CAC"
+	},
+	{
+		"abr": "cultistbioniceye",
+		"price": 5833,
+		"category": "Bionic",
+		"defname": "OE_ProstheticEye_CAC"
+	},
+	{
+		"abr": "cultistbionicheart",
+		"price": 5833,
+		"category": "Bionic",
+		"defname": "OE_ProstheticHeart_CAC"
+	},
+	{
+		"abr": "cultistbionicjaw",
+		"price": 5833,
+		"category": "Bionic",
+		"defname": "OE_ProstheticJaw_CAC"
+	},
+	{
+		"abr": "cultistbionickidney",
+		"price": 5833,
+		"category": "Bionic",
+		"defname": "OE_ProstheticKidney_CAC"
+	},
+	{
+		"abr": "cultistbionicleg",
+		"price": 5833,
+		"category": "Bionic",
+		"defname": "OE_ProstheticLeg_CAC"
+	},
+	{
+		"abr": "cultistbionicliver",
+		"price": 5833,
+		"category": "Bionic",
+		"defname": "OE_ProstheticLiver_CAC"
+	},
+	{
+		"abr": "cultistbioniclung",
+		"price": 5833,
+		"category": "Bionic",
+		"defname": "OE_ProstheticLung_CAC"
+	},
+	{
+		"abr": "cultistbionicspine",
+		"price": 5833,
+		"category": "Bionic",
+		"defname": "OE_ProstheticSpine_CAC"
+	},
+	{
+		"abr": "cultistbionicstomach",
+		"price": 5833,
+		"category": "Bionic",
+		"defname": "OE_ProstheticStomach_CAC"
+	},
+	{
+		"abr": "cursedbulwark",
+		"price": 6625,
+		"category": "Shields",
+		"defname": "CAC_Shield_Big"
+	},
+	{
+		"abr": "cyberware-beastmaster",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareNeck_Beastmaster"
+	},
+	{
+		"abr": "cyberware-drugfilter(basic)",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareTorso_Drugfilter_Basic"
+	},
+	{
+		"abr": "cyberware-drugfilter(exotic)",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareTorso_Drugfilter_Exotic"
+	},
+	{
+		"abr": "cyberware-drugfilter(obsidia)",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareTorso_Drugfilter_Obsidia"
+	},
+	{
+		"abr": "cyberware-ideologist",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareNeck_Ideologist"
+	},
+	{
+		"abr": "cyberware-melee",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareHead_Melee"
+	},
+	{
+		"abr": "cyberware-obsidian-will",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareNeck_ObsidianWill"
+	},
+	{
+		"abr": "cyberware-optimist",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareHead_Optimist"
+	},
+	{
+		"abr": "cyberware-pessimist",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareHead_Pessimist"
+	},
+	{
+		"abr": "cyberware-psy",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareHead_Psy"
+	},
+	{
+		"abr": "cyberware-ranger",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareHead_Ranged"
+	},
+	{
+		"abr": "cyberware-recruiter",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareNeck_Recruiter"
+	},
+	{
+		"abr": "cyberware-relaxing",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareHead_Relaxing"
+	},
+	{
+		"abr": "cyberware-social",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareNeck_Social"
+	},
+	{
+		"abr": "cyberware-temperatureprotector",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareTorso_Temperature"
+	},
+	{
+		"abr": "cyberware-trader",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareNeck_Trader"
+	},
+	{
+		"abr": "cyberware-workout",
+		"price": 2300,
+		"category": "Archotech",
+		"defname": "OE_CyberwareHead_Workout"
+	},
+	{
+		"abr": "cyberwareai-agronomist",
+		"price": 2925,
+		"category": "Archotech",
+		"defname": "OE_CyberwareBrain_Agronomist"
+	},
+	{
+		"abr": "cyberwareai-builder",
+		"price": 2925,
+		"category": "Archotech",
+		"defname": "OE_CyberwareBrain_Builder"
+	},
+	{
+		"abr": "cyberwareai-consciousness",
+		"price": 2925,
+		"category": "Archotech",
+		"defname": "OE_CyberwareBrain_Consciousness"
+	},
+	{
+		"abr": "cyberwareai-doctor",
+		"price": 2925,
+		"category": "Archotech",
+		"defname": "OE_CyberwareBrain_Doctor"
+	},
+	{
+		"abr": "cyberwareai-mechanitor",
+		"price": 2925,
+		"category": "Archotech",
+		"defname": "OE_CyberwareBrain_Mechanitor"
+	},
+	{
+		"abr": "cyberwareai-psy",
+		"price": 2925,
+		"category": "Archotech",
+		"defname": "OE_CyberwareBrain_Psy"
+	},
+	{
+		"abr": "cyberwareai-soldier",
+		"price": 2925,
+		"category": "Archotech",
+		"defname": "OE_CyberwareBrain_Soldier"
+	},
+	{
+		"abr": "cyberwareaiinterface",
+		"price": 4167,
+		"category": "Bionic",
+		"defname": "OE_ImplantBrain_Interface"
+	},
+	{
+		"abr": "cyberwareinterface",
+		"price": 3225,
+		"category": "Bionic",
+		"defname": "OE_ImplantTorso_Interface"
+	},
+	{
+		"abr": "cycloneminigun",
+		"price": 2433,
+		"category": "Ranged weapons",
+		"defname": "VWEB_Gun_CycloneMinigun"
+	},
+	{
+		"abr": "defiant-apex",
+		"price": 1392,
+		"category": "Melee weapons",
+		"defname": "ODC_RapierGuard"
+	},
+	{
+		"abr": "deflector-emergent",
+		"price": 1542,
+		"category": "Shields",
+		"defname": "ODC_Shield_Small"
+	},
+	{
+		"abr": "deli",
+		"price": 14583,
+		"category": "Utility",
+		"defname": "OES_Drone"
+	},
+	{
+		"abr": "delimiter",
+		"price": 1008,
+		"category": "Melee weapons",
+		"defname": "OMC_Sword"
+	},
+	{
+		"abr": "delimitermk-ii",
+		"price": 1425,
+		"category": "Melee weapons",
+		"defname": "OMC_Sword_M"
+	},
+	{
+		"abr": "deserterarmor",
+		"price": 6883,
+		"category": "Armor",
+		"defname": "VFEE_Apparel_ArmorDeserter"
+	},
+	{
+		"abr": "deserterhelmet",
+		"price": 1267,
+		"category": "Headgear",
+		"defname": "VFEE_Apparel_DeserterHelmet"
+	},
+	{
+		"abr": "devourer",
+		"price": 6825,
+		"category": "Melee weapons",
+		"defname": "EGO_Claws"
+	},
+	{
+		"abr": "direwolf",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "OE_Direwolf"
+	},
+	{
+		"abr": "divinity",
+		"price": 2583,
+		"category": "Ranged weapons",
+		"defname": "OEC_Trophy_Pistol"
+	},
+	{
+		"abr": "doom",
+		"price": 1475,
+		"category": "Ranged weapons",
+		"defname": "OMC_Shotgun"
+	},
+	{
+		"abr": "doommk-ii",
+		"price": 1892,
+		"category": "Ranged weapons",
+		"defname": "OMC_Shotgun_M"
+	},
+	{
+		"abr": "dragonianwood",
+		"price": 30,
+		"category": "Raw resources",
+		"defname": "OE_DragonianWoodLog"
+	},
+	{
+		"abr": "driftersmodernizationkit",
+		"price": 1417,
+		"category": "Manufactured",
+		"defname": "OE_DriftersKit"
+	},
+	{
+		"abr": "dunearachna",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "OE_Arachna_Red"
+	},
+	{
+		"abr": "echo",
+		"price": 3458,
+		"category": "Ranged weapons",
+		"defname": "CAC_SMG"
+	},
+	{
+		"abr": "egoinhibitor",
+		"price": 1375,
+		"category": "Misc",
+		"defname": "OE_EGOInhibitor"
+	},
+	{
+		"abr": "egoseed",
+		"price": 583,
+		"category": "Misc",
+		"defname": "OE_EGOSeed"
+	},
+	{
+		"abr": "elitra",
+		"price": 3575,
+		"category": "Melee weapons",
+		"defname": "OEC_Spear"
+	},
+	{
+		"abr": "eltexslime",
+		"price": 6750,
+		"category": "Animals",
+		"defname": "OE_Slime_Eltex"
+	},
+	{
+		"abr": "eltexslimeheart(сonf.)",
+		"price": 5917,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Eltex"
+	},
+	{
+		"abr": "empbruul",
+		"price": 6667,
+		"category": "Animals",
+		"defname": "OE_Bruul_EMP"
+	},
+	{
+		"abr": "empbruulcaviar(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "OE_CaviarBruulEMPFertilized"
+	},
+	{
+		"abr": "empdemonslime",
+		"price": 2917,
+		"category": "Animals",
+		"defname": "OE_Slime_Demon_EMP"
+	},
+	{
+		"abr": "empdemonslimeheart(сonf.)",
+		"price": 1667,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Demon_EMP"
+	},
+	{
+		"abr": "emprift",
+		"price": 2583,
+		"category": "Melee weapons",
+		"defname": "OTC_Trophy_Sword_EMP"
+	},
+	{
+		"abr": "empress'sblessing",
+		"price": 2583,
+		"category": "Melee weapons",
+		"defname": "OMC_Trophy_Chainsword"
+	},
+	{
+		"abr": "empyrium",
+		"price": 42,
+		"category": "Raw resources",
+		"defname": "OE_Empyrium"
+	},
+	{
+		"abr": "empyriumsynthweave",
+		"price": 46,
+		"category": "Textiles",
+		"defname": "OE_EmpyriumSynthweave"
+	},
+	{
+		"abr": "enigma-apex(acid)",
+		"price": 1392,
+		"category": "Melee weapons",
+		"defname": "ODC_Rapier_Acid"
+	},
+	{
+		"abr": "enigma-apex(cryo)",
+		"price": 1392,
+		"category": "Melee weapons",
+		"defname": "ODC_Rapier_Cryo"
+	},
+	{
+		"abr": "enigma-apex(emp)",
+		"price": 1392,
+		"category": "Melee weapons",
+		"defname": "ODC_Rapier_EMP"
+	},
+	{
+		"abr": "enigma-apex(fire)",
+		"price": 1392,
+		"category": "Melee weapons",
+		"defname": "ODC_Rapier_Fire"
+	},
+	{
+		"abr": "equalizerprototype(acid)",
+		"price": 1992,
+		"category": "Ranged weapons",
+		"defname": "OTC_SMG_M_Acid"
+	},
+	{
+		"abr": "equalizerprototype(cryo)",
+		"price": 1992,
+		"category": "Ranged weapons",
+		"defname": "OTC_SMG_M_Cryo"
+	},
+	{
+		"abr": "equalizerprototype(emp)",
+		"price": 1992,
+		"category": "Ranged weapons",
+		"defname": "OTC_SMG_M_EMP"
+	},
+	{
+		"abr": "equalizerprototype(fire)",
+		"price": 1992,
+		"category": "Ranged weapons",
+		"defname": "OTC_SMG_M_Fire"
+	},
+	{
+		"abr": "equalizer(acid)",
+		"price": 1575,
+		"category": "Ranged weapons",
+		"defname": "OTC_SMG_Acid"
+	},
+	{
+		"abr": "equalizer(cryo)",
+		"price": 1575,
+		"category": "Ranged weapons",
+		"defname": "OTC_SMG_Cryo"
+	},
+	{
+		"abr": "equalizer(emp)",
+		"price": 1575,
+		"category": "Ranged weapons",
+		"defname": "OTC_SMG_EMP"
+	},
+	{
+		"abr": "equalizer(fire)",
+		"price": 1575,
+		"category": "Ranged weapons",
+		"defname": "OTC_SMG_Fire"
+	},
+	{
+		"abr": "eternalgauntlet",
+		"price": 2917,
+		"category": "Melee weapons",
+		"defname": "ODC_Trophy_PowerFist_B"
+	},
+	{
+		"abr": "eternalgauntletmk.i",
+		"price": 3750,
+		"category": "Melee weapons",
+		"defname": "ODC_Trophy_PowerFist_C"
+	},
+	{
+		"abr": "eternalgauntletmk.ii",
+		"price": 4583,
+		"category": "Melee weapons",
+		"defname": "ODC_Trophy_PowerFist_D"
+	},
+	{
+		"abr": "eternalgauntletmk.iii",
+		"price": 5417,
+		"category": "Melee weapons",
+		"defname": "ODC_Trophy_PowerFist_E"
+	},
+	{
+		"abr": "eternalgauntletmk.iv",
+		"price": 5833,
+		"category": "Melee weapons",
+		"defname": "ODC_Trophy_PowerFist_F"
+	},
+	{
+		"abr": "eternalgauntletmk.v",
+		"price": 6250,
+		"category": "Melee weapons",
+		"defname": "ODC_Trophy_PowerFist_G"
+	},
+	{
+		"abr": "eternalgauntletmk.vi",
+		"price": 6667,
+		"category": "Melee weapons",
+		"defname": "ODC_Trophy_PowerFist_H"
+	},
+	{
+		"abr": "eternalgauntletmk.vii",
+		"price": 7083,
+		"category": "Melee weapons",
+		"defname": "ODC_Trophy_PowerFist_I"
+	},
+	{
+		"abr": "eternalgauntletmk.viii",
+		"price": 9167,
+		"category": "Melee weapons",
+		"defname": "ODC_Trophy_PowerFist_J"
+	},
+	{
+		"abr": "exalteddeflector",
+		"price": 1792,
+		"category": "Shields",
+		"defname": "OEC_Shield_Small"
+	},
+	{
+		"abr": "exaltedelitra",
+		"price": 3992,
+		"category": "Melee weapons",
+		"defname": "OEC_Spear_M"
+	},
+	{
+		"abr": "exaltedjudgement",
+		"price": 4525,
+		"category": "Ranged weapons",
+		"defname": "OEC_SniperRifle_M"
+	},
+	{
+		"abr": "exaltedpeacemaker",
+		"price": 1983,
+		"category": "Ranged weapons",
+		"defname": "OEC_Revolver_M"
+	},
+	{
+		"abr": "exaltedpride",
+		"price": 4233,
+		"category": "Ranged weapons",
+		"defname": "OEC_Bow_M"
+	},
+	{
+		"abr": "exaltedreaper",
+		"price": 2725,
+		"category": "Melee weapons",
+		"defname": "OEC_Katana_M"
+	},
+	{
+		"abr": "exaltedreaper(acid)",
+		"price": 2850,
+		"category": "Melee weapons",
+		"defname": "OEC_Katana_M_Acid"
+	},
+	{
+		"abr": "exaltedreaper(cryo)",
+		"price": 2850,
+		"category": "Melee weapons",
+		"defname": "OEC_Katana_M_Cryo"
+	},
+	{
+		"abr": "exaltedreaper(emp)",
+		"price": 2850,
+		"category": "Melee weapons",
+		"defname": "OEC_Katana_M_EMP"
+	},
+	{
+		"abr": "exaltedreaper(fire)",
+		"price": 2850,
+		"category": "Melee weapons",
+		"defname": "OEC_Katana_M_Fire"
+	},
+	{
+		"abr": "exaltedredeemer",
+		"price": 2392,
+		"category": "Ranged weapons",
+		"defname": "OEC_Shotgun_M"
+	},
+	{
+		"abr": "exaltedshard",
+		"price": 1433,
+		"category": "Melee weapons",
+		"defname": "OEC_Knife_M"
+	},
+	{
+		"abr": "exaltedtruth",
+		"price": 2325,
+		"category": "Melee weapons",
+		"defname": "OEC_Claws_M"
+	},
+	{
+		"abr": "exaltedunchained",
+		"price": 3742,
+		"category": "Ranged weapons",
+		"defname": "OEC_Minigun_M"
+	},
+	{
+		"abr": "exaltedverdict",
+		"price": 2367,
+		"category": "Ranged weapons",
+		"defname": "OEC_AR_M"
+	},
+	{
+		"abr": "fallenlegionbeacon",
+		"price": 5100,
+		"category": "Special",
+		"defname": "OE_Beacon_FallenLegion"
+	},
+	{
+		"abr": "fiftharachna'ssin-wrath",
+		"price": 3833,
+		"category": "Ranged weapons",
+		"defname": "CAC_Trophy_Shotgun"
+	},
+	{
+		"abr": "firebruul",
+		"price": 6667,
+		"category": "Animals",
+		"defname": "OE_Bruul_Fire"
+	},
+	{
+		"abr": "firebruulcaviar(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "OE_CaviarBruulFireFertilized"
+	},
+	{
+		"abr": "firedemonslime",
+		"price": 2917,
+		"category": "Animals",
+		"defname": "OE_Slime_Demon_Fire"
+	},
+	{
+		"abr": "firedemonslimeheart(сonf.)",
+		"price": 1667,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Demon_Fire"
+	},
+	{
+		"abr": "fireinfestor",
+		"price": 750,
+		"category": "Animals",
+		"defname": "OE_Infestor_Fire"
+	},
+	{
+		"abr": "firerift",
+		"price": 2583,
+		"category": "Melee weapons",
+		"defname": "OTC_Trophy_Sword_Fire"
+	},
+	{
+		"abr": "firestormshotgun",
+		"price": 633,
+		"category": "Ranged weapons",
+		"defname": "VWEB_Gun_FirestormShotgun"
+	},
+	{
+		"abr": "firstarachna'ssin-lust",
+		"price": 5292,
+		"category": "Melee weapons",
+		"defname": "CAC_Trophy_Whip"
+	},
+	{
+		"abr": "flarestrikerifle",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VWEB_Gun_FlarestrikeRifle"
+	},
+	{
+		"abr": "fletcher",
+		"price": 4583,
+		"category": "Ranged weapons",
+		"defname": "VEE_Gun_Fletcher"
+	},
+	{
+		"abr": "fletchercrossbow",
+		"price": 4583,
+		"category": "Ranged weapons",
+		"defname": "CAT_Fletcher_Crossbow"
+	},
+	{
+		"abr": "florgadol",
+		"price": 242,
+		"category": "Drugs",
+		"defname": "OE_Florgadol"
+	},
+	{
+		"abr": "forgestorm",
+		"price": 2583,
+		"category": "Melee weapons",
+		"defname": "OE_Trophy_MechHammer"
+	},
+	{
+		"abr": "fourtharachna'ssin-sloth",
+		"price": 2042,
+		"category": "Ranged weapons",
+		"defname": "CAC_Trophy_Pistol"
+	},
+	{
+		"abr": "fungalwood",
+		"price": 2,
+		"category": "Raw resources",
+		"defname": "OE_FungalWoodLog"
+	},
+	{
+		"abr": "fungusslime",
+		"price": 1258,
+		"category": "Animals",
+		"defname": "OE_Slime_Fungus"
+	},
+	{
+		"abr": "fungusslimeheart(сonf.)",
+		"price": 425,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Fungus"
+	},
+	{
+		"abr": "furious",
+		"price": 1008,
+		"category": "Melee weapons",
+		"defname": "OMC_Axe"
+	},
+	{
+		"abr": "furiousmk-ii",
+		"price": 1425,
+		"category": "Melee weapons",
+		"defname": "OMC_Axe_M"
+	},
+	{
+		"abr": "garganadol",
+		"price": 242,
+		"category": "Drugs",
+		"defname": "OE_Garganadol"
+	},
+	{
+		"abr": "genesisprototype(acid)",
+		"price": 3342,
+		"category": "Melee weapons",
+		"defname": "OTC_BigAxe_M_Acid"
+	},
+	{
+		"abr": "genesisprototype(cryo)",
+		"price": 3342,
+		"category": "Melee weapons",
+		"defname": "OTC_BigAxe_M_Cryo"
+	},
+	{
+		"abr": "genesisprototype(emp)",
+		"price": 3342,
+		"category": "Melee weapons",
+		"defname": "OTC_BigAxe_M_EMP"
+	},
+	{
+		"abr": "genesisprototype(fire)",
+		"price": 3342,
+		"category": "Melee weapons",
+		"defname": "OTC_BigAxe_M_Fire"
+	},
+	{
+		"abr": "genesis(acid)",
+		"price": 2925,
+		"category": "Melee weapons",
+		"defname": "OTC_BigAxe_Acid"
+	},
+	{
+		"abr": "genesis(cryo)",
+		"price": 2925,
+		"category": "Melee weapons",
+		"defname": "OTC_BigAxe_Cryo"
+	},
+	{
+		"abr": "genesis(emp)",
+		"price": 2925,
+		"category": "Melee weapons",
+		"defname": "OTC_BigAxe_EMP"
+	},
+	{
+		"abr": "genesis(fire)",
+		"price": 2925,
+		"category": "Melee weapons",
+		"defname": "OTC_BigAxe_Fire"
+	},
+	{
+		"abr": "ghoulskeletonimplant-scarab",
+		"price": 2017,
+		"category": "Ghoul",
+		"defname": "OE_GhoulImplantSkeleton"
+	},
+	{
+		"abr": "ghoulskinimplant-carapace",
+		"price": 2058,
+		"category": "Ghoul",
+		"defname": "OE_GhoulImplantSkin"
+	},
+	{
+		"abr": "ghoulstomachimplant-larva",
+		"price": 1767,
+		"category": "Ghoul",
+		"defname": "OE_GhoulImplantStomach"
+	},
+	{
+		"abr": "giant'sbane",
+		"price": 3842,
+		"category": "Ranged weapons",
+		"defname": "OMC_RocketLauncher"
+	},
+	{
+		"abr": "giant'sbanemk-ii",
+		"price": 4258,
+		"category": "Ranged weapons",
+		"defname": "OMC_RocketLauncher_M"
+	},
+	{
+		"abr": "goldslime",
+		"price": 2833,
+		"category": "Animals",
+		"defname": "OE_Slime_Gold"
+	},
+	{
+		"abr": "goldslimeheart(сonf.)",
+		"price": 2000,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Gold"
+	},
+	{
+		"abr": "grandchair",
+		"price": 392,
+		"category": "Furniture",
+		"defname": "VFEE_GrandChair"
+	},
+	{
+		"abr": "grandimperialsculpture",
+		"price": 1967,
+		"category": "Art",
+		"defname": "VFEE_RoyalSculptureGrand"
+	},
+	{
+		"abr": "grandroyalrug",
+		"price": 525,
+		"category": "Furniture",
+		"defname": "VFEE_GrandRoyalRug"
+	},
+	{
+		"abr": "grandtable",
+		"price": 1133,
+		"category": "Furniture",
+		"defname": "VFEE_GrandTable"
+	},
+	{
+		"abr": "greentionantegg(fert.)",
+		"price": 58,
+		"category": "Eggs (fert.)",
+		"defname": "OE_EggGreenTionantFertilized"
+	},
+	{
+		"abr": "greentionantjelly",
+		"price": 42,
+		"category": "Vegetarian",
+		"defname": "OE_Green_TionantJelly"
+	},
+	{
+		"abr": "grieving",
+		"price": 3833,
+		"category": "Ranged weapons",
+		"defname": "CAC_Shotgun"
+	},
+	{
+		"abr": "guillotine-apex",
+		"price": 1725,
+		"category": "Melee weapons",
+		"defname": "ODC_DualSword"
+	},
+	{
+		"abr": "handimplant-agronomist",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantHand_Agronomist"
+	},
+	{
+		"abr": "handimplant-builder",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantHand_Builder"
+	},
+	{
+		"abr": "handimplant-doctor",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantHand_Doctor"
+	},
+	{
+		"abr": "handimplant-harvester",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantHand_Harvester"
+	},
+	{
+		"abr": "handimplant-psy",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantHand_Psy"
+	},
+	{
+		"abr": "handimplant-soldier",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantHand_Soldier"
+	},
+	{
+		"abr": "harvest",
+		"price": 4250,
+		"category": "Ranged weapons",
+		"defname": "ODC_Trophy_BladeLauncher_A"
+	},
+	{
+		"abr": "harvest-apex",
+		"price": 5250,
+		"category": "Ranged weapons",
+		"defname": "ODC_Trophy_BladeLauncher_C"
+	},
+	{
+		"abr": "harvest-emergent",
+		"price": 4583,
+		"category": "Ranged weapons",
+		"defname": "ODC_Trophy_BladeLauncher_B"
+	},
+	{
+		"abr": "heartimplant-healing",
+		"price": 1975,
+		"category": "Bionic",
+		"defname": "OE_ImplantHeart_Healing"
+	},
+	{
+		"abr": "heartstriker",
+		"price": 3292,
+		"category": "Ranged weapons",
+		"defname": "CAC_ShotgunS"
+	},
+	{
+		"abr": "heavyincinerator",
+		"price": 1467,
+		"category": "Ranged weapons",
+		"defname": "VWEB_HeavyIncinerator"
+	},
+	{
+		"abr": "hellscream",
+		"price": 1233,
+		"category": "Ranged weapons",
+		"defname": "OMC_ShotgunS"
+	},
+	{
+		"abr": "hellscreammk-ii",
+		"price": 1650,
+		"category": "Ranged weapons",
+		"defname": "OMC_ShotgunS_M"
+	},
+	{
+		"abr": "hemogenslime",
+		"price": 1875,
+		"category": "Animals",
+		"defname": "OE_Slime_Hemogen"
+	},
+	{
+		"abr": "hemogenslimeheart(сonf.)",
+		"price": 1042,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Hemogen"
+	},
+	{
+		"abr": "herbalslime",
+		"price": 2000,
+		"category": "Animals",
+		"defname": "OE_Slime_Herbal"
+	},
+	{
+		"abr": "herbalslimeheart(сonf.)",
+		"price": 1167,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Herbal"
+	},
+	{
+		"abr": "heroicauramodule-battlecommander",
+		"price": 5917,
+		"category": "Apparel",
+		"defname": "OE_Module_HeroicAuraBattleCommander"
+	},
+	{
+		"abr": "heroicauramodule-brigadier",
+		"price": 5917,
+		"category": "Apparel",
+		"defname": "OE_Module_HeroicAuraBrigadier"
+	},
+	{
+		"abr": "heroicauramodule-guardcommander",
+		"price": 5917,
+		"category": "Apparel",
+		"defname": "OE_Module_HeroicAuraGuardCommander"
+	},
+	{
+		"abr": "heroicauramodule-psylord",
+		"price": 5917,
+		"category": "Apparel",
+		"defname": "OE_Module_HeroicAuraPsyLord"
+	},
+	{
+		"abr": "heroicbattlemodule-psy",
+		"price": 5917,
+		"category": "Apparel",
+		"defname": "OE_Module_HeroicPsy"
+	},
+	{
+		"abr": "heroicbattlemodule-resist",
+		"price": 5917,
+		"category": "Apparel",
+		"defname": "OE_Module_HeroicResist"
+	},
+	{
+		"abr": "heroicbattlemodule-warrior",
+		"price": 5917,
+		"category": "Apparel",
+		"defname": "OE_Module_HeroicWarrior"
+	},
+	{
+		"abr": "heroicbulwark",
+		"price": 9392,
+		"category": "Shields",
+		"defname": "OES_Shield_Big"
+	},
+	{
+		"abr": "heroiccerberus",
+		"price": 8308,
+		"category": "Ranged weapons",
+		"defname": "OES_Rifle"
+	},
+	{
+		"abr": "heroicdeflector",
+		"price": 6708,
+		"category": "Shields",
+		"defname": "OES_Shield_Small"
+	},
+	{
+		"abr": "heroicdelimiter",
+		"price": 7675,
+		"category": "Melee weapons",
+		"defname": "OES_Sword"
+	},
+	{
+		"abr": "heroiceidolonarmor(guardian)",
+		"price": 13750,
+		"category": "Armor",
+		"defname": "OES_Armor_Shield"
+	},
+	{
+		"abr": "heroiceidolonarmor(protector)",
+		"price": 13750,
+		"category": "Armor",
+		"defname": "OES_Armor_Barrier"
+	},
+	{
+		"abr": "heroiceidolonhelmet(gladiator)",
+		"price": 7083,
+		"category": "Headgear",
+		"defname": "OES_Helmet_Melee"
+	},
+	{
+		"abr": "heroiceidolonhelmet(ranger)",
+		"price": 7083,
+		"category": "Headgear",
+		"defname": "OES_Helmet_Ranged"
+	},
+	{
+		"abr": "heroicelitra",
+		"price": 9742,
+		"category": "Melee weapons",
+		"defname": "OES_Spear"
+	},
+	{
+		"abr": "heroicfurious",
+		"price": 7675,
+		"category": "Melee weapons",
+		"defname": "OES_Axe"
+	},
+	{
+		"abr": "heroicgenesis",
+		"price": 9467,
+		"category": "Melee weapons",
+		"defname": "OES_BigAxe"
+	},
+	{
+		"abr": "heroicguillotine",
+		"price": 9467,
+		"category": "Melee weapons",
+		"defname": "OES_DualSword"
+	},
+	{
+		"abr": "heroichellscream",
+		"price": 7900,
+		"category": "Ranged weapons",
+		"defname": "OES_ShotgunS"
+	},
+	{
+		"abr": "heroicimperfect",
+		"price": 8075,
+		"category": "Melee weapons",
+		"defname": "OES_Rapier"
+	},
+	{
+		"abr": "heroicintelligencemodule-mechanitor",
+		"price": 5917,
+		"category": "Apparel",
+		"defname": "OE_Module_HeroicMechanitor"
+	},
+	{
+		"abr": "heroicintelligencemodule-medic",
+		"price": 5917,
+		"category": "Apparel",
+		"defname": "OE_Module_HeroicMedic"
+	},
+	{
+		"abr": "heroicintelligencemodule-scientist",
+		"price": 5917,
+		"category": "Apparel",
+		"defname": "OE_Module_HeroicScientist"
+	},
+	{
+		"abr": "heroicintelligencemodule-social",
+		"price": 5917,
+		"category": "Apparel",
+		"defname": "OE_Module_HeroicSocial"
+	},
+	{
+		"abr": "heroicnemesis",
+		"price": 7675,
+		"category": "Melee weapons",
+		"defname": "OES_Hammer"
+	},
+	{
+		"abr": "heroicpride",
+		"price": 9983,
+		"category": "Ranged weapons",
+		"defname": "OES_Bow"
+	},
+	{
+		"abr": "heroicreaper",
+		"price": 8475,
+		"category": "Melee weapons",
+		"defname": "OES_Katana"
+	},
+	{
+		"abr": "heroicshikigami",
+		"price": 9467,
+		"category": "Melee weapons",
+		"defname": "OES_BigSword"
+	},
+	{
+		"abr": "heroicsouldrinker",
+		"price": 8475,
+		"category": "Melee weapons",
+		"defname": "OES_Scythe"
+	},
+	{
+		"abr": "heroictyphon",
+		"price": 8075,
+		"category": "Melee weapons",
+		"defname": "OES_PowerFist"
+	},
+	{
+		"abr": "heroicunchained",
+		"price": 7825,
+		"category": "Ranged weapons",
+		"defname": "OES_Minigun"
+	},
+	{
+		"abr": "heroicworkermodule-builder",
+		"price": 5917,
+		"category": "Apparel",
+		"defname": "OE_Module_HeroicBuilder"
+	},
+	{
+		"abr": "heroicworkermodule-cook",
+		"price": 5917,
+		"category": "Apparel",
+		"defname": "OE_Module_HeroicCook"
+	},
+	{
+		"abr": "heroicworkermodule-engineer",
+		"price": 5917,
+		"category": "Apparel",
+		"defname": "OE_Module_HeroicEngineer"
+	},
+	{
+		"abr": "heroicworkermodule-farmer",
+		"price": 5917,
+		"category": "Apparel",
+		"defname": "OE_Module_HeroicFarmer"
+	},
+	{
+		"abr": "heroicworkermodule-herdsman",
+		"price": 5917,
+		"category": "Apparel",
+		"defname": "OE_Module_HeroicHerdsman"
+	},
+	{
+		"abr": "hootie",
+		"price": 292,
+		"category": "Animals",
+		"defname": "OE_Hootie"
+	},
+	{
+		"abr": "hootieegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "OE_EggHootieFertilized"
+	},
+	{
+		"abr": "hootieegg(unfert.)",
+		"price": 15,
+		"category": "Eggs (unfert.)",
+		"defname": "OE_EggHootieUnfertilized"
+	},
+	{
+		"abr": "hornet",
+		"price": 1317,
+		"category": "Ranged weapons",
+		"defname": "OCC_Revolver"
+	},
+	{
+		"abr": "humunculus",
+		"price": 6150,
+		"category": "Ranged weapons",
+		"defname": "EGO_Pistol"
+	},
+	{
+		"abr": "hydra",
+		"price": 3075,
+		"category": "Ranged weapons",
+		"defname": "OCC_Minigun"
+	},
+	{
+		"abr": "impaler",
+		"price": 733,
+		"category": "Ranged weapons",
+		"defname": "OMC_Pistol"
+	},
+	{
+		"abr": "impalermk-ii",
+		"price": 1150,
+		"category": "Ranged weapons",
+		"defname": "OMC_Pistol_M"
+	},
+	{
+		"abr": "imperfect-emergent",
+		"price": 1058,
+		"category": "Melee weapons",
+		"defname": "ODC_Rapier"
+	},
+	{
+		"abr": "imperialbanner",
+		"price": 306,
+		"category": "Furniture",
+		"defname": "VFEE_ImperialBanner"
+	},
+	{
+		"abr": "imperialslab",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "VFEE_ImperialSlab"
+	},
+	{
+		"abr": "inheritance",
+		"price": 1642,
+		"category": "Ranged weapons",
+		"defname": "ODC_Rifle"
+	},
+	{
+		"abr": "inlaidacidrift",
+		"price": 3917,
+		"category": "Melee weapons",
+		"defname": "OTC_Trophy_Sword_I_Acid"
+	},
+	{
+		"abr": "inlaidancientscepter",
+		"price": 5583,
+		"category": "Melee weapons",
+		"defname": "OEC_Trophy_Scepter_I"
+	},
+	{
+		"abr": "inlaidbalor",
+		"price": 5583,
+		"category": "Melee weapons",
+		"defname": "OCC_Trophy_Drillspear_I"
+	},
+	{
+		"abr": "inlaidcronus",
+		"price": 5583,
+		"category": "Ranged weapons",
+		"defname": "OCC_Trophy_Railgun_I"
+	},
+	{
+		"abr": "inlaidcryorift",
+		"price": 3917,
+		"category": "Melee weapons",
+		"defname": "OTC_Trophy_Sword_I_Cryo"
+	},
+	{
+		"abr": "inlaiddivinity",
+		"price": 3917,
+		"category": "Ranged weapons",
+		"defname": "OEC_Trophy_Pistol_I"
+	},
+	{
+		"abr": "inlaidemprift",
+		"price": 3917,
+		"category": "Melee weapons",
+		"defname": "OTC_Trophy_Sword_I_EMP"
+	},
+	{
+		"abr": "inlaidempress'sblessing",
+		"price": 3917,
+		"category": "Melee weapons",
+		"defname": "OMC_Trophy_Chainsword_I"
+	},
+	{
+		"abr": "inlaidfirerift",
+		"price": 3917,
+		"category": "Melee weapons",
+		"defname": "OTC_Trophy_Sword_I_Fire"
+	},
+	{
+		"abr": "inlaidharvest-apex",
+		"price": 6583,
+		"category": "Ranged weapons",
+		"defname": "ODC_Trophy_BladeLauncher_C_I"
+	},
+	{
+		"abr": "inlaidprototypesx-01a",
+		"price": 3917,
+		"category": "Ranged weapons",
+		"defname": "OMC_Trophy_Pistol_I"
+	},
+	{
+		"abr": "inlaidrandy'sdeck",
+		"price": 3917,
+		"category": "Ranged weapons",
+		"defname": "OTC_Trophy_Cards_I"
+	},
+	{
+		"abr": "inlaidtemptation-apex",
+		"price": 4583,
+		"category": "Melee weapons",
+		"defname": "ODC_Trophy_Sickle_C_I"
+	},
+	{
+		"abr": "insulatedobsidiafur",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "OE_Leather_Direwolf"
+	},
+	{
+		"abr": "intelligencemodule-mechanitor",
+		"price": 2892,
+		"category": "Apparel",
+		"defname": "OE_Module_Mechanitor"
+	},
+	{
+		"abr": "intelligencemodule-medic",
+		"price": 2892,
+		"category": "Apparel",
+		"defname": "OE_Module_Medic"
+	},
+	{
+		"abr": "intelligencemodule-scientist",
+		"price": 2892,
+		"category": "Apparel",
+		"defname": "OE_Module_Scientist"
+	},
+	{
+		"abr": "intelligencemodule-social",
+		"price": 2892,
+		"category": "Apparel",
+		"defname": "OE_Module_Social"
+	},
+	{
+		"abr": "jadeslime",
+		"price": 2000,
+		"category": "Animals",
+		"defname": "OE_Slime_Jade"
+	},
+	{
+		"abr": "jadeslimeheart(сonf.)",
+		"price": 1167,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Jade"
+	},
+	{
+		"abr": "janissarycuirass",
+		"price": 2567,
+		"category": "Armor",
+		"defname": "VFEE_Apparel_JanissaryCuirass"
+	},
+	{
+		"abr": "janissaryhelmet",
+		"price": 1075,
+		"category": "Headgear",
+		"defname": "VFEE_Apparel_JanissaryHelmet"
+	},
+	{
+		"abr": "jellyslime",
+		"price": 1833,
+		"category": "Animals",
+		"defname": "OE_Slime_Jelly"
+	},
+	{
+		"abr": "jellyslimeheart(сonf.)",
+		"price": 1000,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Jelly"
+	},
+	{
+		"abr": "joltixin",
+		"price": 125,
+		"category": "Drugs",
+		"defname": "OE_Joltixin"
+	},
+	{
+		"abr": "joltixinserum",
+		"price": 208,
+		"category": "Drugs",
+		"defname": "OE_JoltixinSerum"
+	},
+	{
+		"abr": "judgement",
+		"price": 4108,
+		"category": "Ranged weapons",
+		"defname": "OEC_SniperRifle"
+	},
+	{
+		"abr": "jumyberries",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "OE_Jumy_Berries"
+	},
+	{
+		"abr": "jumyslime",
+		"price": 1267,
+		"category": "Animals",
+		"defname": "OE_Slime_Jumy"
+	},
+	{
+		"abr": "jumyslimeheart(сonf.)",
+		"price": 433,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Jumy"
+	},
+	{
+		"abr": "jumylinecandies",
+		"price": 13,
+		"category": "Foods",
+		"defname": "OE_Jumyline_Candies"
+	},
+	{
+		"abr": "junglearachna",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "OE_Arachna_Green"
+	},
+	{
+		"abr": "kidneyimplant-coagulator",
+		"price": 1975,
+		"category": "Bionic",
+		"defname": "OE_ImplantKidney_Coagulator"
+	},
+	{
+		"abr": "labryscid",
+		"price": 417,
+		"category": "Animals",
+		"defname": "OE_Labryscid"
+	},
+	{
+		"abr": "largeimperialsculpture",
+		"price": 517,
+		"category": "Art",
+		"defname": "VFEE_RoyalSculptureLarge"
+	},
+	{
+		"abr": "largeobsidiaartificialecosystem(dusk)",
+		"price": 11700,
+		"category": "Misc",
+		"defname": "OE_ArtEcosysLarge_Dusk"
+	},
+	{
+		"abr": "largeobsidiaartificialecosystem(sun)",
+		"price": 11700,
+		"category": "Misc",
+		"defname": "OE_ArtEcosysLarge_Sun"
+	},
+	{
+		"abr": "largeobsidiabattery",
+		"price": 10950,
+		"category": "Misc",
+		"defname": "OE_Battery_Large"
+	},
+	{
+		"abr": "largequantumgenerator",
+		"price": 18033,
+		"category": "Misc",
+		"defname": "OE_QuantumGenerator_Large"
+	},
+	{
+		"abr": "largeroyalrug",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "VFEE_LargeRoyalRug"
+	},
+	{
+		"abr": "largesyntheriuspoweredgenerator",
+		"price": 8808,
+		"category": "Misc",
+		"defname": "OE_SyntheriusGenerator_Large"
+	},
+	{
+		"abr": "legimplant-ninja",
+		"price": 1908,
+		"category": "Bionic",
+		"defname": "OE_ImplantLeg_Ninja"
+	},
+	{
+		"abr": "legionspear",
+		"price": 8333,
+		"category": "Melee weapons",
+		"defname": "OES_LegionSpear_A"
+	},
+	{
+		"abr": "legionspearmk.i",
+		"price": 10083,
+		"category": "Melee weapons",
+		"defname": "OES_LegionSpear_B"
+	},
+	{
+		"abr": "legionspearmk.ii",
+		"price": 11917,
+		"category": "Melee weapons",
+		"defname": "OES_LegionSpear_C"
+	},
+	{
+		"abr": "legionspearmk.iii",
+		"price": 13833,
+		"category": "Melee weapons",
+		"defname": "OES_LegionSpear_D"
+	},
+	{
+		"abr": "legionspearmk.iv",
+		"price": 15833,
+		"category": "Melee weapons",
+		"defname": "OES_LegionSpear_E"
+	},
+	{
+		"abr": "legionspearmk.v",
+		"price": 17917,
+		"category": "Melee weapons",
+		"defname": "OES_LegionSpear_F"
+	},
+	{
+		"abr": "liverimplant-immuneassistant",
+		"price": 1975,
+		"category": "Bionic",
+		"defname": "OE_ImplantLiver_Antibiotic"
+	},
+	{
+		"abr": "lloyd'sshovel",
+		"price": 2583,
+		"category": "Melee weapons",
+		"defname": "OE_Trophy_Shovel"
+	},
+	{
+		"abr": "locustcape",
+		"price": 367,
+		"category": "Noble apparel",
+		"defname": "Apparel_LocustCape"
+	},
+	{
+		"abr": "lungimplant-antitox-filter",
+		"price": 1975,
+		"category": "Bionic",
+		"defname": "OE_ImplantLung_Filtration"
+	},
+	{
+		"abr": "luraxin",
+		"price": 125,
+		"category": "Drugs",
+		"defname": "OE_Luraxin"
+	},
+	{
+		"abr": "luraxinserum",
+		"price": 208,
+		"category": "Drugs",
+		"defname": "OE_LuraxinSerum"
+	},
+	{
+		"abr": "luxuriousobsidiafur",
+		"price": 11,
+		"category": "Leathers",
+		"defname": "OE_Leather_Astrinx"
+	},
+	{
+		"abr": "lymocyst",
+		"price": 5933,
+		"category": "Melee weapons",
+		"defname": "EGO_Knife"
+	},
+	{
+		"abr": "mechcombatobsidiaantenna",
+		"price": 3583,
+		"category": "Misc",
+		"defname": "OE_MechCombatAntenna"
+	},
+	{
+		"abr": "mechcorrupterobsidiaantenna",
+		"price": 3583,
+		"category": "Misc",
+		"defname": "OE_MechCorrupterAntenna"
+	},
+	{
+		"abr": "mechefficiencyobsidiaantenna",
+		"price": 3583,
+		"category": "Misc",
+		"defname": "OE_MechWorkerAntenna"
+	},
+	{
+		"abr": "merciless",
+		"price": 1067,
+		"category": "Ranged weapons",
+		"defname": "OMC_Revolver"
+	},
+	{
+		"abr": "mercilessmk-ii",
+		"price": 1483,
+		"category": "Ranged weapons",
+		"defname": "OMC_Revolver_M"
+	},
+	{
+		"abr": "mercy-emergent",
+		"price": 1058,
+		"category": "Melee weapons",
+		"defname": "ODC_Sword"
+	},
+	{
+		"abr": "meteorprototype(acid)",
+		"price": 3367,
+		"category": "Ranged weapons",
+		"defname": "OTC_GrenadeLauncher_M_Acid"
+	},
+	{
+		"abr": "meteorprototype(cryo)",
+		"price": 3367,
+		"category": "Ranged weapons",
+		"defname": "OTC_GrenadeLauncher_M_Cryo"
+	},
+	{
+		"abr": "meteorprototype(emp)",
+		"price": 3367,
+		"category": "Ranged weapons",
+		"defname": "OTC_GrenadeLauncher_M_EMP"
+	},
+	{
+		"abr": "meteorprototype(fire)",
+		"price": 3367,
+		"category": "Ranged weapons",
+		"defname": "OTC_GrenadeLauncher_M_Fire"
+	},
+	{
+		"abr": "meteor(acid)",
+		"price": 2950,
+		"category": "Ranged weapons",
+		"defname": "OTC_GrenadeLauncher_Acid"
+	},
+	{
+		"abr": "meteor(cryo)",
+		"price": 2950,
+		"category": "Ranged weapons",
+		"defname": "OTC_GrenadeLauncher_Cryo"
+	},
+	{
+		"abr": "meteor(emp)",
+		"price": 2950,
+		"category": "Ranged weapons",
+		"defname": "OTC_GrenadeLauncher_EMP"
+	},
+	{
+		"abr": "meteor(fire)",
+		"price": 2950,
+		"category": "Ranged weapons",
+		"defname": "OTC_GrenadeLauncher_Fire"
+	},
+	{
+		"abr": "misfit-apex",
+		"price": 1483,
+		"category": "Ranged weapons",
+		"defname": "ODC_SMG_B"
+	},
+	{
+		"abr": "misfit-emergent",
+		"price": 1150,
+		"category": "Ranged weapons",
+		"defname": "ODC_SMG_A"
+	},
+	{
+		"abr": "mistie",
+		"price": 6875,
+		"category": "Utility",
+		"defname": "OMC_Drone"
+	},
+	{
+		"abr": "mobilecolonialvehicle",
+		"price": 29850,
+		"category": "Misc",
+		"defname": "ODC_MCV_Blueprint"
+	},
+	{
+		"abr": "modernizationkit",
+		"price": 1667,
+		"category": "Manufactured",
+		"defname": "OE_ModernizationKit"
+	},
+	{
+		"abr": "monarchid",
+		"price": 2917,
+		"category": "Animals",
+		"defname": "OE_Monarchid"
+	},
+	{
+		"abr": "monarchidthumper",
+		"price": 417,
+		"category": "Misc",
+		"defname": "OE_Thumper_Monarchid"
+	},
+	{
+		"abr": "monobastardsword",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "CAT_MonoBastardSword"
+	},
+	{
+		"abr": "monobusterblade",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "CAT_MonoBusterSword"
+	},
+	{
+		"abr": "monochargelance",
+		"price": 8333,
+		"category": "Melee weapons",
+		"defname": "CAT_MonoChargeLance"
+	},
+	{
+		"abr": "monoglaive",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "CAT_MonoGlaive"
+	},
+	{
+		"abr": "monoodachi",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "CAT_MonoOdachi"
+	},
+	{
+		"abr": "monowarspear",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "CAT_MonoWarSpear"
+	},
+	{
+		"abr": "monowhipblade",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "CAT_MonoWhipClaw"
+	},
+	{
+		"abr": "mono-greatsword",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "CAT_MonoGreatsword"
+	},
+	{
+		"abr": "mooncloth",
+		"price": 12,
+		"category": "Textiles",
+		"defname": "OE_Mooncloth"
+	},
+	{
+		"abr": "mycothread",
+		"price": 2,
+		"category": "Textiles",
+		"defname": "VPE_Mycothread"
+	},
+	{
+		"abr": "mythril",
+		"price": 33,
+		"category": "Raw resources",
+		"defname": "OE_Mythril"
+	},
+	{
+		"abr": "mythrilslime",
+		"price": 4500,
+		"category": "Animals",
+		"defname": "OE_Slime_Mythril"
+	},
+	{
+		"abr": "mythrilslimeheart(сonf.)",
+		"price": 3667,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Mythril"
+	},
+	{
+		"abr": "mythrilsynthweave",
+		"price": 38,
+		"category": "Textiles",
+		"defname": "OE_MythrilSynthweave"
+	},
+	{
+		"abr": "n.a.c.j.a.c.",
+		"price": 8208,
+		"category": "Security",
+		"defname": "ODC_Turret_Big"
+	},
+	{
+		"abr": "nemesisprototype(acid)",
+		"price": 1550,
+		"category": "Melee weapons",
+		"defname": "OTC_Hammer_M_Acid"
+	},
+	{
+		"abr": "nemesisprototype(cryo)",
+		"price": 1550,
+		"category": "Melee weapons",
+		"defname": "OTC_Hammer_M_Cryo"
+	},
+	{
+		"abr": "nemesisprototype(emp)",
+		"price": 1550,
+		"category": "Melee weapons",
+		"defname": "OTC_Hammer_M_EMP"
+	},
+	{
+		"abr": "nemesisprototype(fire)",
+		"price": 1550,
+		"category": "Melee weapons",
+		"defname": "OTC_Hammer_M_Fire"
+	},
+	{
+		"abr": "nemesis(acid)",
+		"price": 1133,
+		"category": "Melee weapons",
+		"defname": "OTC_Hammer_Acid"
+	},
+	{
+		"abr": "nemesis(cryo)",
+		"price": 1133,
+		"category": "Melee weapons",
+		"defname": "OTC_Hammer_Cryo"
+	},
+	{
+		"abr": "nemesis(emp)",
+		"price": 1133,
+		"category": "Melee weapons",
+		"defname": "OTC_Hammer_EMP"
+	},
+	{
+		"abr": "nemesis(fire)",
+		"price": 1133,
+		"category": "Melee weapons",
+		"defname": "OTC_Hammer_Fire"
+	},
+	{
+		"abr": "netherbaneprototype(acid)",
+		"price": 1683,
+		"category": "Melee weapons",
+		"defname": "OTC_ChainAxe_M_Acid"
+	},
+	{
+		"abr": "netherbaneprototype(cryo)",
+		"price": 1683,
+		"category": "Melee weapons",
+		"defname": "OTC_ChainAxe_M_Cryo"
+	},
+	{
+		"abr": "netherbaneprototype(emp)",
+		"price": 1683,
+		"category": "Melee weapons",
+		"defname": "OTC_ChainAxe_M_EMP"
+	},
+	{
+		"abr": "netherbaneprototype(fire)",
+		"price": 1683,
+		"category": "Melee weapons",
+		"defname": "OTC_ChainAxe_M_Fire"
+	},
+	{
+		"abr": "netherbane(acid)",
+		"price": 1267,
+		"category": "Melee weapons",
+		"defname": "OTC_ChainAxe_Acid"
+	},
+	{
+		"abr": "netherbane(cryo)",
+		"price": 1267,
+		"category": "Melee weapons",
+		"defname": "OTC_ChainAxe_Cryo"
+	},
+	{
+		"abr": "netherbane(emp)",
+		"price": 1267,
+		"category": "Melee weapons",
+		"defname": "OTC_ChainAxe_EMP"
+	},
+	{
+		"abr": "netherbane(fire)",
+		"price": 1267,
+		"category": "Melee weapons",
+		"defname": "OTC_ChainAxe_Fire"
+	},
+	{
+		"abr": "neutroamineslime",
+		"price": 1417,
+		"category": "Animals",
+		"defname": "OE_Slime_Neutroamine"
+	},
+	{
+		"abr": "neutroamineslimeheart(сonf.)",
+		"price": 1083,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Neutroamine"
+	},
+	{
+		"abr": "nimbusprototype(acid)",
+		"price": 3858,
+		"category": "Ranged weapons",
+		"defname": "OTC_Bow_M_Acid"
+	},
+	{
+		"abr": "nimbusprototype(cryo)",
+		"price": 3858,
+		"category": "Ranged weapons",
+		"defname": "OTC_Bow_M_Cryo"
+	},
+	{
+		"abr": "nimbusprototype(emp)",
+		"price": 3858,
+		"category": "Ranged weapons",
+		"defname": "OTC_Bow_M_EMP"
+	},
+	{
+		"abr": "nimbusprototype(fire)",
+		"price": 3858,
+		"category": "Ranged weapons",
+		"defname": "OTC_Bow_M_Fire"
+	},
+	{
+		"abr": "nimbus(acid)",
+		"price": 3442,
+		"category": "Ranged weapons",
+		"defname": "OTC_Bow_Acid"
+	},
+	{
+		"abr": "nimbus(cryo)",
+		"price": 3442,
+		"category": "Ranged weapons",
+		"defname": "OTC_Bow_Cryo"
+	},
+	{
+		"abr": "nimbus(emp)",
+		"price": 3442,
+		"category": "Ranged weapons",
+		"defname": "OTC_Bow_EMP"
+	},
+	{
+		"abr": "nimbus(fire)",
+		"price": 3442,
+		"category": "Ranged weapons",
+		"defname": "OTC_Bow_Fire"
+	},
+	{
+		"abr": "novaprototype(acid)",
+		"price": 4150,
+		"category": "Ranged weapons",
+		"defname": "OTC_SniperRifle_M_Acid"
+	},
+	{
+		"abr": "novaprototype(cryo)",
+		"price": 4150,
+		"category": "Ranged weapons",
+		"defname": "OTC_SniperRifle_M_Cryo"
+	},
+	{
+		"abr": "novaprototype(emp)",
+		"price": 4150,
+		"category": "Ranged weapons",
+		"defname": "OTC_SniperRifle_M_EMP"
+	},
+	{
+		"abr": "novaprototype(fire)",
+		"price": 4150,
+		"category": "Ranged weapons",
+		"defname": "OTC_SniperRifle_M_Fire"
+	},
+	{
+		"abr": "nova(acid)",
+		"price": 3733,
+		"category": "Ranged weapons",
+		"defname": "OTC_SniperRifle_Acid"
+	},
+	{
+		"abr": "nova(cryo)",
+		"price": 3733,
+		"category": "Ranged weapons",
+		"defname": "OTC_SniperRifle_Cryo"
+	},
+	{
+		"abr": "nova(emp)",
+		"price": 3733,
+		"category": "Ranged weapons",
+		"defname": "OTC_SniperRifle_EMP"
+	},
+	{
+		"abr": "nova(fire)",
+		"price": 3733,
+		"category": "Ranged weapons",
+		"defname": "OTC_SniperRifle_Fire"
+	},
+	{
+		"abr": "obsidiaamalgamvat",
+		"price": 4375,
+		"category": "Production",
+		"defname": "OE_AmalgamVat"
+	},
+	{
+		"abr": "obsidiaammokit",
+		"price": 16,
+		"category": "Manufactured",
+		"defname": "OE_AmmoKit"
+	},
+	{
+		"abr": "obsidiaanimaldoor",
+		"price": 257,
+		"category": "Misc",
+		"defname": "OE_Petdoor"
+	},
+	{
+		"abr": "obsidiaarmorstation",
+		"price": 6367,
+		"category": "Production",
+		"defname": "OE_ArmorStation"
+	},
+	{
+		"abr": "obsidiaartificialecosystem(dusk)",
+		"price": 4208,
+		"category": "Misc",
+		"defname": "OE_ArtEcosysMedium_Dusk"
+	},
+	{
+		"abr": "obsidiaartificialecosystem(sun)",
+		"price": 4208,
+		"category": "Misc",
+		"defname": "OE_ArtEcosysMedium_Sun"
+	},
+	{
+		"abr": "obsidiaautodoor",
+		"price": 272,
+		"category": "Misc",
+		"defname": "OE_Autodoor"
+	},
+	{
+		"abr": "obsidiabattery",
+		"price": 5508,
+		"category": "Misc",
+		"defname": "OE_Battery_Medium"
+	},
+	{
+		"abr": "obsidiabattlecraftpump",
+		"price": 2583,
+		"category": "Misc",
+		"defname": "OE_BattlecraftPump"
+	},
+	{
+		"abr": "obsidiabionictable",
+		"price": 2325,
+		"category": "Production",
+		"defname": "OE_BionicTable"
+	},
+	{
+		"abr": "obsidiabookarchive",
+		"price": 925,
+		"category": "Furniture",
+		"defname": "OE_Bookarchive"
+	},
+	{
+		"abr": "obsidiabrokendrill",
+		"price": 11042,
+		"category": "Special",
+		"defname": "OE_BrokenDrill"
+	},
+	{
+		"abr": "obsidiacaterpillar",
+		"price": 258,
+		"category": "Animals",
+		"defname": "OE_Caterpillar_Brown"
+	},
+	{
+		"abr": "obsidiacaterpillar",
+		"price": 258,
+		"category": "Animals",
+		"defname": "OE_Caterpillar_Arctic"
+	},
+	{
+		"abr": "obsidiacaterpillar",
+		"price": 258,
+		"category": "Animals",
+		"defname": "OE_Caterpillar_Desert"
+	},
+	{
+		"abr": "obsidiacolonialgenebank",
+		"price": 4625,
+		"category": "Production",
+		"defname": "OE_ColonialGeneBank"
+	},
+	{
+		"abr": "obsidiacolumn",
+		"price": 151,
+		"category": "Misc",
+		"defname": "OE_Column_Armored"
+	},
+	{
+		"abr": "obsidiacommsconsole",
+		"price": 1917,
+		"category": "Misc",
+		"defname": "OE_CommsConsole"
+	},
+	{
+		"abr": "obsidiacooler",
+		"price": 1175,
+		"category": "Furniture",
+		"defname": "OE_Cooler"
+	},
+	{
+		"abr": "obsidiadatapad",
+		"price": 500,
+		"category": "Books",
+		"defname": "OE_Datapad"
+	},
+	{
+		"abr": "obsidiadoor",
+		"price": 232,
+		"category": "Misc",
+		"defname": "OE_Door"
+	},
+	{
+		"abr": "obsidiadrifterclansbanner",
+		"price": 917,
+		"category": "Inert relics",
+		"defname": "OE_RelicBannerB"
+	},
+	{
+		"abr": "obsidiaembrasure",
+		"price": 112,
+		"category": "Misc",
+		"defname": "OE_Embrasure"
+	},
+	{
+		"abr": "obsidiaempirebanner",
+		"price": 917,
+		"category": "Inert relics",
+		"defname": "OE_RelicBannerA"
+	},
+	{
+		"abr": "obsidiaempireheroesbanner",
+		"price": 917,
+		"category": "Inert relics",
+		"defname": "OE_RelicBannerD"
+	},
+	{
+		"abr": "obsidiagenegrower",
+		"price": 8417,
+		"category": "Special",
+		"defname": "OE_GeneGrower"
+	},
+	{
+		"abr": "obsidiageothermalgenerator",
+		"price": 6308,
+		"category": "Misc",
+		"defname": "OE_GeothermalGenerator"
+	},
+	{
+		"abr": "obsidiaholdingplatform",
+		"price": 4408,
+		"category": "Misc",
+		"defname": "OE_HoldingPlatform"
+	},
+	{
+		"abr": "obsidiakidarmor",
+		"price": 3875,
+		"category": "Armor",
+		"defname": "OE_Armor_Kid"
+	},
+	{
+		"abr": "obsidiakidarmor(spacegriffin)",
+		"price": 4292,
+		"category": "Armor",
+		"defname": "OE_Armor_Kid_Spacer"
+	},
+	{
+		"abr": "obsidiakidhelmet",
+		"price": 1425,
+		"category": "Headgear",
+		"defname": "OE_Helmet_Kid"
+	},
+	{
+		"abr": "obsidiakidhelmet(spacegriffin)",
+		"price": 1675,
+		"category": "Headgear",
+		"defname": "OE_Helmet_Kid_Spacer"
+	},
+	{
+		"abr": "obsidiakiduniform",
+		"price": 317,
+		"category": "Armor",
+		"defname": "OE_Uniform_Kid"
+	},
+	{
+		"abr": "obsidialightcolumn",
+		"price": 176,
+		"category": "Misc",
+		"defname": "OE_Column_Light"
+	},
+	{
+		"abr": "obsidiamilitaryboots",
+		"price": 400,
+		"category": "Handwear and footwear",
+		"defname": "OE_Footwear_Military"
+	},
+	{
+		"abr": "obsidiamilitarygloves",
+		"price": 400,
+		"category": "Handwear and footwear",
+		"defname": "OE_Handwear_Military"
+	},
+	{
+		"abr": "obsidiamilitaryuniform",
+		"price": 483,
+		"category": "Armor",
+		"defname": "OE_Uniform_Military"
+	},
+	{
+		"abr": "obsidiaperfectioningpump",
+		"price": 2583,
+		"category": "Misc",
+		"defname": "OE_PerfectioningPump"
+	},
+	{
+		"abr": "obsidiapersonatable",
+		"price": 16283,
+		"category": "Production",
+		"defname": "OE_PersonaTable"
+	},
+	{
+		"abr": "obsidiaprotohelmet",
+		"price": 2042,
+		"category": "Headgear",
+		"defname": "OE_Helmet_Proto"
+	},
+	{
+		"abr": "obsidiasynthesisprinter",
+		"price": 1408,
+		"category": "Production",
+		"defname": "OE_SynthesisPrinter"
+	},
+	{
+		"abr": "obsidiasynthleather",
+		"price": 42,
+		"category": "Leathers",
+		"defname": "OE_Leather_Bruul"
+	},
+	{
+		"abr": "obsidiatoxcaterpillar",
+		"price": 258,
+		"category": "Animals",
+		"defname": "OE_Caterpillar_Tox"
+	},
+	{
+		"abr": "obsidiawall",
+		"price": 112,
+		"category": "Misc",
+		"defname": "OE_Wall"
+	},
+	{
+		"abr": "obsidiawallcooler",
+		"price": 1433,
+		"category": "Furniture",
+		"defname": "OE_WallCooler"
+	},
+	{
+		"abr": "obsidiawallheater",
+		"price": 1175,
+		"category": "Furniture",
+		"defname": "OE_Heater"
+	},
+	{
+		"abr": "obsidiawallheater",
+		"price": 1433,
+		"category": "Furniture",
+		"defname": "OE_WallHeater"
+	},
+	{
+		"abr": "obsidiaweaponworkbench",
+		"price": 6367,
+		"category": "Production",
+		"defname": "OE_WeaponWorkbench"
+	},
+	{
+		"abr": "obsidiaworkerboots",
+		"price": 400,
+		"category": "Handwear and footwear",
+		"defname": "OE_Footwear_Worker"
+	},
+	{
+		"abr": "obsidiaworkergloves",
+		"price": 400,
+		"category": "Handwear and footwear",
+		"defname": "OE_Handwear_Worker"
+	},
+	{
+		"abr": "obsidiaworkeruniform",
+		"price": 483,
+		"category": "Armor",
+		"defname": "OE_Uniform_Worker"
+	},
+	{
+		"abr": "obsidian",
+		"price": 17,
+		"category": "Raw resources",
+		"defname": "OE_Obsidian"
+	},
+	{
+		"abr": "obsidianslime",
+		"price": 2833,
+		"category": "Animals",
+		"defname": "OE_Slime_Obsidian"
+	},
+	{
+		"abr": "obsidianslimeheart(сonf.)",
+		"price": 2000,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Obsidian"
+	},
+	{
+		"abr": "obsidiansynthweave",
+		"price": 21,
+		"category": "Textiles",
+		"defname": "OE_ObsidianSynthweave"
+	},
+	{
+		"abr": "occbehemothturret",
+		"price": 3792,
+		"category": "Security",
+		"defname": "OCC_Turret_Big"
+	},
+	{
+		"abr": "occcerberuspoweredturret",
+		"price": 2875,
+		"category": "Security",
+		"defname": "OCC_Turret_SmallPowered"
+	},
+	{
+		"abr": "occcerberusturret",
+		"price": 1958,
+		"category": "Security",
+		"defname": "OCC_Turret_Small"
+	},
+	{
+		"abr": "occgloucester",
+		"price": 13425,
+		"category": "Misc",
+		"defname": "OCC_Nightmare_Blueprint"
+	},
+	{
+		"abr": "occknightarmor",
+		"price": 5833,
+		"category": "Armor",
+		"defname": "OCC_Armor"
+	},
+	{
+		"abr": "occknighthelmet",
+		"price": 2083,
+		"category": "Headgear",
+		"defname": "OCC_Helmet"
+	},
+	{
+		"abr": "occpaladinarmor",
+		"price": 6167,
+		"category": "Armor",
+		"defname": "OCC_Armor_M"
+	},
+	{
+		"abr": "occpaladinarmor(exploder)",
+		"price": 6583,
+		"category": "Armor",
+		"defname": "OCC_Armor_M_Grenadier"
+	},
+	{
+		"abr": "occpaladinarmor(goblin)",
+		"price": 6583,
+		"category": "Armor",
+		"defname": "OCC_Armor_M_Turret"
+	},
+	{
+		"abr": "occpaladinarmor(guardian)",
+		"price": 6583,
+		"category": "Armor",
+		"defname": "OCC_Armor_M_Shield"
+	},
+	{
+		"abr": "occpaladinarmor(overseer)",
+		"price": 6583,
+		"category": "Armor",
+		"defname": "OCC_Armor_M_Mechanitor"
+	},
+	{
+		"abr": "occpaladinarmor(protector)",
+		"price": 6583,
+		"category": "Armor",
+		"defname": "OCC_Armor_M_Barrier"
+	},
+	{
+		"abr": "occpaladinarmor(raven)",
+		"price": 6583,
+		"category": "Armor",
+		"defname": "OCC_Armor_M_Jump"
+	},
+	{
+		"abr": "occpaladinarmor(spacegriffin)",
+		"price": 6583,
+		"category": "Armor",
+		"defname": "OCC_Armor_M_Spacer"
+	},
+	{
+		"abr": "occpaladinarmor(warden)",
+		"price": 6583,
+		"category": "Armor",
+		"defname": "OCC_Armor_M_ForceField"
+	},
+	{
+		"abr": "occpaladinhelmet",
+		"price": 2417,
+		"category": "Headgear",
+		"defname": "OCC_Helmet_M"
+	},
+	{
+		"abr": "occpaladinhelmet(gladiator)",
+		"price": 2833,
+		"category": "Headgear",
+		"defname": "OCC_Helmet_M_Melee"
+	},
+	{
+		"abr": "occpaladinhelmet(overseer)",
+		"price": 2833,
+		"category": "Headgear",
+		"defname": "OCC_Helmet_M_Mechanitor"
+	},
+	{
+		"abr": "occpaladinhelmet(ranger)",
+		"price": 2833,
+		"category": "Headgear",
+		"defname": "OCC_Helmet_M_Ranged"
+	},
+	{
+		"abr": "occpaladinhelmet(spacegriffin)",
+		"price": 2833,
+		"category": "Headgear",
+		"defname": "OCC_Helmet_M_Spacer"
+	},
+	{
+		"abr": "odcbeastmastermask",
+		"price": 1708,
+		"category": "Headgear",
+		"defname": "ODC_Helmet_Beastmaster"
+	},
+	{
+		"abr": "odcburai",
+		"price": 13425,
+		"category": "Misc",
+		"defname": "ODC_Nightmare_Blueprint"
+	},
+	{
+		"abr": "odcconstructormask",
+		"price": 1708,
+		"category": "Headgear",
+		"defname": "ODC_Helmet_Constructor"
+	},
+	{
+		"abr": "odcduelistarmor",
+		"price": 5208,
+		"category": "Armor",
+		"defname": "ODC_Armor_Duelist"
+	},
+	{
+		"abr": "odcduelistarmor(fogler)",
+		"price": 5625,
+		"category": "Armor",
+		"defname": "ODC_Armor_Duelist_Smoker"
+	},
+	{
+		"abr": "odcduelistarmor(goblin)",
+		"price": 5625,
+		"category": "Armor",
+		"defname": "ODC_Armor_Duelist_Turret"
+	},
+	{
+		"abr": "odcduelistarmor(guardian)",
+		"price": 5625,
+		"category": "Armor",
+		"defname": "ODC_Armor_Duelist_Shield"
+	},
+	{
+		"abr": "odcduelistarmor(lord)",
+		"price": 5625,
+		"category": "Armor",
+		"defname": "ODC_Armor_Duelist_Prestige"
+	},
+	{
+		"abr": "odcduelistarmor(overseer)",
+		"price": 5625,
+		"category": "Armor",
+		"defname": "ODC_Armor_Duelist_Mechanitor"
+	},
+	{
+		"abr": "odcduelistarmor(protector)",
+		"price": 5625,
+		"category": "Armor",
+		"defname": "ODC_Armor_Duelist_Barrier"
+	},
+	{
+		"abr": "odcduelistarmor(raven)",
+		"price": 5625,
+		"category": "Armor",
+		"defname": "ODC_Armor_Duelist_Jump"
+	},
+	{
+		"abr": "odcduelistarmor(spacegriffin)",
+		"price": 5625,
+		"category": "Armor",
+		"defname": "ODC_Armor_Duelist_Spacer"
+	},
+	{
+		"abr": "odcduelistmask",
+		"price": 1708,
+		"category": "Headgear",
+		"defname": "ODC_Helmet_Duelist"
+	},
+	{
+		"abr": "odclordmask",
+		"price": 3075,
+		"category": "Headgear",
+		"defname": "ODC_Helmet_Prestige"
+	},
+	{
+		"abr": "odcmedicmask",
+		"price": 1708,
+		"category": "Headgear",
+		"defname": "ODC_Helmet_Medic"
+	},
+	{
+		"abr": "odcminermask",
+		"price": 1708,
+		"category": "Headgear",
+		"defname": "ODC_Helmet_Miner"
+	},
+	{
+		"abr": "odcnomadarmor",
+		"price": 4875,
+		"category": "Armor",
+		"defname": "ODC_Armor_Nomad"
+	},
+	{
+		"abr": "odcnomadmask",
+		"price": 1375,
+		"category": "Headgear",
+		"defname": "ODC_Helmet_Nomad"
+	},
+	{
+		"abr": "odcoverseermask",
+		"price": 1708,
+		"category": "Headgear",
+		"defname": "ODC_Helmet_Mechanitor"
+	},
+	{
+		"abr": "odcreconarmor",
+		"price": 5208,
+		"category": "Armor",
+		"defname": "ODC_Armor_Recon"
+	},
+	{
+		"abr": "odcreconarmor(fogler)",
+		"price": 5625,
+		"category": "Armor",
+		"defname": "ODC_Armor_Recon_Smoker"
+	},
+	{
+		"abr": "odcreconarmor(goblin)",
+		"price": 5625,
+		"category": "Armor",
+		"defname": "ODC_Armor_Recon_Turret"
+	},
+	{
+		"abr": "odcreconarmor(guardian)",
+		"price": 5625,
+		"category": "Armor",
+		"defname": "ODC_Armor_Recon_Shield"
+	},
+	{
+		"abr": "odcreconarmor(lord)",
+		"price": 5625,
+		"category": "Armor",
+		"defname": "ODC_Armor_Recon_Prestige"
+	},
+	{
+		"abr": "odcreconarmor(overseer)",
+		"price": 5625,
+		"category": "Armor",
+		"defname": "ODC_Armor_Recon_Mechanitor"
+	},
+	{
+		"abr": "odcreconarmor(protector)",
+		"price": 5625,
+		"category": "Armor",
+		"defname": "ODC_Armor_Recon_Barrier"
+	},
+	{
+		"abr": "odcreconarmor(raven)",
+		"price": 5625,
+		"category": "Armor",
+		"defname": "ODC_Armor_Recon_Jump"
+	},
+	{
+		"abr": "odcreconarmor(spacegriffin)",
+		"price": 5625,
+		"category": "Armor",
+		"defname": "ODC_Armor_Recon_Spacer"
+	},
+	{
+		"abr": "odcreconmask",
+		"price": 1708,
+		"category": "Headgear",
+		"defname": "ODC_Helmet_Recon"
+	},
+	{
+		"abr": "odcspacermask",
+		"price": 1708,
+		"category": "Headgear",
+		"defname": "ODC_Helmet_Spacer"
+	},
+	{
+		"abr": "odcthoughtlesspoweredturret",
+		"price": 2750,
+		"category": "Security",
+		"defname": "ODC_Turret_SmallPowered"
+	},
+	{
+		"abr": "odcthoughtlessturret",
+		"price": 1833,
+		"category": "Security",
+		"defname": "ODC_Turret_Small"
+	},
+	{
+		"abr": "odctradermask",
+		"price": 1708,
+		"category": "Headgear",
+		"defname": "ODC_Helmet_Trader"
+	},
+	{
+		"abr": "oecakatsuki",
+		"price": 13425,
+		"category": "Misc",
+		"defname": "OEC_Nightmare_Blueprint"
+	},
+	{
+		"abr": "oechunterarmor",
+		"price": 6125,
+		"category": "Armor",
+		"defname": "OEC_Armor"
+	},
+	{
+		"abr": "oechunterhelmet",
+		"price": 2858,
+		"category": "Headgear",
+		"defname": "OEC_Helmet"
+	},
+	{
+		"abr": "oecinquisitorarmor",
+		"price": 6458,
+		"category": "Armor",
+		"defname": "OEC_Armor_M"
+	},
+	{
+		"abr": "oecinquisitorarmor(fogler)",
+		"price": 6875,
+		"category": "Armor",
+		"defname": "OEC_Armor_M_Smoker"
+	},
+	{
+		"abr": "oecinquisitorarmor(goblin)",
+		"price": 6875,
+		"category": "Armor",
+		"defname": "OEC_Armor_M_Turret"
+	},
+	{
+		"abr": "oecinquisitorarmor(guardian)",
+		"price": 6875,
+		"category": "Armor",
+		"defname": "OEC_Armor_M_Shield"
+	},
+	{
+		"abr": "oecinquisitorarmor(huntsman)",
+		"price": 6875,
+		"category": "Armor",
+		"defname": "OEC_Armor_M_Grenadier"
+	},
+	{
+		"abr": "oecinquisitorarmor(overseer)",
+		"price": 6875,
+		"category": "Armor",
+		"defname": "OEC_Armor_M_Mechanitor"
+	},
+	{
+		"abr": "oecinquisitorarmor(protector)",
+		"price": 6875,
+		"category": "Armor",
+		"defname": "OEC_Armor_M_Barrier"
+	},
+	{
+		"abr": "oecinquisitorarmor(raven)",
+		"price": 6875,
+		"category": "Armor",
+		"defname": "OEC_Armor_M_Jump"
+	},
+	{
+		"abr": "oecinquisitorarmor(spacegriffin)",
+		"price": 6875,
+		"category": "Armor",
+		"defname": "OEC_Armor_M_Spacer"
+	},
+	{
+		"abr": "oecinquisitorhelmet",
+		"price": 4675,
+		"category": "Headgear",
+		"defname": "OEC_Helmet_M"
+	},
+	{
+		"abr": "oecinquisitorhelmet(gladiator)",
+		"price": 6492,
+		"category": "Headgear",
+		"defname": "OEC_Helmet_M_Melee"
+	},
+	{
+		"abr": "oecinquisitorhelmet(overseer)",
+		"price": 3125,
+		"category": "Headgear",
+		"defname": "OEC_Helmet_M_Mechanitor"
+	},
+	{
+		"abr": "oecinquisitorhelmet(ranger)",
+		"price": 6492,
+		"category": "Headgear",
+		"defname": "OEC_Helmet_M_Ranged"
+	},
+	{
+		"abr": "oecinquisitorhelmet(spacegriffin)",
+		"price": 6492,
+		"category": "Headgear",
+		"defname": "OEC_Helmet_M_Spacer"
+	},
+	{
+		"abr": "oecjudgementturret",
+		"price": 4375,
+		"category": "Security",
+		"defname": "OEC_Turret_Big"
+	},
+	{
+		"abr": "oecpeacemakerpoweredturret",
+		"price": 3167,
+		"category": "Security",
+		"defname": "OEC_Turret_SmallPowered"
+	},
+	{
+		"abr": "oecpeacemakerturret",
+		"price": 2250,
+		"category": "Security",
+		"defname": "OEC_Turret_Small"
+	},
+	{
+		"abr": "ogren",
+		"price": 1417,
+		"category": "Animals",
+		"defname": "OE_Ogren"
+	},
+	{
+		"abr": "omcdoompoweredturret",
+		"price": 2750,
+		"category": "Security",
+		"defname": "OMC_Turret_SmallPowered"
+	},
+	{
+		"abr": "omcdoomturret",
+		"price": 1833,
+		"category": "Security",
+		"defname": "OMC_Turret_Small"
+	},
+	{
+		"abr": "omcofficerarmor",
+		"price": 5875,
+		"category": "Armor",
+		"defname": "OMC_Armor_M"
+	},
+	{
+		"abr": "omcofficerarmor(fogler)",
+		"price": 6292,
+		"category": "Armor",
+		"defname": "OMC_Armor_M_Smoker"
+	},
+	{
+		"abr": "omcofficerarmor(goblin)",
+		"price": 6292,
+		"category": "Armor",
+		"defname": "OMC_Armor_M_Turret"
+	},
+	{
+		"abr": "omcofficerarmor(guardian)",
+		"price": 6292,
+		"category": "Armor",
+		"defname": "OMC_Armor_M_Shield"
+	},
+	{
+		"abr": "omcofficerarmor(overseer)",
+		"price": 6292,
+		"category": "Armor",
+		"defname": "OMC_Armor_M_Mechanitor"
+	},
+	{
+		"abr": "omcofficerarmor(protector)",
+		"price": 6292,
+		"category": "Armor",
+		"defname": "OMC_Armor_M_Barrier"
+	},
+	{
+		"abr": "omcofficerarmor(raven)",
+		"price": 6292,
+		"category": "Armor",
+		"defname": "OMC_Armor_M_Jump"
+	},
+	{
+		"abr": "omcofficerarmor(spacegriffin)",
+		"price": 6292,
+		"category": "Armor",
+		"defname": "OMC_Armor_M_Spacer"
+	},
+	{
+		"abr": "omcofficerarmor(warden)",
+		"price": 6292,
+		"category": "Armor",
+		"defname": "OMC_Armor_M_ForceField"
+	},
+	{
+		"abr": "omcofficerhelmet",
+		"price": 2125,
+		"category": "Headgear",
+		"defname": "OMC_Helmet_M"
+	},
+	{
+		"abr": "omcofficerhelmet(gladiator)",
+		"price": 2542,
+		"category": "Headgear",
+		"defname": "OMC_Helmet_M_Melee"
+	},
+	{
+		"abr": "omcofficerhelmet(overseer)",
+		"price": 2542,
+		"category": "Headgear",
+		"defname": "OMC_Helmet_M_Mechanitor"
+	},
+	{
+		"abr": "omcofficerhelmet(ranger)",
+		"price": 2542,
+		"category": "Headgear",
+		"defname": "OMC_Helmet_M_Ranged"
+	},
+	{
+		"abr": "omcofficerhelmet(spacegriffin)",
+		"price": 2542,
+		"category": "Headgear",
+		"defname": "OMC_Helmet_M_Spacer"
+	},
+	{
+		"abr": "omcsoldierarmor",
+		"price": 5542,
+		"category": "Armor",
+		"defname": "OMC_Armor"
+	},
+	{
+		"abr": "omcsoldierhelmet",
+		"price": 1792,
+		"category": "Headgear",
+		"defname": "OMC_Helmet"
+	},
+	{
+		"abr": "omcstrikerturret",
+		"price": 3542,
+		"category": "Security",
+		"defname": "OMC_Turret_Big"
+	},
+	{
+		"abr": "omcsutherland",
+		"price": 13425,
+		"category": "Misc",
+		"defname": "OMC_Nightmare_Blueprint"
+	},
+	{
+		"abr": "oni",
+		"price": 3050,
+		"category": "Melee weapons",
+		"defname": "OCC_BigHammer"
+	},
+	{
+		"abr": "organ",
+		"price": 2167,
+		"category": "Recreation",
+		"defname": "VFEE_PipeOrgan"
+	},
+	{
+		"abr": "orichalcum",
+		"price": 58,
+		"category": "Raw resources",
+		"defname": "OE_Orichalcum"
+	},
+	{
+		"abr": "orichalcumsynthweave",
+		"price": 62,
+		"category": "Textiles",
+		"defname": "OE_OrichalcumSynthweave"
+	},
+	{
+		"abr": "otcengineerarmor",
+		"price": 5875,
+		"category": "Armor",
+		"defname": "OTC_Armor_M"
+	},
+	{
+		"abr": "otcengineerarmor(acidviper)",
+		"price": 6292,
+		"category": "Armor",
+		"defname": "OTC_Armor_M_Grenadier_Acid"
+	},
+	{
+		"abr": "otcengineerarmor(cryoviper)",
+		"price": 6292,
+		"category": "Armor",
+		"defname": "OTC_Armor_M_Grenadier_Cryo"
+	},
+	{
+		"abr": "otcengineerarmor(empviper)",
+		"price": 6292,
+		"category": "Armor",
+		"defname": "OTC_Armor_M_Grenadier_EMP"
+	},
+	{
+		"abr": "otcengineerarmor(fireviper)",
+		"price": 6292,
+		"category": "Armor",
+		"defname": "OTC_Armor_M_Grenadier_Fire"
+	},
+	{
+		"abr": "otcengineerarmor(goblin)",
+		"price": 6292,
+		"category": "Armor",
+		"defname": "OTC_Armor_M_Turret"
+	},
+	{
+		"abr": "otcengineerarmor(guardian)",
+		"price": 6292,
+		"category": "Armor",
+		"defname": "OTC_Armor_M_Shield"
+	},
+	{
+		"abr": "otcengineerarmor(overseer)",
+		"price": 6292,
+		"category": "Armor",
+		"defname": "OTC_Armor_M_Mechanitor"
+	},
+	{
+		"abr": "otcengineerarmor(protector)",
+		"price": 6292,
+		"category": "Armor",
+		"defname": "OTC_Armor_M_Barrier"
+	},
+	{
+		"abr": "otcengineerarmor(spacegriffin)",
+		"price": 6292,
+		"category": "Armor",
+		"defname": "OTC_Armor_M_Spacer"
+	},
+	{
+		"abr": "otcengineerhelmet",
+		"price": 2125,
+		"category": "Headgear",
+		"defname": "OTC_Helmet_M"
+	},
+	{
+		"abr": "otcengineerhelmet(gladiator)",
+		"price": 2542,
+		"category": "Headgear",
+		"defname": "OTC_Helmet_M_Melee"
+	},
+	{
+		"abr": "otcengineerhelmet(overseer)",
+		"price": 2542,
+		"category": "Headgear",
+		"defname": "OTC_Helmet_M_Mechanitor"
+	},
+	{
+		"abr": "otcengineerhelmet(ranger)",
+		"price": 2542,
+		"category": "Headgear",
+		"defname": "OTC_Helmet_M_Ranged"
+	},
+	{
+		"abr": "otcengineerhelmet(spacegriffin)",
+		"price": 2542,
+		"category": "Headgear",
+		"defname": "OTC_Helmet_M_Spacer"
+	},
+	{
+		"abr": "otcequalizerpoweredturret(acid)",
+		"price": 2042,
+		"category": "Security",
+		"defname": "OTC_Turret_SmallPowered_Acid"
+	},
+	{
+		"abr": "otcequalizerpoweredturret(cryo)",
+		"price": 2958,
+		"category": "Security",
+		"defname": "OTC_Turret_SmallPowered_Cryo"
+	},
+	{
+		"abr": "otcequalizerpoweredturret(emp)",
+		"price": 2958,
+		"category": "Security",
+		"defname": "OTC_Turret_SmallPowered_EMP"
+	},
+	{
+		"abr": "otcequalizerpoweredturret(fire)",
+		"price": 2958,
+		"category": "Security",
+		"defname": "OTC_Turret_SmallPowered_Fire"
+	},
+	{
+		"abr": "otcequalizerturret(acid)",
+		"price": 2042,
+		"category": "Security",
+		"defname": "OTC_Turret_Small_Acid"
+	},
+	{
+		"abr": "otcequalizerturret(cryo)",
+		"price": 2042,
+		"category": "Security",
+		"defname": "OTC_Turret_Small_Cryo"
+	},
+	{
+		"abr": "otcequalizerturret(emp)",
+		"price": 2042,
+		"category": "Security",
+		"defname": "OTC_Turret_Small_EMP"
+	},
+	{
+		"abr": "otcequalizerturret(fire)",
+		"price": 2042,
+		"category": "Security",
+		"defname": "OTC_Turret_Small_Fire"
+	},
+	{
+		"abr": "otcglasgow(acid)",
+		"price": 13425,
+		"category": "Misc",
+		"defname": "OTC_Nightmare_Acid_Blueprint"
+	},
+	{
+		"abr": "otcglasgow(cryo)",
+		"price": 13425,
+		"category": "Misc",
+		"defname": "OTC_Nightmare_Cryo_Blueprint"
+	},
+	{
+		"abr": "otcglasgow(emp)",
+		"price": 13425,
+		"category": "Misc",
+		"defname": "OTC_Nightmare_EMP_Blueprint"
+	},
+	{
+		"abr": "otcglasgow(fire)",
+		"price": 13425,
+		"category": "Misc",
+		"defname": "OTC_Nightmare_Fire_Blueprint"
+	},
+	{
+		"abr": "otcmechanicarmor",
+		"price": 5542,
+		"category": "Armor",
+		"defname": "OTC_Armor"
+	},
+	{
+		"abr": "otcmechanichelmet",
+		"price": 1792,
+		"category": "Headgear",
+		"defname": "OTC_Helmet"
+	},
+	{
+		"abr": "otcmeteorturret(acid)",
+		"price": 3958,
+		"category": "Security",
+		"defname": "OTC_Turret_Big_Acid"
+	},
+	{
+		"abr": "otcmeteorturret(cryo)",
+		"price": 3958,
+		"category": "Security",
+		"defname": "OTC_Turret_Big_Cryo"
+	},
+	{
+		"abr": "otcmeteorturret(emp)",
+		"price": 3958,
+		"category": "Security",
+		"defname": "OTC_Turret_Big_EMP"
+	},
+	{
+		"abr": "otcmeteorturret(fire)",
+		"price": 3958,
+		"category": "Security",
+		"defname": "OTC_Turret_Big_Fire"
+	},
+	{
+		"abr": "patagius",
+		"price": 9025,
+		"category": "Ranged weapons",
+		"defname": "EGO_SniperRifle"
+	},
+	{
+		"abr": "peacemaker",
+		"price": 1567,
+		"category": "Ranged weapons",
+		"defname": "OEC_Revolver"
+	},
+	{
+		"abr": "pearlapple",
+		"price": 3,
+		"category": "Vegetarian",
+		"defname": "OE_Pearlapple_Fruit"
+	},
+	{
+		"abr": "personaacidrift",
+		"price": 3417,
+		"category": "Melee weapons",
+		"defname": "OTC_Trophy_Sword_P_Acid"
+	},
+	{
+		"abr": "personaancientscepter",
+		"price": 5083,
+		"category": "Melee weapons",
+		"defname": "OEC_Trophy_Scepter_P"
+	},
+	{
+		"abr": "personaapathy",
+		"price": 7792,
+		"category": "Melee weapons",
+		"defname": "CAC_Thurible_P"
+	},
+	{
+		"abr": "personaashisogijizō",
+		"price": 3417,
+		"category": "Ranged weapons",
+		"defname": "OE_Trophy_SampleCollector_P"
+	},
+	{
+		"abr": "personabalor",
+		"price": 5083,
+		"category": "Melee weapons",
+		"defname": "OCC_Trophy_Drillspear_P"
+	},
+	{
+		"abr": "personabasher",
+		"price": 1558,
+		"category": "Melee weapons",
+		"defname": "ODC_Tonfa_P"
+	},
+	{
+		"abr": "personabequest-apex",
+		"price": 2558,
+		"category": "Melee weapons",
+		"defname": "ODC_BigSword_P"
+	},
+	{
+		"abr": "personablackprincesword",
+		"price": 3417,
+		"category": "Melee weapons",
+		"defname": "OE_Trophy_BrokenSword_P"
+	},
+	{
+		"abr": "personablackout",
+		"price": 9875,
+		"category": "Ranged weapons",
+		"defname": "CAC_Minigun_P"
+	},
+	{
+		"abr": "personabloodspillermk-ii",
+		"price": 1858,
+		"category": "Melee weapons",
+		"defname": "OMC_Whip_P"
+	},
+	{
+		"abr": "personabloodspillermk-ii(acid)",
+		"price": 1983,
+		"category": "Melee weapons",
+		"defname": "OMC_Whip_P_Acid"
+	},
+	{
+		"abr": "personabloodspillermk-ii(cryo)",
+		"price": 1983,
+		"category": "Melee weapons",
+		"defname": "OMC_Whip_P_Cryo"
+	},
+	{
+		"abr": "personabloodspillermk-ii(emp)",
+		"price": 1983,
+		"category": "Melee weapons",
+		"defname": "OMC_Whip_P_EMP"
+	},
+	{
+		"abr": "personabloodspillermk-ii(fire)",
+		"price": 1983,
+		"category": "Melee weapons",
+		"defname": "OMC_Whip_P_Fire"
+	},
+	{
+		"abr": "personaboomshooter-apex(acid)",
+		"price": 2317,
+		"category": "Ranged weapons",
+		"defname": "ODC_RocketLauncher_P_Acid"
+	},
+	{
+		"abr": "personaboomshooter-apex(cryo)",
+		"price": 2317,
+		"category": "Ranged weapons",
+		"defname": "ODC_RocketLauncher_P_Cryo"
+	},
+	{
+		"abr": "personaboomshooter-apex(emp)",
+		"price": 2317,
+		"category": "Ranged weapons",
+		"defname": "ODC_RocketLauncher_P_EMP"
+	},
+	{
+		"abr": "personaboomshooter-apex(fire)",
+		"price": 2317,
+		"category": "Ranged weapons",
+		"defname": "ODC_RocketLauncher_P_Fire"
+	},
+	{
+		"abr": "personaboomshooter-emergent",
+		"price": 3142,
+		"category": "Ranged weapons",
+		"defname": "ODC_RocketLauncher_P"
+	},
+	{
+		"abr": "personacelestialprototype(acid)",
+		"price": 2108,
+		"category": "Ranged weapons",
+		"defname": "OTC_Pistol_P_Acid"
+	},
+	{
+		"abr": "personacelestialprototype(cryo)",
+		"price": 2108,
+		"category": "Ranged weapons",
+		"defname": "OTC_Pistol_P_Cryo"
+	},
+	{
+		"abr": "personacelestialprototype(emp)",
+		"price": 2108,
+		"category": "Ranged weapons",
+		"defname": "OTC_Pistol_P_EMP"
+	},
+	{
+		"abr": "personacelestialprototype(fire)",
+		"price": 2108,
+		"category": "Ranged weapons",
+		"defname": "OTC_Pistol_P_Fire"
+	},
+	{
+		"abr": "personaconspirator-apex(acid)",
+		"price": 3142,
+		"category": "Ranged weapons",
+		"defname": "ODC_Shotgun_P_Acid"
+	},
+	{
+		"abr": "personaconspirator-apex(cryo)",
+		"price": 3142,
+		"category": "Ranged weapons",
+		"defname": "ODC_Shotgun_P_Cryo"
+	},
+	{
+		"abr": "personaconspirator-apex(emp)",
+		"price": 3142,
+		"category": "Ranged weapons",
+		"defname": "ODC_Shotgun_P_EMP"
+	},
+	{
+		"abr": "personaconspirator-apex(fire)",
+		"price": 3142,
+		"category": "Ranged weapons",
+		"defname": "ODC_Shotgun_P_Fire"
+	},
+	{
+		"abr": "personaconspirator-emergent",
+		"price": 2808,
+		"category": "Ranged weapons",
+		"defname": "ODC_Shotgun_P"
+	},
+	{
+		"abr": "personacronus",
+		"price": 5083,
+		"category": "Ranged weapons",
+		"defname": "OCC_Trophy_Railgun_P"
+	},
+	{
+		"abr": "personacryorift",
+		"price": 3417,
+		"category": "Melee weapons",
+		"defname": "OTC_Trophy_Sword_P_Cryo"
+	},
+	{
+		"abr": "personadefiant-apex",
+		"price": 2225,
+		"category": "Melee weapons",
+		"defname": "ODC_RapierGuard_P"
+	},
+	{
+		"abr": "personadelimitermk-ii",
+		"price": 2258,
+		"category": "Melee weapons",
+		"defname": "OMC_Sword_P"
+	},
+	{
+		"abr": "personadivinity",
+		"price": 3417,
+		"category": "Ranged weapons",
+		"defname": "OEC_Trophy_Pistol_P"
+	},
+	{
+		"abr": "personadoommk-ii",
+		"price": 2725,
+		"category": "Ranged weapons",
+		"defname": "OMC_Shotgun_P"
+	},
+	{
+		"abr": "personaecho",
+		"price": 5958,
+		"category": "Ranged weapons",
+		"defname": "CAC_SMG_P"
+	},
+	{
+		"abr": "personaemprift",
+		"price": 3417,
+		"category": "Melee weapons",
+		"defname": "OTC_Trophy_Sword_P_EMP"
+	},
+	{
+		"abr": "personaempress'sblessing",
+		"price": 3417,
+		"category": "Melee weapons",
+		"defname": "OMC_Trophy_Chainsword_P"
+	},
+	{
+		"abr": "personaenigma-apex(acid)",
+		"price": 2225,
+		"category": "Melee weapons",
+		"defname": "ODC_Rapier_P_Acid"
+	},
+	{
+		"abr": "personaenigma-apex(cryo)",
+		"price": 2225,
+		"category": "Melee weapons",
+		"defname": "ODC_Rapier_P_Cryo"
+	},
+	{
+		"abr": "personaenigma-apex(emp)",
+		"price": 2225,
+		"category": "Melee weapons",
+		"defname": "ODC_Rapier_P_EMP"
+	},
+	{
+		"abr": "personaenigma-apex(fire)",
+		"price": 2225,
+		"category": "Melee weapons",
+		"defname": "ODC_Rapier_P_Fire"
+	},
+	{
+		"abr": "personaequalizerprototype(acid)",
+		"price": 2825,
+		"category": "Ranged weapons",
+		"defname": "OTC_SMG_P_Acid"
+	},
+	{
+		"abr": "personaequalizerprototype(cryo)",
+		"price": 2825,
+		"category": "Ranged weapons",
+		"defname": "OTC_SMG_P_Cryo"
+	},
+	{
+		"abr": "personaequalizerprototype(emp)",
+		"price": 2825,
+		"category": "Ranged weapons",
+		"defname": "OTC_SMG_P_EMP"
+	},
+	{
+		"abr": "personaequalizerprototype(fire)",
+		"price": 2825,
+		"category": "Ranged weapons",
+		"defname": "OTC_SMG_P_Fire"
+	},
+	{
+		"abr": "personaexaltedelitra",
+		"price": 4825,
+		"category": "Melee weapons",
+		"defname": "OEC_Spear_P"
+	},
+	{
+		"abr": "personaexaltedjudgement",
+		"price": 5358,
+		"category": "Ranged weapons",
+		"defname": "OEC_SniperRifle_P"
+	},
+	{
+		"abr": "personaexaltedpeacemaker",
+		"price": 2817,
+		"category": "Ranged weapons",
+		"defname": "OEC_Revolver_P"
+	},
+	{
+		"abr": "personaexaltedpride",
+		"price": 5067,
+		"category": "Ranged weapons",
+		"defname": "OEC_Bow_P"
+	},
+	{
+		"abr": "personaexaltedreaper",
+		"price": 3558,
+		"category": "Melee weapons",
+		"defname": "OEC_Katana_P"
+	},
+	{
+		"abr": "personaexaltedreaper(acid)",
+		"price": 3683,
+		"category": "Melee weapons",
+		"defname": "OEC_Katana_P_Acid"
+	},
+	{
+		"abr": "personaexaltedreaper(cryo)",
+		"price": 3683,
+		"category": "Melee weapons",
+		"defname": "OEC_Katana_P_Cryo"
+	},
+	{
+		"abr": "personaexaltedreaper(emp)",
+		"price": 3683,
+		"category": "Melee weapons",
+		"defname": "OEC_Katana_P_EMP"
+	},
+	{
+		"abr": "personaexaltedreaper(fire)",
+		"price": 3683,
+		"category": "Melee weapons",
+		"defname": "OEC_Katana_P_Fire"
+	},
+	{
+		"abr": "personaexaltedredeemer",
+		"price": 3225,
+		"category": "Ranged weapons",
+		"defname": "OEC_Shotgun_P"
+	},
+	{
+		"abr": "personaexaltedshard",
+		"price": 2267,
+		"category": "Melee weapons",
+		"defname": "OEC_Knife_P"
+	},
+	{
+		"abr": "personaexaltedtruth",
+		"price": 3158,
+		"category": "Melee weapons",
+		"defname": "OEC_Claws_P"
+	},
+	{
+		"abr": "personaexaltedunchained",
+		"price": 4575,
+		"category": "Ranged weapons",
+		"defname": "OEC_Minigun_P"
+	},
+	{
+		"abr": "personaexaltedverdict",
+		"price": 3200,
+		"category": "Ranged weapons",
+		"defname": "OEC_AR_P"
+	},
+	{
+		"abr": "personafirerift",
+		"price": 3417,
+		"category": "Melee weapons",
+		"defname": "OTC_Trophy_Sword_P_Fire"
+	},
+	{
+		"abr": "personaforgestorm",
+		"price": 3417,
+		"category": "Melee weapons",
+		"defname": "OE_Trophy_MechHammer_P"
+	},
+	{
+		"abr": "personafuriousmk-ii",
+		"price": 2258,
+		"category": "Melee weapons",
+		"defname": "OMC_Axe_P"
+	},
+	{
+		"abr": "personagenesisprototype(acid)",
+		"price": 4175,
+		"category": "Melee weapons",
+		"defname": "OTC_BigAxe_P_Acid"
+	},
+	{
+		"abr": "personagenesisprototype(cryo)",
+		"price": 4175,
+		"category": "Melee weapons",
+		"defname": "OTC_BigAxe_P_Cryo"
+	},
+	{
+		"abr": "personagenesisprototype(emp)",
+		"price": 4175,
+		"category": "Melee weapons",
+		"defname": "OTC_BigAxe_P_EMP"
+	},
+	{
+		"abr": "personagenesisprototype(fire)",
+		"price": 4175,
+		"category": "Melee weapons",
+		"defname": "OTC_BigAxe_P_Fire"
+	},
+	{
+		"abr": "personagiant'sbanemk-ii",
+		"price": 5092,
+		"category": "Ranged weapons",
+		"defname": "OMC_RocketLauncher_P"
+	},
+	{
+		"abr": "personagrieving",
+		"price": 6333,
+		"category": "Ranged weapons",
+		"defname": "CAC_Shotgun_P"
+	},
+	{
+		"abr": "personaguillotine-apex",
+		"price": 2558,
+		"category": "Melee weapons",
+		"defname": "ODC_DualSword_P"
+	},
+	{
+		"abr": "personaharvest",
+		"price": 5083,
+		"category": "Ranged weapons",
+		"defname": "ODC_Trophy_BladeLauncher_A_P"
+	},
+	{
+		"abr": "personaharvest-apex",
+		"price": 6083,
+		"category": "Ranged weapons",
+		"defname": "ODC_Trophy_BladeLauncher_C_P"
+	},
+	{
+		"abr": "personaharvest-emergent",
+		"price": 5417,
+		"category": "Ranged weapons",
+		"defname": "ODC_Trophy_BladeLauncher_B_P"
+	},
+	{
+		"abr": "personaheartstriker",
+		"price": 5792,
+		"category": "Ranged weapons",
+		"defname": "CAC_ShotgunS_P"
+	},
+	{
+		"abr": "personahellscreammk-ii",
+		"price": 2483,
+		"category": "Ranged weapons",
+		"defname": "OMC_ShotgunS_P"
+	},
+	{
+		"abr": "personaimpalermk-ii",
+		"price": 1983,
+		"category": "Ranged weapons",
+		"defname": "OMC_Pistol_P"
+	},
+	{
+		"abr": "personaimperfect-emergent",
+		"price": 1892,
+		"category": "Melee weapons",
+		"defname": "ODC_Rapier_P"
+	},
+	{
+		"abr": "personainheritance",
+		"price": 2475,
+		"category": "Ranged weapons",
+		"defname": "ODC_Rifle_P"
+	},
+	{
+		"abr": "personakit",
+		"price": 9167,
+		"category": "Manufactured",
+		"defname": "OE_PersonaKit"
+	},
+	{
+		"abr": "personalloyd'sshovel",
+		"price": 3417,
+		"category": "Melee weapons",
+		"defname": "OE_Trophy_Shovel_P"
+	},
+	{
+		"abr": "personamercilessmk-ii",
+		"price": 2317,
+		"category": "Ranged weapons",
+		"defname": "OMC_Revolver_P"
+	},
+	{
+		"abr": "personamercy-emergent",
+		"price": 1892,
+		"category": "Melee weapons",
+		"defname": "ODC_Sword_P"
+	},
+	{
+		"abr": "personameteorprototype(acid)",
+		"price": 4200,
+		"category": "Ranged weapons",
+		"defname": "OTC_GrenadeLauncher_P_Acid"
+	},
+	{
+		"abr": "personameteorprototype(cryo)",
+		"price": 4200,
+		"category": "Ranged weapons",
+		"defname": "OTC_GrenadeLauncher_P_Cryo"
+	},
+	{
+		"abr": "personameteorprototype(emp)",
+		"price": 4200,
+		"category": "Ranged weapons",
+		"defname": "OTC_GrenadeLauncher_P_EMP"
+	},
+	{
+		"abr": "personameteorprototype(fire)",
+		"price": 4200,
+		"category": "Ranged weapons",
+		"defname": "OTC_GrenadeLauncher_P_Fire"
+	},
+	{
+		"abr": "personamisfit-apex",
+		"price": 2317,
+		"category": "Ranged weapons",
+		"defname": "ODC_SMG_B_P"
+	},
+	{
+		"abr": "personamisfit-emergent",
+		"price": 1983,
+		"category": "Ranged weapons",
+		"defname": "ODC_SMG_A_P"
+	},
+	{
+		"abr": "personamonobastardsword",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "CAT_MonoBastardSwordBladelink"
+	},
+	{
+		"abr": "personamonobusterblade",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "CAT_MonoBusterSwordBladelink"
+	},
+	{
+		"abr": "personamonochargelance",
+		"price": 8333,
+		"category": "Persona weapons",
+		"defname": "CAT_MonoChargeLanceBladelink"
+	},
+	{
+		"abr": "personamonoglaive",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "CAT_MonoGlaiveBladelink"
+	},
+	{
+		"abr": "personamonoodachi",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "CAT_MonoOdachiBladelink"
+	},
+	{
+		"abr": "personamonowarspear",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "CAT_MonoWarSpearBladelink"
+	},
+	{
+		"abr": "personamonowhipblade",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "CAT_MonoWhipClawBladelink"
+	},
+	{
+		"abr": "personamono-greatsword",
+		"price": 6667,
+		"category": "Persona weapons",
+		"defname": "CAT_MonoGreatswordBladelink"
+	},
+	{
+		"abr": "personanemesisprototype(acid)",
+		"price": 2383,
+		"category": "Melee weapons",
+		"defname": "OTC_Hammer_P_Acid"
+	},
+	{
+		"abr": "personanemesisprototype(cryo)",
+		"price": 2383,
+		"category": "Melee weapons",
+		"defname": "OTC_Hammer_P_Cryo"
+	},
+	{
+		"abr": "personanemesisprototype(emp)",
+		"price": 2383,
+		"category": "Melee weapons",
+		"defname": "OTC_Hammer_P_EMP"
+	},
+	{
+		"abr": "personanemesisprototype(fire)",
+		"price": 2383,
+		"category": "Melee weapons",
+		"defname": "OTC_Hammer_P_Fire"
+	},
+	{
+		"abr": "personanetherbaneprototype(acid)",
+		"price": 2517,
+		"category": "Melee weapons",
+		"defname": "OTC_ChainAxe_P_Acid"
+	},
+	{
+		"abr": "personanetherbaneprototype(cryo)",
+		"price": 2517,
+		"category": "Melee weapons",
+		"defname": "OTC_ChainAxe_P_Cryo"
+	},
+	{
+		"abr": "personanetherbaneprototype(emp)",
+		"price": 2517,
+		"category": "Melee weapons",
+		"defname": "OTC_ChainAxe_P_EMP"
+	},
+	{
+		"abr": "personanetherbaneprototype(fire)",
+		"price": 2517,
+		"category": "Melee weapons",
+		"defname": "OTC_ChainAxe_P_Fire"
+	},
+	{
+		"abr": "personanimbusprototype(acid)",
+		"price": 4692,
+		"category": "Ranged weapons",
+		"defname": "OTC_Bow_P_Acid"
+	},
+	{
+		"abr": "personanimbusprototype(cryo)",
+		"price": 4692,
+		"category": "Ranged weapons",
+		"defname": "OTC_Bow_P_Cryo"
+	},
+	{
+		"abr": "personanimbusprototype(emp)",
+		"price": 4692,
+		"category": "Ranged weapons",
+		"defname": "OTC_Bow_P_EMP"
+	},
+	{
+		"abr": "personanimbusprototype(fire)",
+		"price": 4692,
+		"category": "Ranged weapons",
+		"defname": "OTC_Bow_P_Fire"
+	},
+	{
+		"abr": "personanovaprototype(acid)",
+		"price": 4983,
+		"category": "Ranged weapons",
+		"defname": "OTC_SniperRifle_P_Acid"
+	},
+	{
+		"abr": "personanovaprototype(cryo)",
+		"price": 4983,
+		"category": "Ranged weapons",
+		"defname": "OTC_SniperRifle_P_Cryo"
+	},
+	{
+		"abr": "personanovaprototype(emp)",
+		"price": 4983,
+		"category": "Ranged weapons",
+		"defname": "OTC_SniperRifle_P_EMP"
+	},
+	{
+		"abr": "personanovaprototype(fire)",
+		"price": 4983,
+		"category": "Ranged weapons",
+		"defname": "OTC_SniperRifle_P_Fire"
+	},
+	{
+		"abr": "personaplasmaaxe",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "CAT_PlasmaAxeBladelink"
+	},
+	{
+		"abr": "personaplasmacleaver",
+		"price": 3333,
+		"category": "Persona weapons",
+		"defname": "CAT_PlasmaCleaverBladelink"
+	},
+	{
+		"abr": "personaplasmagreatsword",
+		"price": 6667,
+		"category": "Persona weapons",
+		"defname": "CAT_PlasmaGreatswordBladelink"
+	},
+	{
+		"abr": "personaplasmahalberd",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "CAT_PlasmaHalberdBladelink"
+	},
+	{
+		"abr": "personaplasmakhopesh",
+		"price": 3333,
+		"category": "Persona weapons",
+		"defname": "CAT_PlasmaKhopeshBladelink"
+	},
+	{
+		"abr": "personaplasmascythe",
+		"price": 3333,
+		"category": "Persona weapons",
+		"defname": "CAT_PlasmaScytheBladelink"
+	},
+	{
+		"abr": "personaplasmatwinblades",
+		"price": 3333,
+		"category": "Persona weapons",
+		"defname": "CAT_PlasmaTwinBladesBladelink"
+	},
+	{
+		"abr": "personaprototypesx-01a",
+		"price": 3417,
+		"category": "Ranged weapons",
+		"defname": "OMC_Trophy_Pistol_P"
+	},
+	{
+		"abr": "personaprototypesx-02a",
+		"price": 3417,
+		"category": "Ranged weapons",
+		"defname": "OE_Trophy_RepairPistol_P"
+	},
+	{
+		"abr": "personapulsarprototype(acid)",
+		"price": 4200,
+		"category": "Ranged weapons",
+		"defname": "OTC_MultiCannon_P_Acid"
+	},
+	{
+		"abr": "personapulsarprototype(cryo)",
+		"price": 4200,
+		"category": "Ranged weapons",
+		"defname": "OTC_MultiCannon_P_Cryo"
+	},
+	{
+		"abr": "personapulsarprototype(emp)",
+		"price": 4200,
+		"category": "Ranged weapons",
+		"defname": "OTC_MultiCannon_P_EMP"
+	},
+	{
+		"abr": "personapulsarprototype(fire)",
+		"price": 4200,
+		"category": "Ranged weapons",
+		"defname": "OTC_MultiCannon_P_Fire"
+	},
+	{
+		"abr": "personapurpose",
+		"price": 1650,
+		"category": "Ranged weapons",
+		"defname": "ODC_Pistol_P"
+	},
+	{
+		"abr": "personaquasarprototype(acid)",
+		"price": 2850,
+		"category": "Ranged weapons",
+		"defname": "OTC_Shotgun_P_Acid"
+	},
+	{
+		"abr": "personaquasarprototype(cryo)",
+		"price": 2850,
+		"category": "Ranged weapons",
+		"defname": "OTC_Shotgun_P_Cryo"
+	},
+	{
+		"abr": "personaquasarprototype(emp)",
+		"price": 2850,
+		"category": "Ranged weapons",
+		"defname": "OTC_Shotgun_P_EMP"
+	},
+	{
+		"abr": "personaquasarprototype(fire)",
+		"price": 2850,
+		"category": "Ranged weapons",
+		"defname": "OTC_Shotgun_P_Fire"
+	},
+	{
+		"abr": "personarandy'sdeck",
+		"price": 3417,
+		"category": "Ranged weapons",
+		"defname": "OTC_Trophy_Cards_P"
+	},
+	{
+		"abr": "personareforgedbehemoth",
+		"price": 5342,
+		"category": "Ranged weapons",
+		"defname": "OCC_RocketLauncher_P"
+	},
+	{
+		"abr": "personareforgedcerberus",
+		"price": 3142,
+		"category": "Ranged weapons",
+		"defname": "OCC_Rifle_P"
+	},
+	{
+		"abr": "personareforgedchimera",
+		"price": 4325,
+		"category": "Ranged weapons",
+		"defname": "OCC_MultiCannon_P"
+	},
+	{
+		"abr": "personareforgedhornet",
+		"price": 2567,
+		"category": "Ranged weapons",
+		"defname": "OCC_Revolver_P"
+	},
+	{
+		"abr": "personareforgedhydra",
+		"price": 4325,
+		"category": "Ranged weapons",
+		"defname": "OCC_Minigun_P"
+	},
+	{
+		"abr": "personareforgedoni",
+		"price": 4300,
+		"category": "Melee weapons",
+		"defname": "OCC_BigHammer_P"
+	},
+	{
+		"abr": "personareforgedscylla",
+		"price": 2950,
+		"category": "Ranged weapons",
+		"defname": "OCC_AR_P"
+	},
+	{
+		"abr": "personareforgedshikigami",
+		"price": 4300,
+		"category": "Melee weapons",
+		"defname": "OCC_BigSword_P"
+	},
+	{
+		"abr": "personareforgedtyphon",
+		"price": 2908,
+		"category": "Melee weapons",
+		"defname": "OCC_PowerFist_P"
+	},
+	{
+		"abr": "personareforgedtyphon(acid)",
+		"price": 3033,
+		"category": "Melee weapons",
+		"defname": "OCC_PowerFist_P_Acid"
+	},
+	{
+		"abr": "personareforgedtyphon(cryo)",
+		"price": 3033,
+		"category": "Melee weapons",
+		"defname": "OCC_PowerFist_P_Cryo"
+	},
+	{
+		"abr": "personareforgedtyphon(emp)",
+		"price": 3033,
+		"category": "Melee weapons",
+		"defname": "OCC_PowerFist_P_EMP"
+	},
+	{
+		"abr": "personareforgedtyphon(fire)",
+		"price": 3033,
+		"category": "Melee weapons",
+		"defname": "OCC_PowerFist_P_Fire"
+	},
+	{
+		"abr": "personareforgedwendigo",
+		"price": 4817,
+		"category": "Ranged weapons",
+		"defname": "OCC_Bow_P"
+	},
+	{
+		"abr": "personascar",
+		"price": 1558,
+		"category": "Melee weapons",
+		"defname": "ODC_Knife_P"
+	},
+	{
+		"abr": "personasilentsong",
+		"price": 4542,
+		"category": "Ranged weapons",
+		"defname": "CAC_Pistol_P"
+	},
+	{
+		"abr": "personaskullmashermk-ii",
+		"price": 4858,
+		"category": "Ranged weapons",
+		"defname": "OMC_SniperRifle_P"
+	},
+	{
+		"abr": "personasmuggler-apex",
+		"price": 3808,
+		"category": "Ranged weapons",
+		"defname": "ODC_SniperRifle_B_P"
+	},
+	{
+		"abr": "personasmuggler-emergent",
+		"price": 3142,
+		"category": "Ranged weapons",
+		"defname": "ODC_SniperRifle_A_P"
+	},
+	{
+		"abr": "personasouldrinker",
+		"price": 6125,
+		"category": "Melee weapons",
+		"defname": "CAC_Scythe_P"
+	},
+	{
+		"abr": "personasouleater",
+		"price": 10333,
+		"category": "Melee weapons",
+		"defname": "CAC_BigScythe_P"
+	},
+	{
+		"abr": "personastrikermk-ii",
+		"price": 2700,
+		"category": "Ranged weapons",
+		"defname": "OMC_AR_P"
+	},
+	{
+		"abr": "personatemptation",
+		"price": 3417,
+		"category": "Melee weapons",
+		"defname": "ODC_Trophy_Sickle_A_P"
+	},
+	{
+		"abr": "personatemptation-apex",
+		"price": 4083,
+		"category": "Melee weapons",
+		"defname": "ODC_Trophy_Sickle_C_P"
+	},
+	{
+		"abr": "personatemptation-emergent",
+		"price": 3750,
+		"category": "Melee weapons",
+		"defname": "ODC_Trophy_Sickle_B_P"
+	},
+	{
+		"abr": "personathoughtless-apex",
+		"price": 3142,
+		"category": "Ranged weapons",
+		"defname": "ODC_AssaultRifle_B_P"
+	},
+	{
+		"abr": "personathoughtless-emergent",
+		"price": 2808,
+		"category": "Ranged weapons",
+		"defname": "ODC_AssaultRifle_A_P"
+	},
+	{
+		"abr": "personatitanstrike",
+		"price": 3417,
+		"category": "Ranged weapons",
+		"defname": "OE_Trophy_UnstableGun_P"
+	},
+	{
+		"abr": "personatoxcurvedblade",
+		"price": 3000,
+		"category": "Persona weapons",
+		"defname": "CAT_ToxCurvedBladeBladelink"
+	},
+	{
+		"abr": "personatoxgauntlet",
+		"price": 3000,
+		"category": "Persona weapons",
+		"defname": "CAT_ToxGauntletBladelink"
+	},
+	{
+		"abr": "personatoxrapier",
+		"price": 3333,
+		"category": "Persona weapons",
+		"defname": "CAT_ToxRapierBladelink"
+	},
+	{
+		"abr": "personatoxscythe",
+		"price": 3000,
+		"category": "Persona weapons",
+		"defname": "CAT_ToxScytheBladelink"
+	},
+	{
+		"abr": "personatoxtriblade",
+		"price": 3000,
+		"category": "Persona weapons",
+		"defname": "CAT_ToxTribladeBladelink"
+	},
+	{
+		"abr": "personatoxblade",
+		"price": 3333,
+		"category": "Persona weapons",
+		"defname": "VFEE_MeleeWeapon_ToxbladeBladelink"
+	},
+	{
+		"abr": "personatrespasser-apex(acid)",
+		"price": 2317,
+		"category": "Ranged weapons",
+		"defname": "ODC_Revolver_P_Acid"
+	},
+	{
+		"abr": "personatrespasser-apex(cryo)",
+		"price": 2317,
+		"category": "Ranged weapons",
+		"defname": "ODC_Revolver_P_Cryo"
+	},
+	{
+		"abr": "personatrespasser-apex(emp)",
+		"price": 2317,
+		"category": "Ranged weapons",
+		"defname": "ODC_Revolver_P_EMP"
+	},
+	{
+		"abr": "personatrespasser-apex(fire)",
+		"price": 2317,
+		"category": "Ranged weapons",
+		"defname": "ODC_Revolver_P_Fire"
+	},
+	{
+		"abr": "personatrespasser-emergent",
+		"price": 1983,
+		"category": "Ranged weapons",
+		"defname": "ODC_Revolver_P"
+	},
+	{
+		"abr": "personawidowmaker",
+		"price": 11833,
+		"category": "Ranged weapons",
+		"defname": "CAC_SniperRifle_P"
+	},
+	{
+		"abr": "personazeusbaton",
+		"price": 3333,
+		"category": "Persona weapons",
+		"defname": "CAT_ZeusBatonBladelink"
+	},
+	{
+		"abr": "personazeusgreathammer",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "CAT_ZeusGreathammerBladelink"
+	},
+	{
+		"abr": "personazeusjian",
+		"price": 3333,
+		"category": "Persona weapons",
+		"defname": "CAT_ZeusJianBladelink"
+	},
+	{
+		"abr": "personazeuskanabo",
+		"price": 5000,
+		"category": "Persona weapons",
+		"defname": "CAT_ZeusKanaboBladelink"
+	},
+	{
+		"abr": "personazeusnunchucks",
+		"price": 3333,
+		"category": "Persona weapons",
+		"defname": "CAT_ZeusNunchucksBladelink"
+	},
+	{
+		"abr": "personazeusquarterstaff",
+		"price": 3333,
+		"category": "Persona weapons",
+		"defname": "CAT_ZeusQuarterstaffBladelink"
+	},
+	{
+		"abr": "personazeustome",
+		"price": 3333,
+		"category": "Persona weapons",
+		"defname": "CAT_ZeusTomeBladelink"
+	},
+	{
+		"abr": "piercerrifle",
+		"price": 675,
+		"category": "Ranged weapons",
+		"defname": "VWEB_Gun_PiercerRifle"
+	},
+	{
+		"abr": "pincerlin",
+		"price": 142,
+		"category": "Animals",
+		"defname": "OE_Pincerlin"
+	},
+	{
+		"abr": "plasmaaxe",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "CAT_PlasmaAxe"
+	},
+	{
+		"abr": "plasmacleaver",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "CAT_PlasmaCleaver"
+	},
+	{
+		"abr": "plasmagreatsword",
+		"price": 5000,
+		"category": "Melee weapons",
+		"defname": "CAT_PlasmaGreatsword"
+	},
+	{
+		"abr": "plasmahalberd",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "CAT_PlasmaHalberd"
+	},
+	{
+		"abr": "plasmakhopesh",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "CAT_PlasmaKhopesh"
+	},
+	{
+		"abr": "plasmascythe",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "CAT_PlasmaScythe"
+	},
+	{
+		"abr": "plasmatwinblades",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "CAT_PlasmaTwinBlades"
+	},
+	{
+		"abr": "platinum",
+		"price": 25,
+		"category": "Raw resources",
+		"defname": "OE_Platinum"
+	},
+	{
+		"abr": "platinumslime",
+		"price": 3667,
+		"category": "Animals",
+		"defname": "OE_Slime_Platinum"
+	},
+	{
+		"abr": "platinumslimeheart(сonf.)",
+		"price": 2833,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Platinum"
+	},
+	{
+		"abr": "platinumsynthweave",
+		"price": 29,
+		"category": "Textiles",
+		"defname": "OE_PlatinumSynthweave"
+	},
+	{
+		"abr": "portablequantumgenerator",
+		"price": 1917,
+		"category": "Special",
+		"defname": "OE_QuantumGenerator_Micro"
+	},
+	{
+		"abr": "powertransmissiontower",
+		"price": 692,
+		"category": "Misc",
+		"defname": "PowerTransmissionTower"
+	},
+	{
+		"abr": "prestigecape",
+		"price": 425,
+		"category": "Noble apparel",
+		"defname": "Apparel_LargePrestigeCape"
+	},
+	{
+		"abr": "prestigestelliccane",
+		"price": 33333,
+		"category": "Persona weapons",
+		"defname": "CAT_StellicCaneBladelink"
+	},
+	{
+		"abr": "prestigestellicgreataxe",
+		"price": 33333,
+		"category": "Persona weapons",
+		"defname": "CAT_PrestigePlasmaGreataxeBladelink"
+	},
+	{
+		"abr": "prestigestellicmaul",
+		"price": 33333,
+		"category": "Persona weapons",
+		"defname": "CAT_StellicMaulBladelink"
+	},
+	{
+		"abr": "prestigestellicmonosword",
+		"price": 33333,
+		"category": "Persona weapons",
+		"defname": "CAT_MonoStellicSwordBladelink"
+	},
+	{
+		"abr": "prestigestellicplasmasword",
+		"price": 33333,
+		"category": "Persona weapons",
+		"defname": "CAT_PrestigePlasmaSwordBladelink"
+	},
+	{
+		"abr": "prestigestellicpolearm",
+		"price": 33333,
+		"category": "Persona weapons",
+		"defname": "CAT_ToxStellicPolearmBladelink"
+	},
+	{
+		"abr": "prestigestellicspear",
+		"price": 33333,
+		"category": "Persona weapons",
+		"defname": "CAT_MonoStellicSpearBladelink"
+	},
+	{
+		"abr": "prestigestellicthurible",
+		"price": 33333,
+		"category": "Persona weapons",
+		"defname": "CAT_ToxStellicThuribleBladelink"
+	},
+	{
+		"abr": "pride",
+		"price": 3817,
+		"category": "Ranged weapons",
+		"defname": "OEC_Bow"
+	},
+	{
+		"abr": "proboscis",
+		"price": 6025,
+		"category": "Melee weapons",
+		"defname": "EGO_Whip"
+	},
+	{
+		"abr": "protogauntlet",
+		"price": 1250,
+		"category": "Melee weapons",
+		"defname": "ODC_Trophy_PowerFist_A"
+	},
+	{
+		"abr": "prototypesx-01a",
+		"price": 2583,
+		"category": "Ranged weapons",
+		"defname": "OMC_Trophy_Pistol"
+	},
+	{
+		"abr": "prototypesx-02a",
+		"price": 2583,
+		"category": "Ranged weapons",
+		"defname": "OE_Trophy_RepairPistol"
+	},
+	{
+		"abr": "psychicmodule-insanity",
+		"price": 5208,
+		"category": "Apparel",
+		"defname": "OE_Module_Insanity"
+	},
+	{
+		"abr": "psychicmodule-shock",
+		"price": 5208,
+		"category": "Apparel",
+		"defname": "OE_Module_Shock"
+	},
+	{
+		"abr": "psy-mutalisk",
+		"price": 750,
+		"category": "Animals",
+		"defname": "OE_Mutalisk_Psy"
+	},
+	{
+		"abr": "psytrainer(cloakingfield)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_PTA_CloakingField"
+	},
+	{
+		"abr": "psytrainer(hardenedshields)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_PTA_HardenedShields"
+	},
+	{
+		"abr": "psytrainer(interceptorproduction)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_PTA_Interceptor"
+	},
+	{
+		"abr": "psytrainer(massrecall)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_PTA_MassRecall"
+	},
+	{
+		"abr": "psytrainer(psionicblades)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_PTA_PsiBlades"
+	},
+	{
+		"abr": "psytrainer(psionicfeedback)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_PTA_Feedback"
+	},
+	{
+		"abr": "psytrainer(psionicshields)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_PTA_Shields"
+	},
+	{
+		"abr": "psytrainer(psionicshockwave)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_PTA_PsionicShockwave"
+	},
+	{
+		"abr": "psytrainer(psionicstorm)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_PTA_PsionicStorm"
+	},
+	{
+		"abr": "psytrainer(purificationnovaproduction)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_PTA_PurificationNova"
+	},
+	{
+		"abr": "psytrainer(resonanceoverload)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_PTA_ResonanceCoil"
+	},
+	{
+		"abr": "psytrainer(timewarp)",
+		"price": 3333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_PTA_TimeWarp"
+	},
+	{
+		"abr": "psytrainer(相位碎裂炮)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_PTA_Phasedisruptors"
+	},
+	{
+		"abr": "pulsarprototype(acid)",
+		"price": 3367,
+		"category": "Ranged weapons",
+		"defname": "OTC_MultiCannon_M_Acid"
+	},
+	{
+		"abr": "pulsarprototype(cryo)",
+		"price": 3367,
+		"category": "Ranged weapons",
+		"defname": "OTC_MultiCannon_M_Cryo"
+	},
+	{
+		"abr": "pulsarprototype(emp)",
+		"price": 3367,
+		"category": "Ranged weapons",
+		"defname": "OTC_MultiCannon_M_EMP"
+	},
+	{
+		"abr": "pulsarprototype(fire)",
+		"price": 3367,
+		"category": "Ranged weapons",
+		"defname": "OTC_MultiCannon_M_Fire"
+	},
+	{
+		"abr": "pulsar(acid)",
+		"price": 2950,
+		"category": "Ranged weapons",
+		"defname": "OTC_MultiCannon_Acid"
+	},
+	{
+		"abr": "pulsar(cryo)",
+		"price": 2950,
+		"category": "Ranged weapons",
+		"defname": "OTC_MultiCannon_Cryo"
+	},
+	{
+		"abr": "pulsar(emp)",
+		"price": 2950,
+		"category": "Ranged weapons",
+		"defname": "OTC_MultiCannon_EMP"
+	},
+	{
+		"abr": "pulsar(fire)",
+		"price": 2950,
+		"category": "Ranged weapons",
+		"defname": "OTC_MultiCannon_Fire"
+	},
+	{
+		"abr": "purpose",
+		"price": 817,
+		"category": "Ranged weapons",
+		"defname": "ODC_Pistol"
+	},
+	{
+		"abr": "quantumgenerator",
+		"price": 9050,
+		"category": "Misc",
+		"defname": "OE_QuantumGenerator_Medium"
+	},
+	{
+		"abr": "quasarprototype(acid)",
+		"price": 2017,
+		"category": "Ranged weapons",
+		"defname": "OTC_Shotgun_M_Acid"
+	},
+	{
+		"abr": "quasarprototype(cryo)",
+		"price": 2017,
+		"category": "Ranged weapons",
+		"defname": "OTC_Shotgun_M_Cryo"
+	},
+	{
+		"abr": "quasarprototype(emp)",
+		"price": 2017,
+		"category": "Ranged weapons",
+		"defname": "OTC_Shotgun_M_EMP"
+	},
+	{
+		"abr": "quasarprototype(fire)",
+		"price": 2017,
+		"category": "Ranged weapons",
+		"defname": "OTC_Shotgun_M_Fire"
+	},
+	{
+		"abr": "quasar(acid)",
+		"price": 1600,
+		"category": "Ranged weapons",
+		"defname": "OTC_Shotgun_Acid"
+	},
+	{
+		"abr": "quasar(cryo)",
+		"price": 1600,
+		"category": "Ranged weapons",
+		"defname": "OTC_Shotgun_Cryo"
+	},
+	{
+		"abr": "quasar(emp)",
+		"price": 1600,
+		"category": "Ranged weapons",
+		"defname": "OTC_Shotgun_EMP"
+	},
+	{
+		"abr": "quasar(fire)",
+		"price": 1600,
+		"category": "Ranged weapons",
+		"defname": "OTC_Shotgun_Fire"
+	},
+	{
+		"abr": "randy'sdeck",
+		"price": 2583,
+		"category": "Ranged weapons",
+		"defname": "OTC_Trophy_Cards"
+	},
+	{
+		"abr": "raptor",
+		"price": 1917,
+		"category": "Animals",
+		"defname": "OE_Raptor"
+	},
+	{
+		"abr": "raptoregg(fert.)",
+		"price": 33,
+		"category": "Eggs (fert.)",
+		"defname": "OE_EggRaptorFertilized"
+	},
+	{
+		"abr": "raptoregg(unfert.)",
+		"price": 33,
+		"category": "Eggs (unfert.)",
+		"defname": "OE_EggRaptorUnfertilized"
+	},
+	{
+		"abr": "rarearcademachinerimotroops",
+		"price": 1250,
+		"category": "Special",
+		"defname": "OE_JoyArcadeMachine"
+	},
+	{
+		"abr": "rawbileceps",
+		"price": 2,
+		"category": "Meat",
+		"defname": "VPE_Bileceps"
+	},
+	{
+		"abr": "rawblisscap",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VPE_Blisscap"
+	},
+	{
+		"abr": "razorsythe",
+		"price": 833,
+		"category": "Animals",
+		"defname": "OE_Razorsythe"
+	},
+	{
+		"abr": "reaper",
+		"price": 2308,
+		"category": "Melee weapons",
+		"defname": "OEC_Katana"
+	},
+	{
+		"abr": "reaper(acid)",
+		"price": 2433,
+		"category": "Melee weapons",
+		"defname": "OEC_Katana_Acid"
+	},
+	{
+		"abr": "reaper(cryo)",
+		"price": 2433,
+		"category": "Melee weapons",
+		"defname": "OEC_Katana_Cryo"
+	},
+	{
+		"abr": "reaper(emp)",
+		"price": 2433,
+		"category": "Melee weapons",
+		"defname": "OEC_Katana_EMP"
+	},
+	{
+		"abr": "reaper(fire)",
+		"price": 2433,
+		"category": "Melee weapons",
+		"defname": "OEC_Katana_Fire"
+	},
+	{
+		"abr": "redscorpid",
+		"price": 1750,
+		"category": "Animals",
+		"defname": "OE_Scorpid_Red"
+	},
+	{
+		"abr": "redtionantegg(fert.)",
+		"price": 58,
+		"category": "Eggs (fert.)",
+		"defname": "OE_EggRedTionantFertilized"
+	},
+	{
+		"abr": "redtionantjelly",
+		"price": 42,
+		"category": "Meat",
+		"defname": "OE_Red_TionantJelly"
+	},
+	{
+		"abr": "redeemer",
+		"price": 1975,
+		"category": "Ranged weapons",
+		"defname": "OEC_Shotgun"
+	},
+	{
+		"abr": "reforgedbehemoth",
+		"price": 4508,
+		"category": "Ranged weapons",
+		"defname": "OCC_RocketLauncher_M"
+	},
+	{
+		"abr": "reforgedbulwark",
+		"price": 3458,
+		"category": "Shields",
+		"defname": "OCC_Shield_Big"
+	},
+	{
+		"abr": "reforgedcerberus",
+		"price": 2308,
+		"category": "Ranged weapons",
+		"defname": "OCC_Rifle_M"
+	},
+	{
+		"abr": "reforgedchimera",
+		"price": 3492,
+		"category": "Ranged weapons",
+		"defname": "OCC_MultiCannon_M"
+	},
+	{
+		"abr": "reforgedhornet",
+		"price": 1733,
+		"category": "Ranged weapons",
+		"defname": "OCC_Revolver_M"
+	},
+	{
+		"abr": "reforgedhydra",
+		"price": 3492,
+		"category": "Ranged weapons",
+		"defname": "OCC_Minigun_M"
+	},
+	{
+		"abr": "reforgedoni",
+		"price": 3467,
+		"category": "Melee weapons",
+		"defname": "OCC_BigHammer_M"
+	},
+	{
+		"abr": "reforgedscylla",
+		"price": 2117,
+		"category": "Ranged weapons",
+		"defname": "OCC_AR_M"
+	},
+	{
+		"abr": "reforgedshikigami",
+		"price": 3467,
+		"category": "Melee weapons",
+		"defname": "OCC_BigSword_M"
+	},
+	{
+		"abr": "reforgedtyphon",
+		"price": 2075,
+		"category": "Melee weapons",
+		"defname": "OCC_PowerFist_M"
+	},
+	{
+		"abr": "reforgedtyphon(acid)",
+		"price": 2200,
+		"category": "Melee weapons",
+		"defname": "OCC_PowerFist_M_Acid"
+	},
+	{
+		"abr": "reforgedtyphon(cryo)",
+		"price": 2200,
+		"category": "Melee weapons",
+		"defname": "OCC_PowerFist_M_Cryo"
+	},
+	{
+		"abr": "reforgedtyphon(emp)",
+		"price": 2200,
+		"category": "Melee weapons",
+		"defname": "OCC_PowerFist_M_EMP"
+	},
+	{
+		"abr": "reforgedtyphon(fire)",
+		"price": 2200,
+		"category": "Melee weapons",
+		"defname": "OCC_PowerFist_M_Fire"
+	},
+	{
+		"abr": "reforgedwendigo",
+		"price": 3983,
+		"category": "Ranged weapons",
+		"defname": "OCC_Bow_M"
+	},
+	{
+		"abr": "rimopolytable",
+		"price": 6050,
+		"category": "Furniture",
+		"defname": "OE_JoyTable"
+	},
+	{
+		"abr": "rosner",
+		"price": 1583,
+		"category": "Animals",
+		"defname": "OE_Rosner"
+	},
+	{
+		"abr": "roughobsidiaskin",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "OE_Leather_Ogren"
+	},
+	{
+		"abr": "royalmirror",
+		"price": 230,
+		"category": "Furniture",
+		"defname": "VFEE_RoyalMirror"
+	},
+	{
+		"abr": "royalstool",
+		"price": 433,
+		"category": "Furniture",
+		"defname": "VFEE_RoyalStool"
+	},
+	{
+		"abr": "sanguophagehemogenslime",
+		"price": 1875,
+		"category": "Animals",
+		"defname": "OE_Slime_HemogenSanguophage"
+	},
+	{
+		"abr": "sanguophagehemogenslimeheart(сonf.)",
+		"price": 1042,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_HemogenSanguophage"
+	},
+	{
+		"abr": "scar",
+		"price": 725,
+		"category": "Melee weapons",
+		"defname": "ODC_Knife"
+	},
+	{
+		"abr": "scylla",
+		"price": 1700,
+		"category": "Ranged weapons",
+		"defname": "OCC_AR"
+	},
+	{
+		"abr": "secondarachna'ssin-gluttony",
+		"price": 7375,
+		"category": "Ranged weapons",
+		"defname": "CAC_Trophy_Minigun"
+	},
+	{
+		"abr": "seventharachna'ssin-pride",
+		"price": 9333,
+		"category": "Ranged weapons",
+		"defname": "CAC_Trophy_SniperRifle"
+	},
+	{
+		"abr": "sevide",
+		"price": 58,
+		"category": "Drugs",
+		"defname": "OE_Sevide"
+	},
+	{
+		"abr": "shard",
+		"price": 1017,
+		"category": "Melee weapons",
+		"defname": "OEC_Knife"
+	},
+	{
+		"abr": "sharkaradon",
+		"price": 2083,
+		"category": "Animals",
+		"defname": "OE_Sharkaradon"
+	},
+	{
+		"abr": "shikigami",
+		"price": 3050,
+		"category": "Melee weapons",
+		"defname": "OCC_BigSword"
+	},
+	{
+		"abr": "shinmura",
+		"price": 6875,
+		"category": "Utility",
+		"defname": "OCC_Drone"
+	},
+	{
+		"abr": "silentsong",
+		"price": 2042,
+		"category": "Ranged weapons",
+		"defname": "CAC_Pistol"
+	},
+	{
+		"abr": "silverslime",
+		"price": 1333,
+		"category": "Animals",
+		"defname": "OE_Slime_Silver"
+	},
+	{
+		"abr": "silverslimeheart(сonf.)",
+		"price": 500,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Silver"
+	},
+	{
+		"abr": "sixtharachna'ssin-envy",
+		"price": 7833,
+		"category": "Melee weapons",
+		"defname": "CAC_Trophy_Knife"
+	},
+	{
+		"abr": "skinimplant-cultist",
+		"price": 5833,
+		"category": "Bionic",
+		"defname": "OE_ImplantSkin_CAC"
+	},
+	{
+		"abr": "skinimplant-mythril",
+		"price": 2542,
+		"category": "Bionic",
+		"defname": "OE_ImplantSkin_Mythril"
+	},
+	{
+		"abr": "skinimplant-obsidian",
+		"price": 1958,
+		"category": "Bionic",
+		"defname": "OE_ImplantSkin_Obsidian"
+	},
+	{
+		"abr": "skullmasher",
+		"price": 3608,
+		"category": "Ranged weapons",
+		"defname": "OMC_SniperRifle"
+	},
+	{
+		"abr": "skullmashermk-ii",
+		"price": 4025,
+		"category": "Ranged weapons",
+		"defname": "OMC_SniperRifle_M"
+	},
+	{
+		"abr": "slaveoutfit",
+		"price": 234,
+		"category": "Misc",
+		"defname": "RS_Apparel_SlaveOutfit"
+	},
+	{
+		"abr": "slimeheart(unconf.)",
+		"price": 333,
+		"category": "Manufactured",
+		"defname": "OE_SlimeHeart"
+	},
+	{
+		"abr": "slugol",
+		"price": 250,
+		"category": "Drugs",
+		"defname": "OE_Slugol"
+	},
+	{
+		"abr": "smallimperialsculpture",
+		"price": 275,
+		"category": "Art",
+		"defname": "VFEE_RoyalSculptureSmall"
+	},
+	{
+		"abr": "smallobsidiaartificialecosystem(dusk)",
+		"price": 475,
+		"category": "Misc",
+		"defname": "OE_ArtEcosysMicro_Dusk"
+	},
+	{
+		"abr": "smallobsidiaartificialecosystem(sun)",
+		"price": 475,
+		"category": "Misc",
+		"defname": "OE_ArtEcosysMicro_Sun"
+	},
+	{
+		"abr": "smallstele",
+		"price": 274,
+		"category": "Misc",
+		"defname": "VFEE_SteleSmall"
+	},
+	{
+		"abr": "smuggler-apex",
+		"price": 2975,
+		"category": "Ranged weapons",
+		"defname": "ODC_SniperRifle_B"
+	},
+	{
+		"abr": "smuggler-emergent",
+		"price": 2308,
+		"category": "Ranged weapons",
+		"defname": "ODC_SniperRifle_A"
+	},
+	{
+		"abr": "snapper",
+		"price": 208,
+		"category": "Animals",
+		"defname": "OE_Snapper"
+	},
+	{
+		"abr": "snappercaviar(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "OE_EggSnapperFertilized"
+	},
+	{
+		"abr": "souldrinker",
+		"price": 3625,
+		"category": "Melee weapons",
+		"defname": "CAC_Scythe"
+	},
+	{
+		"abr": "souleater",
+		"price": 7833,
+		"category": "Melee weapons",
+		"defname": "CAC_BigScythe"
+	},
+	{
+		"abr": "specialmodule-camouflage",
+		"price": 5208,
+		"category": "Apparel",
+		"defname": "OE_Module_Camouflage"
+	},
+	{
+		"abr": "sporothrix",
+		"price": 8242,
+		"category": "Ranged weapons",
+		"defname": "EGO_GrenadeLauncher"
+	},
+	{
+		"abr": "steelslime",
+		"price": 1483,
+		"category": "Animals",
+		"defname": "OE_Slime_Steel"
+	},
+	{
+		"abr": "steelslimeheart(сonf.)",
+		"price": 650,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Steel"
+	},
+	{
+		"abr": "stellicmeditationthrone",
+		"price": 5542,
+		"category": "Furniture",
+		"defname": "VFEE_StellicThrone"
+	},
+	{
+		"abr": "stellicrobe",
+		"price": 583,
+		"category": "Noble apparel",
+		"defname": "VFE_Apparel_StellicRobe"
+	},
+	{
+		"abr": "stomachimplant-traveler",
+		"price": 1975,
+		"category": "Bionic",
+		"defname": "OE_ImplantStomach_Traveler"
+	},
+	{
+		"abr": "striker",
+		"price": 1450,
+		"category": "Ranged weapons",
+		"defname": "OMC_AR"
+	},
+	{
+		"abr": "strikermk-ii",
+		"price": 1867,
+		"category": "Ranged weapons",
+		"defname": "OMC_AR_M"
+	},
+	{
+		"abr": "strikerturret",
+		"price": 383,
+		"category": "Misc",
+		"defname": "VFEE_Turret_StrikerTurret"
+	},
+	{
+		"abr": "surrogateanimalstomach",
+		"price": 268,
+		"category": "Artificial Animal Body Part",
+		"defname": "SurrogateStomachAnimal"
+	},
+	{
+		"abr": "swamparachna",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "OE_Arachna_Yellow"
+	},
+	{
+		"abr": "swarmella",
+		"price": 1417,
+		"category": "Animals",
+		"defname": "OE_Swarmella"
+	},
+	{
+		"abr": "syntherius",
+		"price": 25,
+		"category": "Raw resources",
+		"defname": "OE_Syntherius"
+	},
+	{
+		"abr": "syntheriusdrive",
+		"price": 592,
+		"category": "Car parts",
+		"defname": "OE_SyntheriusVehicleCore"
+	},
+	{
+		"abr": "syntheriusofsin",
+		"price": 833,
+		"category": "Manufactured",
+		"defname": "OE_SyntheriusOfSin"
+	},
+	{
+		"abr": "syntheriusofsinslime",
+		"price": 12917,
+		"category": "Animals",
+		"defname": "OE_Slime_SyntheriusOfSin"
+	},
+	{
+		"abr": "syntheriusofsinslimeheart(сonf.)",
+		"price": 8417,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_SyntheriusOfSin"
+	},
+	{
+		"abr": "syntheriuspoweredgenerator",
+		"price": 4417,
+		"category": "Misc",
+		"defname": "OE_SyntheriusGenerator_Medium"
+	},
+	{
+		"abr": "syntheriusslime",
+		"price": 1792,
+		"category": "Animals",
+		"defname": "OE_Slime_Syntherius"
+	},
+	{
+		"abr": "syntheriusslimeheart(сonf.)",
+		"price": 958,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Syntherius"
+	},
+	{
+		"abr": "syntheticanimalheart",
+		"price": 1308,
+		"category": "Artificial Animal Body Part",
+		"defname": "BionicHeartAnimal"
+	},
+	{
+		"abr": "syntheticanimalkidney",
+		"price": 1308,
+		"category": "Artificial Animal Body Part",
+		"defname": "SyntheticKidneyAnimal"
+	},
+	{
+		"abr": "syntheticanimalliver",
+		"price": 1308,
+		"category": "Artificial Animal Body Part",
+		"defname": "SyntheticLiverAnimal"
+	},
+	{
+		"abr": "syntheticanimallung",
+		"price": 1308,
+		"category": "Artificial Animal Body Part",
+		"defname": "SyntheticLungAnimal"
+	},
+	{
+		"abr": "syntheticanimalstomach",
+		"price": 1308,
+		"category": "Artificial Animal Body Part",
+		"defname": "BionicStomachAnimal"
+	},
+	{
+		"abr": "targetermodule-orbitalbombardment",
+		"price": 5208,
+		"category": "Apparel",
+		"defname": "OE_Module_Bombardment"
+	},
+	{
+		"abr": "targetermodule-powerbeam",
+		"price": 5208,
+		"category": "Apparel",
+		"defname": "OE_Module_PowerBeam"
+	},
+	{
+		"abr": "targetermodule-tornadogenerator",
+		"price": 5208,
+		"category": "Apparel",
+		"defname": "OE_Module_Tornado"
+	},
+	{
+		"abr": "techfriarcrown",
+		"price": 67,
+		"category": "Headgear",
+		"defname": "VFEE_Apparel_TechfriarCrown"
+	},
+	{
+		"abr": "techprint(advanceddeepdrill)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_Research_AdvancedDeepDrill"
+	},
+	{
+		"abr": "techprint(cac-enlightenment)",
+		"price": 8333,
+		"category": "Techprints",
+		"defname": "Techprint_CACGearAdv"
+	},
+	{
+		"abr": "techprint(cac-initiation)",
+		"price": 7500,
+		"category": "Techprints",
+		"defname": "Techprint_CACGear"
+	},
+	{
+		"abr": "techprint(occ-reforgedequipment)",
+		"price": 2500,
+		"category": "Techprints",
+		"defname": "Techprint_OCCGearMod"
+	},
+	{
+		"abr": "techprint(odc-apex)",
+		"price": 5000,
+		"category": "Techprints",
+		"defname": "Techprint_ODCGearExp"
+	},
+	{
+		"abr": "techprint(odc-core)",
+		"price": 2500,
+		"category": "Techprints",
+		"defname": "Techprint_ODCGear"
+	},
+	{
+		"abr": "techprint(odc-emergent)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_ODCGearAdv"
+	},
+	{
+		"abr": "techprint(oe-adv.cyberwares)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_OECyberwaresAdv"
+	},
+	{
+		"abr": "techprint(oe-adv.defence)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_OEDefenceAdv"
+	},
+	{
+		"abr": "techprint(oe-adv.synthesis)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_OESynthAdv"
+	},
+	{
+		"abr": "techprint(oe-cyberwares)",
+		"price": 2500,
+		"category": "Techprints",
+		"defname": "Techprint_OECyberwares"
+	},
+	{
+		"abr": "techprint(oe-exp.farm)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_OEFarmExp"
+	},
+	{
+		"abr": "techprint(oe-exp.power)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_OEPowerExp"
+	},
+	{
+		"abr": "techprint(oe-mechtech)",
+		"price": 2500,
+		"category": "Techprints",
+		"defname": "Techprint_OEMechtech"
+	},
+	{
+		"abr": "techprint(oe-modernization)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_OEGearMod"
+	},
+	{
+		"abr": "techprint(oe-modules)",
+		"price": 3333,
+		"category": "Techprints",
+		"defname": "Techprint_OEModules"
+	},
+	{
+		"abr": "techprint(oec-exaltedequipment)",
+		"price": 2500,
+		"category": "Techprints",
+		"defname": "Techprint_OECGearMod"
+	},
+	{
+		"abr": "techprint(omc-modifiedequipment)",
+		"price": 2500,
+		"category": "Techprints",
+		"defname": "Techprint_OMCGearMod"
+	},
+	{
+		"abr": "techprint(otc-experimentalequipment)",
+		"price": 2500,
+		"category": "Techprints",
+		"defname": "Techprint_OTCGearMod"
+	},
+	{
+		"abr": "tempestrian(acid)",
+		"price": 6875,
+		"category": "Utility",
+		"defname": "OTC_Drone_Acid"
+	},
+	{
+		"abr": "tempestrian(cryo)",
+		"price": 6875,
+		"category": "Utility",
+		"defname": "OTC_Drone_Cryo"
+	},
+	{
+		"abr": "tempestrian(emp)",
+		"price": 6875,
+		"category": "Utility",
+		"defname": "OTC_Drone_EMP"
+	},
+	{
+		"abr": "tempestrian(fire)",
+		"price": 6875,
+		"category": "Utility",
+		"defname": "OTC_Drone_Fire"
+	},
+	{
+		"abr": "temptation",
+		"price": 2583,
+		"category": "Melee weapons",
+		"defname": "ODC_Trophy_Sickle_A"
+	},
+	{
+		"abr": "temptation-apex",
+		"price": 3250,
+		"category": "Melee weapons",
+		"defname": "ODC_Trophy_Sickle_C"
+	},
+	{
+		"abr": "temptation-emergent",
+		"price": 2917,
+		"category": "Melee weapons",
+		"defname": "ODC_Trophy_Sickle_B"
+	},
+	{
+		"abr": "thermalobsidiascale",
+		"price": 15,
+		"category": "Leathers",
+		"defname": "OE_Leather_Raptor"
+	},
+	{
+		"abr": "thirdarachna'ssin-greed",
+		"price": 7833,
+		"category": "Melee weapons",
+		"defname": "CAC_Trophy_BigScythe"
+	},
+	{
+		"abr": "thoughtless-apex",
+		"price": 2308,
+		"category": "Ranged weapons",
+		"defname": "ODC_AssaultRifle_B"
+	},
+	{
+		"abr": "thoughtless-emergent",
+		"price": 1975,
+		"category": "Ranged weapons",
+		"defname": "ODC_AssaultRifle_A"
+	},
+	{
+		"abr": "timbium",
+		"price": 67,
+		"category": "Drugs",
+		"defname": "OE_Timbium"
+	},
+	{
+		"abr": "tionant(blue)",
+		"price": 9167,
+		"category": "Animals",
+		"defname": "OE_Tionant_Blue"
+	},
+	{
+		"abr": "tionant(green)",
+		"price": 9167,
+		"category": "Animals",
+		"defname": "OE_Tionant_Green"
+	},
+	{
+		"abr": "tionant(red)",
+		"price": 9167,
+		"category": "Animals",
+		"defname": "OE_Tionant_Red"
+	},
+	{
+		"abr": "tionant(yellow)",
+		"price": 9167,
+		"category": "Animals",
+		"defname": "OE_Tionant_Yellow"
+	},
+	{
+		"abr": "titanstrike",
+		"price": 2583,
+		"category": "Ranged weapons",
+		"defname": "OE_Trophy_UnstableGun"
+	},
+	{
+		"abr": "torraxin",
+		"price": 125,
+		"category": "Drugs",
+		"defname": "OE_Torraxin"
+	},
+	{
+		"abr": "torraxinserum",
+		"price": 208,
+		"category": "Drugs",
+		"defname": "OE_TorraxinSerum"
+	},
+	{
+		"abr": "toxcurvedblade",
+		"price": 3000,
+		"category": "Melee weapons",
+		"defname": "CAT_ToxCurvedBlade"
+	},
+	{
+		"abr": "toxgauntlet",
+		"price": 3000,
+		"category": "Melee weapons",
+		"defname": "CAT_ToxGauntlet"
+	},
+	{
+		"abr": "toxinfestor",
+		"price": 750,
+		"category": "Animals",
+		"defname": "OE_Infestor_Tox"
+	},
+	{
+		"abr": "toxrapier",
+		"price": 3000,
+		"category": "Melee weapons",
+		"defname": "CAT_ToxRapier"
+	},
+	{
+		"abr": "toxscythe",
+		"price": 3000,
+		"category": "Melee weapons",
+		"defname": "CAT_ToxScythe"
+	},
+	{
+		"abr": "toxtriblade",
+		"price": 3000,
+		"category": "Melee weapons",
+		"defname": "CAT_ToxTriblade"
+	},
+	{
+		"abr": "toxblade",
+		"price": 3000,
+		"category": "Melee weapons",
+		"defname": "VFEE_MeleeWeapon_Toxblade"
+	},
+	{
+		"abr": "toxicdemonslime",
+		"price": 2917,
+		"category": "Animals",
+		"defname": "OE_Slime_Demon_Toxic"
+	},
+	{
+		"abr": "toxicdemonslimeheart(сonf.)",
+		"price": 1667,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Demon_Toxic"
+	},
+	{
+		"abr": "toxocyst",
+		"price": 6867,
+		"category": "Ranged weapons",
+		"defname": "EGO_SMG"
+	},
+	{
+		"abr": "trespasser-apex(acid)",
+		"price": 1483,
+		"category": "Ranged weapons",
+		"defname": "ODC_Revolver_Acid"
+	},
+	{
+		"abr": "trespasser-apex(cryo)",
+		"price": 1483,
+		"category": "Ranged weapons",
+		"defname": "ODC_Revolver_Cryo"
+	},
+	{
+		"abr": "trespasser-apex(emp)",
+		"price": 1483,
+		"category": "Ranged weapons",
+		"defname": "ODC_Revolver_EMP"
+	},
+	{
+		"abr": "trespasser-apex(fire)",
+		"price": 1483,
+		"category": "Ranged weapons",
+		"defname": "ODC_Revolver_Fire"
+	},
+	{
+		"abr": "trespasser-emergent",
+		"price": 1150,
+		"category": "Ranged weapons",
+		"defname": "ODC_Revolver"
+	},
+	{
+		"abr": "truth",
+		"price": 1908,
+		"category": "Melee weapons",
+		"defname": "OEC_Claws"
+	},
+	{
+		"abr": "tundraarachna",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "OE_Arachna_Blue"
+	},
+	{
+		"abr": "typhon",
+		"price": 1658,
+		"category": "Melee weapons",
+		"defname": "OCC_PowerFist"
+	},
+	{
+		"abr": "typhon(acid)",
+		"price": 1783,
+		"category": "Melee weapons",
+		"defname": "OCC_PowerFist_Acid"
+	},
+	{
+		"abr": "typhon(cryo)",
+		"price": 1783,
+		"category": "Melee weapons",
+		"defname": "OCC_PowerFist_Cryo"
+	},
+	{
+		"abr": "typhon(emp)",
+		"price": 1783,
+		"category": "Melee weapons",
+		"defname": "OCC_PowerFist_EMP"
+	},
+	{
+		"abr": "typhon(fire)",
+		"price": 1783,
+		"category": "Melee weapons",
+		"defname": "OCC_PowerFist_Fire"
+	},
+	{
+		"abr": "ulcerated",
+		"price": 9258,
+		"category": "Ranged weapons",
+		"defname": "EGO_RocketLauncher"
+	},
+	{
+		"abr": "unchained",
+		"price": 3325,
+		"category": "Ranged weapons",
+		"defname": "OEC_Minigun"
+	},
+	{
+		"abr": "universalanimalclothes",
+		"price": 166,
+		"category": "Animal Apparel",
+		"defname": "Apparel_AnimalClothes"
+	},
+	{
+		"abr": "universalanimalflakarmor",
+		"price": 483,
+		"category": "Animal Apparel",
+		"defname": "Apparel_AnimalFlakArmor"
+	},
+	{
+		"abr": "universalanimalflakhelmet",
+		"price": 442,
+		"category": "Animal Apparel",
+		"defname": "Apparel_AnimalAdvancedHelmet"
+	},
+	{
+		"abr": "universalanimalplatearmor",
+		"price": 792,
+		"category": "Animal Apparel",
+		"defname": "Apparel_AnimalPlateArmor"
+	},
+	{
+		"abr": "universalanimalplatehelmet",
+		"price": 153,
+		"category": "Animal Apparel",
+		"defname": "Apparel_AnimalPlateHelmet"
+	},
+	{
+		"abr": "universalanimalpowerarmor",
+		"price": 3392,
+		"category": "Animal Apparel",
+		"defname": "Apparel_AnimalPowerArmor"
+	},
+	{
+		"abr": "universalanimalpowerhelmet",
+		"price": 1058,
+		"category": "Animal Apparel",
+		"defname": "Apparel_AnimalPowerArmorHelmet"
+	},
+	{
+		"abr": "universalpetscarf",
+		"price": 83,
+		"category": "Animal Apparel",
+		"defname": "Apparel_AnimalScarf"
+	},
+	{
+		"abr": "universalridinggear",
+		"price": 322,
+		"category": "Animal Apparel",
+		"defname": "Apparel_AnimalReins"
+	},
+	{
+		"abr": "unstablepowercellcore",
+		"price": 667,
+		"category": "Misc",
+		"defname": "UnstablePowerCellCore"
+	},
+	{
+		"abr": "uraniumslime",
+		"price": 2167,
+		"category": "Animals",
+		"defname": "OE_Slime_Uranium"
+	},
+	{
+		"abr": "uraniumslimeheart(сonf.)",
+		"price": 1333,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Uranium"
+	},
+	{
+		"abr": "ustablepowerstone",
+		"price": 583,
+		"category": "Manufactured",
+		"defname": "OE_UnstableStone"
+	},
+	{
+		"abr": "verdict",
+		"price": 1950,
+		"category": "Ranged weapons",
+		"defname": "OEC_AR"
+	},
+	{
+		"abr": "wastearachna",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "OE_Arachna_Tox"
+	},
+	{
+		"abr": "wastescorpid",
+		"price": 1750,
+		"category": "Animals",
+		"defname": "OE_Scorpid_Tox"
+	},
+	{
+		"abr": "wasteslime",
+		"price": 750,
+		"category": "Animals",
+		"defname": "OE_Slime_Waste"
+	},
+	{
+		"abr": "wasteslimeheart(сonf.)",
+		"price": 500,
+		"category": "Eggs (fert.)",
+		"defname": "OE_SlimeHeart_Waste"
+	},
+	{
+		"abr": "wendigo",
+		"price": 3567,
+		"category": "Ranged weapons",
+		"defname": "OCC_Bow"
+	},
 	],
-	"total": 5252
+	"total": 6413
 }

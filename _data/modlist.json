@@ -240,6 +240,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "legodude17 and Oskar Potocki",
+    "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Daria40K",
+    "name": "Alpha Animals Patch for Outposts Mines",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Sarg Bjornson and Ben Lubar",
     "name": "Alpha Bees",
     "steamId": "1558161673",
@@ -358,6 +370,12 @@
     "name": "Animal Gear",
     "steamId": "1541438907",
     "version": "1.5.0.1"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Animal Equipment",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Sarg, erdelf, Oskar Potocki, Luizi and Reann Shepard",
@@ -606,18 +624,6 @@
     "version": "1.5.0"
   },
   {
-    "author": "Harkon and JangoD'soul",
-    "name": "Dusk Armory",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Yyobov",
-    "name": "Capes and Armor",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "busted_bunny",
     "name": "Capture Them (Continued)",
     "steamId": null,
@@ -729,7 +735,7 @@
     "author": "Mlie",
     "name": "Custom Prisoner Interactions",
     "steamId": "2841231775",
-    "version": "1.5.6"
+    "version": "1.5.7"
   },
   {
     "author": "HaiLuan",
@@ -840,6 +846,12 @@
     "version": "1.5.0"
   },
   {
+    "author": "Harkon and JangoD'soul",
+    "name": "Dusk Armory",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "PixelBirb",
     "name": "Dynamic Weapon Cooldown",
     "steamId": null,
@@ -849,7 +861,7 @@
     "author": "alite",
     "name": "EBSG Framework",
     "steamId": "3112549163",
-    "version": "1.0.9029.28459"
+    "version": "1.0.9052.28265"
   },
   {
     "author": "Victorique, Aurani and Tarojun",
@@ -1122,6 +1134,36 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, Trunken and Sarg",
+    "name": "Vanilla Apparel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
+    "name": "Vanilla Armour Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
+    "name": "Vanilla Factions Expanded - Empire",
+    "steamId": "2938820380",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, LimeTreeSnake and Kikohi",
+    "name": "Vanilla Factions Expanded - Settlers",
+    "steamId": "2052918119",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "Yyobov",
+    "name": "Hooded Capes and Armor",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Yyobov",
     "name": "Hoods and Helmets",
     "steamId": null,
@@ -1284,6 +1326,12 @@
     "version": null
   },
   {
+    "author": "Yyobov",
+    "name": "Locust Cape and Armor ",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Master Bucketsmith",
     "name": "MBS Faux Rock Wall",
     "steamId": null,
@@ -1380,6 +1428,12 @@
     "version": null
   },
   {
+    "author": "Cat",
+    "name": "Mono Weapons Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Stolij",
     "name": "More Batteries",
     "steamId": null,
@@ -1467,7 +1521,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.5.19"
+    "version": "1.5.21"
   },
   {
     "author": "Sergwest",
@@ -1496,6 +1550,42 @@
   {
     "author": "Vesper",
     "name": "Not My Fault",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lored",
+    "name": "Obsidia Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lored",
+    "name": "Obsidia Expansion - Mothoids Xenotype",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lored",
+    "name": "Obsidia Expansion - Arachnas Xenotype",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lored",
+    "name": "Obsidia Expansion - Liches Xenotype",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lored",
+    "name": "Obsidia Expansion - Slimes Xenotype",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lored",
+    "name": "Obsidia Expansion [HQ]",
     "steamId": null,
     "version": null
   },
@@ -1560,6 +1650,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "OneOfTheHomies",
+    "name": "PerpetualAnesthesia",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Alleykat",
     "name": "Persistent Precepts",
     "steamId": "2944765939",
@@ -1584,6 +1680,12 @@
     "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
   },
   {
+    "author": "Cat",
+    "name": "Plasma Weapons Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Meltup and Sicarious",
     "name": "Polyamory Beds (Vanilla Edition)",
     "steamId": null,
@@ -1594,6 +1696,12 @@
     "name": "Prosthetic No Missing Body Parts (Continued)",
     "steamId": "2739055353",
     "version": "1.5.2"
+  },
+  {
+    "author": "WangZX and 22",
+    "name": "Protoss's Psycasts - 星灵灵能能力",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "RebelRabbit, Taranchuk and ilyvion",
@@ -1623,7 +1731,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.9048.36329"
+    "version": "1.0.9056.28412"
   },
   {
     "author": "Sandy",
@@ -1729,6 +1837,12 @@
   },
   {
     "author": "Helixien",
+    "name": "ReSplice: Charmweavers",
+    "steamId": "3131996691",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien",
     "name": "ReSplice: Core",
     "steamId": "3236303965",
     "version": "0.0.0.0"
@@ -1767,7 +1881,7 @@
     "author": "Mlie",
     "name": "Relevant Stats In Description",
     "steamId": "2692669482",
-    "version": "1.5.3"
+    "version": "1.5.4"
   },
   {
     "author": "sirrandoo",
@@ -2142,6 +2256,24 @@
     "version": "7.0.5.0-beta+e8d2ab06fe38b0b1f43d53750a3b8ba18d5edcda"
   },
   {
+    "author": "Cat",
+    "name": "Tox Weapons Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrHydralisk",
+    "name": "Vanilla Outposts Expanded: Additional Outposts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kalmin",
+    "name": "Toymaker's Additional Outposts Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "AUTOMATIC",
     "name": "Trader ships",
     "steamId": "2046222331",
@@ -2238,20 +2370,8 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Trunken and Sarg",
-    "name": "Vanilla Apparel Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, xrushha, SmashPhil and legodude17",
     "name": "Vanilla Apparel Expanded — Accessories",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Trunken and Sarg Bjornson",
-    "name": "Vanilla Armour Expanded",
     "steamId": null,
     "version": null
   },
@@ -2296,12 +2416,6 @@
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
     "version": "1.1.0"
-  },
-  {
-    "author": "Oskar Potocki, LimeTreeSnake and Kikohi",
-    "name": "Vanilla Factions Expanded - Settlers",
-    "steamId": "2052918119",
-    "version": "1.2.0.0"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
@@ -2388,14 +2502,20 @@
     "version": null
   },
   {
-    "author": "legodude17 and Oskar Potocki",
-    "name": "Vanilla Outposts Expanded",
-    "steamId": null,
-    "version": null
+    "author": "MrHydralisk",
+    "name": "Vanilla Outposts Expanded: Power Grid",
+    "steamId": "2915686437",
+    "version": "1.6.0.0"
   },
   {
     "author": "Oskar Potocki and Taranchuk",
     "name": "Vanilla Persona Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Taranchuk, Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Plants Expanded - Mushrooms",
     "steamId": null,
     "version": null
   },
@@ -2480,6 +2600,12 @@
   {
     "author": "Oskar Potocki and Smash Phil",
     "name": "Vanilla Vehicles Expanded - Upgrades",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Arquebus and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Bioferrite",
     "steamId": null,
     "version": null
   },
@@ -2588,6 +2714,12 @@
   {
     "author": "Neronix17",
     "name": "Xeva's Rimhair Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Cat",
+    "name": "Zeus Weapons Pack",
     "steamId": null,
     "version": null
   },

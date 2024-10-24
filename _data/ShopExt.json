@@ -8645,6 +8645,206 @@
       },
       "defName": "AM_Slaughter",
       "name": "parasiticfailedproduct"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a big fan of mechanoids. As a he can control a larger number of mechanoids.",
+      "stats": [
+        "+1 mech control groups",
+        "+3 mech bandwidth"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+1 mech control groups",
+          "+3 mech bandwidth"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Obsidia Expansion",
+        "karmaTypeForAdding": null
+      },
+      "defName": "OEMechLove",
+      "name": "mechfan"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy heir to an ancient and noble family. The presence of he gives an innate talent for psy abilities.",
+      "stats": [
+        "+30% psychic sensitivity",
+        "+0.05 neural heat recovery rate"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+30% psychic sensitivity",
+          "+0.05 neural heat recovery rate"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Obsidia Expansion",
+        "karmaTypeForAdding": null
+      },
+      "defName": "OEPsyBlood",
+      "name": "nobleblood"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a natural he. Timmy is smart and work harder than others.",
+      "stats": [
+        "+15% global work speed",
+        "+15% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+15% global work speed",
+          "+15% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Obsidia Expansion",
+        "karmaTypeForAdding": null
+      },
+      "defName": "OECivilian",
+      "name": "handyman"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "After many trainings, Timmy learned how to use any weapon.",
+      "stats": [
+        "+8.0 melee dodge chance",
+        "+8.0 shooting accuracy"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+8.0 melee dodge chance",
+          "+8.0 shooting accuracy"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Obsidia Expansion",
+        "karmaTypeForAdding": null
+      },
+      "defName": "OESoldier",
+      "name": "trained"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "he's are used to eating less food and getting enough sleep faster than others.",
+      "stats": [
+        "+70% rest rate multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+70% rest rate multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Obsidia Expansion",
+        "karmaTypeForAdding": null
+      },
+      "defName": "OENomad",
+      "name": "nomad"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has an unshakable will and body capable of withstanding any test.",
+      "stats": [
+        "-10% mental break threshold",
+        "+25% pain shock threshold",
+        "-10% global work speed",
+        "-10% global learning factor",
+        "x25% global certainty loss factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-10% mental break threshold",
+          "+25% pain shock threshold",
+          "-10% global work speed",
+          "-10% global learning factor",
+          "x25% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Obsidia Expansion",
+        "karmaTypeForAdding": null
+      },
+      "defName": "OECultist",
+      "name": "spiritual"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy as a hero bathed in glory.",
+      "stats": [
+        "+5.0 beauty",
+        "x25% global certainty loss factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+5.0 beauty",
+          "x25% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Obsidia Expansion",
+        "karmaTypeForAdding": null
+      },
+      "defName": "OEEidolon",
+      "name": "proudly"
     }
   ],
   "races": [
