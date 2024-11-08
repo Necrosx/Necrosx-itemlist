@@ -28513,12 +28513,6 @@
 		"defname": "VFEI2_IsopodaGlowPod"
 	},
 	{
-		"abr": "isopodapherocore",
-		"price": 1667,
-		"category": "Misc",
-		"defname": "VFEI2_IsopodaNuchadus"
-	},
-	{
 		"abr": "juggernautbeetles",
 		"price": 2500,
 		"category": "Animals",
@@ -38352,6 +38346,624 @@
 		"category": "Ranged weapons",
 		"defname": "OCC_Bow"
 	},
+	{
+		"abr": "ancientneurosyncobsidiaantenna",
+		"price": 11917,
+		"category": "Special",
+		"defname": "OE_AncientHeroicAntenna"
+	},
+	{
+		"abr": "anomalyobsidiabeacon",
+		"price": 4117,
+		"category": "Special",
+		"defname": "OE_Beacon_CAC_Anomaly"
+	},
+	{
+		"abr": "bytebarricade",
+		"price": 9392,
+		"category": "Shields",
+		"defname": "OMG_Shield_Medium"
+	},
+	{
+		"abr": "bytecrusher",
+		"price": 9983,
+		"category": "Ranged weapons",
+		"defname": "OMG_Shotgun"
+	},
+	{
+		"abr": "carnivoreobsidiacanmeal",
+		"price": 83,
+		"category": "Meals",
+		"defname": "OE_CanMeal_Meat"
+	},
+	{
+		"abr": "datacrush",
+		"price": 9467,
+		"category": "Melee weapons",
+		"defname": "OMG_BattleAxe"
+	},
+	{
+		"abr": "datashot",
+		"price": 8308,
+		"category": "Ranged weapons",
+		"defname": "OMG_Revolver"
+	},
+	{
+		"abr": "death’scall",
+		"price": 11917,
+		"category": "Ranged weapons",
+		"defname": "OMG_Trophy_Revolver"
+	},
+	{
+		"abr": "etherstrike",
+		"price": 7825,
+		"category": "Ranged weapons",
+		"defname": "OMG_SniperRifle"
+	},
+	{
+		"abr": "heroicbionicarm",
+		"price": 7917,
+		"category": "Bionic",
+		"defname": "OE_ProstheticArm_OES"
+	},
+	{
+		"abr": "heroicbionicear",
+		"price": 7917,
+		"category": "Bionic",
+		"defname": "OE_ProstheticEar_OES"
+	},
+	{
+		"abr": "heroicbioniceye",
+		"price": 7917,
+		"category": "Bionic",
+		"defname": "OE_ProstheticEye_OES"
+	},
+	{
+		"abr": "heroicbionicheart",
+		"price": 7917,
+		"category": "Bionic",
+		"defname": "OE_ProstheticHeart_OES"
+	},
+	{
+		"abr": "heroicbionicjaw",
+		"price": 7917,
+		"category": "Bionic",
+		"defname": "OE_ProstheticJaw_OES"
+	},
+	{
+		"abr": "heroicbionickidney",
+		"price": 7917,
+		"category": "Bionic",
+		"defname": "OE_ProstheticKidney_OES"
+	},
+	{
+		"abr": "heroicbionicleg",
+		"price": 7917,
+		"category": "Bionic",
+		"defname": "OE_ProstheticLeg_OES"
+	},
+	{
+		"abr": "heroicbionicliver",
+		"price": 7917,
+		"category": "Bionic",
+		"defname": "OE_ProstheticLiver_OES"
+	},
+	{
+		"abr": "heroicbioniclung",
+		"price": 7917,
+		"category": "Bionic",
+		"defname": "OE_ProstheticLung_OES"
+	},
+	{
+		"abr": "heroicbionicspine",
+		"price": 7917,
+		"category": "Bionic",
+		"defname": "OE_ProstheticSpine_OES"
+	},
+	{
+		"abr": "heroicbionicstomach",
+		"price": 7917,
+		"category": "Bionic",
+		"defname": "OE_ProstheticStomach_OES"
+	},
+	{
+		"abr": "heroiceidoloncyber-wings",
+		"price": 7917,
+		"category": "Utility",
+		"defname": "OES_Wings"
+	},
+	{
+		"abr": "isopodapherocore",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "VFEI2_IsopodaPherocore"
+	},
+	{
+		"abr": "luminaris",
+		"price": 6875,
+		"category": "Utility",
+		"defname": "OMG_Drone"
+	},
+	{
+		"abr": "mercenariescyber-wings",
+		"price": 7917,
+		"category": "Utility",
+		"defname": "OMG_Wings"
+	},
+	{
+		"abr": "mercenariesgrenadebelt",
+		"price": 1117,
+		"category": "Utility",
+		"defname": "OMG_GrenadeBelt"
+	},
+	{
+		"abr": "mercenaryarmor(commando)",
+		"price": 6292,
+		"category": "Armor",
+		"defname": "OMG_Armor_Commando"
+	},
+	{
+		"abr": "mercenaryarmor(corsair)",
+		"price": 13750,
+		"category": "Armor",
+		"defname": "OMG_Armor_Corsair"
+	},
+	{
+		"abr": "mercenaryarmor(demolition)",
+		"price": 13750,
+		"category": "Armor",
+		"defname": "OMG_Armor_Demolition"
+	},
+	{
+		"abr": "mercenaryhelmet(classic)",
+		"price": 7083,
+		"category": "Headgear",
+		"defname": "OMG_Helmet_Classic"
+	},
+	{
+		"abr": "nanoblade",
+		"price": 7675,
+		"category": "Melee weapons",
+		"defname": "OMG_Axe"
+	},
+	{
+		"abr": "nanofire",
+		"price": 7900,
+		"category": "Ranged weapons",
+		"defname": "OMG_Pistol"
+	},
+	{
+		"abr": "neonecho",
+		"price": 11917,
+		"category": "Ranged weapons",
+		"defname": "OMG_Trophy_PowerGuitar"
+	},
+	{
+		"abr": "obsidiacanmeal",
+		"price": 83,
+		"category": "Meals",
+		"defname": "OE_CanMeal"
+	},
+	{
+		"abr": "occgrenadebelt",
+		"price": 883,
+		"category": "Utility",
+		"defname": "OCC_GrenadeBelt"
+	},
+	{
+		"abr": "odcgrenadebelt",
+		"price": 717,
+		"category": "Utility",
+		"defname": "ODC_GrenadeBelt"
+	},
+	{
+		"abr": "omgbytecrusherpoweredturret",
+		"price": 2750,
+		"category": "Security",
+		"defname": "OMG_Turret_SmallPowered"
+	},
+	{
+		"abr": "omgbytecrusherturret",
+		"price": 3500,
+		"category": "Security",
+		"defname": "OMG_Turret_Small"
+	},
+	{
+		"abr": "omgetherstriketurret",
+		"price": 6042,
+		"category": "Security",
+		"defname": "OMG_Turret_Big"
+	},
+	{
+		"abr": "otcgrenadebelt(acid)",
+		"price": 967,
+		"category": "Utility",
+		"defname": "OTC_GrenadeBelt_Acid"
+	},
+	{
+		"abr": "otcgrenadebelt(cryo)",
+		"price": 967,
+		"category": "Utility",
+		"defname": "OTC_GrenadeBelt_Cryo"
+	},
+	{
+		"abr": "otcgrenadebelt(emp)",
+		"price": 967,
+		"category": "Utility",
+		"defname": "OTC_GrenadeBelt_EMP"
+	},
+	{
+		"abr": "otcgrenadebelt(fire)",
+		"price": 967,
+		"category": "Utility",
+		"defname": "OTC_GrenadeBelt_Fire"
+	},
+	{
+		"abr": "platebreaker",
+		"price": 11917,
+		"category": "Melee weapons",
+		"defname": "OMG_Trophy_Knife"
+	},
+	{
+		"abr": "pulseblade",
+		"price": 8075,
+		"category": "Melee weapons",
+		"defname": "OMG_Rapier"
+	},
+	{
+		"abr": "pulsecaster",
+		"price": 8475,
+		"category": "Melee weapons",
+		"defname": "OMG_Scepter"
+	},
+	{
+		"abr": "twinglitch",
+		"price": 9467,
+		"category": "Melee weapons",
+		"defname": "OMG_DualSword"
+	},
+	{
+		"abr": "vegetarianobsidiacanmeal",
+		"price": 83,
+		"category": "Meals",
+		"defname": "OE_CanMeal_Veg"
+	},
+	{
+		"abr": "archotechendogenefier",
+		"price": 833,
+		"category": "Gene tools",
+		"defname": "AG_ArchoEndogenefier"
+	},
+	{
+		"abr": "archotechgeneremover",
+		"price": 833,
+		"category": "Gene tools",
+		"defname": "AG_ArchoGeneRemover"
+	},
+	{
+		"abr": "archotechxenogenefier",
+		"price": 167,
+		"category": "Gene tools",
+		"defname": "AG_ArchoXenogenefier"
+	},
+	{
+		"abr": "forsakenarmor",
+		"price": 5858,
+		"category": "Apparel",
+		"defname": "AG_ForsakenMarineArmor"
+	},
+	{
+		"abr": "forsakenassaultrifle",
+		"price": 3175,
+		"category": "Weapons",
+		"defname": "AG_ForsakenAssaultRifle"
+	},
+	{
+		"abr": "forsakenbattleaxe",
+		"price": 2033,
+		"category": "Weapons",
+		"defname": "AG_ForsakenBattleAxe"
+	},
+	{
+		"abr": "forsakenblackhydra",
+		"price": 1917,
+		"category": "Weapons",
+		"defname": "AG_ForsakenHydra"
+	},
+	{
+		"abr": "forsakenbow",
+		"price": 209,
+		"category": "Weapons",
+		"defname": "AG_ForsakenBow"
+	},
+	{
+		"abr": "forsakenbulksword",
+		"price": 933,
+		"category": "Weapons",
+		"defname": "AG_ForsakenBulkSword"
+	},
+	{
+		"abr": "forsakencloak",
+		"price": 1125,
+		"category": "Apparel",
+		"defname": "AG_ForsakenCloak"
+	},
+	{
+		"abr": "forsakenforge",
+		"price": 358,
+		"category": "Production",
+		"defname": "AG_ForsakenForge"
+	},
+	{
+		"abr": "forsakenhelmet",
+		"price": 1367,
+		"category": "Apparel",
+		"defname": "AG_ForsakenMarineHelmet"
+	},
+	{
+		"abr": "forsakenhood",
+		"price": 517,
+		"category": "Apparel",
+		"defname": "AG_Forsaken_Hood"
+	},
+	{
+		"abr": "forsakenkidcloak",
+		"price": 708,
+		"category": "Apparel",
+		"defname": "AG_ForsakenCloak_Child"
+	},
+	{
+		"abr": "forsakenkidhood",
+		"price": 286,
+		"category": "Apparel",
+		"defname": "AG_Forsaken_Hood_Child"
+	},
+	{
+		"abr": "forsakenlongblade",
+		"price": 1700,
+		"category": "Weapons",
+		"defname": "AG_ForsakenLongBlade"
+	},
+	{
+		"abr": "forsakenpsycasterhelmet",
+		"price": 1500,
+		"category": "Apparel",
+		"defname": "AG_ForsakenMarineHelmetPsy"
+	},
+	{
+		"abr": "forsakenshotgun",
+		"price": 2958,
+		"category": "Weapons",
+		"defname": "AG_ForsakenShotgun"
+	},
+	{
+		"abr": "forsakensniperrifle",
+		"price": 2892,
+		"category": "Weapons",
+		"defname": "AG_ForsakenSniper"
+	},
+	{
+		"abr": "forsakenspear",
+		"price": 358,
+		"category": "Weapons",
+		"defname": "AG_ForsakenSpear"
+	},
+	{
+		"abr": "ragadast",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "AB_RawRagadast"
+	},
+	{
+		"abr": "rowboat",
+		"price": 249,
+		"category": "Misc",
+		"defname": "AV_RowBoat_Blueprint"
+	},
+	{
+		"abr": "ultimafabric",
+		"price": 3,
+		"category": "Textiles",
+		"defname": "AG_Ultima"
+	},
+	{
+		"abr": "aurelianstoneblocks",
+		"price": 2,
+		"category": "Stone blocks",
+		"defname": "BlocksAurelianStone"
+	},
+	{
+		"abr": "capricorn",
+		"price": 917,
+		"category": "Animals",
+		"defname": "Gulden_Animal_Capricorn"
+	},
+	{
+		"abr": "goldenclaws",
+		"price": 1067,
+		"category": "Items",
+		"defname": "GoldenClaws"
+	},
+	{
+		"abr": "guldenambrosia",
+		"price": 38,
+		"category": "Drugs",
+		"defname": "GuldenAmbrosia"
+	},
+	{
+		"abr": "guldenberries",
+		"price": 3,
+		"category": "Vegetarian",
+		"defname": "GuldenRawBerries"
+	},
+	{
+		"abr": "guldenrat",
+		"price": 58,
+		"category": "Animals",
+		"defname": "Gulden_Rat"
+	},
+	{
+		"abr": "guldenrunebear",
+		"price": 7500,
+		"category": "Animals",
+		"defname": "GuldenRuneBear"
+	},
+	{
+		"abr": "guldensheep",
+		"price": 667,
+		"category": "Animals",
+		"defname": "GuldenSheep"
+	},
+	{
+		"abr": "guldensheepwool",
+		"price": 7,
+		"category": "Wools",
+		"defname": "GuldenWoolSheep"
+	},
+	{
+		"abr": "harvestedgildenbloom",
+		"price": 10,
+		"category": "Medicine",
+		"defname": "GildedBloomRaw"
+	},
+	{
+		"abr": "herbalguldenmedicine",
+		"price": 33,
+		"category": "Medicine",
+		"defname": "MedicineGuldenHerbal"
+	},
+	{
+		"abr": "pillersculpture",
+		"price": 517,
+		"category": "Art",
+		"defname": "SculpturePiller"
+	},
+	{
+		"abr": "psytrainer(curseheartattack)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPECURSE_Heartattack"
+	},
+	{
+		"abr": "psytrainer(greaterwither)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPECURSE_GreaterWither"
+	},
+	{
+		"abr": "psytrainer(lesserwither)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPECURSE_LesserWither"
+	},
+	{
+		"abr": "psytrainer(liftcurse)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPECURSE_LiftCurse"
+	},
+	{
+		"abr": "psytrainer(mindrip)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPECURSE_Dementia"
+	},
+	{
+		"abr": "psytrainer(mindshroud)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPECURSE_MindShroud"
+	},
+	{
+		"abr": "psytrainer(noxmorbus)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPECURSE_NoxMorbus"
+	},
+	{
+		"abr": "psytrainer(noxsomnus)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPECURSE_NoxSomnus"
+	},
+	{
+		"abr": "psytrainer(paralyze)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPECURSE_Paralyze"
+	},
+	{
+		"abr": "rabbitgaroo",
+		"price": 83,
+		"category": "Animals",
+		"defname": "GuldenRabbitgaroo"
+	},
+	{
+		"abr": "rawguldenfungus",
+		"price": 3,
+		"category": "Vegetarian",
+		"defname": "GuldenRawFungus"
+	},
+	{
+		"abr": "runicpelt",
+		"price": 30,
+		"category": "Leathers",
+		"defname": "Leather_RuneBear"
+	},
+	{
+		"abr": "sraf:canary",
+		"price": 20258,
+		"category": "Buildings",
+		"defname": "SRAF"
+	},
+	{
+		"abr": "sraf:tek-7",
+		"price": 31292,
+		"category": "Buildings",
+		"defname": "SRAFTek"
+	},
+	{
+		"abr": "srtsmk.i:skip",
+		"price": 9150,
+		"category": "Buildings",
+		"defname": "SRTSSkip"
+	},
+	{
+		"abr": "srtsmk.ii:albatross",
+		"price": 29875,
+		"category": "Buildings",
+		"defname": "SRTSMkII"
+	},
+	{
+		"abr": "srtsmk.iii:phoenix",
+		"price": 52792,
+		"category": "Buildings",
+		"defname": "SRTSMkIII"
+	},
+	{
+		"abr": "srtsmk.iiip:pelican",
+		"price": 61100,
+		"category": "Buildings",
+		"defname": "SRTSMkIIIp"
+	},
+	{
+		"abr": "srtsmk.iv:genesis",
+		"price": 218617,
+		"category": "Buildings",
+		"defname": "SRTSMkIV"
+	},
+	{
+		"abr": "superpod",
+		"price": 6958,
+		"category": "Buildings",
+		"defname": "SRTSSuperpod"
+	},
+	{
+		"abr": "voidshredder",
+		"price": 7825,
+		"category": "Ranged weapons",
+		"defname": "OMG_Minigun"
+	}
 	],
-	"total": 6413
+	"total": 6516
 }

@@ -114,7 +114,7 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Allie, Erin and Sarg",
+    "author": "Allie, Erin, Major Quadrangle, Matsay and Sarg",
     "name": "Alpha Genes",
     "steamId": "2891845502",
     "version": "1.0.0.0"
@@ -630,6 +630,12 @@
     "version": null
   },
   {
+    "author": "Kopp",
+    "name": "Caravan Formation Improvements",
+    "steamId": "2927335733",
+    "version": "1.0.10.0"
+  },
+  {
     "author": "Smash Phil | Dr_Zhivago | monkey5206",
     "name": "Carry Capacity Fixed (Continued)",
     "steamId": null,
@@ -735,7 +741,7 @@
     "author": "Mlie",
     "name": "Custom Prisoner Interactions",
     "steamId": "2841231775",
-    "version": "1.5.7"
+    "version": "1.5.8"
   },
   {
     "author": "HaiLuan",
@@ -770,6 +776,12 @@
   {
     "author": "doll",
     "name": "Defang Bodytype Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Yoann",
+    "name": "Deserter Empire Outpost",
     "steamId": null,
     "version": null
   },
@@ -861,7 +873,7 @@
     "author": "alite",
     "name": "EBSG Framework",
     "steamId": "3112549163",
-    "version": "1.0.9052.28265"
+    "version": "1.0.9069.36867"
   },
   {
     "author": "Victorique, Aurani and Tarojun",
@@ -996,6 +1008,12 @@
     "version": "0.3.0"
   },
   {
+    "author": "AmCh, HappyCam and Eragon",
+    "name": "Gene Fabrication",
+    "steamId": "3352773112",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Obi Vayne Kenobi",
     "name": "Gene Ripper",
     "steamId": "2885485814",
@@ -1096,6 +1114,30 @@
     "name": "Grimoires",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outland - More Floors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha, legodude17 and ISOREX",
+    "name": "Vanilla Furniture Expanded - Architect",
+    "steamId": "2608762624",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Telkir and Rain",
+    "name": "[T] MoreFloors 1.5",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "pphhyy, Sovereign and Elseud",
+    "name": "Gulden Biome",
+    "steamId": "3242810152",
+    "version": "1.0.0.0"
   },
   {
     "author": "Neronix17",
@@ -1248,7 +1290,7 @@
     "version": "1.1.0.6"
   },
   {
-    "author": "瑞秋·克劳狄乌斯, frolg and LingLuo",
+    "author": "瑞秋·克劳狄乌斯, frolg, andery233xj and LingLuo",
     "name": "Insectoids 2 - Isopoda geneline",
     "steamId": null,
     "version": null
@@ -1300,12 +1342,6 @@
     "name": "Kura's Extra Gems",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki, xrushha, legodude17 and ISOREX",
-    "name": "Vanilla Furniture Expanded - Architect",
-    "steamId": "2608762624",
-    "version": "1.0.0.0"
   },
   {
     "author": "Keshash",
@@ -1521,7 +1557,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.5.21"
+    "version": "1.5.22"
   },
   {
     "author": "Sergwest",
@@ -1606,12 +1642,6 @@
     "name": "Outland - Genetics",
     "steamId": "2910172297",
     "version": "1.0.8856.30125"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outland - More Floors",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX, erdelf and Sarg",
@@ -1986,6 +2016,18 @@
     "version": null
   },
   {
+    "author": "Smash Phil and Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "2878587061",
+    "version": "1.4.7"
+  },
+  {
+    "author": "Kupie",
+    "name": "SRTS Expanded - Smaller Sprites",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Neronix17",
     "name": "Seamless Embrasures",
     "steamId": "2290689449",
@@ -2058,6 +2100,18 @@
     "version": "2.6.0"
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornson, Taranchuk, Reann Shepard and xrushha",
+    "name": "Vanilla Races Expanded - Archon",
+    "steamId": "3067715093",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "RedAquaSurfer",
+    "name": "Spirits - Elysian Xenotype",
+    "steamId": "3355915685",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "OMGSplat",
     "name": "Split Genepack",
     "steamId": "2905371517",
@@ -2078,12 +2132,6 @@
   {
     "author": "Wemd",
     "name": "[WD] Expanded Floors",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Telkir and Rain",
-    "name": "[T] MoreFloors 1.5",
     "steamId": null,
     "version": null
   },
@@ -2358,6 +2406,12 @@
     "version": null
   },
   {
+    "author": "WebSlug",
+    "name": "VPE Curses",
+    "steamId": "3012451039",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Zaljerem",
     "name": "Vali's Charged Arsenal (Continued)",
     "steamId": null,
@@ -2542,12 +2596,6 @@
     "name": "Vanilla Psycasts expanded - Revert some nerf",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson, Taranchuk, Reann Shepard and xrushha",
-    "name": "Vanilla Races Expanded - Archon",
-    "steamId": "3067715093",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki and Sarg Bjornson",
