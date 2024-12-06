@@ -7209,7 +7209,7 @@
 	{
 		"abr": "eltexcape",
 		"price": 1300,
-		"category": "Apparel",
+		"category": "Misc",
 		"defname": "VPE_Apparel_EltexCape"
 	},
 	{
@@ -23247,7 +23247,7 @@
 	{
 		"abr": "speedskinsuit",
 		"price": 4525,
-		"category": "Armor",
+		"category": "Noble apparel",
 		"defname": "Apparel_NanoSpeed"
 	},
 	{
@@ -38649,7 +38649,7 @@
 	{
 		"abr": "forsakenarmor",
 		"price": 5858,
-		"category": "Apparel",
+		"category": "Armor",
 		"defname": "AG_ForsakenMarineArmor"
 	},
 	{
@@ -38685,7 +38685,7 @@
 	{
 		"abr": "forsakencloak",
 		"price": 1125,
-		"category": "Apparel",
+		"category": "Misc",
 		"defname": "AG_ForsakenCloak"
 	},
 	{
@@ -38697,25 +38697,25 @@
 	{
 		"abr": "forsakenhelmet",
 		"price": 1367,
-		"category": "Apparel",
+		"category": "Headgear",
 		"defname": "AG_ForsakenMarineHelmet"
 	},
 	{
 		"abr": "forsakenhood",
 		"price": 517,
-		"category": "Apparel",
+		"category": "Headgear",
 		"defname": "AG_Forsaken_Hood"
 	},
 	{
 		"abr": "forsakenkidcloak",
 		"price": 708,
-		"category": "Apparel",
+		"category": "Misc",
 		"defname": "AG_ForsakenCloak_Child"
 	},
 	{
 		"abr": "forsakenkidhood",
 		"price": 286,
-		"category": "Apparel",
+		"category": "Headgear",
 		"defname": "AG_Forsaken_Hood_Child"
 	},
 	{
@@ -38727,7 +38727,7 @@
 	{
 		"abr": "forsakenpsycasterhelmet",
 		"price": 1500,
-		"category": "Apparel",
+		"category": "Headgear",
 		"defname": "AG_ForsakenMarineHelmetPsy"
 	},
 	{
@@ -38963,7 +38963,745 @@
 		"price": 7825,
 		"category": "Ranged weapons",
 		"defname": "OMG_Minigun"
+	},
+	{
+		"abr": "androidfuel",
+		"price": 40,
+		"category": "Foods",
+		"defname": "BS_AndroidFuel"
+	},
+	{
+		"abr": "centauroid",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "BS_Centaur"
+	},
+	{
+		"abr": "centauroidwithfourarms",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_CentaurFourArm"
+	},
+	{
+		"abr": "centauroidwithfourarmsandwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_CentaurFourArmWinged"
+	},
+	{
+		"abr": "centauroidwithwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_CentaurWinged"
+	},
+	{
+		"abr": "computationcenter",
+		"price": 2767,
+		"category": "Production",
+		"defname": "AM_VirutalMiner"
+	},
+	{
+		"abr": "four-armedhumanlikewithatail",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_FourArmTailed"
+	},
+	{
+		"abr": "four-armedhumanlikewithatailandwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_FourArmTailedWinged"
+	},
+	{
+		"abr": "four-armedhumanlikewithwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_FourArmWinged"
+	},
+	{
+		"abr": "mech",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "BS_UrbMech"
+	},
+	{
+		"abr": "mechawithatail",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaTailed"
+	},
+	{
+		"abr": "mechawithatailandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaTailedWinged"
+	},
+	{
+		"abr": "mechawithfourarms",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaFourArm"
+	},
+	{
+		"abr": "mechawithfourarmsandatail",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaFourArmTailed"
+	},
+	{
+		"abr": "mechawithfourarmsandatailandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaFourArmTailedWinged"
+	},
+	{
+		"abr": "mechawithfourarmsandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaFourArmWinged"
+	},
+	{
+		"abr": "mechawithfourlegs",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaCentaur"
+	},
+	{
+		"abr": "mechawithfourlegsandfourarms",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaCentaurFourArm"
+	},
+	{
+		"abr": "mechawithfourlegsandfourarmsandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaCentaurFourArmWinged"
+	},
+	{
+		"abr": "mechawithfourlegsandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaCentaurWinged"
+	},
+	{
+		"abr": "mechawithmech",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaMecha"
+	},
+	{
+		"abr": "mechawithserpent-liketail",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaSnek"
+	},
+	{
+		"abr": "mechawithserpent-liketailandfourarms",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaSnekFourArm"
+	},
+	{
+		"abr": "mechawithserpent-liketailandfourarmsandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaSnekFourArmWinged"
+	},
+	{
+		"abr": "mechawithserpent-liketailandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaSnekWinged"
+	},
+	{
+		"abr": "mechawithspider-likeabdomen",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaSpooder"
+	},
+	{
+		"abr": "mechawithspider-likeabdomenandfourarms",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaSpooderFourArm"
+	},
+	{
+		"abr": "mechawithspider-likeabdomenandfourarmsandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaSpooderFourArmWinged"
+	},
+	{
+		"abr": "mechawithspider-likeabdomenandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaSpooderWinged"
+	},
+	{
+		"abr": "mechawithwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaWinged"
+	},
+	{
+		"abr": "serpent-likewithfourarms",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_SnekFourArm"
+	},
+	{
+		"abr": "serpent-likewithfourarmsandwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_SnekFourArmWinged"
+	},
+	{
+		"abr": "serpent-likewithwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_SnekWinged"
+	},
+	{
+		"abr": "spider-likewithfourarms",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_SpooderFourArm"
+	},
+	{
+		"abr": "spider-likewithfourarmsandwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_SpooderFourArmWinged"
+	},
+	{
+		"abr": "spider-likewithwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_SpooderWinged"
+	},
+	{
+		"abr": "tailedhumanlikewithwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_TailedWinged"
+	},
+	{
+		"abr": "tailedhumanoid",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "BS_HumanoidWithTail"
+	},
+	{
+		"abr": "walltomb",
+		"price": 61,
+		"category": "Misc",
+		"defname": "DA_WallTomb"
+	},
+	{
+		"abr": "widowmaker",
+		"price": 9333,
+		"category": "Ranged weapons",
+		"defname": "CAC_SniperRifle"
+	},
+	{
+		"abr": "ancientairconditioner",
+		"price": 0,
+		"category": "Misc",
+		"defname": "AM_AncientAirConditioner"
+	},
+	{
+		"abr": "ancientatm",
+		"price": 0,
+		"category": "Misc",
+		"defname": "AM_AncientATM"
+	},
+	{
+		"abr": "ancientbarrel",
+		"price": 1,
+		"category": "Misc",
+		"defname": "AM_AncientBarrel"
+	},
+	{
+		"abr": "ancientcontainer",
+		"price": 1,
+		"category": "Misc",
+		"defname": "AM_AncientContainer"
+	},
+	{
+		"abr": "ancientcrate",
+		"price": 2,
+		"category": "Misc",
+		"defname": "AM_AncientCrate"
+	},
+	{
+		"abr": "ancientdisplaybank",
+		"price": 9,
+		"category": "Misc",
+		"defname": "AM_AncientDisplayBank"
+	},
+	{
+		"abr": "ancientequipmentblocks",
+		"price": 12,
+		"category": "Misc",
+		"defname": "AM_AncientEquipmentBlocks"
+	},
+	{
+		"abr": "ancientgenerator",
+		"price": 1,
+		"category": "Misc",
+		"defname": "AM_AncientGenerator"
+	},
+	{
+		"abr": "ancienthydrant",
+		"price": 0,
+		"category": "Misc",
+		"defname": "AM_AncientHydrant"
+	},
+	{
+		"abr": "ancientkitchensink",
+		"price": 0,
+		"category": "Misc",
+		"defname": "AM_AncientKitchenSink"
+	},
+	{
+		"abr": "ancientlockerbank",
+		"price": 5,
+		"category": "Misc",
+		"defname": "AM_AncientLockerBank"
+	},
+	{
+		"abr": "ancientmachine",
+		"price": 18,
+		"category": "Misc",
+		"defname": "AM_AncientMachine"
+	},
+	{
+		"abr": "ancientmicrowave",
+		"price": 0,
+		"category": "Misc",
+		"defname": "AM_AncientMicrowave"
+	},
+	{
+		"abr": "ancientmilitarycrate",
+		"price": 2,
+		"category": "Misc",
+		"defname": "AM_AncientMilitaryCrate"
+	},
+	{
+		"abr": "ancientoperatingtable",
+		"price": 1,
+		"category": "Misc",
+		"defname": "AM_AncientOperatingTable"
+	},
+	{
+		"abr": "ancientoven",
+		"price": 0,
+		"category": "Misc",
+		"defname": "AM_AncientOven"
+	},
+	{
+		"abr": "ancientrefrigerator",
+		"price": 0,
+		"category": "Misc",
+		"defname": "AM_AncientRefrigerator"
+	},
+	{
+		"abr": "ancientsecurityturret",
+		"price": 1,
+		"category": "Misc",
+		"defname": "AM_AncientSecurityTurret"
+	},
+	{
+		"abr": "ancientshoppingcart",
+		"price": 0,
+		"category": "Misc",
+		"defname": "AM_AncientShoppingCart"
+	},
+	{
+		"abr": "ancientstove",
+		"price": 0,
+		"category": "Misc",
+		"defname": "AM_AncientStove"
+	},
+	{
+		"abr": "ancienttanktrap",
+		"price": 1,
+		"category": "Misc",
+		"defname": "AM_AncientTankTrap"
+	},
+	{
+		"abr": "ancienttoilet",
+		"price": 0,
+		"category": "Misc",
+		"defname": "AM_AncientToilet"
+	},
+	{
+		"abr": "ancientunstablefuelnode",
+		"price": 18,
+		"category": "Misc",
+		"defname": "AM_AncientFuelNode"
+	},
+	{
+		"abr": "ancientvendingmachine",
+		"price": 0,
+		"category": "Misc",
+		"defname": "AM_AncientVendingMachine"
+	},
+	{
+		"abr": "ancientwheel",
+		"price": 0,
+		"category": "Misc",
+		"defname": "AM_AncientWheel"
+	},
+	{
+		"abr": "blockedescalator",
+		"price": 127,
+		"category": "Misc",
+		"defname": "AM_BlockedElevators"
+	},
+	{
+		"abr": "blockedescalator",
+		"price": 127,
+		"category": "Misc",
+		"defname": "AM_BlockedElevatorsD"
+	},
+	{
+		"abr": "blockedescalator",
+		"price": 127,
+		"category": "Misc",
+		"defname": "AM_BlockedElevatorsA"
+	},
+	{
+		"abr": "blockedescalator",
+		"price": 127,
+		"category": "Misc",
+		"defname": "AM_BlockedElevatorsDA"
+	},
+	{
+		"abr": "psytrainer(annihilateitem)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPETH_DestroyPower"
+	},
+	{
+		"abr": "psytrainer(cosmicaffinity)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPETH_CosmicAffinity"
+	},
+	{
+		"abr": "psytrainer(cosmicbarrier)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPETH_CosmicBarrier"
+	},
+	{
+		"abr": "psytrainer(cosmicbolt)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPETH_CosmicBolt"
+	},
+	{
+		"abr": "psytrainer(duplicateitem)",
+		"price": 2833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPETH_DupePower"
+	},
+	{
+		"abr": "bigshelf",
+		"price": 224,
+		"category": "Furniture",
+		"defname": "ASF_BigShelf"
+	},
+	{
+		"abr": "bigsingleshelf",
+		"price": 220,
+		"category": "Furniture",
+		"defname": "ASF_BigSShelf"
+	},
+	{
+		"abr": "clothingrack",
+		"price": 170,
+		"category": "Furniture",
+		"defname": "ASF_ClothingRack"
+	},
+	{
+		"abr": "foodbasket",
+		"price": 270,
+		"category": "Furniture",
+		"defname": "ASF_Basket"
+	},
+	{
+		"abr": "hampers",
+		"price": 383,
+		"category": "Furniture",
+		"defname": "ASF_FabricHamper"
+	},
+	{
+		"abr": "hayloft",
+		"price": 287,
+		"category": "Furniture",
+		"defname": "ASF_Hayloft"
+	},
+	{
+		"abr": "mealtrayrack",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "ASF_TrayRack"
+	},
+	{
+		"abr": "meathook",
+		"price": 254,
+		"category": "Furniture",
+		"defname": "ASF_MeatHook"
+	},
+	{
+		"abr": "medicinecabinet",
+		"price": 203,
+		"category": "Furniture",
+		"defname": "ASF_MedCab"
+	},
+	{
+		"abr": "pallet",
+		"price": 220,
+		"category": "Furniture",
+		"defname": "ASF_Pallet"
+	},
+	{
+		"abr": "psytrainer(feathertouch)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPETH_LesserBurden"
+	},
+	{
+		"abr": "psytrainer(fortifystructure)",
+		"price": 1833,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPETH_DenseBuilding"
+	},
+	{
+		"abr": "psytrainer(pullpower)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPETH_PullPower"
+	},
+	{
+		"abr": "psytrainer(pushpower)",
+		"price": 1333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPETH_PushPower"
+	},
+	{
+		"abr": "psytrainer(upgradeitem)",
+		"price": 2333,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_VPETH_UpgradePower"
+	},
+	{
+		"abr": "safe",
+		"price": 1017,
+		"category": "Furniture",
+		"defname": "ASF_Safe"
+	},
+	{
+		"abr": "1x1lockerbank",
+		"price": 185,
+		"category": "Furniture",
+		"defname": "1x1LockerBank"
+	},
+	{
+		"abr": "1x2lockerbank",
+		"price": 199,
+		"category": "Furniture",
+		"defname": "1x2LockerBank"
+	},
+	{
+		"abr": "1x3lockerbank",
+		"price": 558,
+		"category": "Furniture",
+		"defname": "1x3LockerBank"
+	},
+	{
+		"abr": "advancedmechanoidchip",
+		"price": 92,
+		"category": "Manufactured",
+		"defname": "WTH_MechanoidChip"
+	},
+	{
+		"abr": "archotechdeepdrill",
+		"price": 3425,
+		"category": "Production",
+		"defname": "MBDD_ArchotechDeepDrill"
+	},
+	{
+		"abr": "armormodule",
+		"price": 1483,
+		"category": "Manufactured",
+		"defname": "WTH_ArmorModule"
+	},
+	{
+		"abr": "batteryexpansionmodule",
+		"price": 1183,
+		"category": "Manufactured",
+		"defname": "WTH_BatteryExpansionModule"
+	},
+	{
+		"abr": "beltmodule",
+		"price": 1175,
+		"category": "Manufactured",
+		"defname": "WTH_BeltModule"
+	},
+	{
+		"abr": "cargomodule",
+		"price": 950,
+		"category": "Manufactured",
+		"defname": "WTH_CargoModule"
+	},
+	{
+		"abr": "cleaningmodule",
+		"price": 1042,
+		"category": "Manufactured",
+		"defname": "WTH_CleaningModule"
+	},
+	{
+		"abr": "extractedbraindata",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "WTH_ExtractedBrainData"
+	},
+	{
+		"abr": "firefightingmodule",
+		"price": 842,
+		"category": "Manufactured",
+		"defname": "WTH_FirefightingModule"
+	},
+	{
+		"abr": "growingmodule",
+		"price": 1400,
+		"category": "Manufactured",
+		"defname": "WTH_GrowingModule"
+	},
+	{
+		"abr": "haulingmodule",
+		"price": 1525,
+		"category": "Manufactured",
+		"defname": "WTH_HaulingModule"
+	},
+	{
+		"abr": "hivedata",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "WTH_MechanoidData"
+	},
+	{
+		"abr": "hiveshiphackingfacility",
+		"price": 4267,
+		"category": "Misc",
+		"defname": "WTH_MechanoidBeacon"
+	},
+	{
+		"abr": "largedeepdrill",
+		"price": 7133,
+		"category": "Production",
+		"defname": "MBDD_LargeDeepDrill"
+	},
+	{
+		"abr": "mechanoidcontrollerbelt",
+		"price": 1242,
+		"category": "Apparel",
+		"defname": "WTH_Apparel_MechControllerBelt"
+	},
+	{
+		"abr": "mechanoidhackingfacility",
+		"price": 1200,
+		"category": "Misc",
+		"defname": "WTH_HackingTable"
+	},
+	{
+		"abr": "mechanoidparts",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "WTH_MechanoidParts"
+	},
+	{
+		"abr": "mechanoidplatform",
+		"price": 742,
+		"category": "Misc",
+		"defname": "WTH_MechanoidPlatform"
+	},
+	{
+		"abr": "mechanoidworkshop",
+		"price": 1917,
+		"category": "Production",
+		"defname": "WTH_TableMechanoidWorkshop"
+	},
+	{
+		"abr": "opticsensormodule",
+		"price": 767,
+		"category": "Manufactured",
+		"defname": "WTH_OpticSensorModule"
+	},
+	{
+		"abr": "overdrivemodule",
+		"price": 767,
+		"category": "Manufactured",
+		"defname": "WTH_OverdriveModule"
+	},
+	{
+		"abr": "portablechargingplatform",
+		"price": 658,
+		"category": "Furniture",
+		"defname": "WTH_PortableChargingPlatform"
+	},
+	{
+		"abr": "portabledisassemblingbench",
+		"price": 967,
+		"category": "Furniture",
+		"defname": "WTH_PortableDisassemblingBench"
+	},
+	{
+		"abr": "rangeddeepdrill",
+		"price": 1542,
+		"category": "Production",
+		"defname": "MBDD_RangedDeepDrill"
+	},
+	{
+		"abr": "repairarm",
+		"price": 725,
+		"category": "Manufactured",
+		"defname": "WTH_RepairArm"
+	},
+	{
+		"abr": "repairmodule",
+		"price": 1158,
+		"category": "Manufactured",
+		"defname": "WTH_RepairModule"
+	},
+	{
+		"abr": "selfdestructmodule",
+		"price": 417,
+		"category": "Manufactured",
+		"defname": "WTH_SelfDestructModule"
+	},
+	{
+		"abr": "skip",
+		"price": 305,
+		"category": "Furniture",
+		"defname": "ASF_Skip"
+	},
+	{
+		"abr": "speedmodule",
+		"price": 750,
+		"category": "Manufactured",
+		"defname": "WTH_SpeedModule"
+	},
+	{
+		"abr": "tallshelf",
+		"price": 550,
+		"category": "Furniture",
+		"defname": "ASF_VeryBigShelf"
 	}
 	],
-	"total": 6516
+	"total": 6644
 }
