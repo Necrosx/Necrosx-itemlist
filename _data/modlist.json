@@ -639,7 +639,7 @@
     "author": "Arakos",
     "name": "Call A Trader",
     "steamId": "2784149999",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   {
     "author": "busted_bunny",
@@ -891,7 +891,7 @@
     "author": "alite",
     "name": "EBSG Framework",
     "steamId": "3112549163",
-    "version": "1.0.9099.41237"
+    "version": "1.0.9119.21888"
   },
   {
     "author": "Victorique, Aurani and Tarojun",
@@ -1206,6 +1206,12 @@
     "version": "1.5.0.8"
   },
   {
+    "author": "BlackMarket420",
+    "name": "Hunterphage Xenotype (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Neronix17",
     "name": "Tweaks Galore",
     "steamId": "2695164414",
@@ -1390,6 +1396,12 @@
     "name": "MBS Faux Rock Wall",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "AlenDio",
+    "name": "Make Your Bulk",
+    "steamId": "3386316410",
+    "version": "1.2"
   },
   {
     "author": "Supes",
@@ -1581,7 +1593,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.5.25"
+    "version": "1.5.26"
   },
   {
     "author": "Sergwest",
@@ -1610,6 +1622,12 @@
   {
     "author": "Vesper",
     "name": "Not My Fault",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Smash Phil",
+    "name": "Vanilla Vehicles Expanded - Upgrades",
     "steamId": null,
     "version": null
   },
@@ -1779,7 +1797,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.9078.28846"
+    "version": "1.0.9110.11465"
   },
   {
     "author": "Sandy",
@@ -1929,7 +1947,7 @@
     "author": "Mlie",
     "name": "Relevant Stats In Description",
     "steamId": "2692669482",
-    "version": "1.5.4"
+    "version": "1.5.5"
   },
   {
     "author": "sirrandoo",
@@ -2666,12 +2684,6 @@
   {
     "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
     "name": "Vanilla Vehicles Expanded - Tier 3",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Smash Phil",
-    "name": "Vanilla Vehicles Expanded - Upgrades",
     "steamId": null,
     "version": null
   },
