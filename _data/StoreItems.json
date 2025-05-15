@@ -6628,7 +6628,7 @@
       "abr": "ancientairconditioner",
       "category": "Misc",
       "defname": "VME_AncientAirConditioner",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientanimalcontrolhub",
@@ -6670,7 +6670,7 @@
       "abr": "ancientatm",
       "category": "Misc",
       "defname": "VME_AncientATM",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientbandnode",
@@ -6976,7 +6976,7 @@
       "abr": "ancientengineblock",
       "category": "Misc",
       "defname": "VME_AncientRustedEngineBlock",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "ancientequipmentblocks",
@@ -7000,7 +7000,7 @@
       "abr": "ancientfence",
       "category": "Misc",
       "defname": "VME_AncientFence",
-      "price": 0
+      "price": 1
     },
     {
       "abr": "ancientfoosballtable",
@@ -7120,7 +7120,7 @@
       "abr": "ancientgiantwheel",
       "category": "Misc",
       "defname": "VME_AncientGiantWheel",
-      "price": 0
+      "price": 1
     },
     {
       "abr": "ancientgrowthvat",
@@ -7156,7 +7156,7 @@
       "abr": "ancienthydrant",
       "category": "Misc",
       "defname": "VME_AncientHydrant",
-      "price": 0
+      "price": 1
     },
     {
       "abr": "ancienthydroponicfarm",
@@ -7186,7 +7186,7 @@
       "abr": "ancientkitchensink",
       "category": "Misc",
       "defname": "VME_AncientKitchenSink",
-      "price": 0
+      "price": 1
     },
     {
       "abr": "ancientlablamp",
@@ -7210,7 +7210,7 @@
       "abr": "ancientlargecrate",
       "category": "Misc",
       "defname": "VME_AncientLargeCrate",
-      "price": 0
+      "price": 1
     },
     {
       "abr": "ancientlargeelectrowomb",
@@ -7246,7 +7246,7 @@
       "abr": "ancientlongcrate",
       "category": "Misc",
       "defname": "VME_AncientLongCrate",
-      "price": 0
+      "price": 1
     },
     {
       "abr": "ancientmachine",
@@ -7264,7 +7264,7 @@
       "abr": "ancientmacro-engineblock",
       "category": "Misc",
       "defname": "VME_AncientLargeRustedEngineBlock",
-      "price": 0
+      "price": 1
     },
     {
       "abr": "ancientmechdropbeacon",
@@ -7336,7 +7336,7 @@
       "abr": "ancientmicrowave",
       "category": "Misc",
       "defname": "VME_AncientMicrowave",
-      "price": 0
+      "price": 1
     },
     {
       "abr": "ancientmilitarycrate",
@@ -7438,7 +7438,7 @@
       "abr": "ancientoven",
       "category": "Misc",
       "defname": "VME_AncientOven",
-      "price": 0
+      "price": 1
     },
     {
       "abr": "ancientpagoda",
@@ -7480,7 +7480,7 @@
       "abr": "ancientpostbox",
       "category": "Misc",
       "defname": "VME_AncientPostbox",
-      "price": 0
+      "price": 1
     },
     {
       "abr": "ancientpowerfist【second-rate】",
@@ -7546,7 +7546,7 @@
       "abr": "ancientrefrigerator",
       "category": "Misc",
       "defname": "VME_AncientRefrigerator",
-      "price": 0
+      "price": 1
     },
     {
       "abr": "ancientresearchterminal",
@@ -7690,7 +7690,7 @@
       "abr": "ancientshoppingcart",
       "category": "Misc",
       "defname": "VME_AncientShoppingCart",
-      "price": 0
+      "price": 1
     },
     {
       "abr": "ancientshuttle",
@@ -7762,7 +7762,7 @@
       "abr": "ancientsmallcrate",
       "category": "Misc",
       "defname": "VME_AncientSmallCrate",
-      "price": 0
+      "price": 1
     },
     {
       "abr": "ancientsolargenerator",
@@ -7798,7 +7798,7 @@
       "abr": "ancientstove",
       "category": "Misc",
       "defname": "VME_AncientStove",
-      "price": 0
+      "price": 1
     },
     {
       "abr": "ancientsubcoreripscanner",
@@ -7870,7 +7870,7 @@
       "abr": "ancienttoilet",
       "category": "Misc",
       "defname": "VME_AncientToilet",
-      "price": 0
+      "price": 1
     },
     {
       "abr": "ancienttransmitter",
@@ -7894,7 +7894,7 @@
       "abr": "ancientvendingmachine",
       "category": "Misc",
       "defname": "VME_AncientVendingMachine",
-      "price": 0
+      "price": 1
     },
     {
       "abr": "ancientvitalsmonitor",
@@ -7966,7 +7966,7 @@
       "abr": "ancientwashingmachine",
       "category": "Misc",
       "defname": "VME_AncientWashingMachine",
-      "price": 0
+      "price": 1
     },
     {
       "abr": "ancientwastepackatomizer",
@@ -7990,7 +7990,7 @@
       "abr": "ancientwheel",
       "category": "Misc",
       "defname": "VME_AncientWheel",
-      "price": 0
+      "price": 1
     },
     {
       "abr": "ancientworkshop",
@@ -14278,7 +14278,7 @@
       "abr": "borealsardine",
       "category": "Alien raw fish",
       "defname": "VCEF_BorealSardine",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "botanicalhandbook",
@@ -19954,7 +19954,7 @@
       "abr": "devildrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Devil_Drone",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "devilhoneycomb",
@@ -24334,7 +24334,7 @@
       "abr": "foamyqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Foamy_Queen",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "focusdraught",
@@ -27814,7 +27814,7 @@
       "abr": "harvesterdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Harvester_Drone",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "harvesterhoneycomb",
@@ -31354,7 +31354,7 @@
       "abr": "janitordrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Janitor_Drone",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "janitorhoneycomb",
@@ -33034,7 +33034,7 @@
       "abr": "lightmagicalhoneycomb",
       "category": "Honey combs",
       "defname": "RB_LightMagical_Honeycomb",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "lightmagicalleather",
@@ -48094,7 +48094,7 @@
       "abr": "royalqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Royal_Queen",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "royalspelopede",
@@ -48760,7 +48760,7 @@
       "abr": "scalyqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Scaly_Queen",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "scar",
@@ -60911,7 +60911,79 @@
       "category": "Furniture",
       "defname": "JDSwheelbarrow",
       "price": 54
+    },
+    {
+      "abr": "aurora",
+      "category": "Buildings",
+      "defname": "TCFAurora",
+      "price": 148183
+    },
+    {
+      "abr": "basilisk",
+      "category": "Buildings",
+      "defname": "TCFBasilisk",
+      "price": 27025
+    },
+    {
+      "abr": "comet",
+      "category": "Buildings",
+      "defname": "TCFComet",
+      "price": 14092
+    },
+    {
+      "abr": "compost",
+      "category": "Farming",
+      "defname": "scar_Compost",
+      "price": 8
+    },
+    {
+      "abr": "compostingbarrel",
+      "category": "Production",
+      "defname": "scar_Composter",
+      "price": 95
+    },
+    {
+      "abr": "courier",
+      "category": "Buildings",
+      "defname": "TCFCourier",
+      "price": 15558
+    },
+    {
+      "abr": "organicmatter",
+      "category": "Farming",
+      "defname": "scar_OrganicMatter",
+      "price": 8
+    },
+    {
+      "abr": "surveyor",
+      "category": "Buildings",
+      "defname": "TCFSurveyor",
+      "price": 9317
+    },
+    {
+      "abr": "titan",
+      "category": "Buildings",
+      "defname": "TCFTitan",
+      "price": 40200
+    },
+    {
+      "abr": "waterbucket",
+      "category": "Raw resources",
+      "defname": "SWB_WaterBucket",
+      "price": 1
+    },
+    {
+      "abr": "dustbunny",
+      "category": "Animals",
+      "defname": "Crows_DustBunnyRace",
+      "price": 833
+    },
+    {
+      "abr": "dustbunnymeat",
+      "category": "Meat",
+      "defname": "Meat_Crows_DustBunnyRace",
+      "price": 3
     }
   ],
-  "total": 10152
+  "total": 10164
 }
