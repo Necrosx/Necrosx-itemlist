@@ -6998,13 +6998,13 @@
         ],
         "stats": [],
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null
       },
       "defName": "VTE_IronStomach",
-      "name": "ironstomach"
+      "name": "ironstomach2"
     },
     {
       "canAdd": true,
