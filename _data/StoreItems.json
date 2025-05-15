@@ -60983,7 +60983,1027 @@
       "category": "Meat",
       "defname": "Meat_Crows_DustBunnyRace",
       "price": 3
+    },
+    {
+      "abr": "adornedarmet(sanguin)",
+      "category": "Headgear",
+      "defname": "DevDesigner_Blood_Apparel_ArmetLord",
+      "price": 6567
+    },
+    {
+      "abr": "adornedfullplate(sanguin)",
+      "category": "Armor",
+      "defname": "DevDesigner_Blood_Apparel_LordFullPlate",
+      "price": 9008
+    },
+    {
+      "abr": "arch",
+      "category": "Misc",
+      "defname": "LTS_ArchWood",
+      "price": 85
+    },
+    {
+      "abr": "arch",
+      "category": "Misc",
+      "defname": "LTS_ArchStone",
+      "price": 85
+    },
+    {
+      "abr": "archeddoor",
+      "category": "Misc",
+      "defname": "LTS_ArchedDoor",
+      "price": 108
+    },
+    {
+      "abr": "archeddoor",
+      "category": "Misc",
+      "defname": "LTS_SimpleArchedDoor",
+      "price": 108
+    },
+    {
+      "abr": "arkelstorp",
+      "category": "Furniture",
+      "defname": "LTS_Arkelstorp",
+      "price": 204
+    },
+    {
+      "abr": "armet",
+      "category": "Headgear",
+      "defname": "DevDesigner_Blood_Apparel_ArmetNormal",
+      "price": 417
+    },
+    {
+      "abr": "armet(sanguin)",
+      "category": "Headgear",
+      "defname": "DevDesigner_Blood_Apparel_Armet",
+      "price": 425
+    },
+    {
+      "abr": "armet(sanguin)",
+      "category": "Headgear",
+      "defname": "DevDesigner_Blood_Apparel_ArmetWinged",
+      "price": 425
+    },
+    {
+      "abr": "armingsword(sanguin)",
+      "category": "Melee weapons",
+      "defname": "DevDesigner_Blood_MeleeWeapon_Sword",
+      "price": 295
+    },
+    {
+      "abr": "askholmen",
+      "category": "Furniture",
+      "defname": "LTS_Askholmen",
+      "price": 102
+    },
+    {
+      "abr": "astrid",
+      "category": "Furniture",
+      "defname": "LTS_Astrid",
+      "price": 102
+    },
+    {
+      "abr": "banner(sanguin)",
+      "category": "Furniture",
+      "defname": "DevDesigner_BloodBanner",
+      "price": 171
+    },
+    {
+      "abr": "bearrug",
+      "category": "Misc",
+      "defname": "LTS_BearRug",
+      "price": 202
+    },
+    {
+      "abr": "bloodbrazier",
+      "category": "Furniture",
+      "defname": "DevDesigner_BloodBrazier",
+      "price": 176
+    },
+    {
+      "abr": "bloodtorch",
+      "category": "Misc",
+      "defname": "DevDesigner_RusticBloodTorchLamp",
+      "price": 76
+    },
+    {
+      "abr": "brickwall",
+      "category": "Misc",
+      "defname": "LTS_BrickWall",
+      "price": 28
+    },
+    {
+      "abr": "caparison(back)",
+      "category": "Animal Apparel",
+      "defname": "DevDesigner_Apparel_Horse_CaparisonBack",
+      "price": 425
+    },
+    {
+      "abr": "caparison(front)",
+      "category": "Animal Apparel",
+      "defname": "DevDesigner_Apparel_Horse_CaparisonFront",
+      "price": 425
+    },
+    {
+      "abr": "cape",
+      "category": "Apparel",
+      "defname": "DevDesigner_Blood_Apparel_Cape",
+      "price": 750
+    },
+    {
+      "abr": "circlecarpet",
+      "category": "Misc",
+      "defname": "LTS_CircleCarpet",
+      "price": 202
+    },
+    {
+      "abr": "cobblestonefence",
+      "category": "Misc",
+      "defname": "LTS_CobblestoneFence",
+      "price": 18
+    },
+    {
+      "abr": "cobblestonewall",
+      "category": "Misc",
+      "defname": "LTS_CobblestoneWall",
+      "price": 21
+    },
+    {
+      "abr": "counter-black",
+      "category": "Furniture",
+      "defname": "LTS_CounterB",
+      "price": 70
+    },
+    {
+      "abr": "counter-blue",
+      "category": "Furniture",
+      "defname": "LTS_CounterS",
+      "price": 70
+    },
+    {
+      "abr": "counter-gray",
+      "category": "Furniture",
+      "defname": "LTS_CounterG",
+      "price": 70
+    },
+    {
+      "abr": "counter-white",
+      "category": "Furniture",
+      "defname": "LTS_Counter",
+      "price": 70
+    },
+    {
+      "abr": "darkcaparison(back)",
+      "category": "Animal Apparel",
+      "defname": "DevDesigner_Apparel_Horse_DarkCaparisonBack",
+      "price": 425
+    },
+    {
+      "abr": "darkcaparison(front)",
+      "category": "Animal Apparel",
+      "defname": "DevDesigner_Apparel_Horse_DarkCaparisonFront",
+      "price": 425
+    },
+    {
+      "abr": "doubleframe",
+      "category": "Misc",
+      "defname": "LTS_FuturisticLargeDoorFrame",
+      "price": 69
+    },
+    {
+      "abr": "electriclantern",
+      "category": "Furniture",
+      "defname": "LTS_ElectricLantern",
+      "price": 68
+    },
+    {
+      "abr": "fancydoor",
+      "category": "Misc",
+      "defname": "LTS_FancyDoorOne",
+      "price": 106
+    },
+    {
+      "abr": "fancydoor",
+      "category": "Misc",
+      "defname": "LTS_FancyDoorTwo",
+      "price": 106
+    },
+    {
+      "abr": "firepit",
+      "category": "Temperature",
+      "defname": "LTS_Firepit",
+      "price": 442
+    },
+    {
+      "abr": "firepit",
+      "category": "Temperature",
+      "defname": "LTS_FirepitRound",
+      "price": 358
+    },
+    {
+      "abr": "fireplace",
+      "category": "Temperature",
+      "defname": "LTS_Fireplace",
+      "price": 358
+    },
+    {
+      "abr": "flatscreentv",
+      "category": "Recreation",
+      "defname": "LTS_TableTelevision",
+      "price": 1450
+    },
+    {
+      "abr": "floorlight",
+      "category": "Furniture",
+      "defname": "LTS_FloorLight",
+      "price": 68
+    },
+    {
+      "abr": "fridge",
+      "category": "Temperature",
+      "defname": "LTS_Fridge",
+      "price": 229
+    },
+    {
+      "abr": "fullplate(sanguin)",
+      "category": "Apparel",
+      "defname": "DevDesigner_Blood_Apparel_FullPlate",
+      "price": 942
+    },
+    {
+      "abr": "futuristicautodoor",
+      "category": "Misc",
+      "defname": "LTS_FuturisticDoorOne",
+      "price": 277
+    },
+    {
+      "abr": "futuristicautodoor",
+      "category": "Misc",
+      "defname": "LTS_FuturisticDoorTwo",
+      "price": 277
+    },
+    {
+      "abr": "futuristicautodoor",
+      "category": "Misc",
+      "defname": "LTS_LargeFuturisticDoor",
+      "price": 358
+    },
+    {
+      "abr": "futuristicautodoor",
+      "category": "Misc",
+      "defname": "LTS_AssymetricDoorOne",
+      "price": 277
+    },
+    {
+      "abr": "futuristicautodoor",
+      "category": "Misc",
+      "defname": "LTS_AssymetricDoorTwo",
+      "price": 358
+    },
+    {
+      "abr": "futuristicautodoor",
+      "category": "Misc",
+      "defname": "LTS_AssymetricReinforcedDoorOne",
+      "price": 277
+    },
+    {
+      "abr": "futuristicautodoor",
+      "category": "Misc",
+      "defname": "LTS_AssymetricReinforcedDoorTwo",
+      "price": 358
+    },
+    {
+      "abr": "gamlared",
+      "category": "Furniture",
+      "defname": "LTS_Gamlared",
+      "price": 136
+    },
+    {
+      "abr": "gardenlight",
+      "category": "Furniture",
+      "defname": "LTS_GardenLightOne",
+      "price": 68
+    },
+    {
+      "abr": "gardenlight",
+      "category": "Furniture",
+      "defname": "LTS_GardenLightTwo",
+      "price": 68
+    },
+    {
+      "abr": "grainmill",
+      "category": "Production",
+      "defname": "LTS_GrainMill",
+      "price": 150
+    },
+    {
+      "abr": "greatsword(sanguin)",
+      "category": "Melee weapons",
+      "defname": "DevDesigner_Blood_MeleeWeapon_ExecutionerGreatsword",
+      "price": 650
+    },
+    {
+      "abr": "growingpit",
+      "category": "Misc",
+      "defname": "LTS_Growingpit",
+      "price": 442
+    },
+    {
+      "abr": "growingplot",
+      "category": "Misc",
+      "defname": "LTS_GrowingPlot",
+      "price": 119
+    },
+    {
+      "abr": "hangardoor",
+      "category": "Misc",
+      "defname": "LTS_HangarDoor",
+      "price": 450
+    },
+    {
+      "abr": "hangingbed",
+      "category": "Furniture",
+      "defname": "LTS_HangingBed",
+      "price": 128
+    },
+    {
+      "abr": "havsta",
+      "category": "Furniture",
+      "defname": "LTS_Havsta",
+      "price": 425
+    },
+    {
+      "abr": "hedge",
+      "category": "Misc",
+      "defname": "LTS_Hedge",
+      "price": 18
+    },
+    {
+      "abr": "hemnesbed",
+      "category": "Furniture",
+      "defname": "LTS_HemnesSingle",
+      "price": 279
+    },
+    {
+      "abr": "hemnesdoublebed",
+      "category": "Furniture",
+      "defname": "LTS_HemnesDouble",
+      "price": 442
+    },
+    {
+      "abr": "heraldicgreathelm(sanguin)",
+      "category": "Apparel",
+      "defname": "DevDesigner_Blood_Apparel_HeraldicGreatHelm",
+      "price": 408
+    },
+    {
+      "abr": "heraldicheavyhauberk(sanguin)",
+      "category": "Apparel",
+      "defname": "DevDesigner_Blood_Apparel_HeraldicHeavyHauberk",
+      "price": 508
+    },
+    {
+      "abr": "hexagonalplantpot",
+      "category": "Art",
+      "defname": "LTS_PlantPotA",
+      "price": 97
+    },
+    {
+      "abr": "hood",
+      "category": "Headgear",
+      "defname": "DevDesigner_Blood_Apparel_Hood",
+      "price": 97
+    },
+    {
+      "abr": "horsebonearmor(back)",
+      "category": "Animal Apparel",
+      "defname": "DevDesigner_Apparel_Horse_BoneBack",
+      "price": 375
+    },
+    {
+      "abr": "horsebonearmor(front)",
+      "category": "Animal Apparel",
+      "defname": "DevDesigner_Apparel_Horse_BoneFront",
+      "price": 375
+    },
+    {
+      "abr": "horseplatearmor(back)",
+      "category": "Animal Apparel",
+      "defname": "DevDesigner_Apparel_Horse_PlateBack",
+      "price": 400
+    },
+    {
+      "abr": "horseplatearmor(front)",
+      "category": "Animal Apparel",
+      "defname": "DevDesigner_Apparel_Horse_PlateFront",
+      "price": 400
+    },
+    {
+      "abr": "hyllis",
+      "category": "Furniture",
+      "defname": "LTS_HyllisS",
+      "price": 86
+    },
+    {
+      "abr": "hyllis",
+      "category": "Furniture",
+      "defname": "LTS_HyllisL",
+      "price": 153
+    },
+    {
+      "abr": "idanas",
+      "category": "Furniture",
+      "defname": "LTS_IdanasN",
+      "price": 136
+    },
+    {
+      "abr": "idanas",
+      "category": "Furniture",
+      "defname": "LTS_IdanasD",
+      "price": 256
+    },
+    {
+      "abr": "industrialautodoor",
+      "category": "Misc",
+      "defname": "LTS_AssymetricIndustrialLargeDoor",
+      "price": 500
+    },
+    {
+      "abr": "industrialautodoor",
+      "category": "Misc",
+      "defname": "LTS_LargeIndustrialDoor",
+      "price": 500
+    },
+    {
+      "abr": "industrialautodoor",
+      "category": "Misc",
+      "defname": "LTS_WideIndustrialLargeDoor",
+      "price": 658
+    },
+    {
+      "abr": "industrialautodoor",
+      "category": "Misc",
+      "defname": "LTS_WideBlastDoor",
+      "price": 825
+    },
+    {
+      "abr": "industrialglassdoor",
+      "category": "Misc",
+      "defname": "LTS_GlassDoorS",
+      "price": 327
+    },
+    {
+      "abr": "industrialglassdoor",
+      "category": "Misc",
+      "defname": "LTS_GlassDoorM",
+      "price": 358
+    },
+    {
+      "abr": "industrialglassdoor",
+      "category": "Misc",
+      "defname": "LTS_GlassDoorL",
+      "price": 442
+    },
+    {
+      "abr": "industrialglassdoor",
+      "category": "Misc",
+      "defname": "LTS_GlassDoorSingle",
+      "price": 293
+    },
+    {
+      "abr": "kiteshield(sanguin)",
+      "category": "Apparel",
+      "defname": "DevDesigner_Blood_Apparel_KiteShield",
+      "price": 293
+    },
+    {
+      "abr": "kiteshield(sanguin)",
+      "category": "Apparel",
+      "defname": "DevDesigner_Blood_Apparel_Kite2Shield",
+      "price": 293
+    },
+    {
+      "abr": "kivik",
+      "category": "Furniture",
+      "defname": "LTS_KivikS",
+      "price": 179
+    },
+    {
+      "abr": "kivik",
+      "category": "Furniture",
+      "defname": "LTS_Kivik",
+      "price": 329
+    },
+    {
+      "abr": "klimpfjäll",
+      "category": "Furniture",
+      "defname": "LTS_Klimpfjall",
+      "price": 179
+    },
+    {
+      "abr": "koppang",
+      "category": "Furniture",
+      "defname": "LTS_KoppangD",
+      "price": 206
+    },
+    {
+      "abr": "kyrre",
+      "category": "Furniture",
+      "defname": "LTS_Kyrre",
+      "price": 62
+    },
+    {
+      "abr": "lantern",
+      "category": "Furniture",
+      "defname": "LTS_Lantern",
+      "price": 68
+    },
+    {
+      "abr": "lantern",
+      "category": "Furniture",
+      "defname": "LTS_TableLantern",
+      "price": 68
+    },
+    {
+      "abr": "lantern",
+      "category": "Furniture",
+      "defname": "LTS_ElectricTableLantern",
+      "price": 68
+    },
+    {
+      "abr": "lanternpost",
+      "category": "Furniture",
+      "defname": "LTS_Lanternpost",
+      "price": 169
+    },
+    {
+      "abr": "lanternpost",
+      "category": "Furniture",
+      "defname": "LTS_Lightpost",
+      "price": 129
+    },
+    {
+      "abr": "laptop",
+      "category": "Recreation",
+      "defname": "LTS_laptop",
+      "price": 1258
+    },
+    {
+      "abr": "largearch",
+      "category": "Misc",
+      "defname": "LTS_LargeArchStone",
+      "price": 153
+    },
+    {
+      "abr": "largefencegate",
+      "category": "Misc",
+      "defname": "LTS_LargeFenceGate",
+      "price": 173
+    },
+    {
+      "abr": "largestarch",
+      "category": "Misc",
+      "defname": "LTS_LargestArchStone",
+      "price": 203
+    },
+    {
+      "abr": "longsword(sanguin)",
+      "category": "Melee weapons",
+      "defname": "DevDesigner_Blood_MeleeWeapon_Longsword",
+      "price": 450
+    },
+    {
+      "abr": "lumberborder",
+      "category": "Misc",
+      "defname": "LTS_LumberBorderCorner",
+      "price": 7
+    },
+    {
+      "abr": "lumberborder",
+      "category": "Misc",
+      "defname": "LTS_LumberBorderEdge",
+      "price": 7
+    },
+    {
+      "abr": "malsjo",
+      "category": "Furniture",
+      "defname": "LTS_Malsjo",
+      "price": 206
+    },
+    {
+      "abr": "medievaldoor",
+      "category": "Misc",
+      "defname": "LTS_ThickDoor",
+      "price": 145
+    },
+    {
+      "abr": "medievalgate",
+      "category": "Misc",
+      "defname": "LTS_MedievalGate",
+      "price": 291
+    },
+    {
+      "abr": "medievalgate",
+      "category": "Misc",
+      "defname": "LTS_GiantMedievalGate",
+      "price": 433
+    },
+    {
+      "abr": "modernstove",
+      "category": "Production",
+      "defname": "LTS_ElectricStove",
+      "price": 255
+    },
+    {
+      "abr": "modernwall",
+      "category": "Misc",
+      "defname": "LTS_FuturisticWall",
+      "price": 34
+    },
+    {
+      "abr": "mullfjället",
+      "category": "Furniture",
+      "defname": "LTS_Mullfjallet",
+      "price": 212
+    },
+    {
+      "abr": "nordviken",
+      "category": "Furniture",
+      "defname": "LTS_NordvikenB",
+      "price": 205
+    },
+    {
+      "abr": "nordviken",
+      "category": "Furniture",
+      "defname": "LTS_NordvikenW",
+      "price": 205
+    },
+    {
+      "abr": "norraryd",
+      "category": "Furniture",
+      "defname": "LTS_Norraryd",
+      "price": 425
+    },
+    {
+      "abr": "oillamp",
+      "category": "Furniture",
+      "defname": "LTS_OilLamp",
+      "price": 51
+    },
+    {
+      "abr": "ornatefence",
+      "category": "Misc",
+      "defname": "LTS_OrnateFence",
+      "price": 18
+    },
+    {
+      "abr": "ornatefencegate",
+      "category": "Misc",
+      "defname": "LTS_OrnateFenceGate",
+      "price": 141
+    },
+    {
+      "abr": "ornatelargefencegate",
+      "category": "Misc",
+      "defname": "LTS_LargeOrnateFenceGate",
+      "price": 174
+    },
+    {
+      "abr": "pike(sanguin)",
+      "category": "Melee weapons",
+      "defname": "DevDesigner_Blood_MeleeWeapon_PikeStandard",
+      "price": 450
+    },
+    {
+      "abr": "pillar",
+      "category": "Misc",
+      "defname": "LTS_Pillar",
+      "price": 71
+    },
+    {
+      "abr": "plankpath",
+      "category": "Misc",
+      "defname": "LTS_PathC",
+      "price": 36
+    },
+    {
+      "abr": "prisonbars",
+      "category": "Misc",
+      "defname": "LTS_Bars",
+      "price": 21
+    },
+    {
+      "abr": "prisongate",
+      "category": "Misc",
+      "defname": "LTS_BarsGate",
+      "price": 141
+    },
+    {
+      "abr": "profanedcathedraldoors",
+      "category": "Misc",
+      "defname": "BotchJob_ProfanedGate",
+      "price": 358
+    },
+    {
+      "abr": "regalcarpet",
+      "category": "Misc",
+      "defname": "LTS_RoyalCarpet",
+      "price": 271
+    },
+    {
+      "abr": "reinforceddoor",
+      "category": "Misc",
+      "defname": "LTS_ReinforcedDoorL",
+      "price": 358
+    },
+    {
+      "abr": "reinforcedpowerconduit",
+      "category": "Misc",
+      "defname": "LTS_ReinforcedPowerConduit",
+      "price": 90
+    },
+    {
+      "abr": "reinforcedwall",
+      "category": "Misc",
+      "defname": "LTS_FuturisticReinforcedWall",
+      "price": 41
+    },
+    {
+      "abr": "rockpath",
+      "category": "Misc",
+      "defname": "LTS_PathB",
+      "price": 36
+    },
+    {
+      "abr": "roundgrowingpit",
+      "category": "Misc",
+      "defname": "LTS_GrowingpitRound",
+      "price": 229
+    },
+    {
+      "abr": "roundpath",
+      "category": "Misc",
+      "defname": "LTS_PathA",
+      "price": 36
+    },
+    {
+      "abr": "rugcarpet",
+      "category": "Misc",
+      "defname": "LTS_RugCarpet",
+      "price": 169
+    },
+    {
+      "abr": "rugcarpet",
+      "category": "Misc",
+      "defname": "LTS_WoolViscouseS",
+      "price": 169
+    },
+    {
+      "abr": "rugcarpet",
+      "category": "Misc",
+      "defname": "LTS_WoolViscouseLCarpet",
+      "price": 271
+    },
+    {
+      "abr": "ruralstonewall",
+      "category": "Misc",
+      "defname": "LTS_StoneBrickWall",
+      "price": 21
+    },
+    {
+      "abr": "rusticwall",
+      "category": "Misc",
+      "defname": "LTS_RusticWall",
+      "price": 18
+    },
+    {
+      "abr": "simpledoor",
+      "category": "Misc",
+      "defname": "LTS_SimpleDoorOne",
+      "price": 88
+    },
+    {
+      "abr": "simpledoor",
+      "category": "Misc",
+      "defname": "LTS_SimpleDoorTwo",
+      "price": 88
+    },
+    {
+      "abr": "simpledoor",
+      "category": "Misc",
+      "defname": "LTS_LargeSimpleDoorOne",
+      "price": 88
+    },
+    {
+      "abr": "simpledoor",
+      "category": "Misc",
+      "defname": "LTS_LargeSimpleDoorTwo",
+      "price": 88
+    },
+    {
+      "abr": "simpledoor",
+      "category": "Misc",
+      "defname": "LTS_SimpleDoorL",
+      "price": 88
+    },
+    {
+      "abr": "simpledoubleframe",
+      "category": "Misc",
+      "defname": "LTS_SimpleLargeDoorFrame",
+      "price": 69
+    },
+    {
+      "abr": "simpleframe",
+      "category": "Misc",
+      "defname": "LTS_SimpleDoorFrame",
+      "price": 35
+    },
+    {
+      "abr": "simpletripleframe",
+      "category": "Misc",
+      "defname": "LTS_SimpleDoorFrameL",
+      "price": 104
+    },
+    {
+      "abr": "singledoor",
+      "category": "Misc",
+      "defname": "LTS_SimpleSingleDoorOne",
+      "price": 71
+    },
+    {
+      "abr": "singledoor",
+      "category": "Misc",
+      "defname": "LTS_SimpleSingleDoorTwo",
+      "price": 71
+    },
+    {
+      "abr": "singledoor",
+      "category": "Misc",
+      "defname": "LTS_SimpleSingleDoorThree",
+      "price": 71
+    },
+    {
+      "abr": "singleframe",
+      "category": "Misc",
+      "defname": "LTS_FuturisticDoorFrame",
+      "price": 35
+    },
+    {
+      "abr": "sink",
+      "category": "Misc",
+      "defname": "LTS_Sink",
+      "price": 142
+    },
+    {
+      "abr": "skogsta",
+      "category": "Furniture",
+      "defname": "LTS_Skogsta",
+      "price": 305
+    },
+    {
+      "abr": "squareplantpot",
+      "category": "Art",
+      "defname": "LTS_PlantPotB",
+      "price": 97
+    },
+    {
+      "abr": "stockholm",
+      "category": "Furniture",
+      "defname": "LTS_StockholmSofa",
+      "price": 425
+    },
+    {
+      "abr": "stockholm",
+      "category": "Furniture",
+      "defname": "LTS_Stockholm",
+      "price": 254
+    },
+    {
+      "abr": "stoneborder",
+      "category": "Misc",
+      "defname": "LTS_StoneBorderCorner",
+      "price": 7
+    },
+    {
+      "abr": "stoneborder",
+      "category": "Misc",
+      "defname": "LTS_StoneBorderEdge",
+      "price": 7
+    },
+    {
+      "abr": "stoneoven",
+      "category": "Production",
+      "defname": "LTS_StoneOven",
+      "price": 312
+    },
+    {
+      "abr": "stonestove",
+      "category": "Production",
+      "defname": "LTS_StoneStove",
+      "price": 325
+    },
+    {
+      "abr": "tilesborder",
+      "category": "Misc",
+      "defname": "LTS_TilesBorderCorner",
+      "price": 7
+    },
+    {
+      "abr": "tilesborder",
+      "category": "Misc",
+      "defname": "LTS_TilesBorderEdge",
+      "price": 7
+    },
+    {
+      "abr": "tilesborder",
+      "category": "Misc",
+      "defname": "LTS_TilesBorderInvertedEdge",
+      "price": 7
+    },
+    {
+      "abr": "tradingspot",
+      "category": "Misc",
+      "defname": "TradingSpot",
+      "price": 0
+    },
+    {
+      "abr": "tripleframe",
+      "category": "Misc",
+      "defname": "LTS_MetalFrameL",
+      "price": 104
+    },
+    {
+      "abr": "vase",
+      "category": "Art",
+      "defname": "LTS_Vase",
+      "price": 223
+    },
+    {
+      "abr": "vidja",
+      "category": "Furniture",
+      "defname": "LTS_Vidja",
+      "price": 102
+    },
+    {
+      "abr": "wallbloodtorch",
+      "category": "Misc",
+      "defname": "DevDesigner_WallBloodTorch",
+      "price": 76
+    },
+    {
+      "abr": "walllight",
+      "category": "Furniture",
+      "defname": "LTS_WallLightOne",
+      "price": 68
+    },
+    {
+      "abr": "walllight",
+      "category": "Furniture",
+      "defname": "LTS_WallLightTwo",
+      "price": 68
+    },
+    {
+      "abr": "walllight",
+      "category": "Furniture",
+      "defname": "LTS_WallLightThree",
+      "price": 68
+    },
+    {
+      "abr": "walltorch",
+      "category": "Furniture",
+      "defname": "LTS_WallTorch",
+      "price": 65
+    },
+    {
+      "abr": "walltv",
+      "category": "Recreation",
+      "defname": "LTS_WallTelevision",
+      "price": 1450
+    },
+    {
+      "abr": "walmartcarpet",
+      "category": "Misc",
+      "defname": "LTS_WalmartCarpet",
+      "price": 271
+    },
+    {
+      "abr": "warningborder",
+      "category": "Misc",
+      "defname": "LTS_WarningBorderCorner",
+      "price": 7
+    },
+    {
+      "abr": "warningborder",
+      "category": "Misc",
+      "defname": "LTS_WarningBorderEdge",
+      "price": 7
+    },
+    {
+      "abr": "woodcover",
+      "category": "Misc",
+      "defname": "LTS_AtlasWoodCover",
+      "price": 46
     }
   ],
-  "total": 10164
+  "total": 10334
 }

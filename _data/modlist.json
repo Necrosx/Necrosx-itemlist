@@ -1212,6 +1212,12 @@
     "version": null
   },
   {
+    "author": "Alias",
+    "name": "De-generalize Work",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Deadsnake_at",
     "name": "Deads dense Biomes",
     "steamId": null,
@@ -1234,6 +1240,12 @@
     "name": "Do Not Go There",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Do Your F****** Research",
+    "steamId": "2880481073",
+    "version": "1.0.3"
   },
   {
     "author": "Ron Popeil",
@@ -1377,7 +1389,7 @@
     "author": "alite",
     "name": "EBSG Framework",
     "steamId": "3112549163",
-    "version": "1.0.9265.34456"
+    "version": "1.0.9266.15171"
   },
   {
     "author": "Victorique, Aurani and Tarojun",
@@ -1782,6 +1794,24 @@
     "version": null
   },
   {
+    "author": "Iwo Rosiak",
+    "name": "Holsters",
+    "steamId": "2610120706",
+    "version": "2.0.14"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Processor Framework",
+    "steamId": "3210544395",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "DevDesigner and Finch",
+    "name": "ↁ House Sanguin [Continued]",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Yyobov",
     "name": "Hoods and Helmets",
     "steamId": null,
@@ -1958,24 +1988,6 @@
   {
     "author": "vin",
     "name": "LWM's Adaptive Deep Storage",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Jsin0",
-    "name": "Lagless Lamps - C#",
-    "steamId": "3467878826",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "BotchJob",
-    "name": "The Profaned",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Atxmatt2510",
-    "name": "Lagless Lamps C# - The Profaned Patch",
     "steamId": null,
     "version": null
   },
@@ -2898,6 +2910,12 @@
     "version": "1.15.3.0"
   },
   {
+    "author": "aRandomKiwi",
+    "name": "RimSaves",
+    "steamId": "1713367505",
+    "version": "2024.0.1.20"
+  },
+  {
     "author": "rooki1",
     "name": "Rimsenal - Augmented Vanilla Pack",
     "steamId": null,
@@ -3318,6 +3336,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Systems",
+    "steamId": "2812826451",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "BotchJob",
+    "name": "The Profaned",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "HaiLuan",
     "name": "The Profaned Expanded",
     "steamId": null,
@@ -3384,12 +3414,6 @@
     "version": null
   },
   {
-    "author": "Syrchalis",
-    "name": "[SYR] Processor Framework",
-    "steamId": "3210544395",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "basilthebatlord",
     "name": "Toxicity Evolved",
     "steamId": null,
@@ -3404,6 +3428,12 @@
   {
     "author": "Kalmin",
     "name": "Toymaker's Additional Outposts Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hob Took",
+    "name": "Trade UI Revised",
     "steamId": null,
     "version": null
   },
@@ -3990,6 +4020,12 @@
     "version": null
   },
   {
+    "author": "Grizzlemethis",
+    "name": "[GMT] Trading Spot",
+    "steamId": "2874517333",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Ketaros",
     "name": "[KET] Crate Storages",
     "steamId": null,
@@ -4016,6 +4052,12 @@
   {
     "author": "Lazy Friday Studio",
     "name": "[LFS] Genes Expanded - Eyes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Furnishing",
     "steamId": null,
     "version": null
   },
@@ -4118,6 +4160,12 @@
   {
     "author": "Wemd",
     "name": "[WD] Reinforced Doors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seobongzu",
+    "name": "[sbz] Quarry retexture",
     "steamId": null,
     "version": null
   },
