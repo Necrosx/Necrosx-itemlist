@@ -1365,7 +1365,7 @@
     "author": "alite",
     "name": "EBSG Framework",
     "steamId": "3112549163",
-    "version": "1.0.9257.38779"
+    "version": "1.0.9265.34456"
   },
   {
     "author": "Victorique, Aurani and Tarojun",
@@ -2032,6 +2032,12 @@
     "name": "Map Mode Framework",
     "steamId": "3296654393",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Ronin",
+    "name": "Old Simple Storage",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "glutamate",
@@ -4039,7 +4045,7 @@
   },
   {
     "author": "堂丸(TangW) and 逍逍客",
-    "name": "边缘仙路-布帛菽粟 RimImmortal-Living[1.5]",
+    "name": "边缘仙路-锦衣玉食 RimImmortal-Living[1.5]",
     "steamId": null,
     "version": null
   },
