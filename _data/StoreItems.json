@@ -13124,7 +13124,7 @@
     },
     {
       "abr": "blackbrick",
-      "category": "Ore and Metal",
+      "category": "Stone blocks",
       "defname": "RI_Resource_BlackBrick",
       "price": 2
     },
@@ -40586,13 +40586,13 @@
     },
     {
       "abr": "pearlpea",
-      "category": "RI-Raw food",
+      "category": "Vegetarian",
       "defname": "RI_Resource_PearlPea",
       "price": 1
     },
     {
       "abr": "pearlspice",
-      "category": "Foods",
+      "category": "RI-Raw food",
       "defname": "RI_Resource_PearlSpice",
       "price": 1
     },
@@ -46970,7 +46970,7 @@
     },
     {
       "abr": "redbrick",
-      "category": "Ore and Metal",
+      "category": "Stone blocks",
       "defname": "RI_Resource_RedBrick",
       "price": 2
     },
@@ -58376,7 +58376,7 @@
     },
     {
       "abr": "watermelon",
-      "category": "RI-Raw food",
+      "category": "Vegetarian",
       "defname": "RI_Resource_Watermelon",
       "price": 5
     },
@@ -62003,7 +62003,163 @@
       "category": "Misc",
       "defname": "LTS_AtlasWoodCover",
       "price": 46
+    },
+    {
+      "abr": "alternator",
+      "category": "Furniture",
+      "defname": "VMF_Alternator",
+      "price": 592
+    },
+    {
+      "abr": "bloodscarab",
+      "category": "Animals",
+      "defname": "pphhyy_BloodScarab",
+      "price": 83
+    },
+    {
+      "abr": "bloodscarabegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "EggBloodScarabFertilized",
+      "price": 17
+    },
+    {
+      "abr": "bloodscarabeggs(unfert.)",
+      "category": "Eggs (unfert.)",
+      "defname": "EggBloodScarabUnfertilized",
+      "price": 17
+    },
+    {
+      "abr": "lasangkibble",
+      "category": "Foods",
+      "defname": "pphhyy_LaSangKibble",
+      "price": 2
+    },
+    {
+      "abr": "lesangfriedeggs",
+      "category": "Meals",
+      "defname": "pphhyy_MealLeSangEggsFried",
+      "price": 33
+    },
+    {
+      "abr": "sanguinedeer",
+      "category": "Animals",
+      "defname": "pphhyy_SanguineDeer",
+      "price": 500
+    },
+    {
+      "abr": "sanguinedeerwool",
+      "category": "Wools",
+      "defname": "pphhyy_Wool_SanguineDeer",
+      "price": 4
+    },
+    {
+      "abr": "sanguinevenison",
+      "category": "Meat",
+      "defname": "Meat_pphhyy_SanguineDeer",
+      "price": 3
+    },
+    {
+      "abr": "sanguinedeerleather",
+      "category": "Leathers",
+      "defname": "pphhyy_Leather_SanguineDeer",
+      "price": 12
+    },
+    {
+      "abr": "vargulf",
+      "category": "Animals",
+      "defname": "pphhyy_Vargulf",
+      "price": 1833
+    },
+    {
+      "abr": "vargulffur",
+      "category": "Leathers",
+      "defname": "pphhyy_Leather_Vargulf",
+      "price": 12
+    },
+    {
+      "abr": "vargulfmeat",
+      "category": "Meat",
+      "defname": "Meat_pphhyy_Vargulf",
+      "price": 3
+    },
+    {
+      "abr": "bloodygothicslab(broad)",
+      "category": "Furniture",
+      "defname": "BloodyGothicSlab_Broad",
+      "price": 508
+    },
+    {
+      "abr": "bloodygothicslab(medium)",
+      "category": "Furniture",
+      "defname": "BloodyGothicSlab_Medium",
+      "price": 342
+    },
+    {
+      "abr": "deerhorn",
+      "category": "Inert relics",
+      "defname": "RelicReliquary",
+      "price": 833
+    },
+    {
+      "abr": "gothicslab(broad)",
+      "category": "Furniture",
+      "defname": "GothicSlab_Broad",
+      "price": 508
+    },
+    {
+      "abr": "gothicslab(medium)",
+      "category": "Furniture",
+      "defname": "GothicSlab_Medium",
+      "price": 342
+    },
+    {
+      "abr": "handmirror",
+      "category": "Inert relics",
+      "defname": "RelicHandMirror",
+      "price": 833
+    },
+    {
+      "abr": "jaw",
+      "category": "Inert relics",
+      "defname": "RelicJaw",
+      "price": 833
+    },
+    {
+      "abr": "letter",
+      "category": "Inert relics",
+      "defname": "RelicLetter",
+      "price": 833
+    },
+    {
+      "abr": "quill",
+      "category": "Inert relics",
+      "defname": "RelicQuill",
+      "price": 833
+    },
+    {
+      "abr": "rubberstamp",
+      "category": "Inert relics",
+      "defname": "RelicRubberStamp",
+      "price": 833
+    },
+    {
+      "abr": "skullchalice",
+      "category": "Inert relics",
+      "defname": "RelicSkullChalice",
+      "price": 833
+    },
+    {
+      "abr": "stamp",
+      "category": "Inert relics",
+      "defname": "RelicStamp",
+      "price": 833
+    },
+    {
+      "abr": "vampireskull",
+      "category": "Inert relics",
+      "defname": "RelicVampireSkull",
+      "price": 833
     }
   ],
-  "total": 10334
+  "total": 10360
 }
