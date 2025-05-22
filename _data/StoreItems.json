@@ -62159,7 +62159,13 @@
       "category": "Inert relics",
       "defname": "RelicVampireSkull",
       "price": 833
+    },
+    {
+      "abr": "psytrainer(trueghoulification)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_TrueGhoulify",
+      "price": 3333
     }
   ],
-  "total": 10360
+  "total": 10361
 }

@@ -447,14 +447,6 @@
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
-  "pawn87196253549637812678934987615239841259367451287634571263549871263498765123897465129873465918273648971253467152387451237485612394": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Twitch Toolkit"
-  },
   "levelskill": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
@@ -718,5 +710,13 @@
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
     "Mod": "Unknown"
+  },
+  "pawn": {
+    "EventType": "Default",
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
+    "Mod": "Twitch Toolkit"
   }
 }

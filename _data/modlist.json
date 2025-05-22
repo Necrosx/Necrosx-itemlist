@@ -86,8 +86,8 @@
   {
     "author": "Helixien",
     "name": "ReGrowth: Boiling",
-    "steamId": null,
-    "version": null
+    "steamId": "2981924439",
+    "version": "1.0.0.0"
   },
   {
     "author": "Helixien",
@@ -98,8 +98,8 @@
   {
     "author": "Helixien",
     "name": "ReGrowth: Wastelands",
-    "steamId": null,
-    "version": null
+    "steamId": "2122461695",
+    "version": "1.0.0.0"
   },
   {
     "author": "Onyxae",
@@ -1406,8 +1406,8 @@
   {
     "author": "Oskar Potocki, Helixien, Erin, Luizi, ISOREX, erdelf and Sarg",
     "name": "Vanilla Textures Expanded",
-    "steamId": null,
-    "version": null
+    "steamId": "2016436324",
+    "version": "1.0.0"
   },
   {
     "author": "Oskar Potocki, Taranchuk and xrushha",
@@ -1466,8 +1466,8 @@
   {
     "author": "Crow",
     "name": "Dust Bunnies",
-    "steamId": null,
-    "version": null
+    "steamId": "3480725900",
+    "version": "1.0.0.0"
   },
   {
     "author": "PixelBirb",
@@ -1839,7 +1839,7 @@
     "author": "Mlie",
     "name": "Haul Mined Chunks",
     "steamId": "2799728059",
-    "version": "1.5.8"
+    "version": "1.5.9"
   },
   {
     "author": "ItsComcastic",
@@ -1934,8 +1934,8 @@
   {
     "author": "VentaExtera",
     "name": "Ideo Roles Don't Forbid Work",
-    "steamId": null,
-    "version": null
+    "steamId": "3284846696",
+    "version": "1.0.0.0"
   },
   {
     "author": "Zaljerem",
@@ -2828,8 +2828,8 @@
   {
     "author": "Helixien",
     "name": "ReGrowth: ReTextures",
-    "steamId": null,
-    "version": null
+    "steamId": "3205381921",
+    "version": "1.0.0.0"
   },
   {
     "author": "Helixien",
@@ -3632,6 +3632,12 @@
   {
     "author": "Froffy",
     "name": "VVE - High Tier Upgrades",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "turkler",
+    "name": "VVE: Tier 3 Upgrades",
     "steamId": null,
     "version": null
   },
