@@ -396,6 +396,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Duztamva",
+    "name": "Almost There1.5's capability for Vehicle Frameworks",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Outposts Expanded",
     "steamId": null,
@@ -502,12 +514,6 @@
     "name": "Alpha Props - Parks and Gardens",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Smash Phil",
-    "name": "Vehicle Framework",
-    "steamId": "3014915404",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk, Reann Shepard and Sarg",
@@ -1839,7 +1845,7 @@
     "author": "Mlie",
     "name": "Haul Mined Chunks",
     "steamId": "2799728059",
-    "version": "1.5.9"
+    "version": "1.5.10"
   },
   {
     "author": "ItsComcastic",
@@ -2469,7 +2475,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.5.47"
+    "version": "1.5.48"
   },
   {
     "author": "Sergwest",
@@ -2936,8 +2942,8 @@
   {
     "author": "Fluffy",
     "name": "Research Tree (Continued)",
-    "steamId": "3460408210",
-    "version": "1.0.0+ac2c3595c5695fd7fc4b24c55d300ac3d2e185de"
+    "steamId": "3030499331",
+    "version": "1.5.32"
   },
   {
     "author": "Scorpio and Taranchuk",
@@ -3810,8 +3816,8 @@
     "version": "1.0.2.0"
   },
   {
-    "author": "Mobivis",
-    "name": "Vanilla Psycasts expanded - Revert some nerf",
+    "author": "Steve",
+    "name": "Vanilla Psycasts expanded - Revert some nerf - continued",
     "steamId": null,
     "version": null
   },
@@ -3889,7 +3895,7 @@
   },
   {
     "author": "NuanKi",
-    "name": "Vehicle Framework: Local Flight Systems",
+    "name": "Vehicle Framework - Local Flight Systems",
     "steamId": "3482176791",
     "version": "1.0.0.0"
   },
@@ -4194,7 +4200,7 @@
     "version": null
   },
   {
-    "author": "堂丸(TangW)",
+    "author": "堂丸(TangW) and 阿飞",
     "name": "[TW1.5]中式武器包 Chinese Weapon Pack",
     "steamId": null,
     "version": null
