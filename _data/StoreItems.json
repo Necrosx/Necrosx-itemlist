@@ -24439,81 +24439,39 @@
       "price": 5858
     },
     {
-      "abr": "forsakenarmor",
-      "category": "Apparel",
-      "defname": "FO_Forsaken_Armor",
-      "price": 5625
-    },
-    {
       "abr": "forsakenassaultrifle",
-      "category": "Weapons",
+      "category": "Forsaken weapons",
       "defname": "AG_ForsakenAssaultRifle",
       "price": 3175
     },
     {
-      "abr": "forsakenassaultrifle",
-      "category": "Weapons",
-      "defname": "ForsakenAR",
-      "price": 3175
-    },
-    {
       "abr": "forsakenbattleaxe",
-      "category": "Weapons",
+      "category": "Forsaken weapons",
       "defname": "AG_ForsakenBattleAxe",
       "price": 2033
     },
     {
-      "abr": "forsakenbattleaxe",
-      "category": "Weapons",
-      "defname": "ForsakenBattle",
-      "price": 1283
-    },
-    {
       "abr": "forsakenblackhydra",
-      "category": "Weapons",
+      "category": "Forsaken weapons",
       "defname": "AG_ForsakenHydra",
       "price": 1917
     },
     {
-      "abr": "forsakenblackhydra",
-      "category": "Weapons",
-      "defname": "ForsakenHydra",
-      "price": 1917
-    },
-    {
       "abr": "forsakenbow",
-      "category": "Weapons",
+      "category": "Forsaken weapons",
       "defname": "AG_ForsakenBow",
       "price": 209
     },
     {
-      "abr": "forsakenbow",
-      "category": "Weapons",
-      "defname": "FBow",
-      "price": 209
-    },
-    {
       "abr": "forsakenbulksword",
-      "category": "Weapons",
+      "category": "Forsaken weapons",
       "defname": "AG_ForsakenBulkSword",
       "price": 933
-    },
-    {
-      "abr": "forsakenbulksword",
-      "category": "Weapons",
-      "defname": "ForsakenBulksword",
-      "price": 2083
     },
     {
       "abr": "forsakencloak",
       "category": "Misc",
       "defname": "AG_ForsakenCloak",
-      "price": 1125
-    },
-    {
-      "abr": "forsakencloak",
-      "category": "Apparel",
-      "defname": "FO_Forsaken_Cloak",
       "price": 1125
     },
     {
@@ -24535,12 +24493,6 @@
       "price": 1367
     },
     {
-      "abr": "forsakenhelmet",
-      "category": "Apparel",
-      "defname": "FO_Forsaken_Helmet",
-      "price": 1367
-    },
-    {
       "abr": "forsakenhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Forsaken_Honeycomb",
@@ -24553,34 +24505,10 @@
       "price": 517
     },
     {
-      "abr": "forsakenhood",
-      "category": "Apparel",
-      "defname": "FO_Forsaken_Hood",
-      "price": 517
-    },
-    {
-      "abr": "forsakenkidarmor",
-      "category": "Apparel",
-      "defname": "FO_Forsaken_Armor_Child",
-      "price": 3083
-    },
-    {
       "abr": "forsakenkidcloak",
       "category": "Misc",
       "defname": "AG_ForsakenCloak_Child",
       "price": 708
-    },
-    {
-      "abr": "forsakenkidcloak",
-      "category": "Apparel",
-      "defname": "FO_Forsaken_Cloak_Child",
-      "price": 708
-    },
-    {
-      "abr": "forsakenkidhelmet",
-      "category": "Apparel",
-      "defname": "FO_Forsaken_Helmet_Child",
-      "price": 942
     },
     {
       "abr": "forsakenkidhood",
@@ -24589,46 +24517,16 @@
       "price": 286
     },
     {
-      "abr": "forsakenkidhood",
-      "category": "Apparel",
-      "defname": "FO_Forsaken_Hood_Child",
-      "price": 286
-    },
-    {
-      "abr": "forsakenkidpsycasterhelmet",
-      "category": "Apparel",
-      "defname": "FO_Forsaken_PsyHelmet_Child",
-      "price": 942
-    },
-    {
-      "abr": "forsakenleather",
-      "category": "Leathers",
-      "defname": "Leather_Forsaken",
-      "price": 5
-    },
-    {
       "abr": "forsakenlongblade",
-      "category": "Weapons",
+      "category": "Forsaken weapons",
       "defname": "AG_ForsakenLongBlade",
       "price": 1700
-    },
-    {
-      "abr": "forsakenlongblade",
-      "category": "Weapons",
-      "defname": "ForsakenLongBlade",
-      "price": 750
     },
     {
       "abr": "forsakenpsycasterhelmet",
       "category": "Headgear",
       "defname": "AG_ForsakenMarineHelmetPsy",
       "price": 1500
-    },
-    {
-      "abr": "forsakenpsycasterhelmet",
-      "category": "Apparel",
-      "defname": "FO_Forsaken_PsyHelmet",
-      "price": 1367
     },
     {
       "abr": "forsakenqueen",
@@ -24638,39 +24536,21 @@
     },
     {
       "abr": "forsakenshotgun",
-      "category": "Weapons",
+      "category": "Forsaken weapons",
       "defname": "AG_ForsakenShotgun",
       "price": 2958
     },
     {
-      "abr": "forsakenshotgun",
-      "category": "Weapons",
-      "defname": "ForsakenShotGun",
-      "price": 2958
-    },
-    {
       "abr": "forsakensniperrifle",
-      "category": "Weapons",
+      "category": "Forsaken weapons",
       "defname": "AG_ForsakenSniper",
       "price": 2892
     },
     {
-      "abr": "forsakensnipingrifle",
-      "category": "Weapons",
-      "defname": "ForsakenSniper",
-      "price": 2892
-    },
-    {
       "abr": "forsakenspear",
-      "category": "Weapons",
+      "category": "Forsaken weapons",
       "defname": "AG_ForsakenSpear",
       "price": 358
-    },
-    {
-      "abr": "forsakenspear",
-      "category": "Weapons",
-      "defname": "FSpear",
-      "price": 261
     },
     {
       "abr": "fossil",
@@ -31651,12 +31531,6 @@
       "price": 758
     },
     {
-      "abr": "kaleidoscrystal",
-      "category": "Raw resources",
-      "defname": "FO_KaleidosCrystal",
-      "price": 3
-    },
-    {
       "abr": "kangaroo",
       "category": "Animals",
       "defname": "AEXP_Kangaroo",
@@ -37693,33 +37567,15 @@
       "price": 1250
     },
     {
-      "abr": "nightling",
-      "category": "Animals",
-      "defname": "NightlingF",
-      "price": 1250
-    },
-    {
       "abr": "nightlingegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_EggNightlingFertilized",
       "price": 167
     },
     {
-      "abr": "nightlingfur",
-      "category": "Leathers",
-      "defname": "Leather_Nightling",
-      "price": 3
-    },
-    {
       "abr": "nightlingmeat",
       "category": "Meat",
       "defname": "Meat_AA_Nightling",
-      "price": 3
-    },
-    {
-      "abr": "nightlingmeat",
-      "category": "Meat",
-      "defname": "Meat_NightlingF",
       "price": 3
     },
     {
@@ -46327,14 +46183,8 @@
       "price": 1
     },
     {
-      "abr": "ragadast",
-      "category": "Vegetarian",
-      "defname": "AB_RawRagadast",
-      "price": 2
-    },
-    {
       "abr": "ragadastfruits",
-      "category": "Plant matter",
+      "category": "Vegetarian",
       "defname": "RagadastFruit",
       "price": 2
     },
@@ -46757,12 +46607,6 @@
       "category": "Animals",
       "defname": "AA_RayHound",
       "price": 750
-    },
-    {
-      "abr": "razor",
-      "category": "Drugs",
-      "defname": "FO_Razor",
-      "price": 37
     },
     {
       "abr": "razorjack",
@@ -56611,12 +56455,6 @@
       "price": 3
     },
     {
-      "abr": "ultimafabric",
-      "category": "Textiles",
-      "defname": "Ultima",
-      "price": 3
-    },
-    {
       "abr": "ultraboostimplant",
       "category": "Elite collection",
       "defname": "DF_UltraBoost_Implant",
@@ -56657,12 +56495,6 @@
       "category": "Misc",
       "defname": "ShipTurret_UVEyeLaser",
       "price": 1383
-    },
-    {
-      "abr": "ultraviolett",
-      "category": "Vegetarian",
-      "defname": "FO_UltraviolettFruit",
-      "price": 2
     },
     {
       "abr": "unblinkingeye",
@@ -57413,12 +57245,6 @@
       "category": "Misc",
       "defname": "Facility_VitalsCentre",
       "price": 1125
-    },
-    {
-      "abr": "vitaminf",
-      "category": "Drugs",
-      "defname": "FO_Vitaminf",
-      "price": 37
     },
     {
       "abr": "vodka",
@@ -62165,7 +61991,637 @@
       "category": "Psytrainers",
       "defname": "Psytrainer_VPE_TrueGhoulify",
       "price": 3333
+    },
+    {
+      "abr": "inside-shirt",
+      "category": "Clothing",
+      "defname": "RI_Apparel_InsideApparel",
+      "price": 143
+    },
+    {
+      "abr": "longpants",
+      "category": "Clothing",
+      "defname": "RI_Apparel_LongPants",
+      "price": 93
+    },
+    {
+      "abr": "middlerobe",
+      "category": "Clothing",
+      "defname": "RI_Apparel_BasicMiddleClothes",
+      "price": 178
+    },
+    {
+      "abr": "pillowzongzi",
+      "category": "Dessert",
+      "defname": "RI_Food_PillowZongZi",
+      "price": 17
+    },
+    {
+      "abr": "sanshanhat",
+      "category": "Clothing",
+      "defname": "RI_Apparel_SanShanHat",
+      "price": 92
+    },
+    {
+      "abr": "smallcrown",
+      "category": "Clothing",
+      "defname": "RI_Apparel_SmallCrown",
+      "price": 73
+    },
+    {
+      "abr": "trianglezongzi",
+      "category": "Dessert",
+      "defname": "RI_Food_TriangleZongZi",
+      "price": 17
+    },
+    {
+      "abr": "veilhat",
+      "category": "Clothing",
+      "defname": "RI_Apparel_VeilHat",
+      "price": 73
+    },
+    {
+      "abr": "waiterhat",
+      "category": "Clothing",
+      "defname": "RI_Apparel_WaiterHat",
+      "price": 88
+    },
+    {
+      "abr": "ziplineturret",
+      "category": "Security",
+      "defname": "VMF_Turret_ZiplineTurret",
+      "price": 692
+    },
+    {
+      "abr": "amorphousdress",
+      "category": "Misc",
+      "defname": "AT_AmorphousDress",
+      "price": 917
+    },
+    {
+      "abr": "amorphousflakdress",
+      "category": "Armor",
+      "defname": "AT_BreadFlakDress",
+      "price": 1692
+    },
+    {
+      "abr": "amorphousneuralspine",
+      "category": "Amorphous",
+      "defname": "Cinder_AmorphousNeuralSpine",
+      "price": 833
+    },
+    {
+      "abr": "amorphouspolymer",
+      "category": "Raw resources",
+      "defname": "Cinder_AmorphousPolymer",
+      "price": 2
+    },
+    {
+      "abr": "amorphoustrap",
+      "category": "Misc",
+      "defname": "Cinder_TrapIED_HighExplosive",
+      "price": 8
+    },
+    {
+      "abr": "ancientautomatictruck",
+      "category": "Misc",
+      "defname": "Cinder_AncientRustedChunk_A",
+      "price": 30
+    },
+    {
+      "abr": "ancientbasevehicle",
+      "category": "Misc",
+      "defname": "Cinder_AncientBaseVehicle",
+      "price": 30
+    },
+    {
+      "abr": "ancientfastarmoredvehicle",
+      "category": "Misc",
+      "defname": "Cinder_AncientFastArmoredVehicle",
+      "price": 30
+    },
+    {
+      "abr": "ancientgiantcargo",
+      "category": "Misc",
+      "defname": "Cinder_AncientGiantCargo",
+      "price": 30
+    },
+    {
+      "abr": "ancientgianttruck",
+      "category": "Misc",
+      "defname": "Cinder_AncientGiantTruck",
+      "price": 30
+    },
+    {
+      "abr": "ancientwarstrikershoulder",
+      "category": "Misc",
+      "defname": "Cinder_AncientRustedChunk_C",
+      "price": 30
+    },
+    {
+      "abr": "ancientwarstrikershoulder",
+      "category": "Misc",
+      "defname": "Cinder_AncientRustedChunk_D",
+      "price": 30
+    },
+    {
+      "abr": "ancientwarstrikertorso",
+      "category": "Misc",
+      "defname": "Cinder_AncientRustedChunk_B",
+      "price": 30
+    },
+    {
+      "abr": "ancientwheeledtank",
+      "category": "Misc",
+      "defname": "Cinder_AncientWheeledTank",
+      "price": 30
+    },
+    {
+      "abr": "ancientworkstation",
+      "category": "Production",
+      "defname": "Cinder_AncientWorkstation",
+      "price": 1092
+    },
+    {
+      "abr": "assaulthelmet",
+      "category": "Headgear",
+      "defname": "Cinder_HeadGear_AssaultHelmet",
+      "price": 808
+    },
+    {
+      "abr": "assaulthelmettan",
+      "category": "Headgear",
+      "defname": "Cinder_HeadGear_AssaultHelmetTan",
+      "price": 533
+    },
+    {
+      "abr": "brokenghoulunitgear",
+      "category": "Armor",
+      "defname": "Cinder_Apparel_BrokenGhoulUnitGear",
+      "price": 42
+    },
+    {
+      "abr": "brokenmask",
+      "category": "Headgear",
+      "defname": "Cinder_HeadGear_BrokenMask",
+      "price": 42
+    },
+    {
+      "abr": "bulletproofequipment",
+      "category": "Armor",
+      "defname": "Cinder_Apparel_BulletproofEquipment",
+      "price": 625
+    },
+    {
+      "abr": "burntstrangemeat",
+      "category": "Meat",
+      "defname": "Cinder_BurntStrangeMeat",
+      "price": 1
+    },
+    {
+      "abr": "burntthirdtentacle",
+      "category": "Misc",
+      "defname": "BreadMo_AAT_ThirdTentacle",
+      "price": 2833
+    },
+    {
+      "abr": "burnttwistedmeat",
+      "category": "Misc",
+      "defname": "BreadMo_AAT_ResearchUnlocker",
+      "price": 2833
+    },
+    {
+      "abr": "burnttwistedsignaltransceiver",
+      "category": "Misc",
+      "defname": "BreadMo_AAT_Resummoner",
+      "price": 2833
+    },
+    {
+      "abr": "cinder",
+      "category": "Animal",
+      "defname": "Alien_Cinder",
+      "price": -10
+    },
+    {
+      "abr": "cindermeat",
+      "category": "Meat",
+      "defname": "Meat_Alien_Cinder",
+      "price": 1
+    },
+    {
+      "abr": "commemorative",
+      "category": "Apparel",
+      "defname": "Cinder_Apparel_Commemorative",
+      "price": 333
+    },
+    {
+      "abr": "customrattlerrifle",
+      "category": "Ranged weapons",
+      "defname": "AT_PCX33A",
+      "price": 1000
+    },
+    {
+      "abr": "damagedflakmask",
+      "category": "Headgear",
+      "defname": "AT_DamagedFlakMask",
+      "price": 917
+    },
+    {
+      "abr": "damagedscarf",
+      "category": "Headgear",
+      "defname": "Cinder_HeadGear_DamagedScarf",
+      "price": 201
+    },
+    {
+      "abr": "dragonslayerbow",
+      "category": "Ranged weapons",
+      "defname": "Cinder_Dragonslayer",
+      "price": 2050
+    },
+    {
+      "abr": "electricscythe",
+      "category": "Melee weapons",
+      "defname": "Cinder_ElectricScythe",
+      "price": 825
+    },
+    {
+      "abr": "emptyagentbottle",
+      "category": "Amorphous",
+      "defname": "Cinder_EmptyAgentBottle",
+      "price": 1500
+    },
+    {
+      "abr": "erodedautocannonturret",
+      "category": "Misc",
+      "defname": "AT_ErodedAutocannonBase",
+      "price": 1567
+    },
+    {
+      "abr": "erodedb20autocannon",
+      "category": "Ranged weapons",
+      "defname": "AT_Eroded20B",
+      "price": 2208
+    },
+    {
+      "abr": "erodedexo(notstarted)",
+      "category": "Misc",
+      "defname": "Cinder_ErodedEXOBuliding",
+      "price": 300
+    },
+    {
+      "abr": "erodedkrepost(notstarted)",
+      "category": "Misc",
+      "defname": "Cinder_erodedKrepostBuliding",
+      "price": 833
+    },
+    {
+      "abr": "erodedmechcomponent",
+      "category": "Amorphous",
+      "defname": "Cinder_ErodedMechComponent",
+      "price": 833
+    },
+    {
+      "abr": "erodedrapidcannonturret",
+      "category": "Misc",
+      "defname": "AT_ErodedRapidcannonBase",
+      "price": 1567
+    },
+    {
+      "abr": "erodedserum",
+      "category": "Misc",
+      "defname": "BreadMo_AAT_ErodedSerum",
+      "price": 333
+    },
+    {
+      "abr": "erodedsignaltransceiver",
+      "category": "Misc",
+      "defname": "AT_ErodedSignal",
+      "price": 475
+    },
+    {
+      "abr": "erodeduraniumslugturret",
+      "category": "Misc",
+      "defname": "AT_ErodedSniperBase",
+      "price": 2008
+    },
+    {
+      "abr": "erosionagent",
+      "category": "Amorphous",
+      "defname": "Cinder_ErosionAgent",
+      "price": 2000
+    },
+    {
+      "abr": "erosiongourd",
+      "category": "Ranged weapons",
+      "defname": "Cinder_ErosionGourd",
+      "price": 708
+    },
+    {
+      "abr": "erosionshell",
+      "category": "Mortar shells",
+      "defname": "CinderShell_Erosion",
+      "price": 92
+    },
+    {
+      "abr": "erosiontrap",
+      "category": "Security",
+      "defname": "CinderTrapIED_Erosion",
+      "price": 192
+    },
+    {
+      "abr": "exotic",
+      "category": "Apparel",
+      "defname": "Cinder_Apparel_Exotic",
+      "price": 333
+    },
+    {
+      "abr": "exoticveil",
+      "category": "Headgear",
+      "defname": "Cinder_HeadGear_ExoticVeil",
+      "price": 79
+    },
+    {
+      "abr": "extraarmourplates",
+      "category": "Manufactured",
+      "defname": "Cinder_ExtraArmour",
+      "price": 100
+    },
+    {
+      "abr": "fakesignalgenerator",
+      "category": "Misc",
+      "defname": "Cinder_SignalGenerator",
+      "price": 281
+    },
+    {
+      "abr": "flintantimaterialrifle",
+      "category": "Ranged weapons",
+      "defname": "Cinder_Flint50A",
+      "price": 1317
+    },
+    {
+      "abr": "fullyenclosedmask",
+      "category": "Headgear",
+      "defname": "Cinder_HeadGear_FullyEnclosedMask",
+      "price": 442
+    },
+    {
+      "abr": "ghost",
+      "category": "Apparel",
+      "defname": "Cinder_Apparel_GhostUnderwear",
+      "price": 333
+    },
+    {
+      "abr": "ghostclock",
+      "category": "Apparel",
+      "defname": "Cinder_Apparel_GhostCloak",
+      "price": 333
+    },
+    {
+      "abr": "ghostveil",
+      "category": "Headgear",
+      "defname": "Cinder_HeadGear_GhostVeil",
+      "price": 128
+    },
+    {
+      "abr": "ghoulunitgear",
+      "category": "Armor",
+      "defname": "Cinder_Apparel_GhoulUnitGear",
+      "price": 1067
+    },
+    {
+      "abr": "ghoulunithelmet",
+      "category": "Headgear",
+      "defname": "Cinder_HeadGear_GhoulUnitHelmet",
+      "price": 265
+    },
+    {
+      "abr": "heavyarmordress",
+      "category": "Armor",
+      "defname": "Cinder_Apparel_HeavyArmorDress",
+      "price": 2625
+    },
+    {
+      "abr": "heavyarmourplates",
+      "category": "Manufactured",
+      "defname": "Cinder_HeavyExtraArmour",
+      "price": 200
+    },
+    {
+      "abr": "highfrequencysaw",
+      "category": "Melee weapons",
+      "defname": "Cinder_HighFrequencySaw",
+      "price": 867
+    },
+    {
+      "abr": "impactbreaker",
+      "category": "Melee weapons",
+      "defname": "Cinder_ImpactBreaker",
+      "price": 733
+    },
+    {
+      "abr": "ink",
+      "category": "Apparel",
+      "defname": "Cinder_Apparel_Ink",
+      "price": 333
+    },
+    {
+      "abr": "kaleidoscrystal",
+      "category": "Raw resources",
+      "defname": "FOF_KaleidosCrystal",
+      "price": 3
+    },
+    {
+      "abr": "lowvisibilitydress",
+      "category": "Armor",
+      "defname": "Cinder_Apparel_LowVisibilityDress",
+      "price": 1358
+    },
+    {
+      "abr": "lowvisibilityrifle",
+      "category": "Ranged weapons",
+      "defname": "AT_M4LV",
+      "price": 892
+    },
+    {
+      "abr": "magistrateshotgun",
+      "category": "Ranged weapons",
+      "defname": "Cinder_Magistrate",
+      "price": 483
+    },
+    {
+      "abr": "maid",
+      "category": "Apparel",
+      "defname": "Cinder_Apparel_MaidCostume",
+      "price": 333
+    },
+    {
+      "abr": "maidheadwear",
+      "category": "Headgear",
+      "defname": "Cinder_HeadGear_MaidHeadwear",
+      "price": 63
+    },
+    {
+      "abr": "needlepdw",
+      "category": "Ranged weapons",
+      "defname": "Cinder_MP12A",
+      "price": 642
+    },
+    {
+      "abr": "nightservice",
+      "category": "Apparel",
+      "defname": "Cinder_Apparel_NightService",
+      "price": 333
+    },
+    {
+      "abr": "nightserviceveil",
+      "category": "Headgear",
+      "defname": "Cinder_HeadGear_NightServiceVeil",
+      "price": 76
+    },
+    {
+      "abr": "ouroborosrifle",
+      "category": "Ranged weapons",
+      "defname": "Cinder_PCX33A",
+      "price": 1117
+    },
+    {
+      "abr": "pileum",
+      "category": "Headgear",
+      "defname": "AT_Pileum",
+      "price": 83
+    },
+    {
+      "abr": "plasticexplosive",
+      "category": "Ranged weapons",
+      "defname": "Cinder_PlasticGrenades",
+      "price": 700
+    },
+    {
+      "abr": "projection",
+      "category": "Apparel",
+      "defname": "Cinder_Apparel_Projection",
+      "price": 333
+    },
+    {
+      "abr": "projectionvisor",
+      "category": "Headgear",
+      "defname": "Cinder_HeadGear_ProjectionVisor",
+      "price": 104
+    },
+    {
+      "abr": "rattlerassaultrifle",
+      "category": "Ranged weapons",
+      "defname": "AT_MCXB",
+      "price": 892
+    },
+    {
+      "abr": "razor",
+      "category": "Drugs",
+      "defname": "FOF_Razor",
+      "price": 37
+    },
+    {
+      "abr": "regenerationenhancedserum",
+      "category": "Amorphous",
+      "defname": "Cinder_RegeneratedEnhancedSerum",
+      "price": 1667
+    },
+    {
+      "abr": "scavheavycoat",
+      "category": "Apparel",
+      "defname": "Cinder_Apparel_ScavHeavyCoat",
+      "price": 583
+    },
+    {
+      "abr": "snowynight",
+      "category": "Apparel",
+      "defname": "Cinder_Apparel_SnowyNight",
+      "price": 333
+    },
+    {
+      "abr": "snowynightshawl",
+      "category": "Apparel",
+      "defname": "Cinder_Apparel_SnowyNightShawl",
+      "price": 230
+    },
+    {
+      "abr": "starry",
+      "category": "Apparel",
+      "defname": "Cinder_Apparel_Starry",
+      "price": 333
+    },
+    {
+      "abr": "starryshawl",
+      "category": "Apparel",
+      "defname": "Cinder_Apparel_StarryShawl",
+      "price": 230
+    },
+    {
+      "abr": "tentacletrap",
+      "category": "Misc",
+      "defname": "Cinder_TentacleTrap",
+      "price": 8
+    },
+    {
+      "abr": "trailer",
+      "category": "Animals",
+      "defname": "Cinder_Trailer",
+      "price": 1667
+    },
+    {
+      "abr": "ultraviolett",
+      "category": "Vegetarian",
+      "defname": "FOF_UltraviolettFruit",
+      "price": 2
+    },
+    {
+      "abr": "vitaminf",
+      "category": "Drugs",
+      "defname": "FOF_Vitaminf",
+      "price": 37
+    },
+    {
+      "abr": "walkerautocannonturret",
+      "category": "Misc",
+      "defname": "Cinder_ErodedAutocannon",
+      "price": 1617
+    },
+    {
+      "abr": "walkerrocketswarmlauncher",
+      "category": "Misc",
+      "defname": "Cinder_RocketswarmLauncher",
+      "price": 1558
+    },
+    {
+      "abr": "walkertacticalturret",
+      "category": "Security",
+      "defname": "Cinder_TacticalTurret",
+      "price": 442
+    },
+    {
+      "abr": "walkeruraniumslugturret",
+      "category": "Misc",
+      "defname": "Cinder_ErodedSniperBase",
+      "price": 2058
+    },
+    {
+      "abr": "warattacker(notstarted)",
+      "category": "Misc",
+      "defname": "Cinder_WarAttackerBuliding",
+      "price": 500
+    },
+    {
+      "abr": "warsweeper(notstarted)",
+      "category": "Misc",
+      "defname": "Cinder_WarSweeperBuliding",
+      "price": 333
+    },
+    {
+      "abr": "workwearjacket",
+      "category": "Apparel",
+      "defname": "Cinder_Apparel_WorkwearJacket",
+      "price": 500
     }
   ],
-  "total": 10361
+  "total": 10437
 }

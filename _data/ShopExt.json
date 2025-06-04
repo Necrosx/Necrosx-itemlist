@@ -9893,6 +9893,126 @@
       },
       "defName": "VFEP_WarcasketTrait_Mech",
       "name": "mechwarcasket"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "TimmyIt is a part of an unknown consciousness.",
+      "stats": [
+        "x80% incoming damage multiplier",
+        "x80% psychic sensitivity"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x80% incoming damage multiplier",
+          "x80% psychic sensitivity"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Ancient amorphous threat",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BreadMo_AAT_Charred",
+      "name": "amorphouscoke"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "What the hell is this!",
+      "stats": [
+        "+60.0 melee dodge chance",
+        "+60.0 melee hit chance",
+        "+900% melee damage factor",
+        "x15% incoming damage multiplier",
+        "x0% stagger time multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+60.0 melee dodge chance",
+          "+60.0 melee hit chance",
+          "+900% melee damage factor",
+          "x15% incoming damage multiplier",
+          "x0% stagger time multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Ancient amorphous threat",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BreadMo_AAT_PriestessOfUnknown",
+      "name": "priestessofunknown"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "It's staring at me",
+      "stats": [
+        "+2.0 beauty",
+        "x0% psychic sensitivity",
+        "x0% flammability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+2.0 beauty",
+          "x0% psychic sensitivity",
+          "x0% flammability"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Ancient amorphous threat",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BreadMo_AAT_BrideOfTheDusk",
+      "name": "brideofthedusk"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a part of an unknown consciousness. when others approach, they will feel a burning sensation",
+      "stats": [
+        "+1.0 beauty",
+        "x80% flammability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+1.0 beauty",
+          "x80% flammability"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Cinders of the Embergarden",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Cinder_Coke",
+      "name": "coke"
     }
   ],
   "races": [
@@ -10178,6 +10298,40 @@
       "enabled": false,
       "name": "Nyaron",
       "price": 5000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+75.00 Mass",
+          "+100% Flammability",
+          "+$1750 Market value",
+          "+4 Honor value",
+          "+4.60 Move speed",
+          "+50.0C [90.0F] Max comfortable temperature",
+          "+6.0C [10.8F] Min comfortable temperature",
+          "+80 Meat amount",
+          "+75 Leather amount",
+          "+75 Carrying capacity",
+          "+110% Immunity gain speed",
+          "+100% Psychic sensitivity",
+          "+1.0 Melee dodge chance",
+          "+100% Global work speed",
+          "+100% Drug synthesis speed",
+          "+100% Research speed",
+          "+115% Hacking speed",
+          "+100% Medical tend speed",
+          "+100% Medical tend quality",
+          "+100% Medical surgery success chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "“However, as prosperity inevitably leads to decline, this civilization did not escape the fate of destruction.” The Thucydides Trap led to a great war between two totalitarian regimes on this planet. The outcome of this war has long been lost to history, but one of its most direct consequences was a series of explosions at a nuclear power plant cluster in Siberia, part of the 'Eurasian Common Defense Agreement Alliance.' The massive energy and radioactive materials released from the explosions accidentally awakened a dormant avatar of an Other god deep within the planet (note: to be verified). The awakening of this Other god resulted in two chain reactions: first, the entire Siberian region and parts of Central Asia transformed into enclosed area, making them inaccessible and unobservable from the outside; second, those who were trapped inside the enclosed area, fortunate enough to have survived the war and the 'awakening,' underwent inhuman mutations. The modern scientific community unanimously agrees that these mutated humans are the original 'cinders.'",
+      "defName": "Alien_Cinder",
+      "enabled": true,
+      "name": "Cinder",
+      "price": 2917
     }
   ]
 }
