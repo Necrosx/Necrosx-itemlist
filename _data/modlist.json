@@ -21,7 +21,7 @@
     "author": "Soul, Phaneron and Bradson",
     "name": "Adaptive Storage Framework",
     "steamId": "3033901359",
-    "version": "1.2.1+1b3d12d07c712c020aabac8255d0a856a9d12cce"
+    "version": "1.2.2+2d0aef23f7b8592f9eedaaf8c8fc47b4dd1f0f5a"
   },
   {
     "author": "bradson",
@@ -1053,7 +1053,7 @@
     "author": "alite",
     "name": "EBSG Framework",
     "steamId": "3112549163",
-    "version": "1.0.9266.15171"
+    "version": "1.0.9287.37233"
   },
   {
     "author": "Lored",
@@ -1734,7 +1734,7 @@
     "version": null
   },
   {
-    "author": "OskarPotocki, Atlas, Kikohi and Sarg",
+    "author": "OskarPotocki, Sokyran, Kikohi and Sarg",
     "name": "Vanilla Furniture Expanded",
     "steamId": "1718190143",
     "version": "1.1.0"
@@ -1857,7 +1857,7 @@
     "author": "Mlie",
     "name": "Haul Mined Chunks",
     "steamId": "2799728059",
-    "version": "1.5.10"
+    "version": "1.5.11"
   },
   {
     "author": "ItsComcastic",
@@ -2430,10 +2430,16 @@
     "version": null
   },
   {
+    "author": "Sergkart",
+    "name": "WVC - Work Modes",
+    "steamId": "2888380373",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "telardo",
     "name": "MultiFloors",
     "steamId": "3384660931",
-    "version": "1.2.1.9"
+    "version": "1.2.2.0"
   },
   {
     "author": "NachoToast",
@@ -2487,7 +2493,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.5.49"
+    "version": "1.5.50"
   },
   {
     "author": "Sergwest",
@@ -2562,7 +2568,7 @@
     "version": null
   },
   {
-    "author": "OskarPotocki, Atlas and Kikohi",
+    "author": "OskarPotocki, Sokyran and Kikohi",
     "name": "Vanilla Furniture Expanded - Spacer Module",
     "steamId": null,
     "version": null
@@ -3930,12 +3936,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Sergkart",
-    "name": "WVC - Work Modes",
-    "steamId": "2888380373",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Murmur",
     "name": "Wall Light",
     "steamId": "1423699208",
@@ -4093,7 +4093,7 @@
   },
   {
     "author": "FrozenSnowFox",
-    "name": "[FSF] Meditation Freedom (No Backstory Change)",
+    "name": "[FSF] Meditation Freedom",
     "steamId": null,
     "version": null
   },
@@ -4184,6 +4184,12 @@
   {
     "author": "YAYO",
     "name": "[Royalty] Unlock Working Emperor (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ryflamer",
+    "name": "[Ry]Draw a bead",
     "steamId": null,
     "version": null
   },
